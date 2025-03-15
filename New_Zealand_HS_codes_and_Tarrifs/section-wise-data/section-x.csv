@@ -1,0 +1,947 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+47.01,,,,,
+4701.00.00,,,Mechanical wood pulp,Free,Free
+,01D,tne,Softwood,,
+,05G,tne,Hardwood,,
+47.02,,,,,
+4702.00.00,,,"Chemical wood pulp, dissolving grades",Free,Free
+,01B,tne,Softwood,,
+,05E,tne,Hardwood,,
+47.03,,,"Chemical wood pulp, soda or sulphate, other than dissolving grades:",,
+,,, Unbleached:,,
+4703.11.00,00L,tne,  Coniferous,Free,Free
+4703.19.00,,,  Non-coniferous,Free,Free
+,01E,tne,Softwood,,
+,05H,tne,Hardwood,,
+,,, Semi-bleached or bleached:,,
+4703.21.00,,,  Coniferous,Free,Free
+,01B,tne,Semi-bleached,,
+,09H,tne,Bleached,,
+4703.29.00,,,  Non-coniferous,Free,Free
+,01J,tne,Softwood,,
+,05A,tne,Hardwood,,
+47.04,,,"Chemical wood pulp, sulphite, other than dissolving grades:",,
+,,, Unbleached:,,
+4704.11.00,00J,tne,  Coniferous,Free,Free
+4704.19.00,,,  Non-coniferous,Free,Free
+,01C,tne,Softwood,,
+,05F,tne,Hardwood,,
+,,, Semi-bleached or bleached:,,
+4704.21.00,,,  Coniferous,Free,Free
+,01L,tne,Semi-bleached,,
+,09F,tne,Bleached,,
+4704.29.00,,,  Non-coniferous,Free,Free
+,01G,tne,Softwood,,
+,05K,tne,Hardwood,,
+47.05,,,,,
+4705.00.00,,,Wood pulp obtained by a combination of mechanical and chemical,,
+,,,pulping processes,Free,Free
+,01G,tne,Softwood,,
+,05K,tne,Hardwood,,
+47.06,,,Pulps of fibres derived from recovered (waste and scrap) paper or,,
+,,,paperboard or of other fibrous cellulosic material:,,
+4706.10.00,00L,tne, Cotton linters pulp,Free,Free
+4706.20.00,,, Pulps of fibres derived from recovered (waste and scrap) paper or,,
+,,,paperboard,Free,Free
+,01B,tne,Mechanical,,
+,05E,tne,Chemical,,
+,09H,tne,Semi-chemical,,
+4706.30.00,,," Other, of bamboo",Free,Free
+,10E,tne,Mechanical,,
+,15F,tne,Chemical,,
+,19J,tne,Semi-chemical,,
+,,, Other:,,
+4706.91.00,10A,tne,  Mechanical,Free,Free
+4706.92.00,10F,tne,  Chemical,Free,Free
+4706.93.00,10L,tne,  Obtained by a combination of mechanical and chemical processes,Free,Free
+47.07,,,Recovered (waste and scrap) paper or paperboard:,,
+4707.10.00,00J,tne, Unbleached kraft paper or paperboard or corrugated paper or paperboard,Free,Free
+4707.20.00,00B,tne," Other paper or paperboard made mainly of bleached chemical pulp, not",,
+,,,coloured in the mass,Free,Free
+4707.30.00,00F,tne," Paper or paperboard made mainly of mechanical pulp (for example,",,
+,,,"newspapers, journals and similar printed matter)",Free,Free
+4707.90.00,00H,tne," Other, including unsorted waste and scrap",Free,Free
+48.01,,,"Newsprint, in rolls or sheets:",,
+4801.00.11,,, Newsprint made of fibres obtained essentially by a chemi-mechanical,,
+,,,"process or of a weight, per m2, of more than 57 g but not more than 65 g",Free,Free
+,10A,tne,In rolls,,
+,,,In sheets,,
+,31D,kg,"Of an area less than 1,935 cm2",,
+,39K,kg,Other,,
+4801.00.90,,, Other,Free,Free
+,10J,tne,In rolls,,
+,29K,kg,In sheets,,
+48.02,,,"Uncoated paper and paperboard, of a kind used for writing, printing",,
+,,,"or other graphic purposes, and non perforated punchcards and",,
+,,,"punch tape paper, in rolls or rectangular (including square) sheets, of",,
+,,,"any size, other than paper of heading 48.01 or 48.03; handmade",,
+,,,paper and paperboard:,,
+4802.1,,, Handmade paper and paperboard:,,
+4802.10.11,00F,kg,  In any size or shape as made directly and having all its edges deckled,Free,Free
+4802.10.15,00A,kg,"  In strips or rolls of a width exceeding 15 cm, or in rectangular",,
+,,,(including square) sheets with one side exceeding 36 cm and the other,,
+,,,side exceeding 15 cm in the unfolded state,Free,Free
+4802.10.19,00G,kg,  Other,Free,Free
+4802.20.00,00H,kg," Paper and paperboard of a kind used as a base for photosensitive,",,
+,,,heatsensitive or electrosensitive paper or paperboard,Free,Free
+4802.40.00,00E,kg, Wallpaper base,Free,Free
+,,," Other paper and paperboard, not containing fibres obtained by a",,
+,,,mechanical or chemimechanical process or of which not more than,,
+,,,10% by weight of the total fibre content consists of such fibres:,,
+4802.54,,,  Weighing less than 40 g/m2:,,
+,,,Printing and writing paper and paperboard:,,
+4802.54.11,,," In strips or rolls of a width exceeding 15 cm, or in rectangular",,
+,,,(including square) sheets with one side exceeding 36 cm and,,
+,,,the other side exceeding 15 cm in the unfolded state,Free,Free
+,10F,kg,In rolls,,
+,17C,kg,In sheets,,
+4802.54.19,10G,kg, Other printing and writing paper,Free,Free
+,,,Kraft paper and paperboard:,,
+4802.54.21,00D,kg," In strips or rolls of a width exceeding 15 cm, or in rectangular",,
+,,,(including square) sheets with one side exceeding 36 cm and the,,
+,,,other side exceeding 15 cm in the unfolded state,Free,Free
+4802.54.29,00E,kg, Other,Free,Free
+,,,Other:,,
+4802.54.31,10G,kg," In strips or rolls of a width exceeding 15 cm, or in rectangular",,
+,,,(including square) sheets with one side exceeding 36 cm and the,,
+,,,other side exceeding 15 cm in the unfolded state,Free,Free
+4802.54.39,10H,kg, Other,Free,Free
+4802.55,,,"  Weighing 40 g/m2 or more but not more than 150 g/m2, in rolls:",,
+,,,Of a width exceeding 15 cm:,,
+4802.55.11,,, Printing and writing paper and paperboard,Free,Free
+,11J,kg,White bank,,
+,13E,kg,Tinted bank,,
+,15A,kg,White bond,,
+,19D,kg,Tinted bond,,
+,21F,kg,Duplicator,,
+,23B,kg,Drawing cartridge,,
+,29A,kg,Offset printing,,
+,31C,kg,White plain copier paper,,
+,39J,kg,Tinted plain copier paper,,
+,41L,kg,Envelope papers,,
+,43G,kg,Cheque papers,,
+,45C,kg,". . White or cream, laid or wove writing papers not specified above",,
+,47K,kg,Other,,
+,,,"Uncoated paper and paperboard, of a kind used, etc.—continued",,
+,,," Other paper and paperboard, not containing fibres, etc.—continued",,
+,,,"  Weighing 40 g/m2 or more but not more than, etc.—continued",,
+,,,Of a width exceeding 15 cm—continued,,
+,,, Other:,,
+4802.55.14,,,  Kraft paper and paperboard,Free,Free
+,11H,kg,"Folder manilla, file manilla, tag manilla, document manilla,",,
+,,,"time card manilla, pattern manilla and the like",,
+,19C,kg,Other,,
+4802.55.17,,,  Other,Free,Free
+,11G,kg,"Folder manilla, file manilla, tag manilla, document manilla,",,
+,,,"time card manilla, pattern manilla and the like",,
+,17F,kg,Other,,
+4802.55.19,10A,kg,Other,Free,Free
+4802.56,,,"  Weighing 40 g/m2 or more but not more than 150 g/m2, in sheets with",,
+,,,one side not exceeding 435 mm and the other side not exceeding,,
+,,,297 mm in the unfolded state:,,
+4802.56.11,,,Printing and writing paper and paperboard,Free,Free
+,11C,kg,Bank papers,,
+,13K,kg,White bond,,
+,19J,kg,Tinted bond,,
+,21L,kg,Duplicator,,
+,23G,kg,Drawing cartridge,,
+,25C,kg,Offset printing,,
+,27K,kg,White plain copier paper,,
+,29F,kg,Tinted plain copier paper,,
+,31H,kg,". White or cream, laid or wove writing papers not specified above",,
+,37G,kg,Other,,
+4802.56.13,,,"Printed, embossed or perforated",Free,Free
+,11F,kg,Continuous computer listing paper,,
+,17E,kg,Other,,
+4802.56.21,,,Kraft paper and paperboard,Free,Free
+,11J,kg,". Folder manilla, file manilla, tag manilla, document manilla, time",,
+,,,"card manilla, pattern manilla and the like",,
+,19D,kg,Other,,
+4802.56.25,00J,kg,Autoclave indicator paper,Free,Free
+4802.56.29,,,Other,Free,Free
+,11K,kg,". Folder manilla, file manilla, tag manilla, document manilla,",,
+,,,"time card manilla, pattern manilla and the like",,
+,17J,kg,Other,,
+,,,"Uncoated paper and paperboard, of a kind used, etc.—continued",,
+,,," Other paper and paperboard, not containing fibres, etc.—continued",,
+4802.57,,,"  Other, weighing 40 g/m2 or more but not more than 150 g/m2:",,
+,,,In strips or rolls of a width exceeding 15 cm or in rectangular,,
+,,,(including square) sheets with one side exceeding 36 cm and the,,
+,,,other side exceeding 15 cm in the unfolded state:,,
+4802.57.11,,, Printing and writing paper and paperboard,Free,Free
+,,,In strips or rolls:,,
+,11H,kg,White bank,,
+,13D,kg,Tinted bank,,
+,15L,kg,White bond,,
+,19C,kg,Tinted bond,,
+,21E,kg,Duplicator,,
+,23A,kg,Drawing cartridge,,
+,25H,kg,Offset printing,,
+,27D,kg,White plain copier paper,,
+,29L,kg,Tinted plain copier paper,,
+,31B,kg,Envelope papers,,
+,33J,kg,Cheque papers,,
+,37A,kg,"White or cream, laid or wove writing papers not specified above",,
+,38K,kg,Other,,
+,,,In sheets:,,
+,61D,kg,White bank,,
+,63L,kg,Tinted bank,,
+,65G,kg,White bond,,
+,67C,kg,Tinted bond,,
+,69K,kg,Duplicator,,
+,71A,kg,Drawing cartridge,,
+,73H,kg,Offset printing,,
+,75D,kg,White plain copier paper,,
+,77L,kg,Tinted plain copier paper,,
+,79G,kg,Envelope papers,,
+,81J,kg,Cheque papers,,
+,83E,kg,"White or cream, laid or wove writing papers not specified above",,
+,85A,kg,Other,,
+4802.57.13,00E,kg, Other,Free,Free
+,,,Other:,,
+4802.57.15,,, Kraft paper and paperboard,Free,Free
+,11C,kg,". . Folder manilla, file manilla, tag manilla, document manilla,",,
+,,,"time card manilla, pattern manilla and the like",,
+,19J,kg,Other,,
+,,, Multiply paper and paperboard:,,
+4802.57.19,,,  Linerboard,Free,Free
+,,,Each layer bleached:,,
+,11J,kg,In rolls,,
+,19D,kg,In sheets,,
+,,,With only one layer bleached:,,
+,21F,kg,In rolls,,
+,29A,kg,In sheets,,
+,,,"Having 3 or more layers, of which only the two outer layers",,
+,,,are bleached:,,
+,31C,kg,In rolls,,
+,39J,kg,In sheets,,
+,,,Other:,,
+,41L,kg,In rolls,,
+,49F,kg,In sheets,,
+4802.57.20,00A,kg,  Other,Free,Free
+4802.57.21,00H,kg," Autoclave indicator paper, other than tape",Free,Free
+4802.57.29,,, Other,Free,Free
+,11D,kg,". . Folder manilla, file manilla, tag manilla, document manilla,",,
+,,,"time card manilla, pattern manilla and the like",,
+,17C,kg,Other,,
+,,,"Uncoated paper and paperboard, of a kind used, etc.—continued",,
+,,," Other paper and paperboard, not containing fibres, etc.—continued",,
+4802.58,,,  Weighing more than 150 g/m2:,,
+,,,In strips or rolls of a width exceeding 15 cm or in rectangular,,
+,,,(including square) sheets with one side exceeding 36 cm and the,,
+,,,other side exceeding 15 cm in the unfolded state:,,
+4802.58.11,,, Printing and writing paper and paperboard,Free,Free
+,,,In rolls:,,
+,11B,kg,Offset printing,,
+,17A,kg,Other,,
+,,,In sheets:,,
+,21K,kg,Offset printing,,
+,27J,kg,Other,,
+,,,Other:,,
+4802.58.15,,, Kraft paper and paperboard,Free,Free
+,11H,kg,". . Folder manilla, file manilla, tag manilla, document manilla,",,
+,,,"time card manilla, pattern manilla and the like",,
+,19C,kg,Other,,
+,,, Multiply paper and paperboard:,,
+4802.58.21,,,  Linerboard,Free,Free
+,,,Each layer bleached:,,
+,11H,kg,In rolls,,
+,19C,kg,In sheets,,
+,,,With only one layer bleached:,,
+,21E,kg,In rolls,,
+,29L,kg,In sheets,,
+,,,"Having 3 or more layers, of which only the two outer layers",,
+,,,are bleached:,,
+,31B,kg,In rolls,,
+,39H,kg,In sheets,,
+,,,Other:,,
+,41K,kg,In rolls,,
+,49E,kg,In sheets,,
+4802.58.29,00C,kg,  Other,Free,Free
+4802.58.35,00C,kg," Autoclave indicator paper, other than tape",Free,Free
+4802.58.39,,, Other,Free,Free
+,11D,kg,". . Folder manilla, file manilla, tag manilla, document manilla,",,
+,,,"time card manilla, pattern manilla and the like",,
+,17C,kg,Other,,
+,,," Other paper and paperboard, of which more than 10 % by weight of the",,
+,,,total fibre content consists of fibres obtained by a mechanical or,,
+,,,chemimechanical process:,,
+4802.61,,,  In rolls:,,
+4802.61.11,10F,tne,Newsprint other than that described in heading 48.01,Free,Free
+4802.61.13,,,Kraft paper and paperboard,Free,Free
+,11G,kg,". Folder manilla, file manilla, tag manilla, document manilla,",,
+,,,"time card manilla, pattern manilla and the like",,
+,19B,kg,Other,,
+4802.61.15,10A,kg,Printing and writing papers,Free,Free
+4802.61.17,00G,kg,Linerboard,Free,Free
+4802.61.19,10G,kg,Other,Free,Free
+4802.62,,,  In sheets with one side not exceeding 435 mm and the other side not,,
+,,,exceeding 297 mm in the unfolded state:,,
+4802.62.11,10L,kg,Printing and writing papers,Free,Free
+4802.62.15,00J,kg,Linerboard,Free,Free
+4802.62.19,11K,kg,Other,Free,Free
+4802.69,,,  Other:,,
+4802.69.11,10B,kg,Printing and writing papers,Free,Free
+4802.69.15,00L,kg,Linerboard,Free,Free
+4802.69.19,10C,kg,Other,Free,Free
+48.03,,,,,
+4803,,,"Toilet or facial tissue stock, towel or napkin stock and similar paper",,
+,,,"of a kind used for household or sanitary purposes, cellulose wadding",,
+,,,"and webs of cellulose fibres, whether or not creped, crinkled,",,
+,,,"embossed, perforated, surfacecoloured, surfacedecorated or",,
+,,,"printed, in rolls or sheets:",,
+4803.00.01,00E,kg, Tissue paper weighing not more than 22 g/m2,Free,Free
+,,, Other:,,
+4803.00.11,00L,kg,  Creped or crinkled,Free,Free
+4803.00.19,00A,kg,  Embossed or perforated,Free,Free
+4803.00.21,00F,kg,"  Surfacecoloured, surfacedecorated or printed",Free,Free
+4803.00.29,00G,kg,  Cellulose wadding and webs of cellulose fibres,Free,Free
+4803.00.39,00B,kg,  Other,Free,Free
+48.04,,,"Uncoated kraft paper and paperboard, in rolls or sheets, other than",,
+,,,that of heading 48.02 or 48.03:,,
+,,, Kraftliner:,,
+4804.11.00,,,  Unbleached,Free,Free
+,01C,kg,In rolls,,
+,09J,kg,Other,,
+4804.19.00,00A,kg,  Other,Free,Free
+,,, Sack kraft paper:,,
+4804.21.00,00J,kg,  Unbleached,Free,Free
+4804.29.00,00E,kg,  Other,Free,Free
+,,, Other kraft paper and paperboard weighing 150 g/m2 or less:,,
+4804.31,,,  Unbleached:,,
+4804.31.01,00J,kg,Saturating base paper,Free,Free
+4804.31.09,,,Other,Free,Free
+,01H,kg,Bag paper (other than sack kraft),,
+,09C,kg,Wrapping paper,,
+,11E,kg,"Laminating paper and paperboard, tube winding kraft, corestock",,
+,19L,kg,Electrical insulation paper,,
+,21B,kg,Adhesive base paper,,
+,29H,kg,"Cartonboard, boxboard",,
+,39E,kg,Other,,
+4804.39,,,  Other:,,
+4804.39.01,00E,kg,Saturating base paper,Free,Free
+4804.39.09,,,Other,Free,Free
+,01D,kg,Bag paper (other than sack kraft),,
+,09K,kg,Wrapping paper,,
+,11A,kg,"Laminating paper and paperboard, tube winding kraft, corestock",,
+,19G,kg,Electrical insulation paper,,
+,21J,kg,Adhesive base paper,,
+,29D,kg,"Solid bleached cartonboard, boxboard",,
+,31F,kg,"Cartonboard, boxboard, other than solid bleached",,
+,39A,kg,Waxing base paper,,
+,41C,kg,Cupstock,,
+,49J,kg,Other,,
+,,, Other kraft paper and paperboard weighing more than 150 g/m2 but less,,
+,,,than 225 g/m2:,,
+4804.41,,,  Unbleached:,,
+4804.41.01,00B,kg,Saturating base paper,Free,Free
+4804.41.09,,,Other,Free,Free
+,01A,kg,"Laminating paper and paperboard, tube winding kraft, corestock",,
+,09G,kg,Electrical insulation paper,,
+,11J,kg,"Cartonboard, boxboard",,
+,19D,kg,Other,,
+4804.42.00,,,  Bleached uniformly throughout the mass and of which more than 95%,,
+,,,by weight of the total fibre content consists of wood fibres obtained by,,
+,,,a chemical process,Free,Free
+,01J,kg,"Laminating paper and paperboard, tube winding kraft, corestock",,
+,09D,kg,"Cartonboard, boxboard",,
+,19A,kg,Other,,
+,,,"Uncoated kraft paper and paperboard, in rolls, etc.—continued",,
+,,," Other kraft paper and paperboard weighing more than, etc.—continued",,
+4804.49.00,,,  Other,Free,Free
+,01L,kg,"Laminating paper and paperboard, tube winding kraft, corestock",,
+,09F,kg,"Cartonboard, boxboard",,
+,19C,kg,Other,,
+,,, Other kraft paper and paperboard weighing 225 g/m2 or more:,,
+4804.51.00,,,  Unbleached,Free,Free
+,01H,kg,"Laminating paper and paperboard, tube winding kraft, corestock",,
+,09C,kg,Electrical insulation paper,,
+,11E,kg,"Cartonboard, boxboard",,
+,19L,kg,Other,,
+4804.52.00,,,  Bleached uniformly throughout the mass and of which more than 95%,,
+,,,by weight of the total fibre content consists of wood fibres obtained by,,
+,,,a chemical process,Free,Free
+,01B,kg,"Laminating paper and paperboard, tube winding kraft, corestock",,
+,09H,kg,"Cartonboard, boxboard",,
+,19E,kg,Other,,
+4804.59.00,,,  Other,Free,Free
+,01D,kg,"Laminating paper and paperboard, tube winding kraft, corestock",,
+,09K,kg,"Cartonboard, boxboard",,
+,19G,kg,Other,,
+48.05,,,"Other uncoated paper and paperboard, in rolls or sheets, not further",,
+,,,worked or processed than as specified in Note 3 to this Chapter:,,
+,,, Fluting paper:,,
+4805.11,,,  Semi-chemical fluting paper:,,
+4805.11.11,00E,kg,Weighing less than 183 g/m2,Free,Free
+4805.11.19,00F,kg,Weighing not less than 183 g/m2,Free,Free
+4805.12,,,  Straw fluting paper:,,
+4805.12.11,00K,kg,Weighing less than 150 g/m2,Free,Free
+4805.12.19,00L,kg,Other,Free,Free
+4805.19.00,00K,kg,  Other,Free,Free
+,,, Testliner (recycled liner board):,,
+4805.24.00,,,  Weighing 150 g/m2 or less,Free,Free
+,11F,kg,In rolls,,
+,14L,kg,"In sheets of an area less than 1,935 cm2",,
+,19A,kg,Other sheets,,
+4805.25,,,  Weighing more than 150 g/m2:,,
+4805.25.11,,,Weighing more than 150 g/m2 but less than 225 g/m2,Free,Free
+,11B,kg,In rolls,,
+,14G,kg,"In sheets of an area less than 1,935 cm2",,
+,19H,kg,Other sheets,,
+4805.25.19,,,Weighing 225 g/m2 or more,Free,Free
+,11C,kg,In rolls,,
+,19J,kg,Other,,
+4805.30.00,00F,kg, Sulphite wrapping paper,Free,Free
+4805.40.00,00K,kg, Filter paper and paperboard,Free,Free
+4805.50.00,00C,kg, Felt paper and paperboard,Free,Free
+,,,"Other uncoated paper and paperboard, in rolls, etc.—continued",,
+,,, Other:,,
+4805.91.00,,,  Weighing 150 g/m2 or less:,Free,Free
+,11H,kg,In rolls,,
+,19C,kg,In sheets,,
+4805.92.00,,,  Weighing more than 150 g/m2 but less than 225 g/m2,Free,Free
+,11B,kg,Saturating base paper,,
+,19H,kg,Wrapping paper,,
+,,,Other:,,
+,21K,kg,Bag paper,,
+,23F,kg,"Laminating paper and paperboard, tube winding paper and",,
+,,,"paperboard, corestock",,
+,25B,kg,"Cartonboard, boxboard",,
+,27J,kg,Plasterboard lining paper,,
+,29E,kg,Other,,
+4805.93.00,,,  Weighing 225 g/m2 or more,Free,Free
+,11G,kg,"Laminating paper and paperboard, tube winding paper and",,
+,,,"paperboard, corestock",,
+,13C,kg,"Cartonboard, boxboard",,
+,17F,kg,Plasterboard lining paper,,
+,19B,kg,Other,,
+48.06,,,"Vegetable parchment, greaseproof papers, tracing papers and glassine",,
+,,,"and other glazed transparent or translucent papers, in rolls or sheets:",,
+4806.10.00,00G,kg, Vegetable parchment,Free,Free
+4806.20.00,00L,kg, Greaseproof papers,Free,Free
+4806.30.00,00D,kg, Tracing papers,Free,Free
+4806.40.00,00H,kg, Glassine and other glazed transparent or translucent papers,Free,Free
+48.07,,,,,
+4807.00.00,,,Composite paper and paperboard (made by sticking flat layers of,,
+,,,"paper or paperboard together with an adhesive), not surface-coated",,
+,,,"or impregnated, whether or not internally reinforced, in rolls or sheets",Free,Free
+,11G,kg,"Paper and paperboard, laminated internally with bitumen, tar or asphalt",,
+,19B,kg,"Straw paper and paperboard, whether or not covered with paper other",,
+,,,than straw paper,,
+,,,Other:,,
+,21D,kg,"Bristols, ivory board, index or systems board and the like",,
+,23L,kg,". . Folder manilla, file manilla, tag manilla, document manilla, time card",,
+,,,"manilla, pattern manilla and the like",,
+,25G,kg,"Cartonboard, boxboard",,
+,29K,kg,Other,,
+48.08,,,"Paper and paperboard, corrugated (with or without glued flat surface",,
+,,,"sheets), creped, crinkled, embossed or perforated, in rolls or sheets,",,
+,,,other than paper of the kind described in heading 48.03:,,
+4808.10.00,00C,kg," Corrugated paper and paperboard, whether or not perforated",Free,Free
+4808.40.00,,," Kraft paper, creped or crinkled, whether or not embossed or perforated",Free,Free
+,,,"Sack kraft paper, creped or crinkled, whether or not embossed or",,
+,,,perforated:,,
+,10A,kg,Embossed or perforated,,
+,15B,kg,Other,,
+,,,".Other kraft paper, creped or crinkled, whether or not embossed or",,
+,,,perforated:,,
+,,,Embossed or perforated:,,
+,19E,kg,Continuous computer listing paper,,
+,25K,kg,Other,,
+,29B,kg,Other,,
+4808.9,,, Other:,,
+4808.90.01,,,  Embossed or perforated,Free,Free
+,01G,kg,Continuous computer listing paper,,
+,09B,kg,Other,,
+4808.90.09,00K,kg,  Other,Free,Free
+48.09,,,"Carbon paper, selfcopy paper and other copying or transfer papers",,
+,,,(including coated or impregnated paper for duplicator stencils or,,
+,,,"offset plates), whether or not printed, in rolls or sheets:",,
+4809.20.00,,, Selfcopy paper,Free,Free
+,01C,kg,In rolls,,
+,09J,kg,In sheets,,
+4809.9,,, Other:,,
+4809.90.01,00G,kg,  Transfer paper other than printing and writing paper,Free,Free
+4809.90.09,,,  Other,Free,Free
+,10E,kg,Carbon or similar copying papers,,
+,19J,kg,Other,,
+48.1,,,"Paper and paperboard, coated on one or both sides with kaolin",,
+,,,"(China clay) or other inorganic substances, with or without a binder,",,
+,,,"and with no other coating, whether or not surfacecoloured, surface",,
+,,,"decorated or printed, in rolls or rectangular (including square) sheets,",,
+,,,of any size:,,
+,,," Paper and paperboard of a kind used for writing, printing or other graphic",,
+,,,"purposes, not containing fibres obtained by a mechanical or",,
+,,,chemi-mechanical process or of which not more than 10 % by weight of,,
+,,,the total fibre content consists of such fibres:,,
+4810.13,,,  In rolls:,,
+,,,Printing and writing paper and paperboard:,,
+4810.13.11,00L,. .," Rolls, printed for self-recording apparatus",Free,Free
+4810.13.15,,, Other,Free,Free
+,11A,kg,Printed,,
+,13H,kg,Coated with metal powder or mica powder,,
+,15D,kg,Zinc oxide coated,,
+,17L,kg,Cast coated,,
+,19G,kg,Other,,
+4810.13.19,,,Other,Free,Free
+,11G,kg,Printed,,
+,19B,kg,Other,,
+4810.14,,,  In sheets with one side not exceeding 435 mm and the other side not,,
+,,,exceeding 297 mm in the unfolded state:,,
+,,,Printing and writing paper and paperboard:,,
+4810.14.11,00E,. .," Sheets, printed for self-recording apparatus",Free,Free
+4810.14.13,,, Other,Free,Free
+,11C,kg,"Printed, embossed or perforated",,
+,13K,kg,Coated with metal powder or mica powder,,
+,15F,kg,Zinc oxide coated,,
+,17B,kg,Cast coated,,
+,19J,kg,Other,,
+4810.14.19,00F,kg,Other,Free,Free
+4810.19.00,00F,kg,  Other,Free,Free
+,,," Paper and paperboard of a kind used for writing, printing or other graphic",,
+,,,"purposes, of which more than 10 % by weight of the total fibre content",,
+,,,consists of fibres obtained by a mechanical or chemi-mechanical process:,,
+4810.22,,,  Light-weight coated paper:,,
+4810.22.11,00K,. .,"Rolls, sheets and dials, printed for self-recording apparatus",Free,Free
+4810.22.13,00B,kg,"Autoclave indicator paper, other than tape",Free,Free
+,,,"In strips or rolls of a width exceeding 15 cm, or in rectangular",,
+,,,(including square) sheets with one side exceeding 36 cm and the,,
+,,,other side exceeding 15 cm in the unfolded state:,,
+4810.22.15,,, Printing and writing paper and paperboard,Free,Free
+,11L,kg,Printed,,
+,19F,kg,Other,,
+4810.22.19,00L,. ., Other,Free,Free
+4810.22.29,00F,. .,"Other paper and paperboard, of a kind used for writing, printing or",,
+,,,other graphic purposes,Free,Free
+,,,"Paper and paperboard, coated on one or both sides, etc.—continued",,
+,,," Paper and paperboard of a kind used for writing, etc.—continued",,
+4810.29,,,  Other:,,
+4810.29.01,,,Printing and writing paper and paperboard,Free,Free
+,01D,kg,Printed,,
+,09K,kg,Coated with metal powder or mica powder,,
+,19G,kg,Zinc oxide coated,,
+,,,Other:,,
+,21J,kg,In rolls,,
+,29D,kg,Other,,
+4810.29.09,,,Other,Free,Free
+,01E,kg,Printed,,
+,09L,kg,Wallpaper base,,
+,,,Other:,,
+,11B,kg,In rolls,,
+,19H,kg,Other,,
+,,," Kraft paper and paperboard, other than that of a kind used for writing,",,
+,,,printing or other graphic purposes:,,
+4810.31.00,,,  Bleached uniformly throughout the mass and of which more than,,
+,,,95% by weight of the total fibre content consists of wood fibres,,
+,,,"obtained by a chemical process, and weighing 150 g/m2 or less",Free,Free
+,,,Printed:,,
+,01E,kg,Wrapping paper and paperboard,,
+,09L,kg,Cartonboard or boxboard,,
+,19H,kg,Other,,
+,,,Other:,,
+,21K,kg,Wrapping paper and paperboard,,
+,29E,kg,Cartonboard or boxboard,,
+,39B,kg,Other,,
+4810.32.00,,,  Bleached uniformly throughout the mass and of which more than,,
+,,,95% by weight of the total fibre content consists of wood fibres,,
+,,,"obtained by a chemical process, and weighing more than 150 g/m2",Free,Free
+,,,Printed:,,
+,01K,kg,Wrapping paper and paperboard,,
+,09E,kg,Cartonboard or boxboard,,
+,19B,kg,Other,,
+,,,Other:,,
+,21D,kg,Wrapping paper and paperboard,,
+,29K,kg,Cartonboard or boxboard,,
+,39G,kg,Other,,
+4810.39.00,,,  Other,Free,Free
+,,,Printed:,,
+,01A,kg,Wrapping paper and paperboard,,
+,09G,kg,Cartonboard or boxboard,,
+,19D,kg,Other,,
+,,,Other:,,
+,21F,kg,Wrapping paper and paperboard,,
+,29A,kg,Cartonboard or boxboard,,
+,39J,kg,Other,,
+,,, Other paper and paperboard:,,
+4810.92.00,,,  Multiply,Free,Free
+,,,Printed:,,
+,01A,kg,Cartonboard or boxboard,,
+,09G,kg,Other packaging paper and paperboard,,
+,19D,kg,Other,,
+,,,Other:,,
+,21F,kg,Cartonboard or boxboard,,
+,29A,kg,Other packaging paper and paperboard,,
+,39J,kg,Other,,
+4810.99.00,,,  Other,Free,Free
+,,,Printed:,,
+,01C,kg,Wrapping paper and paperboard,,
+,09J,kg,Cartonboard or boxboard,,
+,19F,kg,Other,,
+,,,Other:,,
+,21H,kg,Wrapping paper and paperboard,,
+,29C,kg,Cartonboard or boxboard,,
+,39L,kg,Other,,
+48.11,,,"Paper, paperboard, cellulose wadding and webs of cellulose fibres,",,
+,,,"coated, impregnated, covered, surfacecoloured, surfacedecorated or",,
+,,,"printed, in rolls or rectangular (including square) sheets, of any size,",,
+,,,"other than goods of the kind described in heading 48.03, 48.09 or 48.10:",,
+4811.10.00,10L,kg," Tarred, bituminised or asphalted paper and paperboard",Free,Free
+,,, Gummed or adhesive paper and paperboard:,,
+4811.41,,,  Self-adhesive:,,
+4811.41.11,,,Printing and writing paper and paperboard,Free,Free
+,10H,. .,In strips or rolls,,
+,19A,kg,Other,,
+4811.41.19,,,Other,Free,Free
+,10J,. .,In strips or rolls,,
+,19B,kg,Other,,
+4811.49,,,  Other:,,
+4811.49.11,,,Printing and writing paper and paperboard,Free,Free
+,10D,. .,In strips or rolls,,
+,19H,kg,Other,,
+,,,Other:,,
+4811.49.21,,, Printed,Free,Free
+,10K,. .,In strips or rolls,,
+,19C,kg,Other,,
+4811.49.29,,, Other,Free,Free
+,10L,. .,In strips or rolls,,
+,19D,kg,Other,,
+,,," Paper and paperboard coated, impregnated or covered with plastics",,
+,,,(excluding adhesives):,,
+4811.51.00,,,"  Bleached, weighing more than 150 g/m2",Free,Free
+,,,Printed:,,
+,01L,kg,Printing and writing paper and paperboard,,
+,09F,kg,Wrapping paper and paperboard,,
+,,,Cartonboard or boxboard:,,
+,11H,kg,Liquid packaging board,,
+,19C,kg,Other,,
+,29L,kg,Other,,
+,,,Other:,,
+,31B,kg,Printing and writing paper and paperboard,,
+,39H,kg,Wrapping paper and paperboard,,
+,,,Cartonboard or boxboard:,,
+,41K,kg,Liquid packaging board,,
+,49E,kg,Other,,
+,55K,kg,Other,,
+4811.59.00,,,  Other,Free,Free
+,,,Printed:,,
+,01G,kg,Printing and writing paper and paperboard,,
+,09B,kg,Wrapping paper and paperboard,,
+,,,Cartonboard or boxboard:,,
+,11D,kg,Liquid packaging board,,
+,19K,kg,Other,,
+,,,Other:,,
+,21A,kg,Filter paper,,
+,29G,kg,Other,,
+,,,Other:,,
+,31J,kg,Printing and writing paper and paperboard,,
+,39D,kg,Wrapping paper and paperboard,,
+,,,Cartonboard or boxboard:,,
+,41F,kg,Liquid packaging board,,
+,49A,kg,Other,,
+,,,Other:,,
+,51C,kg,Filter paper,,
+,55F,kg,Other,,
+,,,"Paper, paperboard, cellulose wadding and, etc.—continued",,
+4811.60.00,,," Paper and paperboard, coated, impregnated or covered with wax,",,
+,,,"paraffin wax, stearin, oil or glycerol",Free,Free
+,,,Printed:,,
+,01K,kg,Wrapping paper and paperboard,,
+,09E,kg,Cartonboard or boxboard,,
+,19B,kg,Other,,
+,,,Other:,,
+,21D,kg,Wrapping paper and paperboard,,
+,29K,kg,Cartonboard or boxboard,,
+,35D,kg,Other,,
+4811.90.00,,," Other paper, paperboard, cellulose wadding and webs of cellulose fibres",Free,Free
+,01L,kg,Fruit wrapping tissue paper weighing not more than 22 g/m2,,
+,,,Other:,,
+,,,Printed:,,
+,,,Printing and writing paper and paperboard:,,
+,05C,kg,Continuous computer listing paper,,
+,09F,kg,Other,,
+,19C,kg,Other wrapping paper and paperboard,,
+,29L,kg,Cartonboard or boxboard,,
+,,,Other:,,
+,31B,kg,Filter paper,,
+,39H,kg,Other,,
+,,,Other:,,
+,,,Printing and writing paper and paperboard:,,
+,42H,kg,Continuous computer listing paper,,
+,45B,kg,Other,,
+,49E,kg,Other wrapping paper and paperboard,,
+,59B,kg,Cartonboard or boxboard,,
+,,,Other:,,
+,61D,kg,Filter paper,,
+,65G,kg,Other,,
+48.12,,,,,
+4812.00.00,00H,kg,"Filter blocks, slabs and plates, of paper pulp",Free,Free
+48.13,,,"Cigarette paper, whether or not cut to size or in the form of booklets",,
+,,,or tubes:,,
+4813.10.00,00K,Th, In the form of booklets or tubes,Free,Free
+4813.2,,, In rolls of a width not exceeding 5 cm:,,
+4813.20.01,00K,kg,  For manufacture into cigarette papers or for use in the manufacture,,
+,,,of cigarettes,Free,Free
+4813.20.09,00L,Th,  Other,Free,Free
+4813.9,,, Other:,,
+4813.90.01,00E,kg,  In rolls entered for manufacture into cigarette papers or for use in the,,
+,,,manufacture of cigarettes,Free,Free
+4813.90.09,00F,kg,  In rolls exceeding 15 cm in width,Free,Free
+4813.90.11,00L,kg,"  In rolls not exceeding 15 cm in width, uncut",Free,Free
+4813.90.19,00A,Th,  Other,Free,Free
+48.14,,,Wallpaper and similar wall coverings; window transparencies of paper:,,
+4814.2,,," Wallpaper and similar wall coverings, consisting of paper coated or",,
+,,,"covered, on the face side, with a grained, embossed, coloured,",,
+,,,designprinted or otherwise decorated layer of plastics:,,
+4814.20.01,00H,rls,  Laminated,Free,Free
+4814.20.09,,,  Other,Free,Free
+,01G,rls,Vinyl coated,,
+,09B,rls,Other,,
+4814.90.00,,, Other,Free,Free
+,01E,. .,Window transparencies of paper,,
+,,,Wallpaper:,,
+,13J,rls,"Wallpaper and similar wall coverings, consisting of paper covered, on",,
+,,,"the face side, with plaiting material, whether or not bound together in",,
+,,,parallel strands or woven,,
+,17A,rls,Other,,
+,25B,kg,“Ingrain” paper,,
+,29E,kg,Other,,
+48.16,,,"Carbon paper, selfcopy paper and other copying or transfer papers",,
+,,,"(other than those of heading 48.09), duplicator stencils and offset",,
+,,,"plates, of paper, whether or not put up in boxes:",,
+4816.20.00,,, Selfcopy paper,Free,Free
+,01F,kg,Continuous computer listing paper,,
+,09A,kg,Other,,
+4816.9,,, Other:,,
+,,,  In rolls of a width exceeding 15 cm but not exceeding 36 cm:,,
+4816.90.01,00K,kg, Printing and writing paper and paperboard,Free,Free
+,,,Other:,,
+4816.90.11,00E,kg, Transfer paper,Free,Free
+4816.90.19,,, Other,Free,Free
+,01D,kg,. . Coated or impregnated with artificial resins (excluding adhesives),,
+,10C,kg,Carbon or similar copying papers,,
+,,,Duplicator stencils:,,
+,19G,. .,Electronic,,
+,29D,. .,Other,,
+,39A,kg,Other,,
+,,,  Other:,,
+4816.90.21,00L,kg,Transfer paper,Free,Free
+4816.90.29,,,Other,Free,Free
+,10J,kg,Carbon or similar copying papers,,
+,,,Duplicator stencils:,,
+,19B,. .,Electronic,,
+,29K,. .,Other,,
+,39G,kg,Other,,
+48.17,,,"Envelopes, letter cards, plain postcards and correspondence cards, of",,
+,,,"paper or paperboard; boxes, pouches, wallets and writing",,
+,,,"compendiums, of paper or paperboard, containing an assortment of",,
+,,,paper stationery:,,
+4817.10.00,00B,Hd, Envelopes,Free,Free
+4817.20.00,00F,Hd," Letter cards, plain postcards and correspondence cards",Free,Free
+4817.30.00,,," Boxes, pouches, wallets and writing compendiums, of paper or",,
+,,,"paperboard, containing an assortment of paper stationery",Free,Free
+,01H,Hd,Wallets and writing compendiums,,
+,29H,. .,Other,,
+48.18,,,"Toilet paper and similar paper, cellulose wadding or webs of",,
+,,,"cellulose fibres, of a kind used for household or sanitary purposes,",,
+,,,"in rolls of a width not exceeding 36 cm, or cut to size or shape;",,
+,,,"handkerchiefs, cleansing tissues, towels, tablecloths, serviettes,",,
+,,,"bed sheets and similar household, sanitary or hospital articles, articles",,
+,,,"of apparel and clothing accessories, of paper pulp, paper, cellulose",,
+,,,wadding or webs of cellulose fibres:,,
+4818.10.00,00L,. ., Toilet paper,Free,Free
+4818.20.00,00D,. .," Handkerchiefs, cleansing or facial tissues and towels",Free,Free
+4818.30.00,,, Tablecloths and serviettes,Free,Free
+,01F,. .,Tablecloths,,
+,09A,Hd,Serviettes,,
+4818.50.00,00E,. ., Articles of apparel and clothing accessories,Free,Free
+4818.90.00,00K,. ., Other,Free,Free
+48.19,,,"Cartons, boxes, cases, bags and other packing containers, of paper,",,
+,,,"paperboard, cellulose wadding or webs of cellulose fibres; box files,",,
+,,,"letter trays, and similar articles, of paper or paperboard of a kind",,
+,,,"used in offices, shops or the like:",,
+4819.10.00,00J,Th," Cartons, boxes and cases, of corrugated paper or paperboard",Free,Free
+4819.20.00,,," Folding cartons, boxes and cases, of noncorrugated paper or paperboard",Free,Free
+,01L,Th,. . Solid fibreboard,,
+,09F,Th,Other,,
+,,,"Cartons, boxes, cases, bags and other packing, etc.—continued",,
+4819.30.00,,," Sacks and bags, having a base of a width of 40 cm or more",Free,Free
+,01D,Th,Multiply,,
+,09K,Th,Other,,
+4819.40.00,,," Other sacks and bags, including cones",Free,Free
+,,,Sacks and bags:,,
+,01H,Th,Multiply,,
+,09C,Th,Other,,
+,19L,. .,Cones,,
+4819.50.00,,," Other packing containers, including record sleeves",Free,Free
+,01A,Th,Record sleeves,,
+,09G,. .,Other,,
+4819.60.00,00G,. .," Box files, letter trays, storage boxes and similar articles, of a kind used",,
+,,,"in offices, shops or the like",Free,Free
+48.2,,,"Registers, account books, note books, order books, receipt books,",,
+,,,"letter pads, memorandum pads, diaries and similar articles, exercise",,
+,,,"books, blottingpads, binders (looseleaf or other), folders, file covers,",,
+,,,"manifold business forms, interleaved carbon sets and other articles of",,
+,,,"stationery, of paper or paperboard; albums for samples or for",,
+,,,"collections and book covers, of paper or paperboard:",,
+4820.10.00,,," Registers, account books, note books, order books, receipt books, letter",,
+,,,"pads, memorandum pads, diaries and similar articles",Free,Free
+,02J,No.,Diaries,,
+,09F,Hd,"Receipt books, invoice books and like books designed for use with",,
+,,,carbon paper,,
+,11H,Hd,Ledger account books and registers,,
+,21E,Hd,Writing blocks,,
+,29L,. .,Other,,
+4820.20.00,00F,Hd, Exercise books,Free,Free
+4820.30.00,,," Binders (other than book covers), folders and file covers",Free,Free
+,,,Binders (looseleaf type):,,
+,,,Plastic covered:,,
+,01H,No.,Ring,,
+,09C,No.,Other,,
+,19L,No.,Other,,
+,21B,No.,File covers,,
+,29H,No.,Other,,
+4820.40.00,,, Manifold business forms and interleaved carbon sets,Free,Free
+,,,Manifold business forms:,,
+,01A,kg,Continuous,,
+,09G,. .,Other,,
+,19D,. .,Interleaved carbon sets,,
+4820.50.00,00G,. ., Albums for samples or for collections,Free,Free
+4820.9,,, Other:,,
+4820.90.01,00H,. .,"  Oiled paper and drawing paper, in blocks, for artists",Free,Free
+4820.90.09,,,  Other,Free,Free
+,01G,Hd,Punched refills,,
+,,,Other:,,
+,11D,kg,Continuous,,
+,21A,. .,Coupons for football pools and similar competitions,,
+,29G,. .,Other,,
+48.21,,,"Paper or paperboard labels of all kinds, whether or not printed:",,
+4821.10.00,,, Printed,Free,Free
+,01J,. .,Selfadhesive,,
+,09D,. .,Other,,
+4821.90.00,,, Other,Free,Free
+,01H,. .,Selfadhesive,,
+,09C,. .,Other,,
+48.22,,,"Bobbins, spools, cops and similar supports of paper pulp, paper or",,
+,,,paperboard (whether or not perforated or hardened):,,
+4822.10.00,00J,. ., Of a kind used for winding textile yarn,Free,Free
+4822.90.00,00H,. ., Other,Free,Free
+48.23,,,"Other paper, paperboard, cellulose wadding and webs of cellulose",,
+,,,"fibres, cut to size or shape; other articles of paper pulp, paper,",,
+,,,"paperboard, cellulose wadding or webs of cellulose fibres:",,
+4823.20.00,00L,kg, Filter paper and paperboard,Free,Free
+4823.40.00,00H,. .," Rolls, sheets and dials, printed for selfrecording apparatus",Free,Free
+,,,"Other paper, paperboard, cellulose wadding, etc.—continued",,
+,,," Trays, dishes, plates, cups and the like, of paper or paperboard:",,
+4823.61.00,,,  Of bamboo,Free,Free
+,10G,Hd,Dishes and plates,,
+,19L,Hd,Cups,,
+,29H,Hd,Other,,
+4823.69.00,,,  Other,Free,Free
+,10C,Hd,Dishes and plates,,
+,19G,Hd,Cups,,
+,29D,Hd,Other,,
+4823.70.00,,, Moulded or pressed articles of paper pulp,Free,Free
+,01G,No.,Trays and containers for fruit and vegetables,,
+,09B,No.,Trays and containers for eggs,,
+,19K,. .,Other,,
+4823.9,,, Other:,,
+4823.90.01,00B,. .,  Automotive electrical insulation paperboard,Free,Free
+4823.90.09,00C,. .,  Perforated cards for jacquard attachments and the like; stamp hinges,Free,Free
+4823.90.11,00H,. .,  Patterns for apparel,Free,Free
+4823.90.19,,,  Other,Free,Free
+,01G,. .,"Rods or sticks, solid, of circular crosssection",,
+,09B,. .,Holders especially designed to hold Xray films in the mouth,,
+,11D,. .,"Cards, not punched, for punch card machines, whether or not in strips",,
+,,,"Gummed or adhesive paper, in strips or rolls:",,
+,17C,. .,. Self-adhesive,,
+,21A,. .,Other,,
+,29G,. .,Other,,
+49.01,,,"Printed books, brochures, leaflets and similar printed matter, whether",,
+,,,or not in single sheets:,,
+4901.10.00,,," In single sheets, whether or not folded",Free,Free
+,01L,. .,Typescripts,,
+,09F,. .,Brochures and pamphlets,,
+,19C,. .,Other,,
+,,, Other:,,
+4901.91.00,00F,. .,"  Dictionaries and encyclopaedias, and serial instalments thereof",Free,Free
+4901.99,,,  Other:,,
+4901.99.01,00J,. .,Directories of New Zealand or of any part thereof,Free,Free
+4901.99.09,,,Other,Free,Free
+,01H,. .,School textbooks,,
+,09C,. .,Other books and booklets,,
+,19L,. .,Other,,
+49.02,,,"Newspapers, journals and periodicals, whether or not illustrated or",,
+,,,containing advertising material:,,
+4902.10.00,00L,. ., Appearing at least four times a week,Free,Free
+4902.90.00,00K,. ., Other,Free,Free
+49.03,,,,,
+4903.00.00,00E,. .,"Children’s picture, drawing or colouring books",Free,Free
+49.04,,,,,
+4904.00.00,00C,. .,"Music, printed or in manuscript, whether or not bound or illustrated",Free,Free
+49.05,,,"Maps and hydrographic or similar charts of all kinds, including",,
+,,,"atlases, wall maps, topographical plans and globes, printed:",,
+4905.20.00,00J,. ., In book form,Free,Free
+4905.90.00,00D,. ., Other,Free,Free
+49.06,,,,,
+4906.00.00,00K,. .,"Plans and drawings for architectural, engineering, industrial,",,
+,,,"commercial, topographical or similar purposes, being originals drawn",,
+,,,by hand; hand-written texts; photographic reproductions on sensitised,,
+,,,paper and carbon copies of the foregoing,Free,Free
+49.07,,,,,
+4907,,,"Unused postage, revenue or similar stamps of current or new issue in",,
+,,,"the country in which they have, or will have, a recognised face value;",,
+,,,"stamp-impressed paper; banknotes; cheque forms; stock, share or",,
+,,,bond certificates and similar documents of title:,,
+4907.00.01,,, Stamps; banknotes; travellers’ cheques issued by overseas credit houses,Free,Free
+,01B,. .,Stamps,,
+,11K,. .,"Banknotes, new, intended for circulation in New Zealand",,
+,19E,. .,Other banknotes,,
+,29B,. .,Travellers’ cheques issued by overseas credit houses,,
+4907.00.09,00E,. ., Other,Free,Free
+49.08,,,Transfers (decalcomanias):,,
+4908.1,,," Transfers (decalcomanias), vitrifiable:",,
+4908.10.01,00F,. .,  Automotive decalcomanias,Free,Free
+4908.10.09,00G,. .,  Other,Free,Free
+4908.9,,, Other:,,
+4908.90.01,00E,. .,  Automotive decalcomanias,Free,Free
+4908.90.09,00F,. .,  Other,Free,Free
+49.09,,,,,
+4909.00.00,,,Printed or illustrated postcards; printed cards bearing personal,,
+,,,"greetings, messages or announcements, whether or not illustrated,",,
+,,,with or without envelopes or trimmings,Free,Free
+,01B,. .,Picture postcards,,
+,,,Other:,,
+,11K,No.,Christmas greeting cards,,
+,19E,No.,Other,,
+49.1,,,,,
+4910.00.00,00H,. .,"Calendars of any kind, printed, including calendar blocks",Free,Free
+49.11,,,"Other printed matter, including printed pictures and photographs:",,
+4911.1,,," Trade advertising material, commercial catalogues and the like:",,
+4911.10.01,00F,kg,"  Trade catalogues, price lists and colour cards, printed in an overseas",,
+,,,"country, provided that:",,
+,,,(a) They relate exclusively to goods produced in that country,,
+,,,"(b) They bear the name and overseas address of the company, firm or",,
+,,,"person, in that country, whose goods are thereby represented, and",,
+,,,(c) They are not designed to advertise or promote the sale of goods by,,
+,,,"any company, firm or person, having an established business in",,
+,,,New Zealand,Free,Free
+4911.10.09,,,"  Trade catalogues, price lists and colour cards, other kinds; circulars,",,
+,,,"programmes, printed posters and other advertising material",Free,Free
+,01E,kg,Travel brochures and leaflets,,
+,09L,kg,Advertising material used in conjunction with cinematographic film,,
+,,,for public exhibition (excluding television film),,
+,19H,kg,Other,,
+4911.10.11,00A,kg,"  Brochures, posters and leaflets designed to promote travel outside",,
+,,,New Zealand,Free,Free
+4911.10.19,00B,kg,  Other,Free,Free
+,,, Other:,,
+4911.91.00,,,"  Pictures, designs and photographs",Free,Free
+,01A,. .,Advertising material used in conjunction with cinematographic film,,
+,,,for public exhibition (excluding television film),,
+,09G,. .,Other,,
+4911.99,,,  Other:,,
+4911.99.01,00F,. .,"Cinema, concert, theatre, railway and other tickets; window",,
+,,,transparencies,Free,Free
+4911.99.09,00G,. .,"Showcards printed on paper, paperboard or other material",Free,Free
+4911.99.11,00A,No.,Christmas and similar cards,Free,Free
+4911.99.18,00F,. .,Other,Free,Free

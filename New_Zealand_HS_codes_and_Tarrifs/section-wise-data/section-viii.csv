@@ -1,0 +1,638 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+41.01,,,Raw hides and skins of bovine (including buffalo) or equine animals,,
+,,,"(fresh, or salted, dried, limed, pickled or otherwise preserved, but not",,
+,,,"tanned, parchment-dressed or further prepared), whether or not",,
+,,,dehaired or split:,,
+4101.20.00,,,"Whole hides and skins, unsplit, of a weight per skin not exceeding 8 kg",,
+,,,"when simply dried, 10 kg when dry-salted, or 16 kg when fresh,",,
+,,,wet-salted or otherwise preserved,Free,Free
+,,,Calf skins:,,
+,11L,No.,Buffalo,,
+,,,Other:,,
+,13G,No.,Freezer dry-salted,,
+,15C,No.,Freezer wet-salted,,
+,17K,No.,Other,,
+,29C,No.,Other,,
+4101.50.00,,,"Whole hides and skins, of a weight exceeding 16 kg",Free,Free
+,,,"Bull, ox and cow:",,
+,,,Wet-salted:,,
+,11A,No.,"Freezer ox hides, not exceeding 20 kg",,
+,12K,No.,"Freezer ox hides, exceeding 20 kg",,
+,15D,No.,"Freezer cow hides, not exceeding 18 kg",,
+,16B,No.,"Freezer cow hides, exceeding 18 kg",,
+,18J,No.,Freezer bull hides,,
+,19G,No.,Other,,
+,21J,No.,Other,,
+,,,Other:,,
+,31F,No.,Buffalo,,
+,39A,No.,Other,,
+4101.90.00,,,"Other, including butts, bends and bellies",Free,Free
+,,,"Hides and skins of bovine animals, otherwise preserved:",,
+,11F,No.,Calf,,
+,19A,No.,Other,,
+,,,Hides and skins of equine animals:,,
+,21C,No.,Hides,,
+,29J,No.,Other,,
+,,,Butts and bends:,,
+,31L,No.,Calf,,
+,39F,No.,Other,,
+,,,Other:,,
+,41H,No.,Calf,,
+,59L,No.,Other,,
+41.02,,,"Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or",,
+,,,"otherwise preserved, but not tanned, parchment-dressed or further",,
+,,,"prepared), whether or not with wool on or split, other than those",,
+,,,excluded by Note 1 (c) to this Chapter:,,
+4102.10.00,,,With wool on,Free,Free
+,01H,No.,Slink skins,,
+,09C,No.,Lamb skins,,
+,19L,No.,Sheep skins,,
+,,,Without wool on:,,
+4102.21.00,,,Pickled,Free,Free
+,01F,No.,Lamb pelts,,
+,09A,No.,Sheep pelts,,
+,19J,kg,Other,,
+4102.29.00,,,Other,Free,Free
+,01B,No.,Lamb pelts,,
+,09H,No.,Sheep pelts,,
+,19E,kg,Other,,
+41.03,,,"Other raw hides and skins (fresh, or salted, dried, limed, pickled or",,
+,,,"otherwise preserved, but not tanned, parchment-dressed or further",,
+,,,"prepared), whether or not dehaired or split, other than those",,
+,,,excluded by Note 1 (b) or 1 (c) to this Chapter:,,
+4103.20.00,00A,No.,Of reptiles,Free,Free
+4103.30.00,01C,No.,Of swine,Free,Free
+4103.90.00,,,Other,Free,Free
+,01E,No.,Kip,,
+,,,Other:,,
+,11B,No.,Deer,,
+,19H,No.,Kangaroo,,
+,23F,No.,Goats or kids,,
+,25B,No.,Other,,
+41.04,,,Tanned or crust hides and skins of bovine (including buffalo) or,,
+,,,"equine animals, without hair on, whether or not split, but not further",,
+,,,prepared:,,
+,,,In the wet state (including wet-blue):,,
+4104.11,,,"Full grains, unsplit; grain splits:",,
+4104.11.10,,,"Bovine leather, vegetable pre-tanned",Free,Free
+,11A,kg,Buffalo,,
+,,,Other:,,
+,21J,kg,Calf,,
+,29D,kg,Other,,
+4104.11.15,,,"Bovine leather, otherwise pre-tanned",Free,Free
+,11C,No.,Neither split nor sided,,
+,,,Split but not sided:,,
+,13K,No.,"Wet-blue, grain split",,
+,15F,kg,Other,,
+,,,Other:,,
+,41E,No.,"Wet-blue, grain split",,
+,59H,kg,Other,,
+4104.11.19,01A,No.,Other,Free,Free
+4104.19,,,Other:,,
+4104.19.11,,,Bovine,Free,Free
+,,,"Pre-tanned, other than vegetable pre-tanned:",,
+,,,Split but not sided:,,
+,10F,No.,"Wet-blue, drop split",,
+,13L,No.,Other,,
+,,,Other:,,
+,15G,No.,"Wet-blue, drop split",,
+,19K,No.,Other,,
+,29G,No.,Other,,
+4104.19.19,00K,m2,Other,Free,Free
+,,,In the dry state (crust):,,
+4104.41,,,"Full grains, unsplit; grain splits:",,
+4104.41.11,00C,kg,"Tanned or retanned but not further prepared, whether or not split",Free,Free
+,,,Other:,,
+4104.41.15,00J,m2,Equine,Free,Free
+4104.41.19,,,Bovine,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,11K,m2,Buffalo,,
+,,,Other:,,
+,15B,m2,Calf,,
+,19E,m2,Other,,
+4104.49,,,Other:,,
+4104.49.11,00K,kg,"Tanned or retanned but not further prepared, whether or not split",Free,Free
+,,,Other:,,
+4104.49.15,00E,m2,Equine,Free,Free
+4104.49.19,,,Bovine,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,11F,m2,Buffalo,,
+,,,Other:,,
+,15J,m2,Calf,,
+,19A,m2,Other,,
+41.05,,,"Tanned or crust skins of sheep or lambs, without wool on, whether or",,
+,,,"not split, but not further prepared:",,
+4105.10.00,,,In the wet state (including wet-blue),Free,Free
+,,,Vegetable pre-tanned:,,
+,12H,kg,Lambskin,,
+,18G,kg,Sheepskin,,
+,,,Otherwise pre-tanned:,,
+,,,Wet-blue:,,
+,22E,No.,Lambskin,,
+,28D,No.,Sheepskin,,
+,35G,kg,Other,,
+,,,Other:,,
+,,,Vegetable tanned:,,
+,37C,kg,Lambskin,,
+,41A,kg,Sheepskin,,
+,,,Otherwise tanned:,,
+,,,Wet-blue:,,
+,43H,No.,Lambskin,,
+,45D,No.,Sheepskin,,
+,,,Other:,,
+,47L,kg,Lambskin,,
+,59D,kg,Sheepskin,,
+4105.30.00,,,In the dry state (crust),Free,Free
+,11G,m2,Lambskin,,
+,19B,m2,Sheepskin,,
+41.06,,,"Tanned or crust hides and skins of other animals, without wool or",,
+,,,"hair on, whether or not split, but not further prepared:",,
+,,,Of goats or kids:,,
+4106.21.00,,,In the wet state (including wet-blue),Free,Free
+,19A,kg,Vegetable pre-tanned,,
+,,,Otherwise pre-tanned:,,
+,21C,No.,Wet-blue,,
+,25F,kg,Other,,
+,,,Other:,,
+,31L,kg,Vegetable tanned,,
+,,,Otherwise tanned:,,
+,35C,No.,Wet-blue,,
+,39F,kg,Other,,
+4106.22.00,00E,kg,In the dry state (crust),Free,Free
+,,,Of swine:,,
+4106.31.00,,,In the wet state (including wet-blue),Free,Free
+,11K,m2,Wet-blue,,
+,19E,m2,Other,,
+4106.32.00,00J,kg,In the dry state (crust),Free,Free
+4106.40.00,,,Of reptiles,Free,Free
+,11J,m2,Vegetable pre-tanned,,
+,,,Other:,,
+,21F,m2,Wet-blue,,
+,29A,m2,Other,,
+,,,Other:,,
+4106.91.00,,,In the wet state (including wet-blue),Free,Free
+,,,Wet-blue:,,
+,11A,m2,Kangaroo,,
+,19G,m2,Other,,
+,,,Other:,,
+,21J,m2,Kangaroo,,
+,23E,m2,Deer,,
+,25A,m2,Bird or fish skin,,
+,29D,m2,Other,,
+4106.92.00,,,In the dry state (crust),Free,Free
+,12D,m2,Kangaroo,,
+,14L,m2,Deer,,
+,16G,m2,Bird or fish skin,,
+,29J,m2,Other,,
+41.07,,,"Leather further prepared after tanning or crusting, including",,
+,,,"parchment-dressed leather, of bovine (including buffalo) or equine",,
+,,,"animals, without hair on, whether or not split, other than leather of",,
+,,,heading 41.14:,,
+,,,Whole hides and skins:,,
+4107.11,,,"Full grains, unsplit:",,
+4107.11.11,00G,m2,Bovine,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4107.11.19,00H,m2,Other,Free,Free
+4107.12,,,Grain splits:,,
+4107.12.11,00A,m2,Equine,Free,Free
+4107.12.19,,,Bovine,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,11H,m2,Buffalo,,
+,,,Other:,,
+,17G,m2,Calf,,
+,19C,m2,Other,,
+4107.19,,,Other:,,
+4107.19.11,00C,m2,Equine,Free,Free
+4107.19.19,,,Bovine,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,11K,m2,Calf leather,,
+,,,Other:,,
+,17J,m2,Dressed,,
+,19E,m2,Other,,
+,,,"Other, including sides:",,
+4107.91,,,"Full grains, unsplit:",,
+4107.91.11,00F,m2,Bovine,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4107.91.19,00G,m2,Other,Free,Free
+4107.92,,,Grain splits:,,
+4107.92.11,00L,m2,Equine,Free,Free
+4107.92.19,,,Bovine,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,11G,m2,Buffalo,,
+,,,Other:,,
+,17F,m2,Calf,,
+,19B,m2,Other,,
+4107.99,,,Other:,,
+4107.99.11,00B,m2,Equine,Free,Free
+4107.99.19,,,Bovine,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,11J,m2,Calf leather,,
+,,,Other:,,
+,17H,m2,Dressed,,
+,19D,m2,Other,,
+41.12,,,,,
+4112.00.00,,,"Leather further prepared after tanning or crusting, including",,
+,,,"parchment-dressed leather, of sheep or lamb, without wool on,",,
+,,,"whether or not split, other than leather of heading 41.14",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Lambskin leather:,,
+,11J,m2,Dressed,,
+,19D,m2,Other,,
+,,,Sheepskin leather:,,
+,21F,m2,Dressed,,
+,29A,m2,Other,,
+41.13,,,"Leather further prepared after tanning or crusting, including",,
+,,,"parchment-dressed leather, of other animals, without wool or hair",,
+,,,"on, whether or not split, other than leather of heading 41.14:",,
+4113.10.00,00E,m2,Of goats or kids,5,Free
+,,,,,*See Below
+4113.20.00,00J,m2,Of swine,Free,Free
+4113.30.00,00B,m2,Of reptiles,Free,Free
+4113.90.00,,,Other,Free,Free
+,11K,m2,Deer,,
+,13F,m2,Kangaroo,,
+,15B,m2,Bird or fish skin,,
+,19E,m2,Other,,
+41.14,,,Chamois (including combination chamois) leather; patent leather and,,
+,,,patent laminated leather; metallised leather:,,
+4114.10.00,00C,m2,Chamois (including combination chamois) leather,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4114.2,,,Patent leather and patent laminated leather; metallised leather:,,
+4114.20.11,00J,m2,Patent leather and imitation patent leather,5,Free
+,,,,,*See Below
+4114.20.19,00K,m2,Metallised leather,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+41.15,,,"Composition leather with a basis of leather or leather fibre, in slabs,",,
+,,,"sheets or strip, whether or not in rolls; parings and other waste of",,
+,,,"leather or of composition leather, not suitable for the manufacture",,
+,,,"of leather articles; leather dust, powder and flour:",,
+4115.10.00,00A,kg,"Composition leather with a basis of leather or leather fibre, in slabs,",,
+,,,"sheets or strip, whether or not in rolls",Free,Free
+4115.20.00,00E,kg,"Parings and other waste of leather or of composition leather, not",,
+,,,"suitable for the manufacture of leather articles; leather dust, powder",,
+,,,and flour,Free,Free
+42.01,,,,,
+4201.00.00,,,"Saddlery and harness for any animal (including traces, leads, knee",,
+,,,"pads, muzzles, saddle cloths, saddle bags, dog coats and the like), of",,
+,,,any material,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01B,. .,New,,
+,09H,. .,Used,,
+42.02,,,"Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school",,
+,,,"satchels, spectacle cases, binocular cases, camera cases, musical",,
+,,,"instrument cases, gun cases, holsters and similar containers;",,
+,,,"travelling-bags, insulated food or beverages bags, toilet bags,",,
+,,,"rucksacks, handbags, shopping-bags, wallets, purses, map-cases,",,
+,,,"cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-cases,",,
+,,,"jewellery boxes, powder-boxes, cutlery cases and similar containers,",,
+,,,"of leather or of composition leather, of sheeting of plastics, of textile",,
+,,,"materials, of vulcanised fibre or of paperboard, or wholly or mainly",,
+,,,covered with such materials or with paper:,,
+,,,"Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school",,
+,,,satchels and similar containers:,,
+4202.11.00,00L,. .,With outer surface of leather or of composition leather,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4202.12.00,00E,. .,With outer surface of plastics or of textile materials,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4202.19.00,00G,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Handbags, whether or not with shoulder strap, including those without",,
+,,,handle:,,
+4202.21.00,00D,. .,With outer surface of leather or of composition leather,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 5
+,,,,,1/2025 5
+4202.22.00,00J,. .,With outer surface of sheeting of plastics or of textile materials,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4202.29.00,00L,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Articles of a kind normally carried in the pocket or in the handbag:,,
+4202.31,,,With outer surface of leather or of composition leather:,,
+4202.31.01,00D,. .,Spectacle cases,Free,Free
+4202.31.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01C,. .,Purses,,
+,09J,. .,Keyholders,,
+,11L,. .,Wallets and billfolds,,
+,19F,. .,Other,,
+4202.32,,,With outer surface of sheeting of plastics or of textile materials:,,
+4202.32.01,00J,. .,Spectacle cases,Free,Free
+,,,"Trunks, suit-cases, vanity-cases, executive-cases, etc.—continued",,
+,,,"Articles of a kind normally carried in the pocket, etc.—continued",,
+,,,"With outer surface of sheeting of plastics or of textile, etc.—continued",,
+4202.32.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01H,. .,Purses,,
+,09C,. .,Keyholders,,
+,11E,. .,Wallets and billfolds,,
+,19L,. .,Other,,
+4202.39.00,00D,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,Other:,,
+4202.91,,,With outer surface of leather or of composition leather:,,
+4202.91.01,00F,. .,Camera covers or cases; containers specially suited for musical,,
+,,,instruments,Free,Free
+4202.91.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01E,. .,Golf bags,,
+,09L,. .,Trampers’ packs,,
+,19H,. .,Other,,
+4202.92,,,With outer surface of sheeting of plastics or of textile materials:,,
+4202.92.01,00L,. .,Camera covers or cases; containers specially suited for musical,,
+,,,instruments,Free,Free
+4202.92.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01K,. .,Golf bags,,
+,09E,. .,Trampers’ packs,,
+,19B,. .,Other,,
+4202.99.00,00F,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+42.03,,,"Articles of apparel and clothing accessories, of leather or of",,
+,,,composition leather:,,
+4203.1,,,Articles of apparel:,,
+4203.10.03,00C,No.,"Coats, waistcoats and the like of sueded sheepskin or sueded lambskin",,
+,,,leather or of deerskin leather; skirts of deerskin leather,10,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+4203.10.12,00B,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Gloves, mittens and mitts:",,
+4203.21,,,Specially designed for use in sports:,,
+,,,"Articles of apparel and clothing accessories, etc.—continued",,
+,,,"Gloves, mittens and mitts—continued",,
+,,,Specially designed for use in sports—continued,,
+4203.21.01,,,Padded,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,02E,No.,Baseball or softball,,
+,04A,pr,Boxing,,
+,06H,pr,Ice hockey,,
+,09B,pr,Ski,,
+,,,Cricket:,,
+,12B,pr,Batting,,
+,14J,pr,Wicket keeping,,
+,16E,pr,Football goalkeeping,,
+,29G,pr,Other,,
+4203.21.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 4.5
+,,,,,RCEP 5
+,,,,,1/2025 5
+,02F,pr,Ski,,
+,06J,pr,Motorcycle,,
+,09C,pr,Other,,
+4203.29.00,00J,pr,Other,5,Free
+,,,,,*See Below
+,,,,,CA 4.5
+4203.3,,,Belts and bandoliers:,,
+4203.30.03,00L,No.,Belts,10,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 10
+,,,,,1/2025 10
+4203.30.09,00J,No.,Bandoliers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4203.4,,,Other clothing accessories:,,
+4203.40.01,00A,No.,"Wrist supporting straps, excluding watch straps of subheading 9113.90",Free,Free
+4203.40.09,00B,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+42.05,,,,,
+4205,,,Other articles of leather or of composition leather:,,
+4205.00.01,00C,. .,"Buckles, clasps, slides and the like, leather covered",Free,Free
+,,,"Articles of leather or of composition leather, of a kind used in machinery",,
+,,,or mechanical appliances or for other technical uses:,,
+4205.00.09,10A,kg,"Belts and belting for machinery; washers, gaskets, jointings, seals and",,
+,,,similar packings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4205.00.15,00D,. .,Other,Free,Free
+4205.00.19,00K,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+42.06,,,,,
+4206,,,"Articles of gut (other than silk-worm gut), of goldbeater’s skin, of",,
+,,,bladders or of tendons:,,
+4206.00.01,00A,kg,Catgut,Free,Free
+4206.00.09,00B,. .,Other,Free,Free
+43.01,,,"Raw furskins (including heads, tails, paws and other pieces or",,
+,,,"cuttings, suitable for furriers’ use), other than raw hides and skins of",,
+,,,"heading 41.01, 41.02 or 41.03:",,
+4301.10.00,00D,No.,"Of mink, whole, with or without head, tail or paws",Free,Free
+4301.30.00,00A,No.,"Of lamb, the following: Astrakhan, Broadtail, Caracul, Persian and",,
+,,,"similar lamb, Indian, Chinese, Mongolian or Tibetan lamb, whole, with",,
+,,,"or without head, tail or paws",Free,Free
+4301.60.00,00B,No.,"Of fox, whole, with or without head, tail or paws",Free,Free
+4301.80.00,,,"Other furskins, whole, with or without head, tail or paws",Free,Free
+,11E,No.,Opossum,,
+,14K,No.,Rabbit or hare,,
+,15H,No.,Beaver,,
+,17D,No.,Musk-rat,,
+,23J,No.,Seal,,
+,25E,No.,Other,,
+4301.90.00,10L,No.,"Heads, tails, paws and other pieces or cuttings, suitable for furriers’ use",Free,Free
+43.02,,,"Tanned or dressed furskins (including heads, tails, paws and other",,
+,,,"pieces or cuttings), unassembled, or assembled (without the addition",,
+,,,of other materials) other than those of heading 43.03:,,
+,,,"Whole skins, with or without head, tail or paws, not assembled:",,
+4302.11.00,00G,No.,Of mink,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4302.19,,,Other:,,
+4302.19.01,,,"Bovine, equine, goat, kid, sheep and lamb",5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10G,No.,"Of lamb, the following: Astrakhan, Broadtail, Caracul, Persian and",,
+,,,"similar lamb, Indian, Chinese, Mongolian or Tibetan lamb",,
+,,,Other:,,
+,,,Dyed:,,
+,,,Lambskins:,,
+,15H,No.,"Tanned or retanned but not further prepared than dyed,",,
+,,,whether or not split,,
+,17D,No.,Other,,
+,,,Sheepskins:,,
+,23J,No.,"Tanned or retanned but not further prepared than dyed,",,
+,,,whether or not split,,
+,25E,No.,Other,,
+,27A,No.,Other,,
+,,,Other:,,
+,,,Lambskins:,,
+,33F,No.,"Tanned or retanned but not further prepared than dyed,",,
+,,,whether or not split,,
+,35B,No.,Other,,
+,,,Sheepskins:,,
+,37J,No.,"Tanned or retanned but not further prepared than dyed,",,
+,,,whether or not split,,
+,45K,No.,Other,,
+,55G,No.,Other,,
+4302.19.05,00E,No.,Of rabbit or hare,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4302.19.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,Dyed:,,
+,01J,No.,Opossum,,
+,09D,No.,Other,,
+,,,Other:,,
+,11F,No.,Opossum,,
+,19A,No.,Other,,
+4302.20.00,00F,. .,"Heads, tails, paws and other pieces or cuttings, not assembled",5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Tanned or dressed furskins (including heads, tails, etc.—continued",,
+4302.3,,,"Whole skins and pieces or cuttings thereof, assembled:",,
+4302.30.01,,,"In plates, crosses or similar forms",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01D,No.,Sheep and lamb,,
+,09K,No.,Rabbit,,
+,11A,No.,Opossum,,
+,19G,No.,Other,,
+4302.30.09,00G,. .,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+43.03,,,"Articles of apparel, clothing accessories and other articles of furskin:",,
+4303.1,,,Articles of apparel and clothing accessories:,,
+4303.10.01,00G,pr,"Gloves, mittens and mitts",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4303.10.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Coats or jackets:,,
+,01F,No.,Of sheep or lambskin,,
+,09A,No.,Of opossum skin,,
+,19J,No.,Of other furskins,,
+,,,Other:,,
+,21L,. .,Of sheep or lambskin,,
+,29F,. .,Of opossum skin,,
+,39C,. .,Of other furskins,,
+4303.9,,,Other:,,
+4303.90.01,00F,. .,Polishing caps or mops for power-driven spindles,Free,Free
+4303.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Rugs:,,
+,,,Floor:,,
+,01E,No.,Sheep and lambskins,,
+,09L,No.,Other,,
+,,,Other (including infants’ and medical rugs):,,
+,11B,No.,Sheep and lambskins,,
+,19H,No.,Other,,
+,,,Car seat covers:,,
+,21K,No.,Sheep and lambskins,,
+,29E,No.,Other,,
+,,,Other:,,
+,31G,No.,Sheep and lambskins,,
+,39B,No.,Other,,
+43.04,,,,,
+4304,,,Artificial fur and articles thereof:,,
+4304.00.01,00A,. .,Polishing caps or mops for power-driven spindles,Free,Free
+4304.00.09,00B,pr,"Gloves, mittens and mitts",5,Free
+,,,,,*See Below
+,,,,,CA Free
+4304.00.19,00H,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7

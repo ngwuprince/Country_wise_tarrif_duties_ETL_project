@@ -1,0 +1,79 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+97.01,,,"Paintings, drawings and pastels, executed entirely by hand, other",,
+,,,than drawings of heading 49.06 and other than hand-painted or,,
+,,,"hand-decorated manufactured articles; collages, mosaics and similar",,
+,,,decorative plaques:,,
+,,,Of an age exceeding 100 years:,,
+9701.21.00,00E,. .,"Paintings, drawings and pastels",Free,Free
+9701.22.00,00K,. .,Mosaics,Free,Free
+9701.29.00,00A,. .,Other,Free,Free
+,,,Other:,,
+9701.91.00,00L,. .,"Paintings, drawings and pastels",Free,Free
+9701.92.00,00E,. .,Mosaics,Free,Free
+9701.99.00,00G,. .,Other,Free,Free
+97.02,,,"Original engravings, prints and lithographs:",,
+9702.10.00,00E,. .,Of an age exceeding 100 years,Free,Free
+9702.90.00,00D,. .,Other,Free,Free
+97.03,,,"Original sculptures and statuary, in any material:",,
+9703.10.00,00C,. .,Of an age exceeding 100 years,Free,Free
+9703.90.00,00B,. .,Other,Free,Free
+97.04,,,,,
+9704.00.00,00H,. .,"Postage or revenue stamps, stamp-postmarks, first-day covers, postal",,
+,,,"stationery (stamped paper), and the like, used or unused, other than",,
+,,,those of heading 49.07,Free,Free
+97.05,,,"Collections and collectors pieces of archaeological, ethnographic,",,
+,,,"historical, zoological, botanical, mineralogical, anatomical,",,
+,,,palaeontogical or numismatic interest:,,
+9705.10.00,00K,. .," Collections and collectors pieces of archaeological, ethnographic or",,
+,,,historical interest,Free,Free
+,,," Collections and collectors pieces of zoological, botanical, mineralogical,",,
+,,,anatomical or palaeontogical interest:,,
+9705.21.00,00H,. .,Human specimens and parts thereof,Free,Free
+9705.22.00,00B,. .,Extinct or endangered species and parts thereof,Free,Free
+9705.29.00,00D,. .,Other,Free,Free
+,,,Collections and collectors pieces of numismatic interest:,,
+9705.31.00,00A,. .,Of an age exceeding 100 years,Free,Free
+9705.39.00,00H,. .,Other,Free,Free
+97.06,,,Antiques of an age exceeding one hundred years:,,
+9706.10.00,00H,. .,Of an age exceeding 250 years,Free,Free
+9706.90.00,00G,. .,Other,Free,Free
+98.01,,,,,
+9801.00.00,00K,. .,"Deployment goods: (a) Equipment and stores including spare parts,",,
+,,,temporarily exported by New Zealand Military Forces engaged in,,
+,,,"official defence exercises or international emergency relief aid, and",,
+,,,subsequently re-imported; (b) Equipment and stores including spare,,
+,,,"parts, temporarily imported by Military Forces (other than those of",,
+,,,New Zealand) engaged in official defence exercises or emergency relief,,
+,,,"aid, and subsequently exported;",,
+,,,Notwithstanding individual Tariff classification elsewhere specified,,
+,,,within the Tariff of New Zealand,Free Free,
+98.02,,,,,
+9802.00.00,00H,. .,Emergency relief goods: (a) equipment and stores including,,
+,,,"spare parts, exported by the New Zealand Agency for International",,
+,,,Development or the Ministry of Foreign Affairs and Trade for the,,
+,,,purpose of providing emergency disaster relief; (b) equipment and,,
+,,,"stores including spare parts, exported by the New Zealand Agency",,
+,,,for International Development or the Ministry of Foreign Affairs,,
+,,,and Trade for the purpose of providing emergency disaster relief,,
+,,,and subsequently re-imported,,
+,,,Notwithstanding individual Tariff classification elsewhere specified,,
+,,,within the Tariff of New Zealand,Free Free,
+98.05,,,"Household or other effects (excluding aircraft, ships, small ships (as",,
+,,,"defined in concession reference number 80 in Part 2), and motor",,
+,,,vehicles (including motorcycles)) that are not intended for any other,,
+,,,"person, or for gift, sale, or exchange",,
+9805.00.15,00K,. .,Imported by a person to whom all of subparagraphs (i) to (iii) of,,
+,,,paragraph (e) of concession reference number 80 in Part 2 apply,Free Free,
+9805.00.89,00C,. .,Imported by any other person,The rates of duty as,
+,,,,set out in the,
+,,,,substantive tariff items,
+,,,,applicable to the goods,
+98.08,,,,,
+9808,,,Ship and aircraft stores exported from New Zealand:,,
+9808.00.10,00B,. .,Alcohol and tobacco products intended for passenger and crew,,
+,,,consumption en route,Free Free,
+9808.00.20,00H,. .,Other craft stores intended for passenger and crew consumption en route,Free Free,
+9808.00.90,00F,. .,"Other craft stores, including spare and service parts necessary to operate",,
+,,,or maintain the craft,Free Free,
+,,,Notwithstanding individual Tariff classification elsewhere specified,,
+,,,within the Tariff of New Zealand,,

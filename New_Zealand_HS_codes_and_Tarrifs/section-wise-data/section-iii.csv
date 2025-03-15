@@ -1,0 +1,259 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+15.01,,,"Pig fat (including lard) and poultry fat, other than that of heading",,
+,,,02.09 or 15.03:,,
+1501.10.00,00L,kg,Lard,Free,Free
+1501.20.00,,,Other pig fat,Free,Free
+,,,Fats from bones or waste:,,
+,10A,kg,Crude,,
+,15B,kg,Refined,,
+,19E,kg,Other,,
+1501.90.00,,,Other,Free,Free
+,,,Fats from bones or waste:,,
+,10G,kg,Crude,,
+,15H,kg,Refined,,
+,19L,kg,Other,,
+15.02,,,"Fats of bovine animals, sheep or goats, other than those of heading 15.03:",,
+1502.10.00,,,Tallow,Free,Free
+,,,Edible:,,
+,10F,kg,Beef,,
+,15G,kg,Other,,
+,,,Inedible:,,
+,21A,kg,Mixed grades,,
+,25D,kg,Gut and lower grades,,
+,29G,kg,Other,,
+1502.90.00,,,Other,Free,Free
+,,,Fats from bones or waste:,,
+,10E,kg,Crude,,
+,,,Refined:,,
+,15F,kg,Neat’s foot,,
+,19J,kg,Other,,
+,29F,kg,Other,,
+15.03,,,,,
+1503,,,"Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not",,
+,,,emulsified or mixed or otherwise prepared:,,
+1503.00.01,00K,kg,Oleo-oil,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+1503.00.09,,,Other,Free,Free
+,01J,kg,"Stearin, edible",,
+,09D,kg,Other,,
+15.04,,,"Fats and oils and their fractions, of fish or marine mammals, whether",,
+,,,"or not refined, but not chemically modified:",,
+1504.10.00,,,Fish-liver oils and their fractions,Free,Free
+,,,Cod liver oil and its fractions:,,
+,01C,kg,Stearin,,
+,09J,kg,Other,,
+,19F,l,Other fish-liver oils and their fractions,,
+1504.2,,,"Fats and oils and their fractions, of fish, other than liver oils:",,
+1504.20.01,00E,kg,Fractions,Free,Free
+1504.20.09,00F,l,Other,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+1504.3,,,"Fats and oils and their fractions, of marine mammals:",,
+1504.30.01,,,Fractions,Free,Free
+,01G,kg,Of whale,,
+,09B,kg,Other,,
+1504.30.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01H,l,Of whale,,
+,09C,l,Other,,
+15.05,,,,,
+1505,,,Wool grease and fatty substances derived therefrom (including,,
+,,,lanolin):,,
+1505.00.01,00F,kg,"Wool grease, crude",Free,Free
+1505.00.09,00G,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+15.06,,,,,
+1506.00.00,,,"Other animal fats and oils and their fractions, whether or not refined,",,
+,,,but not chemically modified,Free,Free
+,01F,kg,Fractions,,
+,,,Other:,,
+,11C,kg,Crude,,
+,19J,kg,Refined,,
+15.07,,,"Soya-bean oil and its fractions, whether or not refined, but not",,
+,,,chemically modified:,,
+1507.10.00,00K,l,"Crude oil, whether or not degummed",Free,Free
+1507.90.00,00J,l,Other,Free,Free
+15.08,,,"Ground-nut oil and its fractions, whether or not refined, but not",,
+,,,chemically modified:,,
+1508.10.00,00H,l,Crude oil,Free,Free
+1508.90.00,00G,l,Other,Free,Free
+15.09,,,"Olive oil and its fractions, whether or not refined, but not chemically",,
+,,,modified:,,
+1509.20.00,00K,l,Extra virgin olive oil,Free,Free
+1509.30.00,00C,l,Virgin olive oil,Free,Free
+1509.40.00,00G,l,Other virgin olive oils,Free,Free
+1509.90.00,00E,l,Other,Free,Free
+15.1,,,"Other oils and their fractions, obtained solely from olives, whether or",,
+,,,"not refined, but not chemically modified, including blends of these oils",,
+,,,or fractions with oils or fractions of heading 15.09,,
+1510.10.00,00K,l,Crude olive pomace oil,Free,Free
+1510.90.00,00J,l,Other,Free,Free
+15.11,,,"Palm oil and its fractions, whether or not refined, but not chemically",,
+,,,modified:,,
+1511.10.00,00H,l,Crude oil,Free,Free
+1511.90.00,00G,l,Other,Free,Free
+15.12,,,"Sunflower-seed, safflower or cotton-seed oil and fractions thereof,",,
+,,,"whether or not refined, but not chemically modified:",,
+,,,Sunflower-seed or safflower oil and fractions thereof:,,
+1512.11.00,00L,l,Crude oil,Free,Free
+1512.19.00,00G,l,Other,Free,Free
+,,,Cotton-seed oil and its fractions:,,
+1512.21.00,00D,l,"Crude oil, whether or not gossypol has been removed",Free,Free
+1512.29.00,00L,l,Other,Free,Free
+15.13,,,"Coconut (copra), palm kernel or babassu oil and fractions thereof,",,
+,,,"whether or not refined, but not chemically modified:",,
+,,,Coconut (copra) oil and its fractions:,,
+1513.11.00,00J,l,Crude oil,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+1513.19,,,Other:,,
+1513.19.01,00A,kg,Fractions,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+1513.19.09,00B,l,Other,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Coconut (copra), palm kernel or babassu oil and, etc.—continued",,
+,,,Palm kernel or babassu oil and fractions thereof:,,
+1513.21.00,00B,l,Crude oil,Free,Free
+1513.29.00,00J,l,Other,Free,Free
+15.14,,,"Rape, colza or mustard oil and fractions thereof, whether or not",,
+,,,"refined, but not chemically modified:",,
+,,,Low erucic acid rape or colza oil and its fractions:,,
+1514.11.00,00G,l,Crude oil,Free,Free
+1514.19.00,00C,l,Other,Free,Free
+,,,Other:,,
+1514.91.00,00F,l,Crude oil,Free,Free
+1514.99.00,00B,l,Other,Free,Free
+15.15,,,Other fixed vegetable or microbial fats and oils (including jojoba oil),,
+,,,"and their fractions, whether or not refined, but not chemically modified:",,
+,,,Linseed oil and its fractions:,,
+1515.11.00,00E,l,Crude oil,Free,Free
+1515.19.00,00A,l,Other,Free,Free
+,,,Maize (corn) oil and its fractions:,,
+1515.21.00,00J,l,Crude oil,Free,Free
+1515.29.00,00E,l,Other,Free,Free
+1515.30.00,00H,l,Castor oil and its fractions,Free,Free
+1515.50.00,00E,l,Sesame oil and its fractions,Free,Free
+1515.60.10,00D,l,Microbial fats and oils and their fractions,Free,Free
+1515.90.00,,,Other,Free,Free
+,11E,l,Jojoba oil and its fractions,,
+,15H,l,Tung oil and its fractions,,
+,21B,l,Avocado oil,,
+,30A,l,Other,,
+15.16,,,"Animal, vegetable or microbial fats and oils and their fractions,",,
+,,,"partly or wholly hydrogenated, inter-esterified, re-esterified or",,
+,,,"elaidinised, whether or not refined, but not further prepared:",,
+1516.10.00,,,Animal fats and oils and their fractions,Free,Free
+,01G,kg,Of whale,,
+,09B,kg,Other,,
+1516.2,,,Vegetable fats and oils and their fractions:,,
+1516.20.01,10F,l,Re-esterified,Free,Free
+1516.20.09,10G,kg,Hydrogenated oils having a waxy character,Free,Free
+1516.20.19,10B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+1516.3,,,Microbial fats and oils and their fractions,,
+1516.30.10,00A,l,Re-esterified,Free,Free
+1516.30.20,00G,kg,Hydrogenated oils having a waxy character,Free,Free
+1516.30.30,00B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+15.17,,,"Margarine; edible mixtures or preparations of animal, vegetable",,
+,,,or microbial fats or oils or of fractions of different fats or oils of this,,
+,,,"Chapter, other than edible fats and oils or their fractions of heading",,
+,,,15.16:,,
+1517.10.00,,,"Margarine, excluding liquid margarine",5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Table margarine:,,
+,01E,kg,Polyunsaturated,,
+,09L,kg,Saturated,,
+,,,Other:,,
+,11B,kg,Polyunsaturated,,
+,19H,kg,Saturated,,
+,29E,kg,Other,,
+1517.9,,,Other:,,
+1517.90.01,,,"Edible mixtures or preparations, of a kind used as mould release",,
+,,,preparations,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,In aerosol containers:,,
+,02J,No.,. Containing chlorofluorocarbons,,
+,08H,No.,Other,,
+,19C,l,Other,,
+1517.90.09,,,Liquid margarine,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01A,kg,Polyunsaturated,,
+,09G,kg,Saturated,,
+,19D,kg,Other,,
+,,,Other edible mixtures or preparations:,,
+1517.90.11,00H,l,Coconut (copra) oil,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+1517.90.19,,,Other,Free,Free
+,,,In aerosol containers:,,
+,02E,No.,Containing chlorofluorocarbons,,
+,08D,No.,Other,,
+,19K,l,Other,,
+15.18,,,,,
+1518,,,"Animal, vegetable or microbial fats and oils and their fractions, boiled,",,
+,,,"oxidised, dehydrated, sulphurised, blown, polymerised by heat in",,
+,,,"vacuum or in inert gas or otherwise chemically modified, excluding",,
+,,,"those of heading 15.16; inedible mixtures or preparations of animal,",,
+,,,vegetable or microbial fats or oils or of fractions of different fats or,,
+,,,"oils of this Chapter, not elsewhere specified or included:",,
+1518.00.01,,," Animal, vegetable or microbial fats and oils and their fractions, boiled,",,
+,,,"oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum",,
+,,,"or in inert gas or otherwise chemically modified, excluding those of",,
+,,,heading 15.16,Free,Free
+,01F,l,Linseed oil,,
+,09A,kg,Linoxyn,,
+,,,Other:,,
+,11C,l,Tung oil,,
+,21L,l,Of whale,,
+,29F,l,Other,,
+1518.00.09,00J,l," Inedible mixtures or preparations of animal, vegetable or microbial fats",,
+,,,"or oils or of fractions of different fats or oils of this Chapter, not",,
+,,,elsewhere specified or included,Free,Free
+15.2,,,,,
+1520,,,"Glycerol, crude; glycerol waters and glycerol lyes:",,
+1520.00.10,00J,kg,"Glycerol (glycerine), crude",Free,Free
+1520.00.90,00B,kg,Glycerol waters and glycerol lyes,Free,Free
+15.21,,,"Vegetable waxes (other than triglycerides), beeswax, other insect",,
+,,,"waxes and spermaceti, whether or not refined or coloured:",,
+1521.10.00,00E,kg,Vegetable waxes,Free,Free
+1521.9,,,Other:,,
+1521.90.01,00L,kg,Beeswax,5,Free
+,,,,,*See Below
+,,,,,LDC Free
+1521.90.09,,,Other,Free,Free
+,01K,kg,Spermaceti,,
+,09E,kg,Other,,
+15.22,,,,,
+1522.00.00,00K,kg,Degras; residues resulting from the treatment of fatty substances or,,
+,,,animal or vegetable waxes,Free,Free

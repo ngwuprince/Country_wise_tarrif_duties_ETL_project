@@ -1,0 +1,2337 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+1.01,,,"Live horses, asses, mules and hinnies:",,
+,,,Horses:,,
+0101.21.00,,,Pure-bred breeding animals,Free,Free
+,,,Thoroughbred:,,
+,,,Race breeding stock:,,
+,10E,No.,Stallions,,
+,15F,No.,Mares,,
+,,,Other sport breeding stock:,,
+,17B,No.,Stallions,,
+,19J,No.,Mares,,
+,,,Other:,,
+,23G,No.,Stallions,,
+,27K,No.,Mares,,
+,,,Standardbred:,,
+,,,Race breeding stock:,,
+,31H,No.,Stallions,,
+,33D,No.,Mares,,
+,,,Other sport breeding stock:,,
+,35L,No.,Stallions,,
+,37G,No.,Mares,,
+,,,Other:,,
+,41E,No.,Stallions,,
+,49L,No.,Mares,,
+0101.29.00,,,Other,Free,Free
+,,,For racing:,,
+,,,Thoroughbred:,,
+,10A,No.,"Stallions, colts and geldings",,
+,13F,No.,Mares and fillies,,
+,,,Standardbred:,,
+,15B,No.,"Stallions, colts and geldings",,
+,17J,No.,Mares and fillies,,
+,,,For other sports:,,
+,,,Thoroughbred:,,
+,21G,No.,"Stallions, colts and geldings",,
+,23C,No.,Mares and fillies,,
+,,,Standardbred:,,
+,27F,No.,"Stallions, colts and geldings",,
+,29B,No.,Mares and fillies,,
+,,,Other:,,
+,33L,No.,Stallions,,
+,35G,No.,Mares,,
+,39K,No.,Other,,
+0101.30.00,,,Asses,Free,Free
+,10D,No.,Pure-bred breeding animals,,
+,19H,No.,Other,,
+0101.90.00,00J,No.,Other,Free,Free
+1.02,,,Live bovine animals:,,
+,,,Cattle:,,
+0102.21.00,,,Pure-bred breeding animals,Free,Free
+,10C,No.,Dairy,,
+,19G,No.,Beef,,
+0102.29.00,,,Other,Free,Free
+,,,For breeding:,,
+,10K,No.,Dairy,,
+,19C,No.,Beef,,
+,29L,No.,Other,,
+,,,Buffalo:,,
+0102.31.00,,,Pure-bred breeding animals,Free,Free
+,10G,No.,Dairy,,
+,19L,No.,Beef,,
+0102.39.00,,,Other,Free,Free
+,,,For breeding:,,
+,10C,No.,Dairy,,
+,19G,No.,Beef,,
+,29D,No.,Other,,
+,,,Live bovine animals—continued,,
+0102.90.00,,,Other,Free,Free
+,,,Pure-bred breeding animals:,,
+,10D,No.,Dairy,,
+,18K,No.,Beef,,
+,,,Other:,,
+,,,For breeding:,,
+,23F,No.,Dairy,,
+,25B,No.,Beef,,
+,29E,No.,Other,,
+1.03,,,Live swine:,,
+0103.10.00,00F,No.,Pure-bred breeding animals,Free,Free
+,,,Other:,,
+0103.91.00,,,Weighing less than 50 kg,Free,Free
+,01H,No.,For breeding,,
+,09C,No.,Other,,
+0103.92.00,,,Weighing 50 kg or more,Free,Free
+,01B,No.,For breeding,,
+,09H,No.,Other,,
+1.04,,,Live sheep and goats:,,
+0104.10.00,,,Sheep,Free,Free
+,01B,No.,For breeding,,
+,09H,No.,Other,,
+0104.20.00,,,Goats,Free,Free
+,10E,No.,For breeding,,
+,19J,No.,Other,,
+1.05,,,"Live poultry, that is to say, fowls of the species Gallus domesticus,",,
+,,,"ducks, geese, turkeys and guinea fowls:",,
+,,,Weighing not more than 185 g:,,
+0105.11.00,,,Fowls of the species Gallus domesticus,Free,Free
+,01E,No.,For breeding,,
+,09L,No.,Other,,
+0105.12.00,,,Turkeys,Free,Free
+,01K,No.,For breeding,,
+,09E,No.,Other,,
+0105.13.00,,,Ducks,Free,Free
+,10C,No.,For breeding,,
+,19G,No.,Other,,
+0105.14.00,,,Geese,Free,Free
+,10H,No.,For breeding,,
+,19A,No.,Other,,
+0105.15.00,,,Guinea fowls,Free,Free
+,10B,No.,For breeding,,
+,19F,No.,Other,,
+,,,Other:,,
+0105.94.00,,,Fowls of the species Gallus domesticus,Free,Free
+,,,"Weighing not more than 2,000 g:",,
+,10G,No.,For breeding,,
+,13A,No.,Other,,
+,,,"Weighing more than 2,000 g:",,
+,16F,No.,For breeding,,
+,19L,No.,Other,,
+0105.99.00,,,Other,Free,Free
+,01L,No.,For breeding,,
+,09F,No.,Other,,
+1.06,,,Other live animals:,,
+,,,Mammals:,,
+0106.11.00,00E,No.,Primates,Free,Free
+0106.12.00,10G,No.,"Whales, dolphins and porpoises (mammals of the order Cetacea);",,
+,,,"manatees and dugongs (mammals of the order Sirenia); seals,",,
+,,,sea lions and walruses (mammals of the suborder Pinnipedia),Free,Free
+0106.13.00,00D,No.,Camels and other camelids (Camelidae),Free,Free
+0106.14.00,00J,No.,Rabbits and hares,Free,Free
+,,,Other live animals—continued,,
+,,,Mammals—continued,,
+0106.19.00,,,Other,Free,Free
+,,,Deer,,
+,10J,No.,For breeding,,
+,15K,No.,Other,,
+,19B,No.,Dogs,,
+,29K,No.,Other,,
+0106.20.00,00D,No.,Reptiles (including snakes and turtles),Free,Free
+,,,Birds:,,
+0106.31.00,00B,No.,Birds of prey,Free,Free
+0106.32.00,00G,No.,"Psittaciformes (including parrots, parakeets, macaws and cockatoos)",Free,Free
+0106.33.00,00A,No.,Ostriches; emus (Dromaius novaehollandiae),Free,Free
+0106.39.00,10F,No.,Other,Free,Free
+,,,Insects:,,
+0106.41.00,,,Bees,Free,Free
+,,,Queen bees:,,
+,10C,No.,In packages,,
+,19G,No.,Other,,
+,29D,No.,Other,,
+0106.49.00,00B,No.,Other,Free,Free
+0106.90.00,00K,No.,Other,Free,Free
+2.01,,,"Meat of bovine animals, fresh or chilled:",,
+0201.10.00,,,Carcasses and half-carcasses,Free,Free
+,01D,kg,Carcasses,,
+,,,Half-carcasses:,,
+,11A,kg,Veal (not bobby),,
+,19G,kg,Other,,
+0201.20.00,,,Other cuts with bone in,Free,Free
+,,,Beef quarters:,,
+,,,Steer and heifer:,,
+,01H,kg,P1 grade,,
+,09C,kg,G grade,,
+,19L,kg,L1 and L2 grades,,
+,,,Cow:,,
+,21B,kg,P1 grade,,
+,29H,kg,G grade,,
+,31K,kg,Bull,,
+,39E,kg,Other,,
+,,,Beef cuts:,,
+,,,"Cow, steer and heifer:",,
+,41G,kg,Cuts according to the New Zealand Meat Producers,,
+,,,Board definition,,
+,49B,kg,Other,,
+,51D,kg,Bull,,
+,59K,kg,"Veal (not bobby), quarters and cuts",,
+,69G,kg,Other,,
+0201.30.00,,,Boneless,Free,Free
+,,,"Cow, steer and heifer:",,
+,01A,kg,Cuts according to the New Zealand Meat Producers,,
+,,,Board definition,,
+,09G,kg,Other,,
+,11J,kg,Bull,,
+,,,Veal:,,
+,21F,kg,Bobby,,
+,29A,kg,Other,,
+2.02,,,"Meat of bovine animals, frozen:",,
+0202.10.00,,,Carcasses and half-carcasses,Free,Free
+,01B,kg,Carcasses,,
+,,,Half-carcasses:,,
+,11K,kg,Veal (not bobby),,
+,19E,kg,Other,,
+0202.20.00,,,Other cuts with bone in,Free,Free
+,,,Beef quarters:,,
+,,,Steer and heifer:,,
+,01F,kg,P1 grade,,
+,09A,kg,G grade,,
+,19J,kg,L1 and L2 grades,,
+,,,Cow:,,
+,21L,kg,P1 grade,,
+,29F,kg,G grade,,
+,31H,kg,Bull,,
+,39C,kg,Other,,
+,,,Beef cuts:,,
+,,,"Cow, steer and heifer:",,
+,41E,kg,Cuts according to the New Zealand Meat Producers,,
+,,,Board definition,,
+,49L,kg,Other,,
+,51B,kg,Bull,,
+,59H,kg,"Veal (not bobby), quarters and cuts",,
+,69E,kg,Other,,
+0202.30.00,,,Boneless,Free,Free
+,,,"Cow, steer and heifer:",,
+,01K,kg,Cuts according to the New Zealand Meat Producers,,
+,,,Board definition,,
+,09E,kg,Other,,
+,11G,kg,Bull,,
+,,,Veal:,,
+,21D,kg,Bobby,,
+,29K,kg,Other,,
+2.03,,,"Meat of swine, fresh, chilled or frozen:",,
+,,,Fresh or chilled:,,
+0203.11.00,,,Carcasses and half-carcasses,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,02C,kg,Wild pork,,
+,08B,kg,Other,,
+0203.12.00,,,"Hams, shoulders and cuts thereof, with bone in",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01K,kg,Wild pork,,
+,09E,kg,Other,,
+0203.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,01A,kg,Wild pork,,
+,09G,kg,Other,,
+,,,Frozen:,,
+0203.21.00,,,Carcasses and half-carcasses,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,02G,kg,Wild pork,,
+,08F,kg,Other,,
+0203.22.00,,,"Hams, shoulders and cuts thereof, with bone in",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,kg,Wild pork,,
+,09J,kg,Other,,
+0203.29.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,kg,Wild pork,,
+,,,Other:,,
+,11B,kg,Meat bones and hocks,,
+,19H,kg,Other,,
+2.04,,,"Meat of sheep or goats, fresh, chilled or frozen:",,
+0204.10.00,,,"Carcasses and half-carcasses of lamb, fresh or chilled",Free,Free
+,02G,kg,A grade,,
+,08F,kg,Beta grade,,
+,12D,kg,PH grade,,
+,18C,kg,PL grade,,
+,22A,kg,PM grade,,
+,28L,kg,PX grade,,
+,32J,kg,YL grade,,
+,38H,kg,YM grade,,
+,42F,kg,YX grade,,
+,48E,kg,Other,,
+,,,"Meat of sheep or goats, fresh, chilled or frozen—continued",,
+,,,"Other meat of sheep, fresh or chilled:",,
+0204.21.00,,,Carcasses and half-carcasses,Free,Free
+,,,Hogget:,,
+,02E,kg,HL grade,,
+,08D,kg,HX grade,,
+,18A,kg,Other,,
+,,,Mutton:,,
+,22K,kg,MF grade,,
+,28J,kg,MH grade,,
+,32G,kg,ML grade,,
+,38F,kg,MM grade,,
+,42D,kg,MX grade,,
+,48C,kg,Other,,
+,58L,kg,Ram grade,,
+0204.22.00,,,Other cuts with bone in,Free,Free
+,01A,kg,Of lamb,,
+,09G,kg,Other,,
+0204.23.00,,,Boneless,Free,Free
+,01F,kg,Of lamb,,
+,09A,kg,Other,,
+0204.30.00,,,"Carcasses and half-carcasses of lamb, frozen",Free,Free
+,02D,kg,A grade,,
+,08C,kg,Beta grade,,
+,12A,kg,PH grade,,
+,18L,kg,PL grade,,
+,22J,kg,PM grade,,
+,28H,kg,PX grade,,
+,32F,kg,YL grade,,
+,38E,kg,YM grade,,
+,42C,kg,YX grade,,
+,48B,kg,Other,,
+,,,"Other meat of sheep, frozen:",,
+0204.41.00,,,Carcasses and half-carcasses,Free,Free
+,,,Hogget:,,
+,02B,kg,HL grade,,
+,08A,kg,HX grade,,
+,18J,kg,Other,,
+,,,Mutton:,,
+,22G,kg,MF grade,,
+,28F,kg,MH grade,,
+,32D,kg,ML grade,,
+,38C,kg,MM grade,,
+,42A,kg,MX grade,,
+,48L,kg,Other,,
+,58H,kg,Ram grade,,
+0204.42.00,,,Other cuts with bone in,Free,Free
+,01J,kg,Of lamb,,
+,09D,kg,Other,,
+0204.43.00,,,Boneless,Free,Free
+,01C,kg,Of lamb,,
+,09J,kg,Other,,
+0204.50.00,00E,kg,Meat of goats,Free,Free
+2.05,,,,,
+0205.00.00,00E,kg,"Meat of horses, asses, mules or hinnies, fresh, chilled or frozen",Free,Free
+2.06,,,"Edible offal of bovine animals, swine, sheep, goats, horses,",,
+,,,"asses, mules or hinnies, fresh, chilled or frozen:",,
+0206.10.00,,,"Of bovine animals, fresh or chilled",Free,Free
+,01E,kg,Brains,,
+,09L,kg,Hearts,,
+,11B,kg,Kidneys,,
+,19H,kg,Livers,,
+,21K,kg,Sweetbreads,,
+,29E,kg,Tongues,,
+,39B,kg,Other,,
+,,,"Edible offal of bovine animals, swine, sheep, goats, etc.—continued",,
+,,,"Of bovine animals, frozen:",,
+0206.21.00,00E,kg,Tongues,Free,Free
+0206.22.00,00K,kg,Livers,Free,Free
+0206.29.00,,,Other,Free,Free
+,01K,kg,Brains,,
+,09E,kg,Hearts,,
+,11G,kg,Kidneys,,
+,19B,kg,Sweetbreads,,
+,29K,kg,Other,,
+0206.30.00,,,"Of swine, fresh or chilled",Free,Free
+,01B,kg,Hearts,,
+,09H,kg,Kidneys,,
+,11K,kg,Livers,,
+,19E,kg,Tongues,,
+,29B,kg,Other,,
+,,,"Of swine, frozen:",,
+0206.41.00,00B,kg,Livers,Free,Free
+0206.49.00,,,Other,Free,Free
+,01G,kg,Hearts,,
+,09B,kg,Kidneys,,
+,11D,kg,Tongues,,
+,19K,kg,Other,,
+0206.80.00,,,"Other, fresh or chilled",Free,Free
+,,,Lamb:,,
+,01L,kg,Brains,,
+,09F,kg,Hearts,,
+,11H,kg,Kidneys,,
+,19C,kg,Livers,,
+,21E,kg,Sweetbreads,,
+,29L,kg,Tongues,,
+,39H,kg,Other,,
+,,,Sheep:,,
+,41K,kg,Brains,,
+,49E,kg,Hearts,,
+,51G,kg,Kidneys,,
+,59B,kg,Livers,,
+,61D,kg,Sweetbreads,,
+,69K,kg,Tongues,,
+,79G,kg,Other,,
+,,,Other:,,
+,81J,kg,Hearts,,
+,89D,kg,Kidneys,,
+,91F,kg,Livers,,
+,95J,kg,Tongues,,
+,99A,kg,Other,,
+0206.90.00,,,"Other, frozen",Free,Free
+,,,Lamb:,,
+,01D,kg,Brains,,
+,09K,kg,Hearts,,
+,11A,kg,Kidneys,,
+,19G,kg,Livers,,
+,21J,kg,Sweetbreads,,
+,29D,kg,Tongues,,
+,39A,kg,Other,,
+,,,Sheep:,,
+,41C,kg,Brains,,
+,49J,kg,Hearts,,
+,51L,kg,Kidneys,,
+,59F,kg,Livers,,
+,61H,kg,Sweetbreads,,
+,69C,kg,Tongues,,
+,79L,kg,Other,,
+,,,Other:,,
+,81B,kg,Hearts,,
+,89H,kg,Kidneys,,
+,91K,kg,Livers,,
+,95B,kg,Tongues,,
+,99E,kg,Other,,
+2.07,,,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or",,
+,,,frozen:,,
+,,,Of fowls of the species Gallus domesticus:,,
+0207.11.00,00K,kg,"Not cut in pieces, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.12.00,00D,kg,"Not cut in pieces, frozen",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.13.00,00J,kg,"Cuts and offal, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+207.14,,,"Cuts and offal, frozen:",,
+0207.14.10,00J,kg,Livers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.14.90,00B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Of turkeys:,,
+0207.24.00,00G,kg,"Not cut in pieces, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.25.00,00A,kg,"Not cut in pieces, frozen",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.26.00,00F,kg,"Cuts and offal, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+207.27,,,"Cuts and offal, frozen:",,
+0207.27.10,00F,kg,Livers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.27.90,00K,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,Of ducks:,,
+0207.41.00,10H,kg,"Not cut in pieces, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.42.00,10B,kg,"Not cut in pieces, frozen",5,Free
+,,,,,*See Below
+,,,,,CA Free
+0207.43.00,10G,kg,"Fatty livers, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Meat and edible offal, of the poultry of heading 01.05, etc.—continued",,
+,,,Of ducks—continued,,
+0207.44.00,00D,kg,"Other, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+207.45,,,"Other, frozen:",,
+0207.45.10,00D,kg,Livers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.45.90,00H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Of geese:,,
+0207.51.00,00D,kg,"Not cut in pieces, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.52.00,00J,kg,"Not cut in pieces, frozen",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.53.00,00C,kg,"Fatty livers, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.54.00,00H,kg,"Other, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+207.55,,,"Other, frozen:",,
+0207.55.10,00H,kg,Livers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.55.90,00A,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+207.6,,,Of guinea fowls:,,
+0207.60.10,00J,kg,"Fatty livers, fresh or chilled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.60.20,00D,kg,"Livers, frozen",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0207.60.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10K,kg,"Not cut in pieces, fresh or chilled",,
+,15L,kg,"Not cut in pieces, frozen",,
+,19C,kg,"Other, fresh or chilled",,
+,29L,kg,"Other, frozen",,
+2.08,,,"Other meat and edible meat offal, fresh, chilled or frozen:",,
+0208.10.00,,,Of rabbits or hares,Free,Free
+,01A,kg,Rabbits,,
+,09G,kg,Hares,,
+0208.30.00,00L,kg,Of primates,Free,Free
+0208.40.00,10A,kg,"Of whales, dolphins and porpoises (mammals of the order Cetacea);",,
+,,,"of manatees and dugongs (mammals of the order Sirenia); of seals,",,
+,,,sea lions and walruses (mammals of the suborder Pinnipedia),Free,Free
+0208.50.00,00H,kg,Of reptiles (including snakes and turtles),Free,Free
+0208.60.00,00A,kg,Of camels and other camelids (Camelidae),Free,Free
+0208.90.00,,,Other,Free,Free
+,,,Of deer:,,
+,,,Edible offal:,,
+,11H,kg,Pizzles,,
+,13D,kg,Tails,,
+,15L,kg,Other,,
+,,,Other:,,
+,17G,kg,Chilled,,
+,18E,kg,Frozen,,
+,28B,kg,"Partridges, pheasants, wild ducks and other birds not specified",,
+,,,in heading 02.07,,
+,31B,kg,Frogs legs,,
+,50J,kg,Other,,
+2.09,,,"Pig fat, free of lean meat, and poultry fat, not rendered or otherwise",,
+,,,"extracted, fresh, chilled, frozen, salted, in brine, dried or smoked:",,
+0209.10.00,00A,tne,Of pigs,Free,Free
+0209.90.00,00L,tne,Other,Free,Free
+2.1,,,"Meat and edible meat offal, salted, in brine, dried or smoked;",,
+,,,edible flours and meals of meat or meat offal:,,
+,,,Meat of swine:,,
+0210.11.00,,,"Hams, shoulders and cuts thereof, with bone in",Free,Free
+,01H,kg,Smoked,,
+,09C,kg,Other,,
+0210.12.00,00D,kg,Bellies (streaky) and cuts thereof,Free,Free
+0210.19.00,,,Other,Free,Free
+,01D,kg,Bacon,,
+,,,Other:,,
+,11A,kg,"Pork, salted or pickled",,
+,19G,kg,Smoked,,
+,29D,kg,Other,,
+0210.20.00,00J,kg,Meat of bovine animals,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,"Other, including edible flours and meals of meat or meat offal:",,
+0210.91.00,00J,kg,Of primates,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+0210.92.00,,,"Of whales, dolphins and porpoises (mammals of the order Cetacea);",,
+,,,"of manatees and dugongs (mammals of the order Sirenia); of seals,",,
+,,,sea lions and walruses (mammals of the suborder Pinnipedia),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10L,kg,Of whales,,
+,29A,kg,Other,,
+0210.93.00,00H,kg,Of reptiles (including snakes and turtles),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Meat and edible meat offal, salted, in brine, dried, etc.—continued",,
+,,,"Other, including edible flours and meals of meat or, etc.—continued",,
+210.99,,,Other:,,
+0210.99.10,00L,kg,Mutton birds,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+0210.99.20,00F,kg,Poultry liver,Free,Free
+0210.99.30,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,11G,kg,"Lamb, smoked",,
+,,,Of deer:,,
+,,,Edible offal:,,
+,21D,kg,. Pizzles,,
+,23L,kg,. Tails,,
+,25G,kg,. Other,,
+,29K,kg,Other,,
+,50H,kg,Other,,
+3.01,,,Live fish:,,
+,,,Ornamental fish:,,
+0301.11.00,00G,kg,Freshwater,Free,Free
+0301.19.00,00C,kg,Other,Free,Free
+,,,Other live fish:,,
+0301.91.00,,,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki,",,
+,,,"Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus",,
+,,,apache and Oncorhynchus chrysogaster),Free,Free
+,01D,kg,"Trout (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo",,
+,,,"aguabonita, Salmo gilae)",,
+,09K,kg,Other,,
+0301.92.00,00L,kg,Eels (Anguilla spp.),Free,Free
+0301.93.00,11L,kg,"Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,",,
+,,,"Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus,",,
+,,,"Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni,",,
+,,,Megalobrama spp.),Free,Free
+0301.94.00,10G,kg,"Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)",Free,Free
+0301.95.00,00D,kg,Southern bluefin tunas (Thunnus maccoyii),Free,Free
+0301.99.00,,,Other,Free,Free
+,11H,kg,Snapper,,
+,39H,kg,Other,,
+3.02,,,"Fish, fresh or chilled, excluding fish fillets and other fish meat of",,
+,,,heading 03.04:,,
+,,,"Salmonidae, excluding edible fish offal of Tariff items 0302.91.00,",,
+,,,0302.92.00 or 0302.99.00:,,
+0302.11.00,,,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki,",,
+,,,"Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus",,
+,,,apache and Oncorhynchus chrysogaster),Free,Free
+,,,"Trout (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo",,
+,,,"aguabonita, Salmo gilae):",,
+,02A,kg,Whole,,
+,05F,kg,Headed and gutted,,
+,08L,kg,Other,,
+,,,Other:,,
+,12J,kg,Whole,,
+,16A,kg,Headed and gutted,,
+,29C,kg,Other,,
+0302.13.00,,,"Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha,",,
+,,,"Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch,",,
+,,,Oncorhynchus masou and Oncorhynchus rhodurus),Free,Free
+,10A,kg,Whole,,
+,15B,kg,Headed and gutted,,
+,29B,kg,Other,,
+0302.14.00,,,Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho),Free,Free
+,10F,kg,Whole,,
+,15G,kg,Headed and gutted,,
+,29G,kg,Other,,
+0302.19.00,,,Other,Free,Free
+,01K,kg,Whole,,
+,11G,kg,Headed and gutted,,
+,29K,kg,Other,,
+,,,"Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae,",,
+,,,"Scophthalmidae and Citharidae), excluding edible fish offal of Tariff",,
+,,,"items 0302.91.00, 0302.92.00 or 0302.99.00:",,
+0302.21.00,,,"Halibut (Reinhardtius hippoglossoides, Hippoglossus",,
+,,,"hippoglossus, Hippoglossus stenolepis)",Free,Free
+,02E,kg,Whole,,
+,12B,kg,Headed and gutted,,
+,29G,kg,Other,,
+0302.22.00,,,Plaice (Pleuronectes platessa),Free,Free
+,01A,kg,Whole,,
+,11J,kg,Headed and gutted,,
+,29A,kg,Other,,
+0302.23.00,,,Sole (Solea spp.),Free,Free
+,01F,kg,Whole,,
+,11C,kg,Headed and gutted,,
+,29F,kg,Other,,
+,,,"Fish, fresh or chilled, excluding fish fillets, etc.—continued",,
+,,,"Flat fish (Pleuronectidae, Bothidae, etc.—continued",,
+0302.24.00,,,Turbots (Psetta maxima),Free,Free
+,10K,kg,Whole,,
+,15L,kg,Headed and gutted,,
+,29L,kg,Other,,
+0302.29.00,,,Other,Free,Free
+,,,Whole:,,
+,02A,kg,Flounder,,
+,12J,kg,Lemon sole,,
+,21H,kg,New Zealand sole,,
+,28E,kg,Other,,
+,,,Headed and gutted:,,
+,31E,kg,Flounder,,
+,41B,kg,Lemon sole,,
+,51K,kg,New Zealand sole,,
+,58G,kg,Other,,
+,,,Other:,,
+,63C,kg,Flounder,,
+,73L,kg,Lemon sole,,
+,83H,kg,New Zealand sole,,
+,97H,kg,Other,,
+,,,"Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito)",,
+,,,"(Katsuwonus pelamis), excluding edible fish offal of subheadings",,
+,,,0302.91 to 0302.99:,,
+0302.31.00,,,Albacore or longfinned tunas (Thunnus alalunga),Free,Free
+,01L,kg,Whole,,
+,11H,kg,Headed and gutted,,
+,29L,kg,Other,,
+0302.32.00,,,Yellowfin tunas (Thunnus albacares),Free,Free
+,01E,kg,Whole,,
+,11B,kg,Headed and gutted,,
+,29E,kg,Other,,
+0302.33.00,,,Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis),Free,Free
+,01K,kg,Whole,,
+,11G,kg,Headed and gutted,,
+,29K,kg,Other,,
+0302.34.00,,,Bigeye tunas (Thunnus obesus),Free,Free
+,10C,kg,Whole,,
+,12K,kg,Headed and gutted,,
+,29D,kg,Other,,
+0302.35.00,,,"Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)",Free,Free
+,,,Atlantic:,,
+,11F,kg,Whole,,
+,15J,kg,Headed and gutted,,
+,31L,kg,Other,,
+,,,Pacific:,,
+,33G,kg,Whole,,
+,35C,kg,Headed and gutted,,
+,49C,kg,Other,,
+0302.36.00,,,Southern bluefin tunas (Thunnus maccoyii),Free,Free
+,10B,kg,Whole,,
+,12J,kg,Headed and gutted,,
+,29C,kg,Other,,
+0302.39.00,,,Other,Free,Free
+,07F,kg,Whole,,
+,13L,kg,Headed and gutted,,
+,49A,kg,Other,,
+,,,"Fish, fresh or chilled, excluding fish fillets, etc.—continued",,
+,,,"Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.),",,
+,,,"sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.),",,
+,,,"brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus,",,
+,,,"Scomber australasicus, Scomber japonicus), Indian mackerels",,
+,,,"(Rastrelliger spp.), seerfishes (Scomberomorus spp.) jack and horse",,
+,,,"mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia",,
+,,,"(Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury",,
+,,,"(Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus),",,
+,,,"swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos",,
+,,,"(Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae), excluding",,
+,,,"edible fish offal of Tariff items 0302.91.00, 0302.92.00 or 0302.99.00:",,
+0302.41.00,,,"Herrings (Clupea harengus, Clupea pallasii)",Free,Free
+,10C,kg,Whole,,
+,15D,kg,Headed and gutted,,
+,29D,kg,Other,,
+0302.42.00,,,Anchovies (Engraulis spp.),Free,Free
+,10H,kg,Whole,,
+,15J,kg,Headed and gutted,,
+,29J,kg,Other,,
+0302.43.00,,,"Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.),",,
+,,,brisling or sprats (Sprattus sprattus),Free,Free
+,10B,kg,Whole,,
+,15C,kg,Headed and gutted,,
+,29C,kg,Other,,
+0302.44.00,,,"Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",Free,Free
+,10G,kg,Whole,,
+,15H,kg,Headed and gutted,,
+,29H,kg,Other,,
+0302.45.00,,,Jack and horse mackerel (Trachurus spp.),Free,Free
+,10A,kg,Whole,,
+,15B,kg,Headed and gutted,,
+,29B,kg,Other,,
+0302.46.00,,,Cobia (Rachycentron canadum),Free,Free
+,10F,kg,Whole,,
+,15G,kg,Headed and gutted,,
+,29G,kg,Other,,
+0302.47.00,,,Swordfish (Xiphias gladius),Free,Free
+,10L,kg,Whole,,
+,15A,kg,Headed and gutted,,
+,29A,kg,Other,,
+0302.49.00,,,Other,Free,Free
+,10K,kg,Whole,,
+,15L,kg,Headed and gutted,,
+,19C,kg,Other,,
+,,," Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae,",,
+,,,"Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae,",,
+,,,"excluding edible fish offal of Tariff items 0302.91.00, 0302.92.00",,
+,,,or 0302.99.00:,,
+0302.51.00,,,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",Free,Free
+,10G,kg,Whole,,
+,15H,kg,Headed and gutted,,
+,29H,kg,Other,,
+0302.52.00,,,Haddock (Melanogrammus aeglefinus),Free,Free
+,10A,kg,Whole,,
+,15B,kg,Headed and gutted,,
+,29B,kg,Other,,
+0302.53.00,,,Coalfish (Pollachius virens),Free,Free
+,10F,kg,Whole,,
+,15G,kg,Headed and gutted,,
+,29G,kg,Other,,
+0302.54.00,,,"Hake (Merluccius spp., Urophycis spp.)",Free,Free
+,10L,kg,Whole,,
+,15A,kg,Headed and gutted,,
+,29A,kg,Other,,
+0302.55.00,,,Alaska Pollock (Theragra chalcogramma),Free,Free
+,10E,kg,Whole,,
+,15F,kg,Headed and gutted,,
+,29F,kg,Other,,
+,,,"Fish, fresh or chilled, excluding fish fillets, etc.—continued",,
+,,," Fish of the families Bregmacerotidae, Euclichthyidae, etc.—continued",,
+0302.56.00,,,"Blue whitings (Micromesistius poutassou, Micromesistius australis)",Free,Free
+,10K,kg,Whole,,
+,15L,kg,Headed and gutted,,
+,29L,kg,Other,,
+0302.59.00,,,Other,Free,Free
+,10C,kg,Whole,,
+,15D,kg,Headed and gutted,,
+,29D,kg,Other,,
+,,," Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp.,",,
+,,,"Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp.,",,
+,,,"Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,",,
+,,,"Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,",,
+,,,"Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch",,
+,,,"(Lates niloticus) and snakeheads (Channa spp.), excluding edible fish offal",,
+,,,"of Tariff items 0302.91.00, 0302.92.00 or 0302.99.00:",,
+0302.71.00,,,Tilapias (Oreochromis spp.),Free,Free
+,10D,kg,Whole,,
+,15E,kg,Headed and gutted,,
+,29E,kg,Other,,
+0302.72.00,,,"Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",Free,Free
+,10J,kg,Whole,,
+,15K,kg,Headed and gutted,,
+,29K,kg,Other,,
+0302.73.00,,,"Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,",,
+,,,"Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus,",,
+,,,"Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni,",,
+,,,Megalobrama spp.),Free,Free
+,11A,kg,Whole,,
+,17L,kg,Headed and gutted,,
+,29D,kg,Other,,
+0302.74.00,,,Eels (Anguilla spp.),Free,Free
+,10H,kg,Whole,,
+,15J,kg,Headed and gutted,,
+,29J,kg,Other,,
+0302.79.00,,,Other,Free,Free
+,10L,kg,Whole,,
+,15A,kg,Headed and gutted,,
+,29A,kg,Other,,
+,,,"Other fish, excluding edible fish offal of Tariff items",,
+,,,"0302.91.00, 0302.92.00 or 0302.99.00:",,
+0302.81.00,,,Dogfish and other sharks,Free,Free
+,10H,kg,Whole,,
+,15J,kg,Headed and gutted,,
+,29J,kg,Other,,
+0302.82.00,,,Rays and skates (Rajidae),Free,Free
+,10B,kg,Whole,,
+,15C,kg,Headed and gutted,,
+,29C,kg,Other,,
+0302.83.00,,,Toothfish (Dissostichus spp.),Free,Free
+,,,Whole:,,
+,10G,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,15H,kg,Patagonian Toothfish (Dissostichus eleginoides),,
+,17D,kg,Other,,
+,,,Headed and gutted:,,
+,20D,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,25E,kg,Patagonian Toothfish (Dissostichus eleginoides),,
+,27A,kg,Other,,
+,,,Other:,,
+,32H,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,36L,kg,Patagonian Toothfish (Dissostichus eleginoides),,
+,49B,kg,Other,,
+0302.84.00,,,Seabass (Dicentrarchus spp.),Free,Free
+,10A,kg,Whole,,
+,15B,kg,Headed and gutted,,
+,29B,kg,Other,,
+,,,"Fish, fresh or chilled, excluding fish fillets, etc.—continued",,
+,,,"Other fish, excluding edible fish offal, etc.—continued",,
+0302.85.00,,,Seabream (Sparidae),Free,Free
+,,,Whole:,,
+,10F,kg,Snapper,,
+,19K,kg,Other,,
+,,,Headed and gutted:,,
+,21A,kg,Snapper,,
+,29G,kg,Other,,
+,,,Other:,,
+,33E,kg,Snapper,,
+,49A,kg,Other,,
+302.89,,,Other:,,
+0302.89.10,,,Whole,Free,Free
+,10K,kg,Bluenose,,
+,15L,kg,Groper,,
+,19C,kg,Gurnard,,
+,25H,kg,John dory,,
+,29L,kg,Leatherjacket,,
+,35E,kg,Monkfish,,
+,39H,kg,Mullet,,
+,49E,kg,Tarakihi,,
+,55K,kg,Trevally,,
+,59B,kg,Whitebait,,
+,65G,kg,Yellowtail kingfish,,
+,79G,kg,Other,,
+0302.89.20,,,Headed and gutted,Free,Free
+,10E,kg,Bluenose,,
+,15F,kg,Groper,,
+,19J,kg,Gurnard,,
+,25C,kg,John dory,,
+,29F,kg,Leatherjacket,,
+,35L,kg,Monkfish,,
+,39C,kg,Mullet,,
+,49L,kg,Tarakihi,,
+,55E,kg,Trevally,,
+,59H,kg,Yellowtail kingfish,,
+,79B,kg,Other,,
+0302.89.90,,,Other,Free,Free
+,11A,kg,Bluenose,,
+,13H,kg,Groper,,
+,17L,kg,Gurnard,,
+,21J,kg,John Dory,,
+,23E,kg,Leatherjacket,,
+,27H,kg,Monkfish,,
+,31F,kg,Mullet,,
+,33B,kg,Tarakihi,,
+,37E,kg,Trevally,,
+,41C,kg,Yellowtail kingfish,,
+,79L,kg,Other,,
+,,,"Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal:",,
+0302.91.00,,,"Livers, roes and milt",Free,Free
+,10A,kg,Livers and roes of salmonidae,,
+,19E,kg,Other,,
+0302.92.00,00J,kg,Shark fins,Free,Free
+0302.99.00,00L,kg,Other,Free,Free
+3.03,,,"Fish, frozen, excluding fish fillets and other fish meat of heading 03.04:",,
+,,,"Salmonidae, excluding edible fish offal of Tariff items 0303.91.00,",,
+,,,"0303.92.00, or 0303.99.00:",,
+0303.11.00,,,Sockeye salmon (red salmon) (Oncorhynchus nerka),Free,Free
+,10L,kg,Whole,,
+,12G,kg,Headed and gutted,,
+,29A,kg,Other,,
+0303.12.00,,,"Other Pacific salmon (Oncorhynchus gorbuscha, Oncorhynchus keta,",,
+,,,"Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus",,
+,,,masou and Oncorhynchus rhodurus),Free,Free
+,10E,kg,Whole,,
+,15F,kg,Headed and gutted,,
+,29F,kg,Other,,
+,,,"Fish, frozen, excluding fish fillets and other fish meat, etc.—continued",,
+,,,"Salmonidae, excluding edible fish offal of Tariff items, etc.—continued",,
+0303.13.00,,,Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho),Free,Free
+,10K,kg,Whole,,
+,15L,kg,Headed and gutted,,
+,29L,kg,Other,,
+0303.14.00,,,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki,",,
+,,,"Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus",,
+,,,apache and Oncorhynchus chrysogaster),Free,Free
+,,,"Trout (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aquabonita,",,
+,,,Salmo gilae):,,
+,10D,kg,Whole,,
+,15E,kg,Headed and gutted,,
+,18K,kg,Other,,
+,,,Other:,,
+,25B,kg,Whole,,
+,29E,kg,Headed and gutted,,
+,49K,kg,Other,,
+0303.19.00,,,Other,Free,Free
+,11E,kg,Whole,,
+,15H,kg,Headed and gutted,,
+,39E,kg,Other,,
+,,," Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp.,",,
+,,,"Clarias spp., Ictalurus spp.), carp (cyprinus spp., Carassius spp.,",,
+,,,"Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,",,
+,,,"Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,",,
+,,,"Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.),",,
+,,,"Nile perch (Lates niloticus) and snakeheads (Channa spp.), excluding",,
+,,,"edible fish offal of Tariff items 0303.91.00, 0303.92.00, or 0303.99.00:",,
+0303.23.00,,,Tilapias (Oreochromis spp.),Free,Free
+,10C,kg,Whole,,
+,15D,kg,Headed and gutted,,
+,29D,kg,Other,,
+0303.24.00,,,"Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",Free,Free
+,10H,kg,Whole,,
+,15J,kg,Headed and gutted,,
+,29J,kg,Other,,
+0303.25.00,,,"Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,",,
+,,,"Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus,",,
+,,,"Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni,",,
+,,,Megalobrama spp.),Free,Free
+,11L,kg,Whole,,
+,21H,kg,Headed and gutted,,
+,29C,kg,Other,,
+0303.26.00,,,Eels (Anguilla spp.),Free,Free
+,10G,kg,Whole,,
+,15H,kg,Headed and gutted,,
+,29H,kg,Other,,
+0303.29.00,,,Other,Free,Free
+,10L,kg,Whole,,
+,15A,kg,Headed and gutted,,
+,49F,kg,Other,,
+,,,"Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae,",,
+,,,"Scophthalmidae and Citharidae), excluding edible fish offal of Tariff",,
+,,,"items 0303.91.00, 0303.92.00, or 0303.99.00:",,
+0303.31.00,,,"Halibut (Reinhardtius hippoglossoides, Hippoglossus hippoglossus,",,
+,,,Hippoglossus stenolepis),Free,Free
+,01J,kg,Whole,,
+,11F,kg,Headed and gutted,,
+,29J,kg,Other,,
+0303.32.00,,,Plaice (Pleuronectes platessa),Free,Free
+,01C,kg,Whole,,
+,11L,kg,Headed and gutted,,
+,29C,kg,Other,,
+0303.33.00,,,Sole (Solea spp.),Free,Free
+,01H,kg,Whole,,
+,11E,kg,Headed and gutted,,
+,29H,kg,Other,,
+,,,"Fish, frozen, excluding fish fillets and other fish meat, etc.—continued",,
+,,,"Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, etc.—continued",,
+0303.34.00,,,Turbots (Psetta maxima),Free,Free
+,10A,kg,Whole,,
+,15B,kg,Headed and gutted,,
+,39K,kg,Other,,
+0303.39.00,,,Other,Free,Free
+,,,Whole:,,
+,02C,kg,Flounder,,
+,12L,kg,Lemon sole,,
+,21K,kg,New Zealand sole,,
+,28G,kg,Other,,
+,,,Headed and gutted:,,
+,31G,kg,Flounder,,
+,41D,kg,Lemon sole,,
+,51A,kg,New Zealand sole,,
+,58J,kg,Other,,
+,,,Other:,,
+,62G,kg,Flounder,,
+,72D,kg,Lemon sole,,
+,82A,kg,New Zealand sole,,
+,97K,kg,Other,,
+,,,"Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito)",,
+,,,"(Katsuwonus pelamis), excluding edible fish offal of subheadings",,
+,,,0303.91 to 0303.99:,,
+0303.41.00,,,Albacore or longfinned tunas (Thunnus alalunga),Free,Free
+,01B,kg,Whole,,
+,11K,kg,Headed and gutted,,
+,29B,kg,Other,,
+0303.42.00,,,Yellowfin tunas (Thunnus albacares),Free,Free
+,01G,kg,Whole,,
+,11D,kg,Headed and gutted,,
+,29G,kg,Other,,
+0303.43.00,,,Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis),Free,Free
+,01A,kg,Whole,,
+,11J,kg,Headed and gutted,,
+,29A,kg,Other,,
+0303.44.00,,,Bigeye tunas (Thunnus obesus),Free,Free
+,10E,kg,Whole,,
+,12A,kg,Headed and gutted,,
+,29F,kg,Other,,
+0303.45.00,,,"Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)",Free,Free
+,,,Atlantic bluefin tuna:,,
+,11H,kg,Whole,,
+,15L,kg,Headed and gutted,,
+,28B,kg,Other,,
+,,,Pacific bluefin tuna:,,
+,31B,kg,Whole,,
+,35E,kg,Headed and gutted,,
+,49E,kg,Other,,
+0303.46.00,,,Southern bluefin tunas (Thunnus maccoyii),Free,Free
+,10D,kg,Whole,,
+,12L,kg,Headed and gutted,,
+,29E,kg,Other,,
+0303.49.00,,,Other,Free,Free
+,13B,kg,Whole,,
+,15J,kg,Headed and gutted,,
+,49C,kg,Other,,
+,,,"Fish, frozen, excluding fish fillets and other fish meat, etc.—continued",,
+,,,"Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.),",,
+,,,"sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.),",,
+,,,"brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus,",,
+,,,"Scomber australasicus, Scomber japonicus), Indian mackerels",,
+,,,"(Rastrelliger spp.), seerfishes (Scomberomorus spp), jack and horse",,
+,,,"mackerel (Trachurus spp.), jacks, crevalles (caranx spp.), cobia",,
+,,,"(rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury",,
+,,,"(Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus),",,
+,,,"swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos",,
+,,,"(Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae), excluding",,
+,,,"edible fish offal of Tariff items 0303.91.00, 0303.92.00 or 0303.99.00:",,
+0303.51.00,,,"Herrings (Clupea Harengus, Clupea pallasii) Free",,Free
+,10E,kg,Whole,,
+,13K,kg,Headed and gutted,,
+,29F,kg,Other,,
+0303.53.00,,,"Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.),",,
+,,,brisling or sprats (Sprattus sprattus) Free,,Free
+,10D,kg,Whole,,
+,15E,kg,Headed and gutted,,
+,29E,kg,Other,,
+0303.54.00,,,"Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus) Free",,Free
+,,,Whole:,,
+,10J,kg,Blue mackerel,,
+,15K,kg,Other,,
+,,,Headed and gutted:,,
+,19B,kg,Blue mackerel,,
+,25G,kg,Other,,
+,,,Other:,,
+,31A,kg,Blue mackerel,,
+,49D,kg,Other,,
+0303.55.00,,,Jack and horse mackerel (Trachurus spp.) Free,,Free
+,,,Whole:,,
+,10C,kg,Jack mackerel,,
+,15D,kg,Other,,
+,,,Headed and gutted:,,
+,19G,kg,Jack mackerel,,
+,25A,kg,Other,,
+,,,Other:,,
+,31F,kg,Jack mackerel,,
+,49J,kg,Other,,
+0303.56.00,,,Cobia (Rachycentron canadum) Free,,Free
+,10H,kg,Whole,,
+,15J,kg,Headed and gutted,,
+,29J,kg,Other,,
+0303.57.00,,,Swordfish (Xiphias gladius) Free,,Free
+,10B,kg,Whole,,
+,15C,kg,Headed and gutted,,
+,29C,kg,Other,,
+0303.59.00,,,Other Free,,Free
+,10A,kg,Whole,,
+,15B,kg,Headed and gutted,,
+,19E,kg,Other,,
+,,,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae,",,
+,,,"Melanonidae, Merlucciidae, Moridae and Muraenolepididae, excluding",,
+,,,"edible fish offal of Tariff items 0303.91.00, 0303.92.00 or 0303.99.00:",,
+0303.63.00,,,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)  Free",,Free
+,10H,kg,Whole,,
+,15J,kg,Headed and gutted,,
+,29J,kg,Other,,
+0303.64.00,,,Haddock (Melanogrammus aeglefinus) Free,,Free
+,10B,kg,Whole,,
+,15C,kg,Headed and gutted,,
+,29C,kg,Other,,
+0303.65.00,,,Coalfish (Pollachius virens) Free,,Free
+,10G,kg,Whole,,
+,15H,kg,Headed and gutted,,
+,29H,kg,Other,,
+0303.66.00,,,"Hake (Merluccius spp., Urophycis spp.) Free",,Free
+,10A,kg,Whole,,
+,15B,kg,Headed and gutted,,
+,29B,kg,Other,,
+,,,"Fish, frozen, excluding fish fillets and other fish meat, etc.—continued",,
+,,,"Fish of the families Bremacerotidae, Euclichthyidae, etc.—continued",,
+0303.67.00,,,Alaska Pollock (Theragra chalcogramma),Free,Free
+,10F,kg,Whole,,
+,15G,kg,Headed and gutted,,
+,29G,kg,Other,,
+0303.68.00,,,"Blue Whitings (Micromesistius poutassou, Micromesistius australis)",Free,Free
+,,,Southern blue whiting:,,
+,10L,kg,Whole,,
+,15A,kg,Headed and gutted,,
+,20H,kg,Other,,
+,,,Other:,,
+,25J,kg,Whole,,
+,29A,kg,Headed and gutted,,
+,49F,kg,Other,,
+0303.69.00,,,Other,Free,Free
+,,,Whole:,,
+,10E,kg,Hoki,,
+,13K,kg,Red cod,,
+,15F,kg,Other,,
+,,,Headed and gutted:,,
+,19J,kg,Hoki,,
+,23G,kg,Red cod,,
+,25C,kg,Other,,
+,,,Other:,,
+,31H,kg,Hoki,,
+,37G,kg,Red cod,,
+,49L,kg,Other,,
+,,,"Other fish, excluding edible fish offal of Tariff items 0303.91.00,",,
+,,,0303.92.00 or 0303.99.00:,,
+0303.81.00,,,Dogfish and other sharks,Free,Free
+,,,Whole:,,
+,10F,kg,Elephant fish,,
+,15G,kg,School shark,,
+,17C,kg,Spiny dogfish,,
+,19K,kg,Spotted dogfish (Rig),,
+,21A,kg,Other,,
+,,,Headed and gutted:,,
+,23H,kg,Elephant fish,,
+,27L,kg,School shark,,
+,29G,kg,Spiny dogfish,,
+,31J,kg,Spotted dogfish (Rig),,
+,33E,kg,Other,,
+,,,Other:,,
+,36K,kg,Elephant fish,,
+,40H,kg,School shark,,
+,42D,kg,Spiny dogfish,,
+,44L,kg,Spotted dogfish (Rig),,
+,59J,kg,Other,,
+0303.82.00,,,Rays and skates (Rajidae),Free,Free
+,10L,kg,Whole,,
+,15A,kg,Headed and gutted,,
+,29A,kg,Other,,
+0303.83.00,,,Toothfish (Dissostichus spp.),Free,Free
+,,,Whole:,,
+,10E,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,13K,kg,Patagonian Toothfish (Dissoctichus eleginoides),,
+,15F,kg,Other,,
+,,,Headed and gutted:,,
+,17B,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,19J,kg,Patagonian Toothfish (Dissoctichus eleginoides),,
+,21L,kg,Other,,
+,,,Other:,,
+,31H,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,35L,kg,Patagonian Toothfish (Dissoctichus eleginoides),,
+,39C,kg,Other,,
+0303.84.00,,,Seabass (Dicentrarchus spp.),Free,Free
+,10K,kg,Whole,,
+,15L,kg,Headed and gutted,,
+,29L,kg,Other,,
+,,,"Fish, frozen, excluding fish fillets and other fish meat, etc.—continued",,
+,,,"Other fish, excluding edible fish offal of Tariff items, etc.—continued",,
+303.89,,,Other:,,
+0303.89.10,,,Whole,Free,Free
+,10H,kg,Alfonsino,,
+,13B,kg,Barracouta,,
+,15J,kg,Bluenose,,
+,17E,kg,Blue cod,,
+,19A,kg,Cardinal Fish,,
+,21C,kg,Gemfish,,
+,22A,kg,Ghost shark,,
+,23K,kg,Groper,,
+,25F,kg,Gurnard,,
+,29J,kg,John dory,,
+,31L,kg,Kahawai,,
+,33G,kg,Leatherjacket,,
+,35C,kg,Ling,,
+,37K,kg,Moki,,
+,39F,kg,Monkfish,,
+,41H,kg,Mullet,,
+,43D,kg,Orange roughy,,
+,,,Oreo dory:,,
+,45L,kg,Black,,
+,47G,kg,Other,,
+,51E,kg,Sea perch,,
+,53A,kg,Snapper,,
+,55H,kg,Tarakihi,,
+,57D,kg,Trevally,,
+,,,Warehou:,,
+,59L,kg,Blue,,
+,61B,kg,Silver,,
+,63J,kg,Other,,
+,65E,kg,Whitebait,,
+,67A,kg,Yellowtail kingfish,,
+,79E,kg,Other,,
+0303.89.20,,,Headed and gutted,Free,Free
+,10C,kg,Alfonsino,,
+,13H,kg,Barracouta,,
+,15D,kg,Bluenose,,
+,17L,kg,Blue cod,,
+,19G,kg,Cardinal Fish,,
+,21J,kg,Gemfish,,
+,22G,kg,Ghost shark,,
+,23E,kg,Groper,,
+,25A,kg,Gurnard,,
+,29D,kg,John dory,,
+,31F,kg,Kahawai,,
+,33B,kg,Leatherjacket,,
+,35J,kg,Ling,,
+,37E,kg,Moki,,
+,39A,kg,Monkfish,,
+,41C,kg,Mullet,,
+,43K,kg,Orange roughy,,
+,,,Oreo dory:,,
+,45F,kg,Black,,
+,47B,kg,Other,,
+,51L,kg,Sea perch,,
+,53G,kg,Snapper,,
+,55C,kg,Tarakihi,,
+,57K,kg,Trevally,,
+,,,Warehou:,,
+,59F,kg,Blue,,
+,61H,kg,Silver,,
+,63D,kg,Other,,
+,67G,kg,Yellowtail kingfish,,
+,79L,kg,Other,,
+,,,"Fish, frozen, excluding fish fillets and other fish meat, etc.—continued",,
+,,,"Other fish, excluding edible fish offal of Tariff items, etc.—continued",,
+,,,Other—continued,,
+0303.89.90,,,Other,Free,Free
+,11K,kg,Alfonsino,,
+,14D,kg,Barracouta,,
+,16L,kg,Bluenose,,
+,18G,kg,Blue cod,,
+,20J,kg,Cardinal Fish,,
+,22E,kg,Gemfish,,
+,24A,kg,Groper,,
+,26H,kg,Gurnard,,
+,27F,kg,Ghost shark,,
+,28D,kg,John dory,,
+,,,Kahawai:,,
+,30F,kg,Heads,,
+,32B,kg,Other,,
+,34J,kg,Leatherjacket,,
+,36E,kg,Ling,,
+,38A,kg,Moki,,
+,40C,kg,Monkfish,,
+,42K,kg,Mullet,,
+,44F,kg,Orange roughy,,
+,,,Oreo dory:,,
+,46B,kg,Black,,
+,48J,kg,Other,,
+,50L,kg,Sea perch,,
+,52G,kg,Snapper,,
+,54C,kg,Tarakihi,,
+,56K,kg,Trevally,,
+,,,Warehou:,,
+,58F,kg,Blue,,
+,60H,kg,Silver,,
+,62D,kg,Other,,
+,64L,kg,Yellowtail kingfish,,
+,79J,kg,Other,,
+,,,"Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal:",,
+0303.91.00,,,"Livers, roes and milt",Free,Free
+,10K,kg,Livers and roes of salmonidae,,
+,19C,kg,Other,,
+0303.92.00,00G,kg,Shark fins,Free,Free
+0303.99.00,00J,kg,Other,Free,Free
+3.04,,,"Fish fillets and other fish meat (whether or not minced), fresh, chilled",,
+,,,or frozen:,,
+,,,"Fresh or chilled fillets of tilapias (Oreochromis spp.), catfish",,
+,,,"(Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp",,
+,,,"(Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,",,
+,,,"Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus,",,
+,,,"Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni,",,
+,,,"Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus)",,
+,,,and snakeheads (Channa spp.):,,
+0304.31.00,00J,kg,Tilapias (Oreochromis spp.),Free,Free
+0304.32.00,00C,kg,"Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",Free,Free
+0304.33.00,00H,kg,Nile perch (Lates niloticus),Free,Free
+0304.39.00,10B,kg,Other,Free,Free
+,,,Fresh or chilled fillets of other fish:,,
+0304.41.00,00B,kg,"Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha,",,
+,,,"Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus",,
+,,,"kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic",,
+,,,salmon (Salmo salar) and Danube salmon (Hucho hucho),Free,Free
+0304.42.00,00G,kg,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki,",,
+,,,"Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus",,
+,,,apache and Oncorhynchus chrysogaster),Free,Free
+0304.43.00,,,"Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae,",,
+,,,Scophthalmidae and Citharidae),Free,Free
+,10J,kg,Flounder,,
+,15K,kg,Lemon sole,,
+,19B,kg,New Zealand sole,,
+,29K,kg,Other,,
+,,,"Fish fillets and other fish meat (whether or not minced), etc.—continued",,
+,,,Fresh or chilled fillets of other fish—continued,,
+0304.44.00,,,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae,",,
+,,,"Macrouridae, Melanonidae, Merlucciidae, Moridae and",,
+,,,Muraenolepididae,Free,Free
+,10C,kg,Hake,,
+,15D,kg,Hoki,,
+,17L,kg,Red cod,,
+,19G,kg,Southern blue whiting,,
+,29D,kg,Other,,
+0304.45.00,00L,kg,Swordfish (Xiphias gladius),Free,Free
+0304.46.00,,,Toothfish (Dissostichus spp.),Free,Free
+,10B,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,15C,kg,Patagonian Toothfish (Dissostichus eleginoides),,
+,19F,kg,Other,,
+0304.47.00,,,Dogfish and other sharks,Free,Free
+,10G,kg,Elephant fish,,
+,17D,kg,Spotted dogfish (Rig),,
+,19L,kg,Other,,
+0304.48.00,00D,kg,Rays and skates (Rajidae),Free,Free
+0304.49.00,,,Other,Free,Free
+,10F,kg,Barracouta,,
+,13L,kg,Bluenose,,
+,15G,kg,Blue cod,,
+,17C,kg,Cardinal fish,,
+,23H,kg,Gemfish,,
+,27L,kg,Groper,,
+,28J,kg,Ghost shark,,
+,29G,kg,Gurnard,,
+,35A,kg,John dory,,
+,37H,kg,Kahawai,,
+,41F,kg,Ling,,
+,43B,kg,Moki,,
+,45J,kg,Monkfish,,
+,49A,kg,Orange roughy,,
+,,,Oreo dory:,,
+,51C,kg,Black,,
+,53K,kg,Smooth,,
+,57B,kg,Snapper,,
+,63G,kg,Tarakihi,,
+,65C,kg,Trevally,,
+,,,Tuna:,,
+,67K,kg,Southern bluefin,,
+,69F,kg,Other,,
+,,,Warehou:,,
+,71H,kg,Blue,,
+,73D,kg,Silver,,
+,75L,kg,White,,
+,77G,kg,Yellowtail kingfish,,
+,99H,kg,Other,,
+,,,"Other, fresh or chilled:",,
+0304.51.00,10C,kg,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp.,",,
+,,,"Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp.,",,
+,,,"Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,",,
+,,,"Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,",,
+,,,"Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile",,
+,,,perch (Lates niloticus) and snakeheads (Channa spp.),Free,Free
+0304.52.00,00L,kg,Salmonidae,Free,Free
+0304.53.00,,,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae,",,
+,,,"Macrouridae, Melanonidae, Merlucciidae, Moridae and",,
+,,,Muraenolepididae,Free,Free
+,10B,kg,Hake,,
+,15C,kg,Hoki,,
+,17K,kg,Red cod,,
+,19F,kg,Southern blue whiting,,
+,29C,kg,Other,,
+0304.54.00,00K,kg,Swordfish (Xiphias gladius),Free,Free
+0304.55.00,,,Toothfish (Dissostichus spp.),Free,Free
+,10A,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,15B,kg,Patagonian Toothfish (Dissostichus eleginoides),,
+,19E,kg,Other,,
+,,,"Fish fillets and other fish meat (whether or not minced), etc.—continued",,
+,,,"Other, fresh or chilled—continued",,
+0304.56.00,,,Dogfish and other sharks,Free,Free
+,10F,kg,Elephant fish,,
+,17C,kg,Spotted dogfish (Rig),,
+,19K,kg,Other,,
+0304.57.00,00C,kg,Rays and skates (Rajidae),Free,Free
+0304.59.00,,,Other,Free,Free
+,10K,kg,Barracouta,,
+,13D,kg,Bluenose,,
+,15L,kg,Blue cod,,
+,17G,kg,Cardinal fish,,
+,21E,kg,Flounder,,
+,23A,kg,Gemfish,,
+,24K,kg,Ghost shark,,
+,27D,kg,Groper,,
+,29L,kg,Gurnard,,
+,35E,kg,John dory,,
+,37A,kg,Kahawai,,
+,39H,kg,Lemon sole,,
+,41K,kg,Ling,,
+,43F,kg,Moki,,
+,45B,kg,Monkfish,,
+,47J,kg,New Zealand sole,,
+,49E,kg,Orange roughy,,
+,,,Oreo dory:,,
+,51G,kg,Black,,
+,53C,kg,Smooth,,
+,57F,kg,Snapper,,
+,63L,kg,Tarakihi,,
+,65G,kg,Trevally,,
+,,,Tuna:,,
+,67C,kg,Southern bluefin,,
+,69K,kg,Other,,
+,,,Warehou:,,
+,71A,kg,Blue,,
+,73H,kg,Silver,,
+,75D,kg,White,,
+,77L,kg,Yellowtail kingfish,,
+,89D,kg,Other,,
+,,,"Frozen fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp.,",,
+,,,"Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius",,
+,,,"spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,",,
+,,,"Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,",,
+,,,"Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch",,
+,,,(Lates niloticus) and snakeheads (Channa spp.):,,
+0304.61.00,00K,kg,Tilapias (Oreochromis spp.),Free,Free
+0304.62.00,00D,kg,"Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",Free,Free
+0304.63.00,00J,kg,Nile Perch (Lates niloticus),Free,Free
+0304.69.00,10C,kg,Other,Free,Free
+,,,"Frozen fillets of fish of the families Bregmacerotidae, Euclichthyidae,",,
+,,,"Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and",,
+,,,Muraenolepididae:,,
+0304.71.00,00C,kg,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",Free,Free
+0304.72.00,00H,kg,Haddock (Melanogrammus aeglefinus),Free,Free
+0304.73.00,00B,kg,Coalfish (Pollachius virens),Free,Free
+0304.74.00,,,"Hake (Merluccius spp., Urophycis spp.)",Free,Free
+,10D,kg,In blocks,,
+,19H,kg,Other,,
+0304.75.00,,,Alaska Pollock (Theragra chalcogramma),Free,Free
+,10J,kg,In blocks,,
+,19B,kg,Other,,
+,,,"Fish fillets and other fish meat (whether or not minced), etc.—continued",,
+,,,"Frozen fillets of fish of the families Bregmacerotidae, etc.—continued",,
+0304.79.00,,,Other,Free,Free
+,,,Hoki:,,
+,10G,kg,In blocks,,
+,19L,kg,Other,,
+,,,Red cod:,,
+,21B,kg,In blocks,,
+,29H,kg,Other,,
+,,,Southern blue whiting:,,
+,31K,kg,In blocks,,
+,35B,kg,Other,,
+,39E,kg,Other,,
+,,,Frozen fillets of other fish:,,
+0304.81.00,00G,kg,"Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha,",,
+,,,"Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus",,
+,,,"kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic",,
+,,,salmon (Salmo salar) and Danube salmon (Hucho hucho),Free,Free
+0304.82.00,00A,kg,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki,",,
+,,,"Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache",,
+,,,and Oncorhynchus chrysogaster),Free,Free
+0304.83.00,,,"Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae,",,
+,,,Scophthalmidae and Citharidae),Free,Free
+,10C,kg,In blocks,,
+,,,Other:,,
+,15D,kg,Flounder,,
+,19G,kg,Lemon sole,,
+,25A,kg,New Zealand Sole,,
+,29D,kg,Other,,
+0304.84.00,00L,kg,Swordfish (Xiphias gladius),Free,Free
+0304.85.00,,,Toothfish (Dissostichus spp.),Free,Free
+,10B,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,19F,kg,Patagonian Toothfish (Dissostichus eleginoides),,
+,29C,kg,Other,,
+0304.86.00,00K,kg,"Herrings (Clupea harengus, Clupea pallasii)",Free,Free
+0304.87.00,,,"Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito)",,
+,,,(Katsuwonus pelamis),Free,Free
+,10A,kg,Southern Bluefin,,
+,19E,kg,Other,,
+0304.88.00,,,"Dogfish, other sharks, rays and skates (Rajidae)",Free,Free
+,10F,kg,Elephant fish,,
+,17C,kg,School shark,,
+,21A,kg,Skate,,
+,25D,kg,Spotted dogfish (Rig),,
+,29G,kg,Other,,
+,,,"Fish fillets and other fish meat (whether or not minced), etc.—continued",,
+,,,Frozen fillets of other fish—continued,,
+0304.89.00,,,Other,Free,Free
+,10L,kg,In blocks,,
+,,,Other:,,
+,11J,kg,Barracouta,,
+,13E,kg,Bluenose,,
+,15A,kg,Blue cod,,
+,17H,kg,Cardinal fish,,
+,23B,kg,Gemfish,,
+,27E,kg,Groper,,
+,28C,kg,Ghost shark,,
+,29A,kg,Gurnard,,
+,35F,kg,John dory,,
+,37B,kg,Kahawai,,
+,39J,kg,Leatherjacket,,
+,43G,kg,Ling,,
+,,,Mackerel:,,
+,45C,kg,Blue,,
+,47K,kg,Jack,,
+,49F,kg,Monkfish,,
+,53D,kg,Orange roughy,,
+,,,Oreo dory:,,
+,55L,kg,Black,,
+,57G,kg,Smooth,,
+,65H,kg,Snapper,,
+,71B,kg,Tarakihi,,
+,73J,kg,Trevally,,
+,,,Warehou:,,
+,75E,kg,Blue,,
+,77A,kg,Silver,,
+,79H,kg,White,,
+,99B,kg,Other,,
+,,,"Other, frozen:",,
+0304.91.00,00L,kg,Swordfish (Xiphias gladius),Free,Free
+0304.92.00,,,Toothfish (Dissostichus spp.),Free,Free
+,10B,kg,Antarctic Toothfish (Dissostichus mawsoni),,
+,13G,kg,Patagonian Toothfish (Dissostichus eleginoides),,
+,16A,kg,Other,,
+0304.93.00,,,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp.,",,
+,,,"Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp.,",,
+,,,"Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,",,
+,,,"Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,",,
+,,,"Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile",,
+,,,perch (Lates niloticus) and snakeheads (Channa spp.),Free,Free
+,10G,kg,Minced blocks,,
+,19L,kg,Surimi,,
+,39E,kg,Other,,
+0304.94.00,,,Alaska Pollock (Theragra chalcogramma),Free,Free
+,10A,kg,Minced blocks,,
+,19E,kg,Surimi,,
+,29B,kg,Other,,
+0304.95.00,,,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae,",,
+,,,"Macrouidae, Melanonidae, Merlucciidae, Moridae and",,
+,,,"Muraenolepididae, other than Alaska Pollock (Theragra chalcogramma)",Free,Free
+,10F,kg,Minced blocks,,
+,,,Surimi:,,
+,15G,kg,Hoki,,
+,19K,kg,Southern blue whiting,,
+,29G,kg,Other,,
+,39D,kg,Other,,
+0304.96.00,,,Dogfish and other sharks,Free,Free
+,10L,kg,Minced blocks,,
+,15A,kg,Surimi,,
+,19D,kg,Other,,
+0304.97.00,,,Rays and Skates (Rajidae),Free,Free
+,10E,kg,Minced blocks,,
+,15F,kg,Surimi,,
+,19J,kg,Other,,
+0304.99.00,,,Other,Free,Free
+,14G,kg,Minced blocks,,
+,23F,kg,Surimi,,
+,39B,kg,Other,,
+3.05,,,"Fish, dried, salted or in brine; smoked fish, whether or not",,
+,,,"cooked before, or during the smoking process:",,
+0305.20.00,,,"Livers, roes and milt of fish, dried, smoked, salted or in brine",Free,Free
+,10F,kg,Dried,,
+,19K,kg,Other,,
+,,,"Fish fillets, dried, salted or in brine, but not smoked:",,
+0305.31.00,,,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp.,",,
+,,,"Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp.,",,
+,,,"Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,",,
+,,,"Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,",,
+,,,"Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.),",,
+,,,Nile perch (Lates niloticus) and snakeheads (Channa spp.),Free,Free
+,11B,kg,Dried,,
+,29E,kg,Other,,
+0305.32.00,,,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae,",,
+,,,"Macrouridae, Melanonidae, Merlucciidae, Moridae and",,
+,,,Muraenolepididae,Free,Free
+,10J,kg,Dried,,
+,19B,kg,Other,,
+0305.39.00,,,Other,Free,Free
+,11J,kg,Dried,,
+,29A,kg,Other,,
+,,,"Smoked fish, including fillets, other than edible fish offal:",,
+0305.41.00,10H,kg,"Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha,",,
+,,,"Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus",,
+,,,"kisutch, Oncorhynchus masou and Oncorhynchus rhodurus),",,
+,,,Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho),Free,Free
+0305.42.00,10B,kg,"Herrings (Clupea harengus, Clupea pallasii)",Free,Free
+0305.43.00,00K,kg,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki,",,
+,,,"Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache",,
+,,,and Oncorhynchus chrysogaster),Free,Free
+0305.44.00,,,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp.,",,
+,,,"Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp.,",,
+,,,"Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,",,
+,,,"Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,",,
+,,,"Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.),",,
+,,,Nile perch (Lates niloticus) and snakeheads (Channa spp.),Free,Free
+,,,Eels:,,
+,10A,kg,Fillets,,
+,15B,kg,Whole,,
+,29B,kg,Other,,
+0305.49.00,,,Other,Free,Free
+,10D,kg,Blue cod,,
+,15E,kg,Hoki,,
+,23F,kg,Kahawai,,
+,25B,kg,Mackerel,,
+,33C,kg,Mullet,,
+,35K,kg,Red cod,,
+,43L,kg,Snapper,,
+,45G,kg,Tarakihi,,
+,53H,kg,Trevally,,
+,89J,kg,Other,,
+,,,"Dried fish, other than edible fish offal, whether or not salted but not",,
+,,,smoked:,,
+0305.51.00,10A,kg,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",Free,Free
+0305.52.00,00J,kg,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp.,",,
+,,,"Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp.,",,
+,,,"Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,",,
+,,,"Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,",,
+,,,"Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile",,
+,,,perch (Lates niloticus) and snakeheads (Channa spp.),Free,Free
+0305.53.00,00C,kg,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae,",,
+,,,"Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae,",,
+,,,"other than cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",Free,Free
+,,,"Fish, dried, salted or in brine; smoked fish, whether, etc.—continued",,
+,,,"Dried fish, other than edible fish offal, etc.—continued",,
+0305.54.00,00H,kg,"Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.),",,
+,,,"sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.),",,
+,,,"brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus,",,
+,,,"Scomber australasicus, Scomber japonicus), Indian mackerels",,
+,,,"(Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse",,
+,,,"mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia",,
+,,,"(Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury",,
+,,,"(Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus),",,
+,,,"swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos",,
+,,,"(sarda spp.), marlins, sailfishes, spearfish (Istiophoridae)",Free,Free
+0305.59.00,11F,kg,Other,Free,Free
+,,,"Fish, salted but not dried or smoked and fish in brine, other than edible",,
+,,,fish offal:,,
+0305.61.00,10E,kg,"Herrings (Clupea harengus, Clupea pallasii)",Free,Free
+0305.62.00,10K,kg,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",Free,Free
+0305.63.00,10D,kg,Anchovies (Engraulis spp.),Free,Free
+0305.64.00,10J,kg,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp.,",,
+,,,"Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp.,",,
+,,,"Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,",,
+,,,"Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,",,
+,,,"Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch",,
+,,,(Lates niloticus) and snakeheads (Channa spp.),Free,Free
+0305.69.00,11K,kg,Other,Free,Free
+,,,"Fish fins, heads, tails, maws and other edible fish offal:",,
+0305.71.00,00A,kg,Shark fins,Free,Free
+0305.72.00,00F,kg,"Fish heads, tails and maws",Free,Free
+0305.79.00,00H,kg,Other,Free,Free
+3.06,,,"Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried,",,
+,,,"salted or in brine; smoked crustaceans, whether in shell or not, whether",,
+,,,"or not cooked before or during the smoking process; crustaceans, in shell,",,
+,,,"cooked by steaming or by boiling in water, whether or not chilled, frozen,",,
+,,,"dried, salted or in brine:",,
+,,,Frozen:,,
+0306.11.00,,,"Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp.,",,
+,,,Jasus spp.),Free,Free
+,01F,kg,Whole,,
+,,,Other:,,
+,11C,kg,Tails,,
+,29F,kg,Other,,
+0306.12.00,10K,kg,Lobsters (Homarus spp.),Free,Free
+0306.14.00,10J,kg,Crabs,Free,Free
+0306.15.00,00F,kg,Norway lobsters (Nephrops norvegicus),Free,Free
+0306.16.00,00L,kg,"Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",Free,Free
+0306.17.00,00E,kg,Other shrimps and prawns,Free,Free
+0306.19.00,12H,kg,Other,Free,Free
+,,,"Live, fresh or chilled:",,
+0306.31.00,,,"Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp.,",,
+,,,Jasus spp.),Free,Free
+,10B,kg,Live,,
+,19F,kg,Other,,
+0306.32.00,,,Lobsters (Homarus spp.),Free,Free
+,10G,kg,Live,,
+,19L,kg,Other,,
+0306.33.00,,,Crabs,Free,Free
+,10A,kg,Live,,
+,19E,kg,Other,,
+0306.34.00,,,Norway lobsters (Nephrops norvegicus),Free,Free
+,10F,kg,Live,,
+,19K,kg,Other,,
+,,,"Crustaceans, whether in shell or not, live, fresh, chilled, etc.—continued",,
+,,,"Live, fresh or chilled—continued",,
+0306.35.00,,,"Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",Free,Free
+,10L,kg,Live,,
+,19D,kg,Other,,
+0306.36.00,,,Other shrimps and prawns,Free,Free
+,10E,kg,Live,,
+,19J,kg,Other,,
+0306.39.00,,,Other,Free,Free
+,10J,kg,Live,,
+,20F,kg,Other,,
+,,,Other:,,
+306.91,,,"Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp.,",,
+,,,Jasus spp.):,,
+0306.91.10,00B,kg,"Smoked, whether in shell or not, whether or not cooked before or",,
+,,,during the smoking process,Free,Free
+0306.91.19,00K,kg,"Whole, cooked",5,Free
+,,,,,* See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+0306.91.29,00E,kg,Other,Free,Free
+306.92,,,Lobsters (Homarus spp.):,,
+0306.92.10,00G,kg,"Smoked, whether in shell or not, whether or not cooked before or",,
+,,,during the smoking process,Free,Free
+0306.92.19,00D,kg,"Whole, cooked",5,Free
+,,,,,* See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+0306.92.29,00K,kg,Other,Free,Free
+306.93,,,Crabs:,,
+0306.93.10,00A,kg,"Smoked, whether in shell or not, whether or not cooked before or",,
+,,,during the smoking process,Free,Free
+0306.93.19,00J,kg,"Whole, cooked",5,Free
+,,,,,* See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+0306.93.29,00D,kg,Other,Free,Free
+306.94,,,Norway lobsters (Nephrops norvegicus):,,
+0306.94.10,00F,kg,Smoked,Free,Free
+0306.94.19,00C,kg,"Whole, cooked",5,Free
+,,,,,* See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+0306.94.29,00J,kg,Other,Free,Free
+306.95,,,Shrimps and prawns:,,
+0306.95.10,00L,kg,Smoked,Free,Free
+0306.95.19,00H,kg,"Whole, cooked",5,Free
+,,,,,* See Below
+,,,,,CA Free
+0306.95.29,00C,kg,Other,Free,Free
+306.99,,,Other:,,
+0306.99.10,00J,kg,Smoked,Free,Free
+0306.99.19,00F,kg,"Whole, cooked",5,Free
+,,,,,* See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+0306.99.29,02H,kg,Other,Free,Free
+3.07,,,"Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried,",,
+,,,"salted or in brine; smoked molluscs, whether in shell or not, whether",,
+,,,or not cooked before or during the smoking process:,,
+,,,Oysters:,,
+0307.11.00,,,"Live, fresh or chilled",Free,Free
+,,,"New Zealand Dredge (Ostrea chilensis, Tiostrea chilensis):",,
+,,,Farmed:,,
+,10C,doz,Live,,
+,,,Fresh or chilled:,,
+,15D,doz,. Whole,,
+,17L,doz,. Half-shell,,
+,19G,doz,. Meat,,
+,,,Other:,,
+,21J,doz,Live,,
+,,,Fresh or chilled:,,
+,25A,doz,. Whole,,
+,27H,doz,. Half-shell,,
+,29D,doz,. Meat,,
+,,,Pacific (Crassostrea gigas):,,
+,31F,doz,Live,,
+,,,Fresh or chilled:,,
+,35J,doz,Whole,,
+,37E,doz,Half-shell,,
+,39A,doz,Meat,,
+,,,"Rock (Saccostrea cuccullatta, Saccostrea glomerata):",,
+,41C,doz,Live,,
+,,,Fresh or chilled:,,
+,45F,doz,Whole,,
+,47B,doz,Half-shell,,
+,49J,doz,Meat,,
+,59F,doz,Other,,
+0307.12.00,,,Frozen,Free,Free
+,,,"New Zealand Dredge (Ostrea chilensis, Tiostrea chilensis):",,
+,,,Farmed:,,
+,10H,doz,Whole,,
+,13B,doz,Half-shell,,
+,19A,doz,Meat,,
+,,,Other:,,
+,21C,doz,Whole,,
+,23K,doz,Half-shell,,
+,29J,doz,Meat,,
+,,,Pacific (Crassostrea gigas):,,
+,31L,doz,Whole,,
+,33G,doz,Half-shell,,
+,39F,doz,Meat,,
+,,,"Rock (Saccostrea cuccullatta, Saccostrea glomerata):",,
+,41H,doz,Whole,,
+,43D,doz,Half-shell,,
+,49C,doz,Meat,,
+,59L,doz,Other,,
+,,,"Molluscs, whether in shell or not, live, fresh, chilled, etc.—continued",,
+,,,Oysters—continued,,
+0307.19.00,,,Other,Free,Free
+,,,"New Zealand Dredge (Ostrea chilensis, Tiostrea chilensis):",,
+,11H,doz,Farmed,,
+,51G,doz,Other,,
+,53C,doz,Pacific (Crassostrea gigas),,
+,55K,doz,"Rock (Saccostrea cuccullatta, Saccostrea glomerata)",,
+,69K,doz,Other,,
+,,,Scallops and other molluscs of the family Pectinidae:,,
+0307.21.00,,,"Live, fresh or chilled",Free,Free
+,02F,kg,Live,,
+,10G,kg,Meat,,
+,20D,kg,Other,,
+0307.22.00,02L,kg,Frozen,Free,Free
+0307.29.00,02B,kg,Other,Free,Free
+,,,"Mussels (Mytilus spp., Perna spp.):",,
+0307.31.00,,,"Live, fresh or chilled",Free,Free
+,02K,kg,Live,,
+,,,Chilled:,,
+,11J,kg,Whole,,
+,21F,kg,Half-shell,,
+,31C,kg,Meat,,
+,39J,kg,Other,,
+0307.32.00,,,Frozen,Free,Free
+,10E,kg,Whole,,
+,,,Half-shell:,,
+,13K,kg,45 mussels or more per kg,,
+,15F,kg,Other,,
+,19J,kg,Meat,,
+0307.39.00,,,Other,Free,Free
+,25E,kg,Smoked,,
+,49B,kg,Other,,
+,,,Cuttle fish and squid:,,
+0307.42.00,,,"Live, fresh or chilled",Free,Free
+,10J,kg,Cuttle fish:,,
+,,,Squid:,,
+,15K,kg,Whole or headed and gutted,,
+,21D,kg,Tubes or steaks,,
+,29K,kg,Other,,
+0307.43.00,,,Frozen,Free,Free
+,10C,kg,Cuttle fish,,
+,,,Squid:,,
+,13H,kg,Whole,,
+,15D,kg,Headed and gutted,,
+,17L,kg,Tubes or steaks,,
+,19G,kg,Heads and tentacles,,
+,29D,kg,Other,,
+0307.49.00,,,Other,Free,Free
+,10L,kg,Cuttle fish,,
+,,,Squid:,,
+,43G,kg,Dried,,
+,49F,kg,Other,,
+,,,Octopus (Octopus spp.):,,
+0307.51.00,,,"Live, fresh or chilled",Free,Free
+,01J,kg,Live,,
+,09D,kg,Fresh or chilled,,
+0307.52.00,00E,kg,Frozen,Free,Free
+0307.59.00,00G,kg,Other,Free,Free
+0307.60.00,,,"Snails, other than sea snails",Free,Free
+,01H,kg,Live,,
+,,,Other:,,
+,11E,kg,"Fresh, chilled or frozen",,
+,29H,kg,Other,,
+,,,"Molluscs, whether in shell or not, live, fresh, chilled, etc.—continued",,
+,,,"Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae,",,
+,,,"Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae,",,
+,,,"Solecurtidae, Solenidae, Tridacnidae and Veneridae):",,
+0307.71.00,,,"Live, fresh or chilled",Free,Free
+,,,Chilled:,,
+,10E,kg,Cockles,,
+,13K,kg,Tuatua,,
+,15F,kg,Other clams,,
+,17B,kg,Other,,
+,19J,kg,Other,,
+0307.72.00,,,Frozen,Free,Free
+,10K,kg,Cockles,,
+,13D,kg,Tuatua,,
+,15L,kg,Other clams,,
+,19C,kg,Other,,
+0307.79.00,00D,kg,Other,Free,Free
+,,,Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.):,,
+0307.81.00,,,"Live, fresh or chilled abalone (Haliotis spp.)",Free,Free
+,11G,kg,Live,,
+,17F,kg,Chilled,,
+,29K,kg,Other,,
+0307.82.00,00F,kg,"Live, fresh or chilled stromboid conchs (Strombus spp.)",Free,Free
+0307.83.00,00L,kg,Frozen abalone (Haliotis spp.),Free,Free
+0307.84.00,00E,kg,Frozen stromboid conchs (Strombus spp.),Free,Free
+0307.87.00,00J,kg,Other abalone (Haliotis spp.),Free,Free
+0307.88.00,00C,kg,Other stromboid conchs (Strombus spp.),Free,Free
+,,,Other:,,
+0307.91.00,,,"Live, fresh or chilled",Free,Free
+,12J,kg,Chilled,,
+,70F,kg,Other,,
+0307.92.00,02F,kg,Frozen,Free,Free
+0307.99.00,02H,kg,Other,Free,Free
+3.08,,,"Aquatic invertebrates other than crustaceans and molluscs, live,",,
+,,,"fresh, chilled, frozen, dried, salted or in brine; smoked aquatic",,
+,,,"invertebrates other than crustaceans and molluscs, whether or",,
+,,,not cooked before or during the smoking process:,,
+,,,"Sea cucumbers (Stichopus japonicus, Holothuroidea):",,
+0308.11.00,00D,kg,"Live, fresh or chilled",Free,Free
+0308.12.00,00J,kg,Frozen,Free,Free
+308.19,,,Other:,,
+0308.19.20,00A,kg,Smoked,Free,Free
+0308.19.90,10G,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,," Sea urchins (Strongylocentrotus spp., Paracentrotus lividus,",,
+,,,"Loxechinus albus, Echinus esculentus):",,
+0308.21.00,00H,kg,"Live, fresh or chilled",Free,Free
+0308.22.00,00B,kg,Frozen,Free,Free
+308.29,,,Other:,,
+0308.29.20,00E,kg,Smoked,Free,Free
+0308.29.90,10L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+3.08,,,"Aquatic invertebrates other than crustaceans, etc.—continued",,
+308.3,,,Jellyfish (Rhopilema spp.):,,
+0308.30.10,00B,kg,"Live, fresh or chilled",Free,Free
+,,,Other:,,
+0308.30.20,00H,kg,Frozen,Free,Free
+0308.30.30,00C,kg,Smoked,Free,Free
+0308.30.90,00F,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+308.9,,,Other:,,
+0308.90.10,00D,kg,"Live, fresh or chilled",Free,Free
+,,,Other:,,
+0308.90.20,00K,kg,Frozen,Free,Free
+0308.90.30,00E,kg,Smoked,Free,Free
+0308.90.90,02D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+3.09,,,"Flours, meals and pellets of fish, crustaceans, molluscs and",,
+,,,"other aquatic invertebrates, fit for human consumption:",,
+0309.10.00,00H,kg,Of fish,Free,Free
+309.9,,,Other:,,
+0309.90.10,00B,kg,Crustaceans,Free,Free
+0309.90.20,,,Molluscs,Free,Free
+,10E,kg,Freeze-dried mussel powder,,
+,20B,kg,Other,,
+0309.90.30,00C,kg,Aquatic Invertebrates,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+4.01,,,"Milk and cream, not concentrated nor containing added sugar or",,
+,,,other sweetening matter:,,
+401.1,,,"Of a fat content, by weight, not exceeding 1 %:",,
+0401.10.01,00E,l,Fresh,Free,Free
+0401.10.09,00F,kg,Other,Free,Free
+401.2,,,"Of a fat content, by weight, exceeding 1 % but not exceeding 6 %:",,
+0401.20.01,00J,l,Fresh,Free,Free
+0401.20.09,,,Other,Free,Free
+,01H,l,UHT milk,,
+,05L,kg,Other,,
+0401.40.00,,,"Of a fat content, by weight, exceeding 6 % but not exceeding 10 %",Free,Free
+,10G,l,Fresh,,
+,19L,kg,Other,,
+0401.50.00,,,"Of a fat content, by weight, exceeding 10 %",Free,Free
+,10L,l,Fresh,,
+,19D,kg,Other,,
+4.02,,,"Milk and cream, concentrated or containing added sugar or other",,
+,,,sweetening matter:,,
+0402.10.00,,,"In powder, granules or other solid forms, of a fat content, by weight,",,
+,,,not exceeding 1.5 %,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,Skimmed milk powder:,,
+,02C,kg,Spray process,,
+,09L,kg,Other,,
+,18K,kg,Other,,
+,,,"In powder, granules or other solid forms, of a fat content, by weight,",,
+,,,exceeding 1.5 %:,,
+0402.21.00,,,Not containing added sugar or other sweetening matter,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,Whole milk powder:,,
+,01C,kg,Prepared for use as infants or invalids foods,,
+,09J,kg,Whole milk and blended full cream powder containing,,
+,,,less than 26 % butterfat,,
+,19F,kg,Other,,
+,29C,kg,Other,,
+0402.29.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,Whole milk powder:,,
+,01K,kg,Prepared for use as infants or invalids foods,,
+,09E,kg,Whole milk and blended full cream powder containing,,
+,,,less than 26 % butterfat,,
+,19B,kg,Other,,
+,29K,kg,Other,,
+,,,Other:,,
+0402.91.00,00L,kg,Not containing added sugar or other sweetening matter,Free,Free
+0402.99.00,,,Other,Free,Free
+,,,Concentrated:,,
+,10D,kg,Condensed,,
+,15E,kg,Evaporated,,
+,17A,kg,Other,,
+,,,Other:,,
+,21K,1,"Ultra-High Temperature (UHT) milk, sweetened",,
+,29E,kg,Other,,
+4.03,,,"Yogurt; buttermilk, curdled milk and cream, kephir and other",,
+,,,"fermented or acidified milk and cream, whether or not concentrated",,
+,,,or containing added sugar or other sweetening matter or flavoured or,,
+,,,"containing added fruit, nuts or cocoa:",,
+403.2,,,Yogurt:,,
+0403.20.01,00E,kg,"Containing cocoa, less than 5 % by weight of cocoa calculated on a",,
+,,,totally defatted basis,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 5
+,,,,,1/2025 5
+0403.20.05,00L,kg,"Containing added spices, coffee or coffee extract, plants or parts of",,
+,,,"plants, cereals or bakers wares",5,Free
+,,,,,*See Below
+,,,,,CA Free
+0403.20.09,00F,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+403.9,,,Other:,,
+0403.90.01,00L,kg,Not concentrated or sweetened,Free,Free
+,,,Other:,,
+0403.90.11,00F,kg,Liquid or semi-solid,Free,Free
+0403.90.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,Buttermilk powder:,,
+,01E,kg,Manufactured by the spray process method,,
+,09L,kg,Other,,
+,,,Other:,,
+,11B,kg,In powder or granules containing not more than 1.5 %,,
+,,,by way of fat,,
+,19H,kg,In powder or granules containing more than 1.5 % by way of fat,,
+,,,Other:,,
+,21K,kg,. Condensed,,
+,29E,kg,. Evaporated,,
+,39B,kg,. Other,,
+4.04,,,"Whey, whether or not concentrated or containing added sugar or",,
+,,,other sweetening matter; products consisting of natural milk,,
+,,,"constituents, whether or not containing added sugar or other",,
+,,,"sweetening matter, not elsewhere specified or included:",,
+0404.10.00,00C,kg,"Whey and modified whey, whether or not concentrated or containing",,
+,,,added sugar or other sweetening matter,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+404.9,,,Other:,,
+0404.90.01,00J,kg,Not concentrated or sweetened,Free,Free
+,,,Concentrated or sweetened:,,
+0404.90.11,,,Liquid or semi-solid,Free,Free
+,,,Liquid:,,
+,,,In aerosol containers:,,
+,02L,No.,. Containing chlorofluorocarbons,,
+,08K,No.,. Other,,
+,19E,kg,Other,,
+,29B,kg,Semi-solid,,
+0404.90.19,00E,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+4.05,,,Butter and other fats and oils derived from milk; dairy spreads:,,
+0405.10.00,,,Butter,Free,Free
+,01K,kg,Unsalted,,
+,,,Salted:,,
+,09E,kg,"Creamery, in pats",,
+,11G,kg,"Creamery, in bulk",,
+,19B,kg,Canned,,
+0405.20.00,00E,kg,Dairy spreads,Free,Free
+0405.90.00,,,Other,Free,Free
+,01J,kg,Anhydrous milkfat,,
+,05A,kg,Ghee,,
+,09D,kg,Other,,
+4.06,,,Cheese and curd:,,
+0406.10.00,,,"Fresh (unripened or uncured) cheese, including whey cheese, and curd",Free,Free
+,01H,kg,Fresh cheese,,
+,09C,kg,Curd,,
+0406.20.00,,,"Grated or powdered cheese, of all kinds",Free,Free
+,01A,kg,Cheddar,,
+,09G,kg,Colby,,
+,11J,kg,Cheshire,,
+,19D,kg,Egmont,,
+,21F,kg,Gouda,,
+,29A,kg,Other,,
+0406.30.00,00G,kg,"Processed cheese, not grated or powdered",Free,Free
+0406.40.00,00L,kg,Blue-veined cheese and other cheese containing veins produced by,,
+,,,Penicillium roqueforti,Free,Free
+0406.90.00,,,Other cheese,Free,Free
+,01G,kg,In tins,,
+,,,Other:,,
+,11D,kg,Cheddar,,
+,19K,kg,Colby,,
+,21A,kg,Cheshire,,
+,29G,kg,Egmont,,
+,31J,kg,Gouda,,
+,39D,kg,Other,,
+4.07,,,"Birds eggs, in shell, fresh, preserved or cooked:",,
+,,,Fertilised eggs for incubation:,,
+0407.11.00,00B,doz,Of fowls of the species Gallus domesticus,Free,Free
+0407.19.00,00J,doz,Other,Free,Free
+,,,Other fresh eggs:,,
+0407.21.00,00F,kg,Of fowls of the species Gallus domesticus,Free,Free
+0407.29.00,00B,kg,Other,Free,Free
+0407.90.00,00G,kg,Other,Free,Free
+4.08,,,"Birds eggs, not in shell, and egg yolks, fresh, dried, cooked by",,
+,,,"steaming or by boiling in water, moulded, frozen or otherwise",,
+,,,"preserved, whether or not containing added sugar or other",,
+,,,sweetening matter:,,
+,,,Egg yolks:,,
+0408.11.00,00L,kg,Dried,Free,Free
+0408.19.00,,,Other,Free,Free
+,01E,kg,Liquid,,
+,09L,kg,Other,,
+,,,Other:,,
+0408.91.00,00K,kg,Dried,Free,Free
+0408.99.00,,,Other,Free,Free
+,01D,kg,Liquid,,
+,09K,kg,Other,,
+4.09,,,,,
+0409.00.00,,,Natural honey,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Extracted:,,
+,,,In bulk:,,
+,,,Manuka honey as defined by the Ministry for Primary Industries:,,
+,10H,kg,Monofloral,,
+,13B,kg,Multifloral,,
+,17E,kg,Other,,
+,,,In retail packs:,,
+,,,Manuka honey as defined by the Ministry for Primary Industries:,,
+,21C,kg,Monofloral,,
+,23K,kg,Multifloral,,
+,25F,kg,Other,,
+,27B,kg,. Comb,,
+,31L,kg,. Honeydew,,
+,,,Other:,,
+,,,Manuka honey as defined by the Ministry for Primary Industries:,,
+,33G,kg,Monofloral,,
+,35C,kg,Multifloral,,
+,39F,kg,Other,,
+4.1,,,"Insects and other edible products of animal origin, not elsewhere",,
+,,,specified or included:,,
+410.1,,,Insects:,,
+0410.10.01,00D,kg,"Salted, in brine, dried or smoked; edible flour or meal",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+0410.10.05,00K,kg,Other,Free,Free
+0410.90.00,00G,kg,Other,Free,Free
+5.01,,,,,
+0501.00.00,00A,. .,"Human hair, unworked, whether or not washed or scoured; waste of",,
+,,,human hair,Free,Free
+5.02,,,"Pigs, hogs or boars bristles and hair; badger hair and other brush",,
+,,,making hair; waste of such bristles or hair:,,
+0502.10.00,00C,kg,"Pigs, hogs or boars bristles and hair and waste thereof",Free,Free
+0502.90.00,00B,kg,Other,Free,Free
+5.04,,,,,
+0504.00.00,,,"Guts, bladders and stomachs of animals (other than fish), whole and",,
+,,,"pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",Free,Free
+,,,Sausage casings made from the guts of:,,
+,01D,hnk,Hogs,,
+,,,Other animals:,,
+,11A,hnk,Bovine,,
+,19G,hnk,Lamb,,
+,21J,hnk,Sheep,,
+,29D,hnk,Other,,
+,,,Other:,,
+,31F,kg,Lamb caps,,
+,39A,kg,Sheep bungs,,
+,49J,No.,Vells (rennet bags),,
+,,,Tripe:,,
+,51L,kg,Beef and veal,,
+,59F,kg,Sheep and lamb,,
+,69C,kg,Other,,
+,81B,kg,Of deer,,
+,89H,. .,Other,,
+5.05,,,"Skins and other parts of birds, with their feathers or down, feathers",,
+,,,"and parts of feathers (whether or not with trimmed edges) and down,",,
+,,,"not further worked than cleaned, disinfected or treated for",,
+,,,preservation; powder and waste of feathers or parts of feathers:,,
+0505.10.00,00H,kg,Feathers of a kind used for stuffing; down,Free,Free
+0505.90.00,00G,kg,Other,Free,Free
+5.06,,,"Bones and horn-cores, unworked, defatted, simply prepared (but",,
+,,,"not cut to shape), treated with acid or degelatinised; powder and",,
+,,,waste of these products:,,
+0506.10.00,00F,. .,Ossein and bones treated with acid,Free,Free
+0506.90.00,,,Other,Free,Free
+,01C,tne,"Bone meal or powder, irrespective of the end use",,
+,,,to which it is to be put (including bone char),,
+,09J,. .,Other,,
+5.07,,,"Ivory, tortoise-shell, whalebone and whalebone hair, horns, antlers,",,
+,,,"hooves, nails, claws and beaks, unworked or simply prepared but not",,
+,,,cut to shape; powder and waste of these products:,,
+0507.10.00,00D,. .,Ivory; ivory powder and waste,Free,Free
+0507.90.00,,,Other,Free,Free
+,,,Horns and antlers:,,
+,02K,kg,Deer,,
+,09G,. .,Other,,
+,,,Velvet:,,
+,,,Deer:,,
+,11J,kg,Frozen,,
+,12G,kg,Dried,,
+,15A,kg,Other,,
+,,,Other:,,
+,21F,kg,Frozen,,
+,29A,kg,Other,,
+,,,Powder of horns and velvet:,,
+,38L,kg,Deer,,
+,39J,. .,Other,,
+,41L,. .,Whale products,,
+,48H,. .,Other,,
+5.08,,,,,
+0508.00.00,00J,. .,"Coral and similar materials, unworked or simply prepared but not",,
+,,,"otherwise worked; shells of molluscs, crustaceans or echinoderms and",,
+,,,"cuttle-bone, unworked or simply prepared but not cut to shape,",,
+,,,powder and waste thereof,Free,Free
+5.1,,,,,
+0510.00.00,,,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or",,
+,,,not dried; glands and other animal products used in the preparation,,
+,,,"of pharmaceutical products, fresh, chilled, frozen or otherwise",,
+,,,provisionally preserved,Free,Free
+,01J,kg,"Glands, fresh or preserved but not dried",,
+,11F,. .,Ambergris,,
+,19A,. .,Other,,
+5.11,,,Animal products not elsewhere specified or included; dead animals of,,
+,,,"Chapter 1 or 3, unfit for human consumption:",,
+0511.10.00,00B,. .,Bovine semen,Free,Free
+,,,Other:,,
+0511.91.00,,,"Products of fish or crustaceans, molluscs or other aquatic invertebrates;",,
+,,,dead animals of Chapter 3,Free,Free
+,01D,kg,Fish,,
+,09K,. .,Other,,
+0511.99.00,,,Other,Free,Free
+,,,"Sinews and tendons; parings and similar waste, of raw hides or skins:",,
+,02J,kg,Of deer,,
+,03G,. .,Other,,
+,,,"Animal semen, other than bovine:",,
+,07K,. .,Sheep,,
+,08H,. .,Other,,
+,,,Dried blood:,,
+,12F,kg,Of deer,,
+,15L,kg,Other,,
+,21E,. .,Whale products,,
+,,,Other:,,
+,,,Of deer:,,
+,31B,kg,Blood,,
+,35E,kg,Other,,
+,,,Other:,,
+,41K,. .,Sheep ova,,
+,45B,. .,Embryos,,
+,47J,kg,"Horsehair and horsehair waste, whether or not put up as a layer",,
+,,,with or without supporting material,,
+,48G,. .,Natural sponges of animal origin,,
+,49E,. .,Other,,

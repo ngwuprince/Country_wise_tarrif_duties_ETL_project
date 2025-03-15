@@ -1,0 +1,5124 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+,,,I- PRIMARY MATERIALS; PRODUCTS IN GRANULAR OR,,
+,,,POWDER FORM,,
+72.01,,,"Pig iron and spiegeleisen in pigs, blocks or other primary forms:",,
+7201.10.00,00D,kg,Non-alloy pig iron containing by weight 0.5 % or less of phosphorus,Free,Free
+7201.20.00,00H,kg,Non-alloy pig iron containing by weight more than 0.5 % of phosphorus,Free,Free
+7201.50.00,,,Alloy pig iron; spiegeleisen:,Free,Free
+,01G,kg,Alloy pig iron,,
+,09B,kg,Spiegeleisen,,
+72.02,,,Ferro-alloys:,,
+,,,Ferro-manganese:,,
+7202.11.00,00G,kg,Containing by weight more than 2 % of carbon,Free,Free
+7202.19.00,00C,kg,Other,Free,Free
+,,,Ferro-silicon:,,
+7202.21.00,00L,kg,Containing by weight more than 55 % of silicon,Free,Free
+7202.29.00,00G,kg,Other,Free,Free
+7202.30.00,00K,kg,Ferro-silico-manganese,Free,Free
+,,,Ferro-chromium:,,
+7202.41.00,00H,kg,Containing by weight more than 4 % of carbon,Free,Free
+7202.49.00,00D,kg,Other,Free,Free
+7202.50.00,00G,kg,Ferro-silico-chromium,Free,Free
+7202.60.00,00L,kg,Ferro-nickel,Free,Free
+7202.70.00,00D,kg,Ferro-molybdenum,Free,Free
+7202.80.00,00H,kg,Ferro-tungsten and ferro-silico-tungsten,Free,Free
+,,,Other:,,
+7202.91.00,00F,kg,Ferro-titanium and ferro-silico-titanium,Free,Free
+7202.92.00,00L,kg,Ferro-vanadium,Free,Free
+7202.93.00,00E,kg,Ferro-niobium,Free,Free
+7202.99.00,00B,kg,Other,Free,Free
+72.03,,,Ferrous products obtained by direct reduction of iron ore and other,,
+,,,"spongy ferrous products, in lumps, pellets or similar forms; iron",,
+,,,"having a minimum purity by weight of 99.94 %, in lumps, pellets or",,
+,,,similar forms:,,
+7203.10.00,00L,kg,Ferrous products obtained by direct reduction of iron ore,Free,Free
+7203.90.00,00K,kg,Other,Free,Free
+72.04,,,Ferrous waste and scrap; remelting scrap ingots of iron or steel:,,
+7204.10.00,00J,tne,Waste and scrap of cast iron,Free,Free
+,,,Waste and scrap of alloy steel:,,
+7204.21.00,00G,tne,Of stainless steel,Free,Free
+7204.29.00,00C,tne,Other,Free,Free
+7204.30.00,00F,tne,Waste and scrap of tinned iron or steel,Free,Free
+,,,Other waste and scrap:,,
+7204.41.00,00D,tne,"Turnings, shavings, chips, milling waste, sawdust, filings, trimmings",,
+,,,"and stampings, whether or not in bundles",Free,Free
+7204.49.00,00L,tne,Other,Free,Free
+7204.50.00,,,Remelting scrap ingots,Free,Free
+,01A,kg,Ferro-alloy,,
+,09G,kg,Other,,
+72.05,,,"Granules and powders, of pig iron, spiegeleisen, iron or steel:",,
+7205.10.00,00G,kg,Granules,Free,Free
+,,,Powders:,,
+7205.21.00,00E,kg,Of alloy steel,Free,Free
+7205.29.00,00A,kg,Other,Free,Free
+,,,II.- IRON AND NON-ALLOY STEEL,,
+72.06,,,Iron and non-alloy steel in ingots or other primary forms (excluding,,
+,,,iron of heading 72.03):,,
+7206.10.00,00E,kg,Ingots,Free,Free
+7206.90.00,00D,kg,Other,Free,Free
+72.07,,,Semi-finished products of iron or non-alloy steel:,,
+,,,Containing by weight less than 0.25 % of carbon:,,
+7207.11.00,,,"Of rectangular (including square) cross-section, the width measuring",,
+,,,less than twice the thickness,Free,Free
+,,,Blooms and billets:,,
+,01F,kg,Less than 80 mm,,
+,09A,kg,80 mm and above but less than 120 mm,,
+,19J,kg,Other,,
+,29F,kg,Other,,
+7207.12.00,,,"Other, of rectangular (other than square) cross-section",Free,Free
+,01L,kg,Slabs,,
+,09F,kg,Other,,
+7207.19.00,00D,kg,Other,Free,Free
+7207.20.00,,,Containing by weight 0.25 % or more of carbon,Free,Free
+,,,  Blooms and billets:,,
+,01E,kg,Less than 80 mm,,
+,09L,kg,80 mm and above but less than 120 mm,,
+,19H,kg,Other,,
+,21K,kg,Slabs,,
+,29E,kg,Other,,
+72.08,,,"Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or",,
+,,,"more, hot-rolled, not clad, plated or coated:",,
+7208.10.00,,,"In coils, not further worked than hot-rolled, with patterns in relief",5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01K,kg,Of a thickness exceeding 10 mm,,
+,09E,kg,Of a thickness of 4.75 mm or more but not exceeding 10 mm,,
+,11G,kg,Of a thickness of 3 mm or more but less than 4.75 mm,,
+,19B,kg,Of a thickness of less than 3 mm,,
+,,,"Other, in coils, not further worked than hot-rolled, pickled:",,
+7208.25.00,00H,kg,Of a thickness of 4.75 mm or more,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7208.26.00,00B,kg,Of a thickness of 3 mm or more but less than 4.75 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7208.27.00,00G,kg,Of a thickness of less than 3 mm,5,Free
+,,,,,*See Below
+,,,"Other, in coils, not further worked than hot-rolled:",,
+7208.36.00,00F,kg,Of a thickness exceeding 10 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+7208.37.00,00L,kg,Of a thickness of 4.75 mm or more but not exceeding 10 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7208.38.00,00E,kg,Of a thickness of 3 mm or more but less than 4.75 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7208.39.00,00K,kg,Of a thickness of less than 3 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+7208.4,,,"Not in coils, not further worked than hot-rolled, with patterns in relief:",,
+7208.40.10,,,Of a width exceeding 1.95 m and of a thickness exceeding 4.75 mm,Free,Free
+,01F,kg,Of a thickness of 4.75 mm or more but not exceeding 10 mm,,
+,09A,kg,Of a thickness exceeding 10 mm,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,"Not in coils, not further worked than hot-rolled, etc.continued",,
+7208.40.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01K,kg,Of a thickness exceeding 10 mm,,
+,09E,kg,Of a thickness of 4.75 mm or more but not exceeding 10 mm,,
+,11G,kg,Of a thickness of 3 mm or more but less than 4.75 mm,,
+,19B,kg,Of a thickness of less than 3 mm,,
+,,,"Other, not in coils, not further worked than hot-rolled:",,
+7208.51,,,Of a thickness exceeding 10 mm:,,
+7208.51.10,00F,kg,"Rolled on four faces or in a closed box pass, of a width not",,
+,,,"exceeding 1,250 mm, without patterns in relief and having a",,
+,,,minimum yield point of other than 355 MPa,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Other:,,
+7208.51.50,00H,kg,Of a width exceeding 1.95 m,Free,Free
+7208.51.90,00K,kg,Other,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7208.52,,,Of a thickness of 4.75 mm or more but not exceeding 10 mm:,,
+7208.52.10,00L,kg,"Rolled on four faces or in a closed box pass, of a width not",,
+,,,"exceeding 1,250 mm, without patterns in relief and having a",,
+,,,minimum yield point of other than 355 MPa,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Other:,,
+7208.52.50,00B,kg,Of a width exceeding 1.95 m,Free,Free
+7208.52.90,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+7208.53,,,Of a thickness of 3 mm or more but less than 4.75 mm:,,
+7208.53.10,00E,kg,"Rolled on four faces or in a closed box pass, of a width not",,
+,,,"exceeding 1,250 mm, without patterns in relief and having a",,
+,,,minimum yield point of other than 355 MPa,5,Free
+,,,,,*See Below
+,,,,,CA Free
+7208.53.90,00J,kg,Other,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7208.54.00,00D,kg,Of a thickness of less than 3 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7208.9,,,Other:,,
+,,,3 mm or more in thickness:,,
+7208.90.02,,,Of a width exceeding 1.95 m and of a thickness exceeding 4.75 mm,Free,Free
+,01A,kg,Coiled,,
+,09G,kg,Other,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Othercontinued,,
+,,,3 mm or more in thicknesscontinued,,
+7208.90.05,,,Other,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,, Coiled:,,
+,01L,kg,Exceeding 4.75 mm in thickness,,
+,09F,kg,Other,,
+,,, Other:,,
+,11H,kg,Exceeding 4.75 mm in thickness,,
+,19C,kg,Other,,
+7208.90.09,,,Less than 3 mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01F,kg,Perforated or cellular but not further worked,,
+,09A,kg,Other,,
+72.09,,,"Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or",,
+,,,"more, cold-rolled (cold-reduced), not clad, plated or coated:",,
+,,,"In coils, not further worked than cold-rolled (cold-reduced):",,
+7209.15.00,00B,kg,Of a thickness of 3 mm or more,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7209.16.00,00G,kg,Of a thickness exceeding 1 mm but less than 3 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+7209.17.00,00A,kg,Of a thickness of 0.5 mm or more but not exceeding 1 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7209.18.00,00F,kg,Of a thickness of less than 0.5 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Not in coils, not further worked than cold-rolled (cold-reduced):",,
+7209.25.00,00F,kg,Of a thickness of 3 mm or more,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7209.26.00,00L,kg,Of a thickness exceeding 1 mm but less than 3 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7209.27.00,00E,kg,Of a thickness of 0.5 mm or more but not exceeding 1 mm,5,Free
+,,,,,*See Below
+7209.28.00,00K,kg,Of a thickness of less than 0.5 mm,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7209.90.00,,,Other,Free,Free
+,,,3 mm or more in thickness:,,
+,01G,kg,Coiled,,
+,09B,kg,Other,,
+,,,Less than 3 mm in thickness:,,
+,11D,kg,Perforated or cellular but not further worked,,
+,19K,kg,Other,,
+72.1,,,"Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or",,
+,,,"more, clad, plated or coated:",,
+,,,Plated or coated with tin:,,
+7210.11.00,,,Of a thickness of 0.5 mm or more,Free,Free
+,01F,kg,Worked,,
+,,,Other:,,
+,11C,kg,Coiled,,
+,19J,kg,Other,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Plated or coated with tincontinued,,
+7210.12.00,,,Of a thickness of less than 0.5 mm,Free,Free
+,01L,kg,Worked,,
+,,,Other:,,
+,,, Coiled:,,
+,11H,kg,"Painted, lacquered or similarly coated",,
+,19C,kg,Other,,
+,,, Other:,,
+,21E,kg,"Painted, lacquered or similarly coated",,
+,29L,kg,Other,,
+7210.20.00,,,"Plated or coated with lead, including terne-plate",Free,Free
+,,,"  Coiled, not worked:",,
+,01E,kg,3 mm or more in thickness,,
+,09L,kg,Other,,
+,,,  Other:,,
+,11B,kg,Exceeding 4.75 mm in thickness,,
+,21K,kg,Exceeding 3 mm but not exceeding 4.75 mm in thickness,,
+,29E,kg,Other,,
+7210.3,,,Electrolytically plated or coated with zinc:,,
+,,,Exceeding 1.6 mm in thickness:,,
+7210.30.10,00F,kg,Coiled,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7210.30.20,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01K,kg,Exceeding 4.75 mm in thickness,,
+,09E,kg,Other,,
+,,,Other:,,
+7210.30.30,00G,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+7210.30.40,,,Coiled,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01L,kg,"Not further clad, plated or coated",,
+,09F,kg,"Painted, lacquered or similarly coated",,
+,11H,kg,Plastic laminated,,
+,19C,kg,Other,,
+7210.30.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01H,kg,"Not further clad, plated or coated",,
+,09C,kg,"Painted, lacquered or similarly coated",,
+,11E,kg,Plastic laminated,,
+,19L,kg,Other,,
+,,,Otherwise plated or coated with zinc:,,
+7210.41.00,00J,kg,Corrugated,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+7210.49,,,Other:,,
+,,,Exceeding 1.9 mm in thickness:,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Otherwise plated or coated with zinccontinued,,
+,,,Othercontinued,,
+,,,Exceeding 1.9 mm in thicknesscontinued,,
+7210.49.01,,,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01K,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,09E,kg,Other,,
+,,,Other:,,
+7210.49.11,,,Coiled,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Containing in the plating or coating, not less than 50 % and not",,
+,,,"more than 80 % zinc by weight, alloyed with aluminium:",,
+,,,"Painted, laquered or similarly coated:",,
+,10D,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,15E,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,19H,kg,Of a thickness of 4.75 mm or more,,
+,,, Plastic laminated:,,
+,21K,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,25B,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,29E,kg,Of a thickness of 4.75 mm or more,,
+,,, Other:,,
+,31G,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,35K,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,39B,kg,Of a thickness of 4.75 mm or more,,
+,,,"Containing in the plating or coating, more than 80 % zinc by",,
+,,,"weight, alloyed with aluminium:",,
+,,,"Painted, laquered or similarly coated:",,
+,41D,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,45G,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,49K,kg,Of a thickness of 4.75 mm or more,,
+,,, Plastic laminated:,,
+,51A,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,55D,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,59G,kg,Of a thickness of 4.75 mm or more,,
+,,, Other:,,
+,61J,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,65A,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,69D,kg,Of a thickness of 4.75 mm or more,,
+,,,Other:,,
+,,,"Painted, laquered or similarly coated:",,
+,71F,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,75J,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,79A,kg,Of a thickness of 4.75 mm or more,,
+,,, Other:,,
+,81C,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,85F,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,89J,kg,Of a thickness of 4.75 mm or more,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Otherwise plated or coated with zinccontinued,,
+,,,Othercontinued,,
+,,,Exceeding 1.9 mm in thicknesscontinued,,
+,,,Othercontinued,,
+7210.49.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Containing in the plating or coating, not less than 50 % and not",,
+,,,"more than 80 % zinc by weight, alloyed with aluminium:",,
+,,,"Painted, laquered or similarly coated:",,
+,10E,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,15F,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,19J,kg,Of a thickness of 4.75 mm or more,,
+,,, Plastic laminated:,,
+,21L,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,25C,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,29F,kg,Of a thickness of 4.75 mm or more,,
+,,, Other:,,
+,31H,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,35L,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,39C,kg,Of a thickness of 4.75 mm or more,,
+,,,"Containing in the plating or coating, more than 80 % zinc by",,
+,,,"weight, alloyed with aluminium:",,
+,,,"Painted, laquered or similarly coated:",,
+,41E,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,45H,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,49L,kg,Of a thickness of 4.75 mm or more,,
+,,, Plastic laminated:,,
+,51B,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,55E,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,59H,kg,Of a thickness of 4.75 mm or more,,
+,,, Other:,,
+,61K,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,65B,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,69E,kg,Of a thickness of 4.75 mm or more,,
+,,,Other:,,
+,,,"Painted, laquered or similarly coated:",,
+,71G,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,75K,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,79B,kg,Of a thickness of 4.75 mm or more,,
+,,, Other:,,
+,81D,kg,Of a thickness exceeding 1.9 mm or more but less than 3.0 mm,,
+,85G,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,89K,kg,Of a thickness of 4.75 mm or more,,
+,,,Other:,,
+7210.49.21,,,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01L,kg,Rollformed but not further worked,,
+,09F,kg,Other,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Otherwise plated or coated with zinccontinued,,
+,,,Othercontinued,,
+,,,Othercontinued,,
+,,,Other:,,
+7210.49.31,,,Coiled,5,Free
+,,,,,* See below
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Not further clad, plated or coated:",,
+,,,"Containing in the plating or coating, not less than 50 % and",,
+,,,"not more than 80 % zinc by weight, alloyed with aluminium:",,
+,10E,kg,Of a thickness of less than 0.4 mm,,
+,13K,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,15F,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,17B,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,23G,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,25C,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,,"Containing in the plating or coating, more than 80 % zinc by",,
+,,,"weight, alloyed with aluminium:",,
+,27K,kg,Of a thickness of less than 0.4 mm,,
+,31H,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,33D,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,35L,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,37G,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,41E,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,, Other:,,
+,43A,kg,Of a thickness of less than 0.4 mm,,
+,45H,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,47D,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,49L,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,51B,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,53J,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,,"Painted, lacquered or similarly coated:",,
+,55E,kg,Of a thickness of less than 0.4 mm,,
+,57A,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,59H,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,61K,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,63F,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,65B,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,,Plastic laminated:,,
+,67J,kg,Of a thickness of less than 0.4 mm,,
+,69E,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,71G,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,73C,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,75K,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,79B,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,,Other:,,
+,81D,kg,Of a thickness of less than 0.4 mm,,
+,83L,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,85G,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,87C,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,89K,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,99G,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Otherwise plated or coated with zinccontinued,,
+,,,Othercontinued,,
+,,,Othercontinued,,
+,,,Othercontinued,,
+7210.49.39,,,Other,5,Free
+,,,,,* See below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Not further clad, plated or coated:",,
+,,,"Containing in the plating or coating, not less than 50 % and",,
+,,,"not more than 80 % zinc by weight, alloyed with aluminium:",,
+,10F,kg,Of a thickness of less than 0.4 mm,,
+,13L,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,15G,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,17C,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,23H,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,25D,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,,"Containing in the plating or coating, more than 80 % zinc by",,
+,,,"weight, alloyed with aluminium:",,
+,27L,kg,Of a thickness of less than 0.4 mm,,
+,31J,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,33E,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,35A,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,37H,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,41F,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,, Other:,,
+,43B,kg,Of a thickness of less than 0.4 mm,,
+,45J,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,47E,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,49A,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,51C,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,53K,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,,"Painted, lacquered or similarly coated:",,
+,55F,kg,Of a thickness of less than 0.4 mm,,
+,57B,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,59J,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,61L,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,63G,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,65C,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,,Plastic laminated:,,
+,67K,kg,Of a thickness of less than 0.4 mm,,
+,69F,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,71H,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,73D,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,75L,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,79C,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+,,,Other:,,
+,81E,kg,Of a thickness of less than 0.4 mm,,
+,83A,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,85H,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,87D,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,89L,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,99H,kg,Of a thickness of 1.6 mm or more but not exceeding 1.9 mm,,
+7210.50.00,,,Plated or coated with chromium oxides or with chromium and chromium,,
+,,,oxides,Free,Free
+,,,"  Coiled, not worked:",,
+,01F,kg,3 mm or more in thickness,,
+,09A,kg,Other,,
+,,,  Other:,,
+,11C,kg,Exceeding 4.75 mm in thickness,,
+,21L,kg,Exceeding 3 mm but not exceeding 4.75 mm in thickness,,
+,29F,kg,Other,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Plated or coated with aluminium:,,
+7210.61,,,Plated or coated with aluminium-zinc alloys:,,
+7210.61.10,,,"Containing, in the plating or coating, not less than 95 % aluminium",,
+,,,by weight,Free,Free
+,,, Worked:,,
+,01K,kg,Exceeding 4.75 mm in thickness,,
+,09E,kg,Other,,
+,,, Other:,,
+,,,  Coiled:,,
+,11G,kg,3 mm or more in thickness,,
+,19B,kg,Other,,
+,,,  Other:,,
+,21D,kg,Exceeding 4.75 mm in thickness,,
+,31A,kg,Exceeding 3 mm but not exceeding 4.75 mm in thickness,,
+,39G,kg,Other,,
+,,,Other:,,
+7210.61.20,,,Worked,Free,Free
+,01E,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,09L,kg,Other,,
+,,,Other:,,
+7210.61.30,,,Coiled,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01L,kg,1.9 mm or more in thickness,,
+,09F,kg,Other,,
+7210.61.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01C,kg,Exceeding 4.75 mm in thickness,,
+,05F,kg,Exceeding 1.9 mm but not exceeding 4.75 mm in thickness,,
+,19F,kg,Other,,
+7210.69,,,Other:,,
+7210.69.10,,,"Containing, in the plating or coating, not less than 95 % aluminium",,
+,,,by weight,Free,Free
+,,, Worked:,,
+,01F,kg,Exceeding 4.75 mm in thickness,,
+,09A,kg,Other,,
+,,, Other:,,
+,,,  Coiled:,,
+,11C,kg,3 mm or more in thickness,,
+,19J,kg,Other,,
+,,,  Other:,,
+,21L,kg,Exceeding 4.75 mm in thickness,,
+,31H,kg,Exceeding 3 mm but not exceeding 4.75 mm in thickness,,
+,39C,kg,Other,,
+,,,Other:,,
+7210.69.20,,,Worked,Free,Free
+,01A,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,09G,kg,Other,,
+,,,Other:,,
+7210.69.30,,,Coiled,5,Free
+,,,,,* See below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01G,kg,1.9 mm or more in thickness,,
+,09B,kg,Other,,
+7210.69.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01K,kg,Exceeding 4.75 mm in thickness,,
+,05B,kg,Exceeding 1.9 mm but not exceeding 4.75 mm in thickness,,
+,19B,kg,Other,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+7210.7,,,"Painted, varnished or coated with plastics:",,
+7210.70.01,,,Worked,Free,Free
+,01K,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,09E,kg,Other,,
+,,,Other:,,
+7210.70.11,,,Coiled,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,01E,kg,Exceeding 1.6 mm in thickness,,
+,09L,kg,Other,,
+7210.70.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01F,kg,Exceeding 4.75 mm in thickness,,
+,09A,kg,Exceeding 1.6 mm but not excceding 4.75 mm in thickness,,
+,19J,kg,Other,,
+7210.9,,,Other:,,
+7210.90.01,,,Worked,Free,Free
+,01G,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,09B,kg,Other,,
+,,,Other:,,
+7210.90.11,,,Coiled,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01B,kg,3 mm or more in thickness,,
+,09H,kg,Other,,
+7210.90.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,kg,Exceeding 4.75 mm in thickness,,
+,09J,kg,Exceeding 3 mm but not excceding 4.75 mm in thickness,,
+,19F,kg,Other,,
+72.11,,,"Flat-rolled products of iron or non-alloy steel, of a width of less than",,
+,,,"600 mm, not clad, plated or coated:",,
+,,,Not further worked than hot-rolled:,,
+7211.13.00,,,"Rolled on four faces or in a closed box pass, of a width exceeding",,
+,,,"150 mm and a thickness of not less than 4 mm, not in coils and without",,
+,,,patterns in relief,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01C,kg,Of a width not exceeding 500 mm,,
+,05F,kg,"Over 500 mm in width, exceeding 4.75 mm in thickness",,
+,09J,kg,Other,,
+7211.14,,,"Other, of a thickness of 4.75 mm or more:",,
+7211.14.10,,,Coiled,5,Free
+,,,,,* See below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01C,kg,Over 500 mm in width,,
+,05F,kg,"153 mm and over, but not exceeding 500 mm in width",,
+,09J,kg,Other,,
+7211.14.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01G,kg,Over 500 mm in width,,
+,05K,kg,"153 mm and over, but not exceeding 500 mm in width",,
+,09B,kg,Other,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Not further worked than cold-rolled (cold-reduced)continued,,
+7211.19,,,Other:,,
+7211.19.10,,,Coiled,5,Free
+,,,,,* See below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01F,kg,Over 500 mm in width,,
+,05J,kg,"153 mm and over, but not exceeding 500 mm in width",,
+,09A,kg,Other,,
+7211.19.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01K,kg,Over 500 mm in width,,
+,05B,kg,"153 mm and over, but not exceeding 500 mm in width",,
+,09E,kg,Other,,
+,,,Not further worked than cold-rolled (cold-reduced):,,
+7211.23,,,Containing by weight less than 0.25 % of carbon:,,
+7211.23.10,,,Not exceeding 500 mm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01B,kg,Coiled,,
+,09H,kg,Other,,
+,,,Other:,,
+7211.23.20,00K,kg,Coiled,5,Free
+,,,,,*See Below
+7211.23.90,00H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7211.29,,,Other:,,
+7211.29.10,,,Not exceeding 500 mm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01K,kg,Coiled,,
+,09E,kg,Other,,
+,,,Other:,,
+7211.29.20,00G,kg,Coiled,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+7211.29.90,00E,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7211.9,,,Other:,,
+7211.90.01,,,Not exceeding 500 mm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01E,kg,Coiled,,
+,09L,kg,Other,,
+7211.90.09,,,Other,Free,Free
+,01F,kg,Coiled,,
+,,,Other:,,
+,11C,kg,Perforated or cellular but not further worked,,
+,19J,kg,Other,,
+72.12,,,"Flat-rolled products of iron or non-alloy steel, of a width of less than",,
+,,,"600 mm, clad, plated or coated:",,
+7212.1,,,Plated or coated with tin:,,
+7212.10.01,00F,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+7212.10.09,,,Other,Free,Free
+,,,Not exceeding 500 mm in width:,,
+,01E,kg,Coiled,,
+,09L,kg,Other,,
+,,,Other:,,
+,11B,kg,Coiled,,
+,,, Other:,,
+,21K,kg,Of a thickness of 0.5 mm or more,,
+,,,  Other:,,
+,31G,kg,"Painted, lacquered or similarly coated",,
+,39B,kg,Other,,
+7212.2,,,Electrolytically plated or coated with zinc:,,
+7212.20.10,,,Not exceeding 500 mm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01G,kg,Coiled,,
+,09B,kg,Other,,
+,,,Other:,,
+,,,Exceeding 1.6 mm in thickness:,,
+7212.20.20,00D,kg,Coiled,5,Free
+,,,,,* See below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7212.20.30,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01H,kg,Exceeding 4.75 mm in thickness,,
+,09C,kg,Other,,
+,,,Other:,,
+7212.20.40,00E,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7212.20.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01L,kg,Coiled,,
+,09F,kg,Other,,
+7212.3,,,Otherwise plated or coated with zinc:,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Otherwise plated or coated with zinccontinued,,
+7212.30.01,,,Not exceeding 500 mm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01A,kg,Worked,,
+,,,Other:,,
+,,, Coiled:,,
+,,,"  Not further clad, plated or coated:",,
+,,,"Containing in the plating or coating, not less than 50 % and not",,
+,,,"more than 80 % zinc by weight, alloyed with aluminium:",,
+,10L,kg,Of a thickness of less than 0.4 mm,,
+,12G,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,13E,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,14C,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,15A,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,16K,kg,Of a thickness of 1.6 mm or more but less than 1.9 mm,,
+,17H,kg,Of a thickness of 1.9 mm or more but less than 3.0 mm,,
+,18F,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,19D,kg,Of a thickness of 4.75 mm or more,,
+,,,"Containing in the plating or coating, more than 80 % zinc by",,
+,,,"weight, alloyed with aluminium:",,
+,20H,kg,Of a thickness of less than 0.4 mm,,
+,22D,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,23B,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,24L,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,25J,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,26G,kg,Of a thickness of 1.6 mm or more but less than 1.9 mm,,
+,27E,kg,Of a thickness of 1.9 mm or more but less than 3.0 mm,,
+,30E,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,32A,kg,Of a thickness of 4.75 mm or more,,
+,,,Other:,,
+,33K,kg,Of a thickness of less than 0.4 mm,,
+,34H,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,35F,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,36D,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,37B,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,38L,kg,Of a thickness of 1.6 mm or more but less than 1.9 mm,,
+,40B,kg,Of a thickness of 1.9 mm or more but less than 3.0 mm,,
+,41L,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,42J,kg,Of a thickness of 4.75 mm or more,,
+,,,"Painted, lacquered or similarly coated:",,
+,,,"Containing in the plating or coating, not less than 50 % and",,
+,,,"not more than 80 % zinc by weight, alloyed with aluminium:",,
+,43G,kg,Of a thickness of less than 0.4 mm,,
+,44E,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,45C,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,46A,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,47K,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,48H,kg,Of a thickness of 1.6 mm or more but less than 1.9 mm,,
+,50K,kg,Of a thickness of 1.9 mm or more but less than 3.0 mm,,
+,51H,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,52F,kg,Of a thickness of 4.75 mm or more,,
+,,,"Containing in the plating or coating, more than 80 % zinc by",,
+,,,"weight, alloyed with aluminium:",,
+,53D,kg,Of a thickness of less than 0.4 mm,,
+,54B,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,55L,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,56J,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,57G,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,58E,kg,Of a thickness of 1.6 mm or more but less than 1.9 mm,,
+,59C,kg,Of a thickness of 1.9 mm or more but less than 3.0 mm,,
+,60G,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,61E,kg,Of a thickness of 4.75 mm or more,,
+,,,Other:,,
+,62C,kg,Of a thickness of less than 0.4 mm,,
+,63A,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,64K,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,65H,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,66F,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,67D,kg,Of a thickness of 1.6 mm or more but less than 1.9 mm,,
+,68B,kg,Of a thickness of 1.9 mm or more but less than 3.0 mm,,
+,69L,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,70D,kg,Of a thickness of 4.75 mm or more,,
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Otherwise plated or coated with zinccontinued,,
+,,,Not exceeding 500 mm in widthcontinued,,
+,,,Othercontinued,,
+,,, Coiledcontinued,,
+,,,  Plastic laminated:,,
+,71B,kg,Exceeding 1.9 mm in thickness,,
+,72L,kg,Other,,
+,,,  Other:,,
+,73J,kg,Of a thickness of less than 0.4 mm,,
+,74G,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,75E,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,76C,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,77A,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,78K,kg,Of a thickness of 1.6 mm or more but less than 1.9 mm,,
+,79H,kg,Of a thickness of 1.9 mm or more but less than 3.0 mm,,
+,80A,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,81K,kg,Of a thickness of 4.75 mm or more,,
+,,, Other:,,
+,82H,kg,Of a thickness of less than 0.4 mm,,
+,83F,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,84D,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,85B,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,86L,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,87J,kg,Of a thickness of 1.6 mm or more but less than 1.9 mm,,
+,88G,kg,Of a thickness of 1.9 mm or more but less than 3.0 mm,,
+,89E,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,99B,kg,Of a thickness of 4.75 mm or more,,
+,,,Other:,,
+,,,Exceeding 1.9 mm in thickness:,,
+7212.30.11,,,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,01G,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,09B,kg,Other,,
+7212.30.19,,,Other,5,Free
+,,,,,* See Below
+,,,,,CA Free
+,,,  Coiled:,,
+,,,"Containing in the plating or coating, not less than 50 % and not",,
+,,,"more than 80 % zinc by weight, alloyed with aluminium:",,
+,10G,kg,Of a thickness exceeding 1.9 mm but less than 3.0 mm,,
+,13A,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,17D,kg,Of a thickness of 4.75 mm or more,,
+,,,"Containing in the plating or coating, more than 80 % zinc by",,
+,,,"weight, alloyed with aluminium:",,
+,21B,kg,Of a thickness exceeding 1.9 mm but less than 3.0 mm,,
+,25E,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,29H,kg,Of a thickness of 4.75 mm or more,,
+,,,Other:,,
+,31K,kg,Of a thickness exceeding 1.9 mm but less than 3.0 mm,,
+,35B,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,39E,kg,Of a thickness of 4.75 mm or more,,
+,,,  Other:,,
+,41G,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,49B,kg,Other,,
+,,,Other:,,
+7212.30.21,00D,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Otherwise plated or coated with zinccontinued,,
+,,,Othercontinued,,
+,,,Othercontinued,,
+7212.30.29,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,  Coiled:,,
+,,,"Not further clad, plated or coated:",,
+,01C,kg,Exceeding 1.6 mm in thickness,,
+,09J,kg,Other,,
+,,,"Painted, lacquered or similarly coated:",,
+,11L,kg,Exceeding 1.6 mm in thickness,,
+,19F,kg,Other,,
+,,,Plastic laminated:,,
+,21H,kg,Exceeding 1.6 mm in thickness,,
+,29C,kg,Other,,
+,39L,kg,Other,,
+,,,  Other:,,
+,,,"Not further clad, plated or coated:",,
+,41B,kg,Exceeding 1.6 mm in thickness,,
+,49H,kg,Other,,
+,,,"Painted, lacquered or similarly coated:",,
+,51K,kg,Exceeding 1.6 mm in thickness,,
+,59E,kg,Other,,
+,,,Plastic laminated:,,
+,61G,kg,Exceeding 1.6 mm in thickness,,
+,69B,kg,Other,,
+,79K,kg,Other,,
+7212.4,,,"Painted, varnished or coated with plastics:",,
+,,,Not exceeding 500 mm in width:,,
+7212.40.01,00G,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7212.40.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,, Coiled:,,
+,01F,kg,Exceeding 1.6 mm in thickness,,
+,09A,kg,Other,,
+,19J,kg,Other,,
+,,,Other:,,
+7212.40.11,,,Worked,Free,Free
+,01L,kg,Exceeding 4.75 mm in thickness,,
+,09F,kg,Other,,
+7212.40.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,, Coiled:,,
+,01A,kg,Exceeding 1.6 mm in thickness,,
+,09G,kg,Other,,
+,,, Other:,,
+,11J,kg,Exceeding 4.75 mm in thickness,,
+,19D,kg,Other,,
+7212.5,,,Otherwise plated or coated:,,
+,,,Not exceeding 500 mm in width:,,
+7212.50.01,00L,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Flat-rolled products of iron or non-alloy steel, etc.continued",,
+,,,Otherwise plated or coatedcontinued,,
+,,,Not exceeding 500 mm in widthcontinued,,
+7212.50.09,,,Other,Free,Free
+,,, Coiled:,,
+,10J,kg,Of a thickness not exceeding 0.4 mm,,
+,13C,kg,Of a thickness of 0.4 mm or more but less than 0.5 mm,,
+,15K,kg,Of a thickness of 0.5 mm or more but less than 0.7 mm,,
+,17F,kg,Of a thickness of 0.7 mm or more but less than 1.0 mm,,
+,19B,kg,Of a thickness of 1.0 mm or more but less than 1.6 mm,,
+,21D,kg,Of a thickness of 1.6 mm or more but less than 1.9 mm,,
+,23L,kg,Of a thickness of 1.9 mm or more but less than 3.0 mm,,
+,25G,kg,Of a thickness of 3.0 mm or more but less than 4.75 mm,,
+,29K,kg,Of a thickness of 4.75 mm or more,,
+,39G,kg,Other,,
+7212.50.18,,,Other,Free,Free
+,01J,kg,Coiled,,
+,,,Other:,,
+,11F,kg,Exceeding 4.75 mm in thickness,,
+,19A,kg,Other,,
+7212.6,,,Clad:,,
+,,,Not exceeding 500 mm in width:,,
+7212.60.01,00D,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7212.60.09,,,Other,Free,Free
+,01C,kg,Coiled,,
+,09J,kg,Other,,
+7212.60.18,,,Other,Free,Free
+,01B,kg,Coiled,,
+,,,Other:,,
+,11K,kg,Exceeding 4.75 mm in thickness,,
+,19E,kg,Other,,
+72.13,,,"Bars and rods, hot-rolled, in irregularly wound coils, of iron or",,
+,,,non-alloy steel:,,
+7213.1,,,"Containing indentations, ribs, grooves or other deformations produced",,
+,,,during the rolling process:,,
+7213.10.10,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”,Free,Free
+,,,Of a height of 80 mm or more:,,
+,01A,kg,Less than 40 kg/m,,
+,05D,kg,Other,,
+,09G,kg,Other,,
+7213.10.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01E,kg,Of a circular cross-section measuring less than 14 mm in diameter,,
+,09L,kg,Other,,
+7213.2,,,"Other, of free-cutting steel:",,
+7213.20.10,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”,Free,Free
+,,,Of a height of 80 mm or more:,,
+,01E,kg,Less than 40 kg/m,,
+,05H,kg,Other,,
+,09L,kg,Other,,
+7213.20.90,00L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,"Bars and rods, hot-rolled, in irregularly wound, etc.continued",,
+,,,Other:,,
+7213.91,,,Of circular cross-section measuring less than 14 mm in diameter:,,
+7213.91.10,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”,Free,Free
+,,,Of a height of 80 mm or more:,,
+,01E,kg,Less than 40 kg/m,,
+,05H,kg,Other,,
+,09L,kg,Other,,
+7213.91.90,,,Other:,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01J,kg,Containing by weight less than 0.25 % of carbon,,
+,05A,kg,Containing by weight 0.25 % or more but less than 0.6 % of carbon,,
+,09D,kg,Other,,
+7213.99,,,Other:,,
+7213.99.10,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”,Free,Free
+,,,Of a height of 80 mm or more:,,
+,01A,kg,Less than 40 kg/m,,
+,05D,kg,Other,,
+,09G,kg,Other,,
+7213.99.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,kg,Containing by weight less than 0.25 % of carbon,,
+,05H,kg,Containing by weight 0.25 % or more but less than 0.6 % or carbon,,
+,09L,kg,Other,,
+72.14,,,"Other bars and rods of iron or non-alloy steel, not further worked",,
+,,,"than forged, hot-rolled, hot-drawn or hot-extruded, but including",,
+,,,those twisted after rolling:,,
+7214.10.00,,,Forged,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Worked:,,
+,01D,kg,Of a height of 80 mm or more,,
+,09K,kg,Other,,
+,,,Other:,,
+,,,Of a height of 80 mm or more:,,
+,11A,kg,Galvanised,,
+,15D,kg,Other,,
+,19G,kg,Other,,
+,29D,kg,Other,,
+7214.2,,,"Containing indentations, ribs, grooves or other deformations produced",,
+,,,during the rolling process or twisted after rolling:,,
+7214.20.10,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”,Free,Free
+,,,Of a height of 80 mm or more:,,
+,01C,kg,Less than 40 kg/m,,
+,05F,kg,Other,,
+,09J,kg,Other,,
+7214.20.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Of circular cross-section measuring:,,
+,01G,kg,Less than 14 mm in diameter,,
+,05K,kg,"14 mm or more, but less than 42 mm in diameter",,
+,09B,kg,42 mm or more in diameter,,
+,19K,kg,Other,,
+,,,"Other bars and rods of iron or non-alloy steel, not, etc.continued",,
+7214.3,,,"Other, of free-cutting steel:",,
+7214.30.10,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”,Free,Free
+,,,Of a height of 80 mm or more:,,
+,01G,kg,Less than 40 kg/m,,
+,05K,kg,Other,,
+,09B,kg,Other,,
+7214.30.90,00B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+7214.91.00,,,Of rectangular (other than square) cross-section,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Containing by weight less than 0.25 % of carbon:,,
+,01H,kg,Less than 50 mm in width,,
+,09C,kg,"50 mm or more, but less than 110 mm in width",,
+,11E,kg,110 mm or more in width,,
+,19L,kg,Containing by weight 0.25 % or more but less than 0.6 % of carbon,,
+,29H,kg,Other,,
+7214.99,,,Other:,,
+7214.99.10,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”,Free,Free
+,,,Of a height of 80 mm or more:,,
+,01K,kg,Less than 40 kg/m,,
+,05B,kg,Other,,
+,09E,kg,Other,,
+7214.99.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Containing by weight less than 0.25 % of carbon:,,
+,,,Of circular cross-section measuring:,,
+,01C,kg,Less than 14 mm in diameter,,
+,03K,kg,"14 mm or more, but less than 42 mm in diameter",,
+,05F,kg,42 mm or more in diameter,,
+,07B,kg,Of square cross-section,,
+,09J,kg,Other,,
+,,,Containing by weight 0.25 % or more but less than 0.6 % of carbon:,,
+,,,Of circular cross-section measuring:,,
+,11L,kg,Less than 14 mm in diameter,,
+,13G,kg,"14 mm or more, but less than 42 mm in diameter",,
+,15C,kg,42 mm or more in diameter,,
+,19F,kg,Other,,
+,,, Other:,,
+,21H,kg,Of circular cross-section,,
+,29C,kg,Other,,
+72.15,,,Other bars and rods of iron or non-alloy steel:,,
+7215.10.00,,,"Of free-cutting steel, not further worked than cold-formed or",,
+,,,cold-finished,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02L,kg,Angles and tees,,
+,05E,kg,"Channels, girders, beams and joists",,
+,08K,kg,Other,,
+,,,Less than 80 mm:,,
+,11K,kg,Angles and tees,,
+,15B,kg,"Channels, girders, beams and joists",,
+,19E,kg,Other,,
+,,,  Other:,,
+,21G,kg,Of circular cross-section,,
+,29B,kg,Other,,
+,,,Other bars and rods of iron or non-alloy steelcontinued,,
+7215.5,,,"Other, not further worked than cold-formed or cold-finished:",,
+7215.50.10,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01B,kg,Angles and tees,,
+,05E,kg,"Channels, girders, beams and joists",,
+,09H,kg,Other,,
+,,,Less than 80 mm:,,
+,11K,kg,Angles and tees,,
+,15B,kg,"Channels, girders, beams and joists",,
+,19E,kg,Other,,
+,,,Other:,,
+7215.50.20,,,Containing by weight less than 0.6 % of carbon,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Containing by weight less than 0.25 % of carbon:,,
+,,,Straightened wire not exceeding 13 mm in diameter:,,
+,01H,kg,Welding wire,,
+,,,"Other, plated or coated with zinc:",,
+,02F,kg,Less than 1.6 mm in diameter,,
+,03D,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,04B,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,05L,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,06J,kg,"4.5 mm or more, but less than 5.5 mm in diameter",,
+,09C,kg,5.5 mm or more in diameter,,
+,,,Other:,,
+,11E,kg,Less than 0.9 mm in diameter,,
+,12C,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,13A,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,14K,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,15H,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,16F,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,17D,kg,"6 mm or more, but less than 7.5 mm in diameter",,
+,18B,kg,"7.5 mm or more, but less than 11.5 mm in diameter",,
+,19L,kg,11.5 mm or more in diameter,,
+,,,  Other:,,
+,,,Of circular cross-section:,,
+,21B,kg,Welding,,
+,,,"Other, measuring:",,
+,23J,kg,Less than 14 mm in diameter,,
+,24G,kg,"14 mm or more, but less than 42 mm in diameter",,
+,25E,kg,42 mm or more in diameter,,
+,29H,kg,Of square cross-section,,
+,,,Other:,,
+,31K,kg,Welding,,
+,39E,kg,Other,,
+,,, Other:,,
+,,,Straightened wire not exceeding 13 mm in diameter:,,
+,41G,kg,Welding wire,,
+,,,"Other, plated or coated with zinc:",,
+,43C,kg,Less than 1.6 mm in diameter,,
+,44A,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,45K,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,46H,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,49B,kg,4.5 mm or more in diameter,,
+,,,Other:,,
+,51D,kg,Less than 0.9 mm in diameter,,
+,52B,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,53L,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,54J,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,55G,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,56E,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,57C,kg,"6 mm or more, but less than 9 mm in diameter",,
+,59K,kg,9 mm or more in diameter,,
+,,,  Other:,,
+,71J,kg,Of circular cross-section,,
+,79D,kg,Other,,
+,,,Other bars and rods of iron or non-alloy steelcontinued,,
+,,,"Other, not further worked than cold-formed or cold-finishedcontinued",,
+,,,Othercontinued,,
+,,,Containing by weight 0.6 % or more of carbon:,,
+7215.50.30,,,Straightened wire not exceeding 13 mm in diameter,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01C,kg,Welding wire,,
+,,,"Other, plated or coated with zinc:",,
+,11L,kg,Less than 1.6 mm in diameter,,
+,13G,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,15C,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,17K,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,19F,kg,4.5 mm or more in diameter,,
+,,,  Other:,,
+,21H,kg,Less than 0.9 mm in diameter,,
+,23D,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,25L,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,26J,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,28E,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,29C,kg,4.5 mm or more in diameter,,
+7215.50.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,  Of circular cross-section:,,
+,01F,kg,Welding,,
+,,,"Other, measuring:",,
+,11C,kg,Less than 14 mm in diameter,,
+,13K,kg,"14 mm or more, but less than 42 mm in diameter",,
+,15F,kg,42 mm or more in diameter,,
+,19J,kg,Of square cross-section,,
+,,,  Other:,,
+,21L,kg,Welding,,
+,29F,kg,Other,,
+7215.90.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,02K,kg,Angles and tees,,
+,05D,kg,"Channels, girders, beams and joists",,
+,08J,kg,Other,,
+,,,Less than 80 mm:,,
+,11J,kg,Angles and tees,,
+,15A,kg,"Channels, girders, beams and joists",,
+,19D,kg,Other,,
+,,, .Other:,,
+,21F,kg,Welding,,
+,29A,kg,Other,,
+72.16,,,"Angles, shapes and sections of iron or non-alloy steel:",,
+7216.1,,,"U, I or H sections, not further worked than hot-rolled, hot-drawn or",,
+,,,"extruded, of a height of less than 80 mm:",,
+7216.10.01,00J,kg,U sections 76 mm x 38 mm x 6.7 kg/m,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7216.10.09,00K,kg,Other,Free,Free
+,,,"L or T sections, not further worked than hot-rolled, hot-drawn or",,
+,,,"extruded, of a height of less than 80 mm:",,
+7216.21,,,L sections:,,
+7216.21.01,00G,kg,Equal angles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7216.21.09,00H,kg,Other,Free,Free
+7216.22.00,00E,kg,T sections,Free,Free
+,,,"Angles, shapes and sections of iron or non-alloy steelcontinued",,
+,,,"U, I or H sections, not further worked than hot-rolled, hot-drawn or",,
+,,,extruded of a height of 80 mm or more:,,
+7216.31,,,U sections:,,
+7216.31.01,00L,kg,102 mm x 51 mm x 10.4 kg/m,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7216.31.09,00A,kg,Other,Free,Free
+7216.32.00,,,I sections,Free,Free
+,01G,kg,Less than 40 kg/m,,
+,09B,kg,Other,,
+7216.33.00,,,H sections,Free,Free
+,01A,kg,Less than 40 kg/m,,
+,09G,kg,Other,,
+7216.4,,,"L or T sections, not further worked than hot-rolled, hot-drawn or",,
+,,,"extruded, of a height of 80 mm or more:",,
+7216.40.01,00K,kg,"Equal angled L sections, 80 mm x 80 mm by 5 mm to 13 mm in",,
+,,,thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7216.40.09,00L,kg,Other,Free,Free
+7216.50.00,,,"Other angles, shapes and sections, not further worked than hot-rolled,",,
+,,,hot-drawn or extruded,Free,Free
+,,,Of a height of 80 mm or more:,,
+,01E,kg,Less than 40 kg/m,,
+,09L,kg,Other,,
+,19H,kg,Other,,
+,,,"Angles, shapes and sections, not further worked than cold-formed or",,
+,,,cold-finished:,,
+7216.61.00,,,Obtained from flat-rolled products,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of a height of 80 mm or more:,,
+,01C,kg,Angles and tees,,
+,05F,kg,"Channels, girders, beams and joists",,
+,09J,kg,Other,,
+,,,Less than 80 mm:,,
+,11L,kg,Angles and tees,,
+,15C,kg,"Channels, girders, beams and joists",,
+,19F,kg,Other,,
+7216.69.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Of a height of 80 mm or more:,,
+,01K,kg,Angles and tees,,
+,05B,kg,"Channels, girders, beams and joists",,
+,09E,kg,Other,,
+,,,Less than 80 mm:,,
+,11G,kg,Angles and tees,,
+,15K,kg,"Channels, girders, beams and joists",,
+,19B,kg,Other,,
+,,,"Angles, shapes and sections of iron or non-alloy steelcontinued",,
+,,,Other:,,
+7216.91.00,,,Cold-formed or cold-finished from flat-rolled products,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,Worked:,,
+,01D,kg,Of a height of 80 mm or more,,
+,09K,kg,Other,,
+,,,Other:,,
+,,,Of a height of 80 mm or more:,,
+,11A,kg,Galvanised,,
+,15D,kg,Other,,
+,19G,kg,Other,,
+7216.99.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Worked:,,
+,01L,kg,Of a height of 80 mm or more,,
+,09F,kg,Other,,
+,,,Other:,,
+,,,Of a height of 80 mm or more:,,
+,11H,kg,Galvanised,,
+,15L,kg,Other,,
+,19C,kg,Other,,
+72.17,,,Wire of iron or non-alloy steel:,,
+7217.10.00,,,"Not plated or coated, whether or not polished",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Containing by weight less than 0.25 % of carbon:,,
+,,,Nail wire:,,
+,01J,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,02G,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,03E,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,04C,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,05A,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,06K,kg,"6 mm or more, but less than 7.5 mm in diameter",,
+,07H,kg,"7.5 mm or more, but less than 11.5 mm in diameter",,
+,08F,kg,11.5 mm or more in diameter,,
+,,,Spring wire:,,
+,09D,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,10H,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,11F,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,12D,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,13B,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,14L,kg,"6 mm or more, but less than 7.5 mm in diameter",,
+,15J,kg,"7.5 mm or more, but less than 11.5 mm in diameter",,
+,16G,kg,11.5 mm or more in diameter,,
+,,,Welding wire:,,
+,17E,kg,Less than 0.9 mm in diameter,,
+,18C,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,19A,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,20E,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,21C,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,22A,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,23K,kg,"6 mm or more, but less than 7.5 mm in diameter",,
+,24H,kg,"7.5 mm or more, but less than 11.5 mm in diameter",,
+,25F,kg,11.5 mm or more in diameter,,
+,,,Other:,,
+,26D,kg,Less than 0.9 mm in diameter,,
+,27B,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,28L,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,29J,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,30B,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,31L,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,32J,kg,"6 mm or more, but less than 7.5 mm in diameter",,
+,33G,kg,"7.5 mm or more, but less than 11.5 mm in diameter",,
+,34E,kg,11.5 mm or more in diameter,,
+,,Wire of iron or non-alloy steelcontinued,,,
+,,"Not plated or coated, whether or not polishedcontinued",,,
+,,Containing by weight 0.25 % or more but less than 0.6 %continued,,,
+,,Nail wire:,,,
+,35C,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,36A,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,37K,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,38H,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,39F,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,40K,kg,"6 mm or more, but less than 9 mm in diameter",,
+,41H,kg,9 mm or more in diameter,,
+,,,Spring wire:,,
+,42F,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,43D,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,44B,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,45L,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,46J,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,47G,kg,"6 mm or more, but less than 9 mm in diameter",,
+,48E,kg,9 mm or more in diameter,,
+,,,Welding wire:,,
+,49C,kg,Less than 0.9 mm in diameter,,
+,50G,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,51E,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,52C,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,53A,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,54K,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,55H,kg,"6 mm or more, but less than 9 mm in diameter",,
+,56F,kg,9 mm or more in diameter,,
+,,,Other:,,
+,57D,kg,Less than 0.9 mm in diameter,,
+,58B,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,59L,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,60D,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,61B,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,62L,kg,"4.5 mm or more, but less than 6 mm in diameter",,
+,63J,kg,"6 mm or more, but less than 9 mm in diameter",,
+,64G,kg,9 mm or more in diameter,,
+,,,Containing by weight 0.6 % or more of carbon:,,
+,,,Nail wire:,,
+,65E,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,66C,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,67A,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,68K,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,69H,kg,4.5 mm or more in diameter,,
+,,,Spring wire:,,
+,70A,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,71K,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,72H,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,73F,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,74D,kg,4.5 mm or more in diameter,,
+,,,Welding wire:,,
+,75B,kg,Less than 0.9 mm in diameter,,
+,76L,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,77J,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,78G,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,79E,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,80J,kg,4.5 mm or more in diameter,,
+,,,Other:,,
+,81G,kg,Less than 0.9 mm in diameter,,
+,82E,kg,"0.9 mm or more, but less than 1.6 mm in diameter",,
+,83C,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,84A,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,85K,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,86H,kg,4.5 mm or more in diameter,,
+,,,Wire of iron or non-alloy steelcontinued,,
+7217.2,,,Plated or coated with zinc:,,
+7217.20.10,,,Containing by weight less than 0.6 % carbon,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Containing by weight less than 0.25 % carbon:,,
+,,,Fencing wire:,,
+,,,Less than 1.6mm in diameter:,,
+,01H,kg,"Coils, not exceeding 50 kg",,
+,03D,kg,Other,,
+,,,"1.6 mm or more, but less than 2.5 mm in diameter:",,
+,05L,kg,"Coils, not exceeding 50 kg",,
+,07G,kg,Other,,
+,,,"2.5 mm or more, but less than 4 mm in diameter:",,
+,08E,kg,"Coils, not exceeding 50 kg",,
+,09C,kg,Other,,
+,,,4 mm or more in diameter:,,
+,11E,kg,"Coils, not exceeding 50 kg",,
+,13A,kg,Other,,
+,,, Other:,,
+,14K,kg,Less than 1.6 mm in diameter,,
+,15H,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,16F,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,17D,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,18B,kg,"4.5 mm or more, but less than 5.5 mm in diameter",,
+,19L,kg,5.5 mm or more in diameter,,
+,,,Other:,,
+,,,Fencing wire:,,
+,,,Less than 1.6 mm in diameter:,,
+,21B,kg,"Coils, not exceeding 50 kg",,
+,23J,kg,Other,,
+,,,"1.6 mm or more, but less than 2.5 mm in diameter:",,
+,25E,kg,"Coils, not exceeding 50 kg",,
+,27A,kg,Other,,
+,,,"2.5 mm or more, but less than 4 mm in diameter:",,
+,28K,kg,"Coils, not exceeding 50 kg",,
+,29H,kg,Other,,
+,,,4 mm or more in diameter:,,
+,31K,kg,"Coils, not exceeding 50 kg",,
+,33F,kg,Other,,
+,,, Other:,,
+,34D,kg,Less than 1.6 mm in diameter,,
+,35B,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,36L,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,37J,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,39E,kg,4.5 mm or more in diameter,,
+7217.20.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Fencing wire:,,
+,,,Less than 1.6 mm in diameter:,,
+,01A,kg,"Coils, not exceeding 50 kg",,
+,03H,kg,Other,,
+,,,"1.6 mm or more, but less than 2.5 mm in diameter:",,
+,05D,kg,"Coils, not exceeding 50 kg",,
+,07L,kg,Other,,
+,,,"2.5 mm or more, but less than 4 mm in diameter:",,
+,08J,kg,"Coils, not exceeding 50 kg",,
+,09G,kg,Other,,
+,,,4 mm or more in diameter:,,
+,11J,kg,"Coils, not exceeding 50 kg",,
+,13E,kg,Other,,
+,,,Other:,,
+,14C,kg,Less than 1.6 mm in diameter,,
+,15A,kg,"1.6 mm or more, but less than 2.5 mm in diameter",,
+,16K,kg,"2.5 mm or more, but less than 3.55 mm in diameter",,
+,17H,kg,"3.55 mm or more, but less than 4.5 mm in diameter",,
+,18F,kg,4.5 mm or more in diameter,,
+,,,Wire of iron or non-alloy steelcontinued,,
+7217.30.00,,,Plated or coated with other base metals,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Containing by weight less than 0.25 % of carbon:,,
+,,,Less than 1.8 mm in any cross-sectional dimension:,,
+,01F,kg,Welding,,
+,09A,kg,Other,,
+,,,Other:,,
+,11C,kg,Welding,,
+,19J,kg,Other,,
+,,,Containing by weight 0.25 % or more but less than 0.6 % of carbon:,,
+,21L,kg,Less than 1.8 mm in any cross-sectional dimension,,
+,29F,kg,Other,,
+,,,  Other:,,
+,31H,kg,Pre-stressed wire,,
+,39C,kg,Other,,
+7217.90.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Containing by weight less than 0.25 % of carbon:,,
+,,,Less than 1.8 mm in any cross-sectional dimension:,,
+,01H,kg,Welding,,
+,09C,kg,Other,,
+,,,Other:,,
+,11E,kg,Welding,,
+,19L,kg,Other,,
+,,,Containing by weight 0.25 % or more but less than 0.6 % of carbon:,,
+,21B,kg,Less than 1.8 mm in any cross-sectional dimension,,
+,29H,kg,Other,,
+,,,  Other:,,
+,31K,kg,Pre-stressed wire,,
+,39E,kg,Other,,
+,,,III.- STAINLESS STEEL,,
+72.18,,,Stainless steel in ingots or other primary forms; semi-finished,,
+,,,products of stainless steel:,,
+7218.10.00,00J,kg,Ingots and other primary forms,Free,Free
+,,,Other:,,
+7218.91.00,00B,kg,Of rectangular (other than square) cross-section,Free,Free
+7218.99.00,00J,kg,Other,Free,Free
+72.19,,,"Flat-rolled products of stainless steel, of a width of 600 mm or more:",,
+,,,"Not further worked than hot-rolled, in coils:",,
+7219.11.00,00A,kg,Of a thickness exceeding 10 mm,Free,Free
+7219.12.00,00F,kg,Of a thickness of 4.75 mm or more but not exceeding 10 mm,Free,Free
+7219.13.00,00L,kg,Of a thickness of 3 mm or more but less than 4.75 mm,Free,Free
+7219.14.00,00E,kg,Of a thickness of less than 3 mm,Free,Free
+,,,"Not further worked than hot-rolled, not in coils:",,
+7219.21.00,00E,kg,Of a thickness exceeding 10 mm,Free,Free
+7219.22.00,00K,kg,Of a thickness of 4.75 mm or more but not exceeding 10 mm,Free,Free
+7219.23.00,00D,kg,Of a thickness of 3 mm or more but less than 4.75 mm,Free,Free
+7219.24.00,00J,kg,Of a thickness of less than 3 mm,Free,Free
+,,,Not further worked than cold-rolled (cold-reduced):,,
+7219.31.00,,,Of a thickness of 4.75 mm or more,Free,Free
+,01G,kg,Coiled,,
+,09B,kg,Other,,
+7219.32.00,,,Of a thickness of 3 mm or more but less than 4.75 mm,Free,Free
+,01A,kg,Coiled,,
+,09G,kg,Other,,
+7219.33.00,,,Of a thickness exceeding 1 mm but less than 3 mm,Free,Free
+,01F,kg,Coiled,,
+,09A,kg,Other,,
+,,,"Flat-rolled products of stainless steel, of a width of, etc.continued",,
+,,,Not further worked than cold-rolled (cold-reduced)continued,,
+7219.34.00,,,Of a thickness of 0.5 mm or more but not exceeding 1 mm,Free,Free
+,01L,kg,Coiled,,
+,09F,kg,Other,,
+7219.35.00,,,Of a thickness of less than 0.5 mm,Free,Free
+,01E,kg,Coiled,,
+,09L,kg,Other,,
+7219.90.00,,,Other,Free,Free
+,01D,kg,Coiled,,
+,,,  Other:,,
+,11A,kg,Perforated or cellular but not further worked,,
+,19G,kg,Other,,
+72.2,,,"Flat-rolled products of stainless steel, of a width of less than 600 mm:",,
+,,,Not further worked than hot-rolled:,,
+7220.11.00,,,Of a thickness of 4.75 mm or more,Free,Free
+,,,Coiled:,,
+,01C,kg,153 mm or more in width,,
+,09J,kg,Other,,
+,,,Other:,,
+,11L,kg,153 mm or more in width,,
+,19F,kg,Other,,
+7220.12.00,,,Of a thickness of less than 4.75 mm,Free,Free
+,,,Coiled:,,
+,01H,kg,153 mm or more in width,,
+,09C,kg,Other,,
+,,,Other:,,
+,11E,kg,153 mm or more in width,,
+,19L,kg,Other,,
+7220.20.00,,,Not further worked than cold-rolled (cold-reduced),Free,Free
+,,,  Coiled:,,
+,01B,kg,153 mm or more in width,,
+,09H,kg,Other,,
+,,,  Other:,,
+,11K,kg,153 mm or more in width,,
+,19E,kg,Other,,
+7220.9,,,Other:,,
+7220.90.01,00F,kg,Not exceeding 500 mm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7220.90.09,,,Other,Free,Free
+,01E,kg,Coiled,,
+,09L,kg,Other,,
+72.21,,,,,
+7221.00.00,,,"Bars and rods, hot-rolled, in irregularly wound coils, of stainless steel",Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,02A,kg,80 mm or more,,
+,08L,kg,Other,,
+,,, Other:,,
+,11L,kg,Wire rod,,
+,19F,kg,Other,,
+72.22,,,"Other bars and rods of stainless steel; angles, shapes and sections of",,
+,,,stainless steel:,,
+,,,"Bars and rods, not further worked than hot-rolled, hot-drawn or extruded:",,
+7222.11.00,00A,kg,Of circular cross-section,Free,Free
+7222.19.00,,,Other,Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,01F,kg,80 mm or more,,
+,09A,kg,Other,,
+,19J,kg,Other,,
+,,,"Other bars and rods of stainless steel; angles, shapes, etc.continued",,
+7222.20.00,,,"Bars and rods, not further worked than cold-formed or cold-finished",Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,01J,kg,80 mm or more,,
+,09D,kg,Other,,
+,19A,kg,Other,,
+7222.30.00,,,Other bars and rods,Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,02L,kg,80 mm or more,,
+,08K,kg,Other,,
+,,,  Other:,,
+,11K,kg,Welding,,
+,19E,kg,Other,,
+7222.40.00,,,"Angles, shapes and sections",Free,Free
+,02D,kg,Welding,,
+,08C,kg,Other,,
+72.23,,,,,
+7223.00.00,,,Wire of stainless steel,Free,Free
+,01K,kg,Welding,,
+,09E,kg,Other,,
+,,,"IV.- OTHER ALLOY STEEL; HOLLOW DRILL BARS AND RODS,",,
+,,,OF ALLOY OR NON-ALLOY STEEL,,
+72.24,,,Other alloy steel in ingots or other primary forms; semi-finished,,
+,,,products of other alloy steel:,,
+7224.10.00,00C,kg,Ingots and other primary forms,Free,Free
+7224.90.00,00B,kg,Other,Free,Free
+72.25,,,"Flat-rolled products of other alloy steel, of a width of 600 mm or more:",,
+,,,Of silicon-electrical steel:,,
+7225.11,,,Grain-oriented:,,
+7225.11.10,00A,kg,Galvanised,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7225.11.90,,,Other,Free,Free
+,01C,kg,Worked,,
+,,, Other:,,
+,05F,kg,Coiled,,
+,09J,kg,Other,,
+7225.19,,,Other:,,
+7225.19.10,00H,kg,Galvanised,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+7225.19.90,,,Other,Free,Free
+,01K,kg,Worked,,
+,,, Other:,,
+,05B,kg,Coiled,,
+,09E,kg,Other,,
+7225.3,,,"Other, not further worked than hot-rolled, in coils:",,
+,,,Of high speed steel:,,
+7225.30.01,00E,kg,Galvanised,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7225.30.09,00F,kg,Other,Free,Free
+7225.30.19,00A,kg,Other,Free,Free
+,,,"Flat-rolled products of other alloy steel, of a width of, etc.continued",,
+7225.4,,,"Other, not further worked than hot-rolled, not in coils:",,
+,,,Of high speed steel:,,
+7225.40.01,00J,kg,Galvanised,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7225.40.09,00K,kg,Other,Free,Free
+7225.40.19,,,Other,Free,Free
+,10B,kg,Exceeding 4.75 mm in thickness,,
+,19F,kg,Other,,
+7225.5,,,"Other, not further worked than cold-rolled (cold-reduced):",,
+,,,Of high speed steel:,,
+7225.50.01,00B,kg,Galvanised,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7225.50.09,,,Other,Free,Free
+,13E,kg,Coiled,,
+,19D,kg,Other,,
+7225.50.19,,,Other,Free,Free
+,10F,kg,Coiled,,
+,19K,kg,Other,,
+,,,Other:,,
+7225.91,,,Electrolytically plated or coated with zinc:,,
+7225.91.10,,,Galvanised,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10H,kg,Of high speed steel,,
+,,, Other:,,
+,13B,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,19A,kg,Other,,
+7225.91.90,,,Other,Free,Free
+,,,Of high speed steel:,,
+,10A,kg,Worked,,
+,,,  Other:,,
+,13F,kg,Coiled,,
+,17J,kg,Other,,
+,,, Other:,,
+,,,  Worked:,,
+,21G,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,25K,kg,Other,,
+,,,  Other:,,
+,27F,kg,Coiled,,
+,29B,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,39K,kg,Other,,
+7225.92,,,Otherwise plated or coated with zinc:,,
+7225.92.10,,,Galvanised,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,10B,kg,Of high speed steel,,
+,,, Other:,,
+,13G,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,19F,kg,Other,,
+,,,"Flat-rolled products of other alloy steel, etc.continued",,
+,,,Othercontinued,,
+,,,Otherwise plated or coated with zinccontinued,,
+7225.92.90,,,Other,Free,Free
+,,,Of high speed steel:,,
+,10F,kg,Worked,,
+,,,  Other:,,
+,13L,kg,Coiled,,
+,17C,kg,Other,,
+,,, Other:,,
+,,,  Worked:,,
+,21A,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,25D,kg,Other,,
+,,,  Other:,,
+,27L,kg,Coiled,,
+,29G,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,39D,kg,Other,,
+7225.99,,,Other:,,
+7225.99.10,,,Galvanised,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10D,kg,Of high speed steel,,
+,,, Other:,,
+,13J,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,19H,kg,Other,,
+7225.99.90,,,Other,Free,Free
+,,,Of high speed steel:,,
+,10H,kg,Worked,,
+,,,  Other:,,
+,13B,kg,Coiled,,
+,17E,kg,Other,,
+,,, Other:,,
+,,,  Worked:,,
+,21C,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,25F,kg,Other,,
+,,,  Other:,,
+,27B,kg,Coiled,,
+,29J,kg,"Exceeding 4.75 mm in thickness, not in coils",,
+,39F,kg,Other,,
+72.26,,,"Flat-rolled products of other alloy steel, of a width of less than 600 mm:",,
+,,,Of silicon-electrical steel:,,
+7226.11,,,Grain-oriented:,,
+7226.11.10,00K,kg,Galvanised or worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7226.11.90,,,Other,Free,Free
+,01A,kg,Coiled,,
+,09G,kg,Other,,
+7226.19,,,Other:,,
+7226.19.10,00F,kg,Galvanised or worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7226.19.90,,,Other,Free,Free
+,01H,kg,Coiled,,
+,09C,kg,Other,,
+7226.2,,,Of high speed steel:,,
+7226.20.01,00K,kg,Galvanised or worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7226.20.18,,,Other,Free,Free
+,01H,kg,Coiled,,
+,09C,kg,Other,,
+,,,"Flat-rolled products of other alloy steel, of a width, etc.continued",,
+,,,Other:,,
+7226.91.00,,,Not further worked than hot-rolled,Free,Free
+,01A,kg,Coiled,,
+,,,Other:,,
+,11J,kg,"Over 500 mm in width, of a thickness exceeding 4.75 mm",,
+,19D,kg,Other,,
+7226.92.00,,,Not further worked than cold-rolled (cold-reduced),Free,Free
+,01F,kg,Coiled,,
+,09A,kg,Other,,
+7226.99,,,Other:,,
+7226.99.01,,,Galvanised or worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Electrolytically plated or coated with zinc:,,
+,10C,kg,"Over 500 mm in width, of a thickness exceeding 4.75 mm, not in coils",,
+,13H,kg,Other,,
+,,,Otherwise plated or coated with zinc:,,
+,15D,kg,"Over 500 mm in width, of a thickness exceeding 4.75 mm, not in coils",,
+,17L,kg,Other,,
+,,, Other:,,
+,19G,kg,"Over 500 mm in width, of a thickness exceeding 4.75 mm, not in coils",,
+,29D,kg,Other,,
+7226.99.18,,,Other,Free,Free
+,,,Electrolytically plated or coated with zinc:,,
+,10C,kg,Coiled,,
+,,,  Other:,,
+,13H,kg,"Over 500 mm in width, of a thickness exceeding 4.75 mm",,
+,15D,kg,Other,,
+,,,Otherwise plated or coated with zinc:,,
+,17L,kg,Coiled,,
+,,,  Other:,,
+,21J,kg,"Over 500 mm in width, of a thickness exceeding 4.75 mm",,
+,29D,kg,Other,,
+,,, Other:,,
+,31F,kg,Coiled,,
+,,,  Other:,,
+,33B,kg,"Over 500 mm in width, of a thickness exceeding 4.75 mm",,
+,39A,kg,Other,,
+72.27,,,"Bars and rods, hot-rolled, in irregularly wound coils, of other alloy",,
+,,,steel:,,
+7227.10.00,,,Of high speed steel,Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02D,kg,"Channels, girders, beams and joists",,
+,05J,kg,Other,,
+,08C,kg,Other,,
+,,,  Other:,,
+,11C,kg,Wire rod,,
+,19J,kg,Other,,
+7227.20.00,,,Of silico-manganese steel,Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02H,kg,"Channels, girders, beams and joists",,
+,05B,kg,Other,,
+,08G,kg,Other,,
+,,,  Other:,,
+,,,For welding electrodes:,,
+,11G,kg,Wire rod,,
+,19B,kg,Other,,
+,,,Other:,,
+,21D,kg,Wire rod,,
+,29K,kg,Other,,
+,,,"Bars and rods, hot-rolled, in irregularly wound coils, etc.continued",,
+7227.90.00,,,Other,Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02C,kg,"Channels, girders, beams and joists",,
+,05H,kg,Other,,
+,08B,kg,Other,,
+,,,  Other:,,
+,11B,kg,Wire rod,,
+,19H,kg,Other,,
+72.28,,,"Other bars and rods of other alloy steel; angles, shapes and sections,",,
+,,,"of other alloy steel; hollow drill bars and rods, of alloy or non-alloy",,
+,,,steel:,,
+7228.10.00,,,"Bars and rods, of high speed steel",Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02B,kg,"Channels, girders, beams and joists",,
+,05G,kg,Other,,
+,08A,kg,Other,,
+,,,  Other:,,
+,11A,kg,Wire rod,,
+,19G,kg,Other,,
+7228.20.00,,,"Bars and rods, of silico-manganese steel",Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02F,kg,"Channels, girders, beams and joists",,
+,05L,kg,Other,,
+,08E,kg,Other,,
+,,,  Other:,,
+,,,Wire rod:,,
+,12C,kg,Welding,,
+,18B,kg,Other,,
+,,,Other:,,
+,21B,kg,Welding,,
+,29H,kg,Other,,
+7228.30.00,,,"Other bars and rods, not further worked than hot-rolled, hot-drawn or",,
+,,,extruded,Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02K,kg,"Channels, girders, beams and joists",,
+,05D,kg,Other,,
+,08J,kg,Other,,
+,,,  Other:,,
+,11J,kg,Wire rod,,
+,19D,kg,Other,,
+7228.40.00,,,"Other bars and rods, not further worked than forged",Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02C,kg,"Channels, girders, beams and joists",,
+,05H,kg,Other,,
+,08B,kg,Other,,
+,19H,kg,Other,,
+7228.50.00,,,"Other bars and rods, not further worked than cold-formed or cold-finished",Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02G,kg,"Channels, girders, beams and joists",,
+,05A,kg,Other,,
+,08F,kg,Other,,
+,19A,kg,Other,,
+,,,"Other bars and rods of other alloy steel; angles, etc.continued",,
+7228.60.00,,,Other bars and rods,Free,Free
+,,,Of cross-section in the shape of “flattened circles” or “modified,,
+,,,rectangles”:,,
+,,,Of a height of 80 mm or more:,,
+,02L,kg,"Channels, girders, beams and joists",,
+,05E,kg,Other,,
+,08K,kg,Other,,
+,,,  Other:,,
+,11K,kg,Welding,,
+,19E,kg,Other,,
+7228.70.00,,,"Angles, shapes and sections",Free,Free
+,,,Of a height of 80 mm or more:,,
+,01F,kg,"Channels, girders, beams and joists",,
+,09A,kg,Other,,
+,19J,kg,Other,,
+7228.80.00,00A,kg,Hollow drill bars and rods,Free,Free
+72.29,,,Wire of other alloy steel:,,
+7229.20.00,,,Of silico-manganese steel,Free,Free
+,,,  Coated:,,
+,02D,kg,Welding,,
+,08C,kg,Other,,
+,,,  Other:,,
+,12A,kg,Welding,,
+,18L,kg,Other,,
+7229.90.00,,,Other,Free,Free
+,,,Of high speed steel:,,
+,10L,kg,Coated,,
+,13E,kg,Other,,
+,,,  Other:,,
+,,,Coated:,,
+,15A,kg,Welding,,
+,17H,kg,Other,,
+,,,Other:,,
+,21F,kg,Welding,,
+,29A,kg,Other,,
+73.01,,,"Sheet piling of iron or steel, whether or not drilled, punched or made",,
+,,,"from assembled elements; welded angles, shapes and sections, of iron",,
+,,,or steel:,,
+7301.10.00,00L,kg,Sheet piling,Free,Free
+7301.20.00,00D,kg,"Angles, shapes and sections",5,Free
+,,,,,*See Below
+,,,,,CA Free
+73.02,,,"Railway or tramway track construction material of iron or steel, the",,
+,,,"following: rails, check-rails and rack rails, switch blades, crossing",,
+,,,"frogs, point rods and other crossing pieces, sleepers (cross-ties),",,
+,,,"fish-plates, chairs, chair wedges, sole plates (base plates), rail clips,",,
+,,,"bedplates, ties and other material specialized for jointing or fixing",,
+,,,rails:,,
+7302.10.00,00J,kg,Rails,Free,Free
+7302.30.00,00F,kg,"Switch blades, crossing frogs, point rods and other crossing pieces",Free,Free
+7302.40.00,00K,kg,Fish-plates and sole plates,Free,Free
+7302.90.00,,,Other,Free,Free
+,11C,kg,  Sleepers (cross-ties),,
+,19J,kg,  Other,,
+73.03,,,,,
+7303.00.00,00C,kg,"Tubes, pipes and hollow profiles, of cast iron",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+73.04,,,"Tubes, pipes and hollow profiles, seamless, of iron (other than cast",,
+,,,iron) or steel:,,
+,,,Line pipe of a kind used for oil or gas pipelines:,,
+7304.11.00,,,Of stainless steel,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10G,kg,Of a nominal internal diameter less than 100 mm,,
+,19L,kg,Other,,
+7304.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10C,kg,Of a nominal internal diameter less than 100 mm,,
+,19G,kg,Other,,
+,,,"Casing, tubing and drill pipe, of a kind used in drilling for oil or gas:",,
+7304.22.00,00H,kg,Drill pipe of stainless steel,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7304.23.00,00B,kg,Other drill pipe,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7304.24.00,00G,kg,"Other, of stainless steel",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7304.29.00,10G,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Other, of circular cross-section, of iron or non-alloy steel",,
+7304.31,,,Cold-drawn or cold-rolled (cold-reduced):,,
+7304.31.01,,,Boiler tubes,Free,Free
+,01A,kg, Of a nominal internal diameter less than 100 mm,,
+,09G,kg, Other,,
+,,,"Tubes, pipes and hollow profiles, seamless, of iron, etc.continued",,
+,,,"Other, of circular cross-section, of iron or non-alloy steelcontinued",,
+,,,Cold-drawn or cold-rolled (cold-reduced)continued,,
+7304.31.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,kg, Blanks for tubes and pipes,,
+,,, Other:,,
+,,,  Steam pipes:,,
+,11K,kg,Of a nominal internal diameter less than 100 mm,,
+,19E,kg,Other,,
+,,,  Other:,,
+,21G,kg,Of a nominal internal diameter less than 100 mm,,
+,29B,kg,Other,,
+7304.39,,,Other:,,
+7304.39.01,,,Boiler tubes,Free,Free
+,01H,kg, Of a nominal internal diameter less than 100 mm,,
+,19L,kg, Other,,
+7304.39.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01J,kg, Blanks for tubes and pipes,,
+,,, Other:,,
+,,,  Steam pipes:,,
+,11F,kg,Of a nominal internal diameter less than 100 mm,,
+,19A,kg,Other,,
+,,,  Other:,,
+,21C,kg,Of a nominal internal diameter less than 100 mm,,
+,39F,kg,Other,,
+,,,"Other, of circular cross-section, of stainless steel:",,
+7304.41,,,Cold-drawn or cold-rolled (cold-reduced):,,
+7304.41.01,,,Boiler tubes,Free,Free
+,01E,kg, Of a nominal internal diameter less than 100 mm,,
+,19H,kg, Other,,
+7304.41.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01F,kg, Blanks for tubes and pipes,,
+,,, Other:,,
+,,,  Steam pipes:,,
+,11C,kg,Of a nominal internal diameter less than 100 mm,,
+,19J,kg,Other,,
+,,,  Other:,,
+,21L,kg,Of a nominal internal diameter less than 100 mm,,
+,29F,kg,Other,,
+7304.49,,,Other:,,
+7304.49.01,,,Boiler tubes,Free,Free
+,01A,kg, Of a nominal internal diameter less than 100 mm,,
+,19D,kg, Other,,
+7304.49.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,kg, Blanks for tubes and pipes,,
+,,, Other:,,
+,,,  Steam pipes:,,
+,11K,kg,Of a nominal internal diameter less than 100 mm,,
+,19E,kg,Other,,
+,,,  Other:,,
+,21G,kg,Of a nominal internal diameter less than 100 mm,,
+,29B,kg,Other,,
+,,,"Other, of circular cross-section, of other alloy steel:",,
+7304.51,,,Cold-drawn or cold-rolled (cold-reduced):,,
+7304.51.01,,,Boiler tubes,Free,Free
+,01J,kg, Of a nominal internal diameter less than 100 mm,,
+,19A,kg, Other,,
+,,,"Tubes, pipes and hollow profiles, seamless, of iron, etc.continued",,
+,,,"Other, of circular cross-section, of other alloy steelcontinued",,
+,,,Cold-drawn or cold-rolled (cold-reduced)continued,,
+7304.51.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01K,kg, Blanks for tubes and pipes,,
+,,, Other:,,
+,,,  Steam pipes:,,
+,11G,kg,Of a nominal internal diameter less than 100 mm,,
+,19B,kg,Other,,
+,,,  Other:,,
+,22B,kg,Of a nominal internal diameter less than 100 mm,,
+,29K,kg,Other,,
+7304.59,,,Other:,,
+7304.59.01,,,Boiler tubes,Free,Free
+,02C,kg, Of a nominal internal diameter less than 100 mm,,
+,09L,kg, Other,,
+7304.59.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01F,kg, Blanks for tubes and pipes,,
+,,, Other:,,
+,,,  Steam pipes:,,
+,11C,kg,Of a nominal internal diameter less than 100 mm,,
+,19J,kg,Other,,
+,,,  Other:,,
+,21L,kg,Of a nominal internal diameter less than 100 mm,,
+,29F,kg,Other,,
+7304.9,,,Other:,,
+7304.90.01,,,Boiler tubes,Free,Free
+,01J,kg,Of a nominal internal diameter less than 100 mm,,
+,09D,kg,Other,,
+7304.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01K,kg,Blanks for tubes and pipes,,
+,,,Other:,,
+,,, Steam pipes:,,
+,11G,kg,  Of a nominal internal diameter less than 100 mm,,
+,19B,kg,  Other,,
+,,, Other:,,
+,21D,kg,  Of a nominal internal diameter less than 100 mm,,
+,29K,kg,  Other,,
+73.05,,,"Other tubes and pipes (for example, welded, riveted or similarly",,
+,,,"closed), having circular cross-sections, the external diameter of which",,
+,,,"exceeds 406.4 mm, of iron or steel:",,
+,,,Line pipe of a kind used for oil or gas pipelines:,,
+7305.11.00,,,Longitudinally submerged arc welded,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01F,kg,Screwed,,
+,,,Unscrewed:,,
+,11C,kg, Of a nominal internal diameter exceeding 600 mm,,
+,19J,kg, Other,,
+7305.12.00,,,"Other, longitudinally welded",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01L,kg,Screwed,,
+,,,Unscrewed:,,
+,11H,kg, Of a nominal internal diameter exceeding 600 mm,,
+,19C,kg, Other,,
+,,,"Other tubes and pipes (for example, welded, riveted, etc.continued",,
+,,,Line pipe of a kind used for oil or gas pipelinescontinued,,
+7305.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Welded:,,
+,01B,kg, Screwed,,
+,,, Unscrewed:,,
+,12H,kg,  Of a nominal internal diameter exceeding 600 mm,,
+,19E,kg,  Other,,
+,29B,kg,  .Other,,
+7305.20.00,,,Casing of a kind used in drilling for oil or gas,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,  Welded:,,
+,01E,kg,Screwed,,
+,,,Unscrewed:,,
+,11B,kg, Of a nominal internal diameter exceeding 600 mm,,
+,19H,kg, Other,,
+,39B,kg,  Other,,
+,,,"Other, welded:",,
+7305.31,,,Longitudinally welded:,,
+7305.31.01,00A,kg,Boiler tubes,Free,Free
+7305.31.09,00B,kg,"High-pressure hydro-electric conduits of steel, whether or not",,
+,,,reinforced,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7305.31.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01F,kg, Steam pipes,,
+,,, Other:,,
+,11C,kg,  Screwed,,
+,,,  Unscrewed:,,
+,21L,kg,Of a nominal internal diameter exceeding 600 mm,,
+,39C,kg,Other,,
+7305.39,,,Other:,,
+7305.39.01,00H,kg,Boiler tubes,Free,Free
+7305.39.09,10F,kg,"High-pressure hydro-electric conduits of steel, whether or not",,
+,,,reinforced,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7305.39.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,kg, Steam pipes,,
+,,, Other:,,
+,11K,kg,  Screwed,,
+,,,  Unscrewed:,,
+,21G,kg,Of a nominal internal diameter exceeding 600 mm,,
+,29B,kg,Other,,
+7305.9,,,Other:,,
+7305.90.01,00J,kg,Boiler tubes,Free,Free
+7305.90.09,00K,kg,"High-pressure hydro-electric conduits of steel, whether or not",,
+,,,reinforced,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Other tubes and pipes (for example, welded, riveted, etc.continued",,
+,,,Othercontinued,,
+7305.90.19,00E,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+73.06,,,"Other tubes, pipes and hollow profiles (for example, open seam or",,
+,,,"welded, riveted or similarly closed), of iron or steel:",,
+,,,Line pipe of a kind used for oil or gas pipelines:,,
+7306.11.00,,,"Welded, of stainless steel",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10C,kg,Screwed,,
+,,,Unscrewed:,,
+,13H,kg, Of a nominal internal diameter less than 102 mm,,
+,15D,kg, 102 mm or more but less than 229 mm,,
+,19G,kg, Other,,
+7306.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Welded:,,
+,10K,kg, Screwed,,
+,,, Unscrewed:,,
+,13D,kg,  Of a nominal internal diameter less than 102 mm,,
+,15L,kg,  102 mm or more but less than 229 mm,,
+,17G,kg,  Other,,
+,19C,kg,Other,,
+,,,Casing and tubing of a kind used in drilling for oil or gas:,,
+7306.21.00,,,"Welded, of stainless steel",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,10G,kg,Screwed,,
+,,,Unscrewed:,,
+,,, Of a nominal internal diameter less than 102 mm:,,
+,13A,kg,  Of a wall thickness not exceeding 2.6 mm,,
+,15H,kg,  Of a wall thickness exceeding 2.6 mm,,
+,17D,kg, 102 mm or more but less than 229 mm,,
+,19L,kg, Other,,
+7306.29.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Welded:,,
+,10C,kg, Screwed,,
+,,, Unscrewed:,,
+,13H,kg,  Of a nominal internal diameter less than 102 mm,,
+,15D,kg,  102 mm or more but less than 229 mm,,
+,17L,kg,  Other,,
+,19G,kg,Other,,
+7306.3,,,"Other, welded, of circular cross-section, of iron or non-alloy steel:",,
+7306.30.01,,,Boiler tubes,Free,Free
+,01C,kg,Of a nominal internal diameter less than 100 mm,,
+,19F,kg,Other,,
+7306.30.09,00F,kg,"High-pressure hydro-electric conduits of steel, whether or not",,
+,,,reinforced,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Other tubes, pipes and hollow profiles, etc.continued",,
+,,,"Other, welded, of circular cross-section, of iron, etc.continued",,
+7306.30.19,,,Other 5,,Free
+,,,,,*See below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,  .Steam pipes:,,
+,01K,kg, Of a nominal internal diameter less than 100 mm,,
+,08G,kg, Other,,
+,,,  .Other:,,
+,,,.Plated or coated with zinc:,,
+,,,  Screwed:,,
+,23L,kg,  .Of a nominal internal diameter less than 102 mm,,
+,25G,kg,  .Of a nominal internal diameter of 102 mm or more but less than 229 mm,,
+,27C,kg,  .Other,,
+,,,  Unscrewed:,,
+,31A,kg,  .Of a nominal internal diameter less than 102 mm,,
+,35D,kg,  .Of a nominal internal diameter of 102 mm or more but less than 229 mm,,
+,37L,kg,  .Other,,
+,,, Plated or coated with other metals:,,
+,,,  Screwed:,,
+,41J,kg,  .Of a nominal internal diameter less than 102 mm,,
+,45A,kg,  .Of a nominal internal diameter of 102 mm or more but less than 229 mm,,
+,49D,kg,  .Other,,
+,,,  Unscrewed,,
+,51F,kg,  .Of a nominal internal diameter less than 102 mm,,
+,55J,kg,  .Of a nominal internal diameter of 102 mm or more but less than 229 mm,,
+,59A,kg,  .Other,,
+,,," Painted, lacquered or similarly coated:",,
+,,,  Screwed:,,
+,61C,kg,  .Of a nominal internal diameter less than 102 mm,,
+,65F,kg,  .Of a nominal internal diameter of 102 mm or more but less than 229 mm,,
+,69J,kg,  .Other,,
+,,,  Unscrewed:,,
+,71L,kg,  .Of a nominal internal diameter less than 102 mm,,
+,75C,kg,  .Of a nominal internal diameter of 102 mm or more but less than 229 mm,,
+,79F,kg,  .Other,,
+,,, Other:,,
+,,,  Screwed:,,
+,81H,kg,  .Of a nominal internal diameter less than 102 mm,,
+,85L,kg,  .Of a nominal internal diameter of 102 mm or more but less than 229 mm,,
+,89C,kg,  .Other,,
+,,,  Unscrewed:,,
+,91E,kg,  .Of a nominal internal diameter less than 102 mm,,
+,95H,kg,  .Of a nominal internal diameter of 102 mm or more but less than 229 mm,,
+,99L,kg,  .Other,,
+7306.4,,,"Other, welded, of circular cross-section, of stainless steel:",,
+7306.40.01,,,Boiler tubes Free,,Free
+,01G,kg,Of a nominal internal diameter less than 100 mm,,
+,09B,kg,Other,,
+7306.40.09,00K,kg,"High-pressure hydro-electric conduits of steel, whether or not",,
+,,,reinforced 5,,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+7306.40.19,,,Other 5,,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,  .Steam pipes:,,
+,01C,kg, Of a nominal internal diameter less than 100 mm,,
+,09J,kg, Other,,
+,,,  .Other:,,
+,11L,kg, Screwed,,
+,,, Unscrewed:,,
+,21H,kg,  Of a nominal internal diameter less than 102 mm,,
+,29C,kg,  Of a nominal internal diameter of 102 mm or more but less than,,
+,,,229 mm,,
+,39L,kg,  Other,,
+,,,"Other tubes, pipes and hollow profiles, etc.continued",,
+7306.5,,,"Other, welded, of circular cross-section, of other alloy steel:",,
+7306.50.01,,,Boiler tubes,Free,Free
+,01L,kg,Of a nominal internal diameter less than 100 mm,,
+,09F,kg,Other,,
+7306.50.09,00C,kg,"High-pressure hydro-electric conduits of steel, whether or not",,
+,,,reinforced,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+7306.50.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Steam pipes:,,
+,01G,kg, Of a nominal internal diameter less than 100 mm,,
+,09B,kg, Other,,
+,,,Other:,,
+,11D,kg, Screwed,,
+,,, Unscrewed:,,
+,21A,kg,  Of a nominal internal diameter less than 102 mm,,
+,29G,kg,  Of a nominal internal diameter of 102 mm or more,,
+,,,but less than 229 mm,,
+,39D,kg,  Other,,
+,,,"Other, welded, of non-circular cross-section:",,
+7306.61.00,,,Of square or rectangular cross-section,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Steam pipes:,,
+,10A,kg,Of a nominal internal diameter less than 100 mm,,
+,13F,kg, Other,,
+,,,Rectangular hollow sections:,,
+,,, Of a maximum dimension less than 102 mm:,,
+,,,  Stainless steel:,,
+,15B,kg,Of wall thickness not exceeding 2.6 mm,,
+,17J,kg,Other,,
+,,,  Plated or coated with zinc:,,
+,51J,kg,Of wall thickness not exceeding 2.6 mm,,
+,53E,kg,Other,,
+,,,  Plated or coated with other metals:,,
+,54C,kg,Of wall thickness not exceeding 2.6 mm,,
+,55A,kg,Other,,
+,,,"  Painted, lacquered or similarly coated:",,
+,56K,kg,Of wall thickness not exceeding 2.6 mm,,
+,57H,kg,Other,,
+,,,  Other:,,
+,58F,kg,Of wall thickness not exceeding 2.6 mm,,
+,59D,kg,Other,,
+,,,"Other tubes, pipes and hollow profiles, etc.continued",,
+,,,"Other, welded, of circular cross-section, of other alloy steelcontinued",,
+,,,Of square or rectangular cross-sectioncontinued,,
+,,,Rectangular hollow sectionscontinued,,
+,,, Of a maximum dimension of 102 mm or more but less than 128 mm:,,
+,,,  Stainless steel:,,
+,61F,kg,Of wall thickness not exceeding 2.6 mm,,
+,62D,kg,Other,,
+,,,  Plated or coated with zinc:,,
+,63B,kg,Of wall thickness not exceeding 2.6 mm,,
+,64L,kg,Other,,
+,,,  Plated or coated with other metals:,,
+,65J,kg,Of wall thickness not exceeding 2.6 mm,,
+,66G,kg,Other,,
+,,,"  Painted, lacquered or similarly coated:",,
+,67E,kg,Of wall thickness not exceeding 2.6 mm,,
+,68C,kg,Other,,
+,,,  Other:,,
+,69A,kg,Of wall thickness not exceeding 2.6 mm,,
+,70E,kg,Other,,
+,,, Of a maximum dimension of 128 mm or more but less than 229 mm:,,
+,,,  Stainless steel:,,
+,71C,kg,Of wall thickness not exceeding 2.6 mm,,
+,72A,kg,Other,,
+,,,  Plated or coated with zinc:,,
+,73K,kg,Of wall thickness not exceeding 2.6 mm,,
+,74H,kg,Other,,
+,,,  Plated or coated with other metals:,,
+,75F,kg,Of wall thickness not exceeding 2.6 mm,,
+,76D,kg,Other,,
+,,,"  Painted, lacquered or similarly coated:",,
+,77B,kg,Of wall thickness not exceeding 2.6 mm,,
+,78L,kg,Other,,
+,,,  Other:,,
+,79J,kg,Of wall thickness not exceeding 2.6 mm,,
+,80B,kg,Other,,
+,81L,kg, Other,,
+,,,Other:,,
+,,, Of a nominal internal diameter less than 102 mm:,,
+,,,  Stainless steel:,,
+,82J,kg,Of wall thickness not exceeding 2.6 mm,,
+,83G,kg,Other,,
+,84E,kg,  Other,,
+,85C,kg, Of a nominal internal diameter of 102 mm or more but less than 229 mm,,
+,89F,kg, Other,,
+7306.69.00,,,Of other non-circular cross-section,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Steam pipes:,,
+,10H,kg, Of a nominal internal diameter less than 100 mm,,
+,13B,kg, Other,,
+,,,Other:,,
+,,, Of a nominal internal diameter less than 102 mm:,,
+,,,  Stainless steel:,,
+,15J,kg,Of wall thickness not exceeding 2.6 mm,,
+,17E,kg,Other,,
+,19A,kg,  Other,,
+,21C,kg, Of a nominal internal diameter of 102 mm or more but less than,,
+,,,229 mm,,
+,29J,kg, Other,,
+7306.90.00,00L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+73.07,,,"Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron",,
+,,,or steel:,,
+,,,Cast fittings:,,
+7307.11.00,,,Of non-malleable cast iron,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,kg,Sockets,,
+,09H,kg,Other,,
+7307.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01J,kg,Sockets,,
+,09D,kg,Other,,
+,,,"Other, of stainless steel:",,
+7307.21,,,Flanges:,,
+7307.21.01,00D,kg,Of circular cross-section,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7307.21.09,00E,kg,Other,Free,Free
+7307.22.00,00B,kg,"Threaded elbows, bends and sleeves",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7307.23,,,Butt welding fittings:,,
+7307.23.01,00C,kg,Of circular cross-section,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7307.23.09,00D,kg,Other,Free,Free
+7307.29,,,Other:,,
+7307.29.01,00L,kg,Screwed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Unscrewed:,,
+7307.29.11,00F,kg,Of circular cross-section,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+7307.29.19,00G,kg,Other,Free,Free
+,,,Other:,,
+7307.91,,,Flanges:,,
+7307.91.01,00K,kg,Screwed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7307.91.09,,,Unscrewed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01J,kg, Forged steel,,
+,09D,kg, Other,,
+,,,"Tube or pipe fittings (for example, couplings, elbows, etc.continued",,
+,,,Othercontinued,,
+7307.92.00,00H,kg,"Threaded elbows, bends and sleeves",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7307.93.00,00B,kg,Butt welding fittings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7307.99,,,Other:,,
+7307.99.01,,,Screwed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01D,kg, Sockets,,
+,09K,kg, Other,,
+7307.99.09,00G,kg,Unscrewed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+73.08,,,Structures (excluding prefabricated buildings of heading 94.06) and,,
+,,,"parts of structures (for example, bridges and bridge-sections,",,
+,,,"lock-gates, towers, lattice masts, roofs, roofing frame-works, doors",,
+,,,"and windows and their frames and thresholds for doors, shutters,",,
+,,,"balustrades, pillars and columns), of iron or steel; plates, rods, angles,",,
+,,,"shapes, sections, tubes and the like, prepared for use in structures, of",,
+,,,iron or steel:,,
+7308.10.00,00H,kg,Bridges and bridge-sections,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7308.20.00,00A,kg,Towers and lattice masts,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7308.30.00,,,"Doors, windows and their frames and thresholds for doors",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,No.,  Doors,,
+,03K,No.,  Door frames and their thresholds,,
+,05F,No.,  Windows and their frames,,
+7308.40.00,,,"Equipment for scaffolding, shuttering, propping or pit-propping",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01G,kg,  Scaffolding fittings,,
+,09B,kg,  Other,,
+7308.9,,,Other:,,
+7308.90.10,,,Roofing tiles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10K,.,"Of galvanised steel, coated with a layer of bonded mineral substances",,
+,19C,.,Other,,
+,,,"Structures (excluding prefabricated buildings of, etc.continued",,
+,,,Othercontinued,,
+7308.90.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10C,kg,"Channels, joists, girders, beams and columns",,
+,15D,kg,"Tubes and the like, prepared for use in structures",,
+,19G,kg,Suspended ceiling systems,,
+,29D,kg,Other,,
+73.09,,,,,
+7309.00.00,00B,kg,"Reservoirs, tanks, vats and similar containers for any material (other",,
+,,,"than compressed or liquefied gas), of iron or steel, of a capacity",,
+,,,"exceeding 300 l, whether or not lined or heat-insulated, but not fitted",,
+,,,with mechanical or thermal equipment,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+73.1,,,"Tanks, casks, drums, cans, boxes and similar containers, for any",,
+,,,"material (other than compressed or liquefied gas), of iron or steel, of a",,
+,,,"capacity not exceeding 300 l, whether or not lined or heat-insulated,",,
+,,,but not fitted with mechanical or thermal equipment:,,
+7310.10.00,,,Of a capacity of 50 l or more,Free,Free
+,01H,kg,  Returned empty containers identifiable as such to the satisfaction of,,
+,,,Customs,,
+,09C,kg,  Other,,
+,,,Of a capacity of less than 50 l:,,
+7310.21,,,Cans which are to be closed by soldering or crimping:,,
+7310.21.01,00D,kg,Not exceeding 30 l capacity,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7310.21.09,00E,kg,Other,Free,Free
+7310.29,,,Other:,,
+7310.29.01,00L,kg,Not exceeding 30 l capacity,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7310.29.09,00A,kg,Other,Free,Free
+73.11,,,,,
+7311.00.00,00D,kg,"Containers for compressed or liquefied gas, of iron or steel",5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+73.12,,,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron",,
+,,,"or steel, not electrically insulated:",,
+7312.10.00,,,"Stranded wire, ropes and cables",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01D,kg,  With fittings attached,,
+,,,  Other:,,
+,11A,kg,Stress relieved strand (also known as pre-stressed or post-stressed) of,,
+,,,a kind used in pre-stressed concrete work,,
+,19G,kg,Round strand ropes 2.5 mm to 56 mm diameter inclusive,,
+,29D,kg,Other,,
+7312.90.00,00E,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+73.13,,,,,
+7313,,,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed",,
+,,,"or not, and loosely twisted double wire, of a kind used for fencing, of",,
+,,,iron or steel:,,
+7313.00.01,00G,kg,Barbed iron or steel wire,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7313.00.09,00H,kg,Other,Free,Free
+73.14,,,"Cloth (including endless bands), grill, netting and fencing, of iron or",,
+,,,steel wire; expanded metal of iron or steel:,,
+,,,Woven cloth:,,
+7314.12.00,,,"Endless bands for machinery, of stainless steel",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01K,kg,Size 0-17.5 SWG,,
+,09E,kg,Other,,
+7314.14.00,,,"Other woven cloth, of stainless steel",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01J,kg,Size 0-17.5 SWG,,
+,09D,kg,Other,,
+7314.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Other endless bands for machinery:,,
+,10L,kg, Size 0-17.5 SWG,,
+,13E,kg, Other,,
+,,,Other:,,
+,17H,kg, Size 0-17.5 SWG,,
+,19D,kg, Other,,
+7314.20.00,00F,kg,"Grill, netting and fencing, welded at the intersection, of wire with a",,
+,,,maximum cross-sectional dimension of 3 mm or more and having a,,
+,,,mesh size of 100 cm2 or more,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Other grill, netting and fencing, welded at the intersection:",,
+7314.31.00,,,Plated or coated with zinc,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,kg,Size 0-17.5 SWG,,
+,09H,kg,Other,,
+7314.39.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01J,kg,Size 0-17.5 SWG,,
+,09D,kg,Other,,
+,,,"Cloth (including endless bands), grill, netting and, etc.continued",,
+,,,"Other cloth, grill, netting and fencing:",,
+7314.41,,,Plated or coated with zinc:,,
+7314.41.01,,,"Netting, hexagonal mesh",Free,Free
+,01B,kg, 13 mm mesh,,
+,09H,kg, 19 mm mesh,,
+,19E,kg, Other,,
+7314.41.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,kg," Netting, chain link",,
+,,, Other:,,
+,11L,kg,  Size 0-17.5 SWG,,
+,19F,kg,  Other,,
+7314.42,,,Coated with plastics:,,
+7314.42.01,,,"Netting, hexagonal mesh",Free,Free
+,01G,kg, 13 mm mesh,,
+,09B,kg, 19 mm mesh,,
+,19K,kg, Other,,
+7314.42.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,02F,kg," Netting, chain link",,
+,,, Other:,,
+,12C,kg,  Size 0-17.5 SWG,,
+,19L,kg,  Other,,
+7314.49,,,Other:,,
+7314.49.01,,,"Netting, hexagonal mesh",Free,Free
+,01J,kg, 13 mm mesh,,
+,09D,kg, 19 mm mesh,,
+,29J,kg, Other,,
+7314.49.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01K,kg," Netting, chain link",,
+,,, Other:,,
+,11G,kg,  Size 0-17.5 SWG,,
+,19B,kg,  Other,,
+7314.50.00,00G,kg,Expanded metal,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+73.15,,,"Chain and parts thereof, of iron or steel:",,
+,,,Articulated link chain and parts thereof:,,
+7315.11,,,Roller chain:,,
+7315.11.01,,,Transmission chain,Free,Free
+,11G,kg, Of a type used on motorcycles,,
+,19B,kg, Other,,
+7315.11.09,00B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+7315.12,,,Other chain:,,
+7315.12.01,00F,kg,Chain 2 mm or less in thickness,Free,Free
+7315.12.09,00G,kg,Transmission chain,Free,Free
+7315.12.19,00B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7315.19,,,Parts:,,
+7315.19.01,00H,kg,Of chain 2 mm or less in thickness,Free,Free
+7315.19.09,00J,kg,Of transmission chain,Free,Free
+,,,"Chain and parts thereof, of iron or steelcontinued",,
+,,,Articulated link chain and parts thereofcontinued,,
+,,,Partscontinued,,
+7315.19.19,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+7315.20.00,00D,kg,Skid chain,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other chain:,,
+7315.81,,,Stud-link:,,
+7315.81.01,00G,kg,Transmission chain,Free,Free
+7315.81.09,00H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+7315.82,,,"Other, welded link:",,
+7315.82.01,00A,kg,Chain 2 mm or less in thickness,Free,Free
+7315.82.09,,,Transmission chain; conveyor chain,Free,Free
+,01L,kg, Transmission chain,,
+,09F,kg, Conveyor chain,,
+7315.82.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,, Of a diameter:,,
+,01F,kg,  Not exceeding 13 mm,,
+,09A,kg,  Exceeding 13 mm but not exceeding 25.4 mm,,
+,19J,kg,  Other,,
+7315.89,,,Other:,,
+7315.89.01,00C,kg,Chain 2 mm or less in thickness,Free,Free
+7315.89.09,00D,kg,Transmission chain,Free,Free
+7315.89.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,01H,kg, Conveyor chain,,
+,09C,kg, Other,,
+7315.9,,,Other parts:,,
+7315.90.01,10C,kg,Of chain 2 mm or less in thickness,Free,Free
+7315.90.09,,,Of transmission chain; of welded link conveyor chain,Free,Free
+,01E,kg,Of transmission chain,,
+,09L,kg,Of welded link conveyor chain,,
+7315.90.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,01L,kg,Of conveyor chain,,
+,09F,kg,Other,,
+73.16,,,,,
+7316.00.00,00E,kg,"Anchors, grapnels and parts thereof, of iron or steel",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+73.17,,,,,
+7317,,,"Nails, tacks, drawing pins, corrugated nails, staples (other than those",,
+,,,"of heading 83.05) and similar articles, of iron or steel, whether or not",,
+,,,"with heads of other material, but excluding such articles with heads of",,
+,,,copper:,,
+,,,"Nails, hook-nails, corrugated nails:",,
+7317.00.01,00K,kg,Peculiar to use in footwear; escutcheon pins,Free,Free
+7317.00.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Made from wire, whether plain or coated:",,
+,01J,kg, Collated or for collation,,
+,09D,kg, Other,,
+,19A,kg,Made from other materials,,
+,,,Staples:,,
+7317.00.11,00E,kg,Insulated,Free,Free
+7317.00.19,00F,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7317.00.29,,,Other,Free,Free
+,01K,kg,  Tacks,,
+,09E,kg,"  Spiked cramps, studs, spikes",,
+,20F,kg,  Other,,
+73.18,,,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters,",,
+,,,"cotter-pins, washers (including spring washers) and similar articles,",,
+,,,of iron or steel:,,
+,,,Threaded articles:,,
+7318.11.00,,,Coach screws,5,Free
+,,,,,*See below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Of stainless steel:,,
+,10G,kg, Socket head screws,,
+,19L,kg, Other,,
+,,,Other:,,
+,21B,kg, Socket head screws,,
+,29H,kg, Other,,
+7318.12.00,,,Other wood screws,5,Free
+,,,,,*See below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10A,kg,Of stainless steel,,
+,19E,kg,Other,,
+7318.13.00,,,Screw hooks and screw rings,Free,Free
+,10F,kg,Of stainless steel,,
+,19K,kg,Other,,
+7318.14.00,,,Self-tapping screws,5,Free
+,,,,,*See below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,12G,kg,Of stainless steel,,
+,19D,kg,Other,,
+7318.15,,,"Other screws and bolts, whether or not with their nuts or washers:",,
+7318.15.01,,,Screw studs and studding,5,Free
+,,,,,*See below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,12H,kg, Of stainless steel,,
+,19E,kg,.Other,,
+,,,"Screws, bolts, nuts, coach screws, screw hooks, rivets, etc.continued",,
+,,,Threaded articlescontinued,,
+,,,"Other screws and bolts, whether or not with their nuts, etc.continued",,
+7318.15.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,, Of stainless steel:,,
+,,,  Bolts and bolt ends:,,
+,50A,kg,Forged,,
+,,,Other:,,
+,52H,kg, High tensile,,
+,54D,kg, Other,,
+,,,  Other screws:,,
+,,,Metal thread or machine forged; set screws:,,
+,56L,kg, Socket head screws,,
+,58G,kg, Other,,
+,60J,kg,  Other,,
+,,, Other:,,
+,,,  Bolts and bolt ends:,,
+,70F,kg,Forged,,
+,,,Other:,,
+,72B,kg, High tensile,,
+,74J,kg, Other,,
+,,,  Other screws:,,
+,,,Metal thread or machine forged; set screws:,,
+,76E,kg, Socket head screws,,
+,78A,kg, Other,,
+,80C,kg,  Other,,
+7318.16.00,,,Nuts,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Of stainless steel:,,
+,12F,kg," Square or hexagonal, made by pressing or forging",,
+,14B,kg, Other,,
+,,,Other:,,
+,15L,kg," Square or hexagonal, made by pressing or forging",,
+,19C,kg, Other,,
+7318.19,,,Other:,,
+7318.19.01,,,Threaded spikes and studs for footwear,Free,Free
+,10K,kg, Of stainless steel,,
+,19C,kg, Other,,
+7318.19.09,,,Other,5,Free
+,,,,,*See below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,12G,kg, Of stainless steel,,
+,19D,kg, Other,,
+,,,Non-threaded articles:,,
+7318.21.00,,,Spring washers and other lock washers,Free,Free
+,10L,kg,Of stainless steel,,
+,19D,kg,Other,,
+7318.22.00,,,Other washers,5,Free
+,,,,,*See below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,12A,kg,Of stainless steel,,
+,19J,kg,Other,,
+7318.23.00,,,Rivets,Free,Free
+,10K,kg,Of stainless steel,,
+,19C,kg,Other,,
+7318.24.00,,,Cotters and cotter-pins,Free,Free
+,12L,kg,Of stainless steel,,
+,19H,kg,Other,,
+7318.29.00,,,Other,Free,Free
+,12C,kg,Of stainless steel,,
+,19L,kg,Other,,
+73.19,,,"Sewing needles, knitting needles, bodkins, crochet hooks, embroidery",,
+,,,"stilettos and similar articles, for use in the hand, of iron or steel; safety",,
+,,,"pins and other pins of iron or steel, not elsewhere specified or included:",,
+7319.40.00,,,Safety pins and other pins,Free,Free
+,10A,kg,  Safety pins,,
+,19E,kg,  Other pins,,
+7319.90.00,,,Other,Free,Free
+,10K,.,"  Sewing, darning or embroidery needles",,
+,19C,kg,  Other,,
+73.2,,,"Springs and leaves for springs, of iron or steel:",,
+7320.1,,,Leaf-springs and leaves therefor:,,
+,,,Laminated undercarriage springs (but not including shackles therefor):,,
+,,,For use in the assembly of motor vehicles as may be determined by,,
+,,,the Minister in accordance with Section 14 of this Act:,,
+7320.10.02,00K,.,"For the passenger motor vehicles of heading 87.03, and other",,
+,,,"vehicles of heading 87.04 of a g.v.wnot exceeding 3,500 kg",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+7320.10.03,00F,.,"For the vehicles of headings 87.02 and 87.05, and road tractors of",,
+,,,heading 87.01 and vehicles of heading 87.04 of a g.v.wexceeding,,
+,,,"3,500 kg but not exceeding 10,500 kg",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7320.10.05,00J,.,"For other vehicles exceeding 10,500 kg",Free,Free
+7320.10.09,00D,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7320.10.19,00K,.,Other automotive springs,Free,Free
+7320.10.29,00E,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7320.2,,,Helical springs:,,
+,,,Coiled suspension and seat springs:,,
+,,,For use in the assembly of motor vehicles as may be determined by,,
+,,,the Minister in accordance with Section 14 of this Act:,,
+7320.20.02,00C,.,"For the passenger motor vehicles of heading 87.03, and other",,
+,,,"vehicles of heading 87.04 of a g.v.wnot exceeding 3,500 kg",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+7320.20.03,00K,.,"For the vehicles of headings 87.02 and 87.05, and road tractors of",,
+,,,heading 87.01 and vehicles of heading 87.04 of a g.v.wexceeding,,
+,,,"3,500 kg but not exceeding 10,500 kg",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7320.20.05,00B,.,"For other vehicles exceeding 10,500 kg",Free,Free
+7320.20.09,00H,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7320.20.19,00C,.,Other automotive springs,Free,Free
+7320.20.29,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01G,.,Upholsterers’ spiral springs,,
+,09B,.,Other,,
+,,,"Springs and leaves for springs, of iron or steelcontinued",,
+7320.9,,,Other:,,
+,,,Coiled suspension and seat springs:,,
+,,,For use in the assembly of motor vehicles as may be determined by,,
+,,,the Minister in accordance with Section 14 of this Act:,,
+7320.90.02,00J,.,"For the passenger motor vehicles of heading 87.03, and other",,
+,,,"vehicles of heading 87.04 of a g.v.wnot exceeding 3,500 kg",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+7320.90.03,00E,.,"For the vehicles of headings 87.02 and 87.05, and road tractors of",,
+,,,heading 87.01 and vehicles of heading 87.04 of a g.v.wexceeding,,
+,,,"3,500 kg but not exceeding 10,500 kg",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7320.90.05,00H,.,"For other vehicles exceeding 10,500 kg",Free,Free
+7320.90.09,00C,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7320.90.19,00J,.,Other automotive springs,Free,Free
+7320.90.29,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,.,Upholsterers’ spiral springs,,
+,09H,.,Other,,
+73.21,,,"Stoves, ranges, grates, cookers (including those with subsidiary boilers",,
+,,,"for central heating), barbecues, braziers, gas-rings, plate warmers and",,
+,,,"similar non-electric domestic appliances, and parts thereof, of iron or",,
+,,,steel:,,
+,,,Cooking appliances and plate warmers:,,
+7321.11,,,For gas fuel or for both gas and other fuels:,,
+,,,Domestic gas fuel cooking stoves and ranges:,,
+7321.11.02,00B,No.,Outdoor gas fuel cooking stoves,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7321.11.08,00L,No.,Other,Free,Free
+7321.11.19,10K,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7321.12.00,,,For liquid fuel,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01B,No.,Cooking stoves and ranges,,
+,09H,No.,Other,,
+7321.19,,,"Other, including appliances for solid fuel:",,
+7321.19.01,,,For solid fuel,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10K,No., Cooking stoves and ranges,,
+,19C,No., Other,,
+7321.19.09,00C,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Stoves, ranges, grates, cookers (including those with, etc.continued",,
+,,,Other appliances:,,
+7321.81.00,,,For gas fuel or for both gas and other fuels,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10B,No.,Space heaters,,
+,19F,No.,Other,,
+7321.82.00,,,For liquid fuel,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01H,No.,Space heaters,,
+,09C,No.,Other,,
+7321.89,,,"Other, including appliances for solid fuel:",,
+7321.89.01,,,For solid fuel,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10E,No., Space heaters,,
+,19J,No., Other,,
+7321.89.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10F,No., Space heaters,,
+,19K,No., Other,,
+7321.9,,,Parts:,,
+7321.90.01,00L,.,Of domestic gas fuel cooking stoves and ranges,Free,Free
+7321.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01K,.,Of cooking stoves and ranges,,
+,09E,.,Of other stoves and of space heaters,,
+,19B,.,Other,,
+73.22,,,"Radiators for central heating, not electrically heated, and parts",,
+,,,"thereof, of iron or steel; air heaters and hot air distributors (including",,
+,,,"distributors which can also distribute fresh or conditioned air), not",,
+,,,"electrically heated, incorporating a motor-driven fan or blower, and",,
+,,,"parts thereof, of iron or steel:",,
+,,,Radiators and parts thereof:,,
+7322.11.00,00H,kg,Of cast iron,5,Free
+,,,,,*See Below
+,,,,,CA Free
+7322.19.00,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7322.90.00,00B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+73.23,,,"Table, kitchen or other household articles and parts thereof, of iron or",,
+,,,"steel; iron or steel wool; pot scourers and scouring or polishing pads,",,
+,,,"gloves and the like, of iron or steel:",,
+7323.10.00,00A,kg,"Iron or steel wool; pot scourers and scouring or polishing pads, gloves",,
+,,,and the like,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+7323.91.00,,,"Of cast iron, not enamelled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,kg,Hollowware,,
+,09J,kg,Other,,
+7323.92.00,,,"Of cast iron, enamelled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Hollowware:,,
+,01H,kg, Capacity measures,,
+,09C,kg, Other,,
+,19L,kg,Other,,
+7323.93.00,,,Of stainless steel,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Hollowware:,,
+,02L,No., Capacity measures,,
+,,, Cookware:,,
+,11K,No.,  Sets,,
+,15B,No.,  Saucepans,,
+,18G,No.,  Frypans,,
+,21G,No.,  Stockpots and dutch ovens,,
+,25K,No.,  Steamers,,
+,29B,No.,  Other cookware,,
+,30F,No., Other,,
+,90K,No.,Other,,
+7323.94.00,,,"Of iron (other than cast iron) or steel, enamelled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Hollowware:,,
+,01G,kg, Capacity measures,,
+,09B,kg, Other,,
+,19K,kg,Other,,
+7323.99.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Hollowware:,,
+,01K,kg, Capacity measures,,
+,09E,kg, Other,,
+,21D,Th,Coat hangers,,
+,29K,kg,Other,,
+73.24,,,"Sanitary ware and parts thereof, of iron or steel:",,
+7324.10.00,,,"Sinks and wash basins, of stainless steel",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10G,No.,  Wash basins,,
+,19L,No.,  Other,,
+,,,"Sanitary ware and parts thereof, of iron or steelcontinued",,
+,,,Baths:,,
+7324.21.00,00H,No.,"Of cast iron, whether or not enamelled",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7324.29.00,00D,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7324.90.00,,,"Other, including parts",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01G,kg,"  Bathroom and other toilet fittings (e.g., soap holders, toilet paper",,
+,,,holders),,
+,09B,kg,  Other,,
+73.25,,,Other cast articles of iron or steel:,,
+7325.1,,,Of non-malleable cast iron:,,
+7325.10.01,10A,kg,Iron castings in the rough state,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+7325.10.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01C,kg,"Fittings for ships, boats and other vessels",,
+,09J,kg,Other,,
+,,,Other:,,
+7325.91.00,00A,kg,Grinding balls and similar articles for mills,Free,Free
+7325.99,,,Other:,,
+7325.99.01,00D,kg,Steel castings in the rough state,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+7325.99.09,00E,No.,Rabbit traps and other double-jawed traps,Free,Free
+7325.99.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01J,kg," Fittings for ships, boats and other vessels",,
+,09D,kg, Other,,
+73.26,,,Other articles of iron or steel:,,
+,,,"Forged or stamped, but not further worked:",,
+7326.11.00,00L,kg,Grinding balls and similar articles for mills,Free,Free
+7326.19,,,Other:,,
+7326.19.01,00C,kg,Forgings or stampings in the rough state,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+7326.19.11,00J,.,"Fencing posts, standards and droppers and accessories for use",,
+,,,therewith,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Other articles of iron or steelcontinued,,
+,,,"Forged or stamped, but not further workedcontinued",,
+,,,Othercontinued,,
+7326.19.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01H,.," Fittings for ships, boats and other vessels",,
+,09C,.," Plugs, clips and similar fittings specially suited for builders’ use in",,
+,,,fixing articles to concrete or plaster,,
+,11E,.," Bobbins, cops, cones, cores, and similar supports",,
+,19L,.," Turnbuckles, thimbles for eye-splices, boathooks; belt fasteners for",,
+,,,joining belts for machinery,,
+,21B,., Boxes specially designed to house electrical equipment,,
+,29H,., Other,,
+7326.2,,,Articles of iron or steel wire:,,
+7326.20.01,00F,.,"Nose rings for animals; clips, tags, rings and the like for the",,
+,,,"identification of animals, birds or fish",Free,Free
+,,,Other:,,
+7326.20.11,00A,.,Animal vermin traps,Free,Free
+7326.20.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01L,., Spirally wound extending curtain wire,,
+,09F,., Other,,
+7326.9,,,Other:,,
+7326.90.01,,,"Bunsen burners; capacity measures, other than domestic; crucibles,",,
+,,,"chaplets for foundry moulding cores, solder pots; rock bolt sleeves and",,
+,,,"systems; spools, reels and similar supports for use with photographic",,
+,,,"and cinematographic film; other spools, reels, bobbins, cops, cones,",,
+,,,cores and similar supports,Free,Free
+,01K,.,Bunsen burners,,
+,09E,.,"Capacity measures, other than domestic",,
+,11G,.,"Crucibles, chaplets for foundry moulding cores, solder pots",,
+,19B,.,Rock bolt sleeves and systems,,
+,21D,.,"Spools, reels and similar supports for use with photographic and",,
+,,,cinematographic film,,
+,29K,.,"Other spools, reels, bobbins, cops, cones, cores and similar supports",,
+7326.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01L,No,Motor vehicle assembly jigs,,
+,39H,.,Other,,
+74.01,,,,,
+7401.00.00,,,Copper mattes; cement copper (precipitated copper):,Free,Free
+,10L,kg, Copper mattes,,
+,19D,kg, Cement copper (precipitated copper),,
+74.02,,,,,
+7402.00.00,00A,kg,Unrefined copper; copper anodes for electrolytic refining,Free,Free
+74.03,,,"Refined copper and copper alloys, unwrought:",,
+,,,Refined copper:,,
+7403.11.00,00H,kg,Cathodes and sections of cathodes,Free,Free
+7403.12.00,00B,kg,Wire-bars,Free,Free
+7403.13.00,00G,kg,Billets,Free,Free
+7403.19.00,,,Other,Free,Free
+,01B,kg,"Blooms, ingots, pellets and pigs",,
+,09H,kg,Other,,
+,,,Copper alloys:,,
+7403.21.00,,,Copper-zinc base alloys (brass),Free,Free
+,01K,kg,"Billets, blooms, ingots, pellets and pigs",,
+,09E,kg,Other,,
+7403.22.00,,,Copper-tin base alloys (bronze),Free,Free
+,01D,kg,"Billets, blooms, ingots, pellets and pigs",,
+,09K,kg,Other,,
+7403.29.00,,,Other copper alloys (other than master alloys of heading 74.05):,Free,Free
+,,,Copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base,,
+,,,alloys (nickel silver):,,
+,10E,kg," Billets, blooms, ingots, pellets and pigs",,
+,13K,kg, Other,,
+,,,Other:,,
+,17B,kg," Billets, blooms, ingots, pellets and pigs",,
+,19J,kg, Other,,
+74.04,,,,,
+7404.00.00,00H,kg,Copper waste and scrap,Free,Free
+74.05,,,,,
+7405.00.00,00F,kg,Master alloys of copper,Free,Free
+74.06,,,Copper powders and flakes:,,
+7406.10.00,00H,.,Powders of non-lamellar structure,Free,Free
+7406.20.00,00A,.,Powders of lamellar structure; flakes,Free,Free
+74.07,,,"Copper bars, rods and profiles:",,
+7407.1,,,Of refined copper:,,
+,,,Bars and rods:,,
+7407.10.01,,,Wire rod,Free,Free
+,01L,kg, Welding,,
+,09F,kg, Other,,
+7407.10.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01A,kg, Welding,,
+,09G,kg, Other,,
+7407.10.19,00J,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of copper alloys:,,
+7407.21,,,Of copper-zinc base alloys (brass):,,
+7407.21.01,,,Bars and rods,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01J,kg, Welding,,
+,09D,kg, Other,,
+,,,"Copper bars, rods and profilescontinued",,
+,,,Of copper alloyscontinued,,
+,,,Of copper-zinc base alloys (brass)continued,,
+7407.21.09,00A,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7407.29,,,Other:,,
+7407.29.01,,,Bars and rods,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,, Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc,,
+,,,base alloys (nickel silver):,,
+,10D,kg,  Welding,,
+,13J,kg,  Other,,
+,,, Other:,,
+,17A,kg,  Welding,,
+,19H,kg,  Other,,
+7407.29.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,10E,kg, Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc,,
+,,,base alloys (nickel silver),,
+,19J,kg, Other,,
+74.08,,,Copper wire:,,
+,,,Of refined copper:,,
+7408.11.00,00J,kg,Of which the maximum cross-sectional dimension exceeds 6 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7408.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,kg,Welding,,
+,09J,kg,Other,,
+,,,Of copper alloys:,,
+7408.21.00,,,Of copper-zinc base alloys (brass),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01L,kg,Welding,,
+,09F,kg,Other,,
+7408.22.00,,,Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc,,
+,,,base alloys (nickel silver),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,kg,Welding,,
+,09L,kg,Other,,
+7408.29.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01G,kg,Welding,,
+,09B,kg,Other,,
+74.09,,,"Copper plates, sheets and strip, of a thickness exceeding 0.15 mm:",,
+,,,Of refined copper:,,
+7409.11.00,,,In coils,Free,Free
+,01E,kg,Worked,,
+,09L,kg,Other,,
+7409.19.00,,,Other,Free,Free
+,01A,kg,Worked,,
+,09G,kg,Other,,
+,,,Of copper-zinc base alloys (brass):,,
+7409.21.00,,,In coils,Free,Free
+,01J,kg,Worked,,
+,09D,kg,Other,,
+7409.29.00,,,Other,Free,Free
+,01E,kg,Worked,,
+,09L,kg,Other,,
+,,,Of copper-tin base alloys (bronze),,
+7409.31.00,,,In coils,Free,Free
+,01B,kg,Worked,,
+,09H,kg,Other,,
+7409.39.00,,,Other,Free,Free
+,01J,kg,Worked,,
+,09D,kg,Other,,
+7409.40.00,,,Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base,,
+,,,alloys (nickel silver),Free,Free
+,01A,kg,  Worked,,
+,09G,kg,  Other,,
+7409.90.00,,,Of other copper alloys,Free,Free
+,01K,kg,  Worked,,
+,09E,kg,  Other,,
+74.1,,,"Copper foil (whether or not printed or backed with paper,",,
+,,,"paperboard, plastics or similar backing materials) of a thickness",,
+,,,(excluding any backing) not exceeding 0.15 mm:,,
+,,,Not backed:,,
+7410.11.00,00L,kg,Of refined copper,Free,Free
+7410.12.00,00E,kg,Of copper alloys,Free,Free
+,,,Backed:,,
+7410.21.00,,,Of refined copper,Free,Free
+,01B,kg,"Copper foil with paper or other reinforcing material, cut to shape,",,
+,,,perforated or printed (PCB’s) being partly manufactured printed,,
+,,,circuit boards,,
+,09H,kg,Other,,
+7410.22.00,,,Of copper alloys,Free,Free
+,01G,kg,"Copper foil with paper or other reinforcing material, cut to shape,",,
+,,,perforated or printed (PCB’s) being partly manufactured printed,,
+,,,circuit boards,,
+,09B,kg,Other,,
+74.11,,,Copper tubes and pipes:,,
+7411.1,,,Of refined copper:,,
+7411.10.01,00L,kg,Having a nominal external diameter of less than 3 mm,Free,Free
+7411.10.09,00A,kg,Having a nominal internal diameter of 90 mm and over,Free,Free
+7411.10.19,00G,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of copper alloys:,,
+7411.21.00,00B,kg,Of copper-zinc base alloys (brass),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Copper tubes and pipescontinued,,
+,,,Of copper alloyscontinued,,
+7411.22.00,00G,kg,Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base,,
+,,,alloys (nickel silver),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+7411.29.00,00J,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+74.12,,,"Copper tube or pipe fittings (for example, couplings, elbows, sleeves):",,
+7412.10.00,00B,kg,Of refined copper,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7412.20.00,,,Of copper alloys,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01D,kg,  Brass and muntz,,
+,09K,kg,  Other,,
+74.13,,,,,
+7413,,,"Stranded wire, cables, plaited bands and the like, of copper, not",,
+,,,electrically insulated:,,
+,,,Earth straps:,,
+7413.00.01,00C,kg,For use in the assembly of motor vehicles as may be determined by the,,
+,,,Minister in accordance with Section 14 of this Act,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+7413.00.09,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7413.00.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01H,kg,  Copper pigtails for use in making carbon brushes and circuit breakers,,
+,09C,kg,  Other,,
+74.15,,,"Nails, tacks, drawing pins, staples (other than those of heading 83.05)",,
+,,,"and similar articles, of copper or of iron or steel with heads of copper;",,
+,,,"screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers",,
+,,,"(including spring washers) and similar articles, of copper:",,
+7415.1,,,"Nails and tacks, drawing pins, staples and similar articles:",,
+7415.10.01,00C,kg,Peculiar to use in footwear,Free,Free
+7415.10.09,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Other articles, not threaded:",,
+7415.21.00,00E,kg,Washers (including spring washers),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7415.29.00,00A,kg,Other,Free,Free
+,,,"Nails, tacks, drawing pins, staples (other than those, etc.continued",,
+,,,Other threaded articles:,,
+7415.33.00,,,Screws; bolts and nuts,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,11C,kg,Screws for wood,,
+,15F,kg,Bolts,,
+,19J,kg,Other,,
+7415.39.00,,,Other,Free,Free
+,01C,kg,Screw hooks and screw rings,,
+,09J,kg,Other,,
+74.18,,,"Table, kitchen or other household articles and parts thereof, of copper;",,
+,,,"pot scourers and scouring or polishing pads, gloves and the like, of",,
+,,,"copper; sanitary ware and parts thereof, of copper:",,
+7418.10.00,,," Table, kitchen or other household articles and parts thereof; pot scourers",,
+,,,"and scouring or polishing pads, gloves and the like",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10J,kg,"  Pot scourers and scouring or polishing pads, gloves and the like",,
+,,,  Other:,,
+,17F,kg,"Cooking or heating apparatus, non-electric, and parts thereof",,
+,19B,kg,Other,,
+7418.20.00,00E,kg,Sanitary ware and parts thereof,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+74.19,,,Other articles of copper:,,
+7419.2,,,"Cast, moulded, stamped or forged, but not further worked:",,
+7419.20.10,00J,kg,Chain and parts thereof,Free,Free
+7419.20.20,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7419.8,,,Other:,,
+7419.80.10,00L,..,"Nose rings for animals; clips, tags, rings and the like for the",,
+,,,"identification of animals, birds or fish",Free,Free
+7419.80.20,00F,..,Pins (including safety pins),Free,Free
+7419.80.30,,,"Cloth (including endless bands), grill and netting, of copper wire;",,
+,,,expanded metal of copper,Free,Free
+,,,Cloth:,,
+,10J,kg," Endless bands, for machinery",,
+,20F,kg, Other,,
+,,,Other:,,
+,30C,kg, Expanded metal,,
+,40L,kg, Other,,
+7419.80.40,00G,kg,Copper springs,Free,Free
+7419.80.45,00J,kg, Chain and parts thereof,Free,Free
+7419.80.50,00B,kg, Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+75.01,,,"Nickel mattes, nickel oxide sinters and other intermediate products of",,
+,,,nickel metallurgy:,,
+7501.10.00,00C,kg,Nickel mattes,Free,Free
+7501.20.00,00G,kg,Nickel oxide sinters and other intermediate products of nickel metallurgy,Free,Free
+75.02,,,Unwrought nickel:,,
+7502.10.00,00A,kg,"Nickel, not alloyed",Free,Free
+7502.20.00,00E,kg,Nickel alloys,Free,Free
+75.03,,,,,
+7503.00.00,00F,kg,Nickel waste and scrap,Free,Free
+75.04,,,,,
+7504.00.00,00D,kg,Nickel powders and flakes,Free,Free
+75.05,,,"Nickel bars, rods, profiles and wire:",,
+,,,"Bars, rods and profiles:",,
+7505.11.00,00L,kg,"Of nickel, not alloyed",Free,Free
+7505.12.00,00E,kg,Of nickel alloys,Free,Free
+,,,Wire:,,
+7505.21.00,00D,kg,"Of nickel, not alloyed",Free,Free
+7505.22.00,00J,kg,Of nickel alloys,Free,Free
+75.06,,,"Nickel plates, sheets, strip and foil:",,
+7506.10.00,00D,kg,"Of nickel, not alloyed",Free,Free
+7506.20.00,00H,kg,Of nickel alloys,Free,Free
+75.07,,,"Nickel tubes, pipes and tube or pipe fittings (for example, couplings,",,
+,,,"elbows, sleeves):",,
+,,,Tubes and pipes:,,
+7507.11.00,00G,kg,"Of nickel, not alloyed",Free,Free
+7507.12.00,00A,kg,Of nickel alloys,Free,Free
+7507.20.00,00F,kg,Tube or pipe fittings,Free,Free
+75.08,,,Other articles of nickel,,
+7508.10.00,00L,kg,"Cloth, grill and netting, of nickel wire",Free,Free
+7508.90.00,,,Other,Free,Free
+,01H,kg,"  Electroplating anodes, of nickel",,
+,10G,kg,  Other,,
+76.01,,,Unwrought aluminium:,,
+7601.1,,,"Aluminium, not alloyed:",,
+7601.10.01,,,Bars and rods,Free,Free
+,01D,kg,Welding,,
+,09K,kg,Other,,
+7601.10.09,,,Other,Free,Free
+,01E,kg,Ingots,,
+,09L,kg,Other,,
+7601.2,,,Aluminium alloys:,,
+7601.20.01,,,Bars and rod,Free,Free
+,01H,kg,Welding,,
+,09C,kg,Other,,
+7601.20.09,,,Other,Free,Free
+,01J,kg,Ingots,,
+,09D,kg,In other primary forms,,
+76.02,,,,,
+7602.00.00,,,Aluminium waste and scrap,Free,Free
+,01B,tne, Used beverage cans,,
+,11K,tne, Aluminium extrusions,,
+,19E,tne, Other,,
+76.03,,,Aluminium powders and flakes:,,
+7603.10.00,00F,kg,Powders of non-lamellar structure,Free,Free
+7603.20.00,00K,kg,Powders of lamellar structure; flakes,Free,Free
+76.04,,,"Aluminium bars, rods and profiles:",,
+7604.10.00,,,"Of aluminium, not alloyed",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,kg,  Welding,,
+,09H,kg,  Other,,
+,,,Of aluminium alloys:,,
+7604.21.00,00B,kg,Hollow profiles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7604.29,,,Other:,,
+7604.29.01,,,Bars and rods,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,kg, Welding,,
+,09J,kg, Other,,
+7604.29.09,00F,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+76.05,,,Aluminium wire:,,
+,,,"Of aluminium, not alloyed:",,
+7605.11.00,00G,kg,Of which the maximum cross-sectional dimension exceeds 7 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7605.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01A,kg,Welding,,
+,09G,kg,Other,,
+,,,Aluminium wirecontinued,,
+,,,Of aluminium alloys:,,
+7605.21.00,00L,kg,Of which the maximum cross-sectional dimension exceeds 7 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+7605.29.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,kg,Welding,,
+,09L,kg,Other,,
+76.06,,,"Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm:",,
+,,,Rectangular (including square):,,
+7606.11,,,"Of aluminium, not alloyed:",,
+7606.11.01,,,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,02H,kg, Coiled,,
+,08G,kg, Other,,
+7606.11.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,02J,kg, Coiled,,
+,08H,kg, Other,,
+7606.12,,,Of aluminium alloys:,,
+7606.12.01,,,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,02B,kg, Coiled,,
+,11A,kg, Treadplate,,
+,29D,kg, Other,,
+7606.12.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,, Coiled:,,
+,02C,kg,"  Painted, lacquered or similarly coated",,
+,08B,kg,  Laminated with plastics,,
+,,,  Other:,,
+,11B,kg,Not exceeding 0.4 mm in thickness,,
+,21K,kg,"Of a thickness exceeding 0.4 mm, but not exceeding 6 mm",,
+,29E,kg,Other,,
+,,, Other:,,
+,31G,kg,"  Painted, lacquered or similarly coated",,
+,41D,kg,  Laminated with plastics,,
+,,,  Other:,,
+,51A,kg,Not exceeding 0.4 mm in thickness,,
+,61J,kg,"Of a thickness exceeding 0.4 mm, but not exceeding 6 mm",,
+,69D,kg,Other,,
+,,,Other:,,
+7606.91,,,"Of aluminium, not alloyed:",,
+7606.91.01,00L,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7606.91.09,00A,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7606.92,,,Of aluminium alloys:,,
+,,,"Aluminium plates, sheets and strip, of a thickness, etc.continued",,
+,,,Othercontinued,,
+,,,Of aluminium alloyscontinued,,
+7606.92.01,00E,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7606.92.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01D,kg," Painted, lacquered or similarly coated",,
+,11A,kg, Laminated with plastics,,
+,19G,kg, Other,,
+76.07,,,"Aluminium foil (whether or not printed or backed with paper,",,
+,,,"paperboard, plastics or similar backing materials) of a thickness",,
+,,,(excluding any backing) not exceeding 0.2 mm:,,
+,,,Not backed:,,
+7607.11.00,,,Rolled but not further worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01A,kg,Printed or embossed,,
+,,,Other:,,
+,,, Of a thickness not exceeding 0.009 mm:,,
+,08J,kg,  Not exceeding 1100 mm in width,,
+,18F,kg,  Other,,
+,,, Other:,,
+,21F,kg,  Not exceeding 1100 mm in width,,
+,29A,kg,  Other,,
+7607.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01H,kg,Printed or embossed,,
+,,,Other:,,
+,,, Of a thickness not exceeding 0.009 mm:,,
+,08E,kg,  Not exceeding 1100 mm in width,,
+,18B,kg,  Other,,
+,,, Other:,,
+,21B,kg,  Not exceeding 1100 mm in width,,
+,29H,kg,  Other,,
+7607.20.00,,,Backed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,  With paper:,,
+,01L,kg,Printed or embossed,,
+,,,Other:,,
+,11H,kg, Of a thickness not exceeding 0.009 mm,,
+,19C,kg, Other,,
+,,,  With other materials:,,
+,21E,kg,Printed or embossed,,
+,,,Other:,,
+,31B,kg, Of a thickness not exceeding 0.009 mm,,
+,39H,kg, Other,,
+76.08,,,Aluminium tubes and pipes:,,
+7608.10.00,00G,kg,"Of aluminium, not alloyed",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7608.20.00,00L,kg,Of aluminium alloys,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+76.09,,,,,
+7609.00.00,00A,kg,"Aluminium tube or pipe fittings (for example, couplings, elbows,",,
+,,,sleeves),Free,Free
+76.1,,,Aluminium structures (excluding prefabricated buildings of heading,,
+,,,"94.06) and parts of structures (for example, bridges and bridge-",,
+,,,"sections, towers, lattice masts, roofs, roofing frameworks, doors and",,
+,,,"windows and their frames and thresholds for doors, balustrades,",,
+,,,"pillars and columns); aluminium plates, rods, profiles, tubes and the",,
+,,,"like, prepared for use in structures:",,
+7610.10.00,,,"Doors, windows and their frames and thresholds for doors",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01G,kg,  Window sashes or frames and parts thereof,,
+,09B,kg,  Door frames and parts thereof,,
+,19K,kg,  Other,,
+7610.90.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01F,kg,  Scaffolding fittings,,
+,02D,kg,  Glazed door and window vents,,
+,11C,kg,  Suspended ceiling systems,,
+,29F,kg,  Other,,
+76.11,,,,,
+7611.00.00,00C,kg,"Aluminium reservoirs, tanks, vats and similar containers, for any",,
+,,,"material (other than compressed or liquefied gas), of a capacity",,
+,,,"exceeding 300 l, whether or not lined or heat-insulated, but not fitted",,
+,,,with mechanical or thermal equipment,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+76.12,,,"Aluminium casks, drums, cans, boxes and similar containers",,
+,,,"(including rigid or collapsible tubular containers), for any material",,
+,,,"(other than compressed or liquefied gas), of a capacity not exceeding",,
+,,,"300 l, whether or not lined or heat-insulated, but not fitted with",,
+,,,mechanical or thermal equipment:,,
+7612.10.00,00E,kg,Collapsible tubular containers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7612.9,,,Other:,,
+7612.90.01,00L,kg,Storage tanks,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7612.90.09,00A,kg,Returned empty containers identifiable as such to the satisfaction of,,
+,,,Customs,Free,Free
+,,,Other:,,
+7612.90.11,,,Not exceeding 1 litre capacity,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01D,kg, Rigid foil containers,,
+,09K,kg, Other,,
+7612.90.19,,,Exceeding 1 litre capacity,Free,Free
+,01E,kg, Rigid foil containers,,
+,09L,kg, Other,,
+76.13,,,,,
+7613.00.00,00K,kg,Aluminium containers for compressed or liquefied gas,Free,Free
+76.14,,,"Stranded wire, cables, plaited bands and the like, of aluminium, not",,
+,,,electrically insulated:,,
+7614.10.00,00A,kg,With steel core,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7614.90.00,00L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+76.15,,,"Table, kitchen or other household articles and parts thereof, of",,
+,,,"aluminium; pot scourers and scouring or polishing pads, gloves and",,
+,,,"the like, of aluminium; sanitary ware and parts thereof, of aluminium:",,
+7615.10.00,,," Table, kitchen or other household articles and parts thereof; pot scourers",,
+,,,"and scouring or polishing pads, gloves and the like",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10G,kg,"  Pot scourers and scouring or polishing pads, gloves and the like",,
+,,,  Other:,,
+,15H,kg,Hollowware and parts thereof,,
+,19L,kg,Other,,
+7615.20.00,00C,kg,Sanitary ware and parts thereof,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+76.16,,,Other articles of aluminium:,,
+7616.1,,,"Nails, tacks, staples (other than those of heading 83.05), screws, bolts,",,
+,,,"nuts, screw hooks, rivets, cotters, cotter-pins, washers and similar articles:",,
+7616.10.01,00D,kg,"Rivets, cotters and cotter-pins",Free,Free
+7616.10.09,00E,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+7616.91.00,00A,kg,"Cloth, grill, netting and fencing, of aluminium wire",Free,Free
+7616.99,,,Other:,,
+7616.99.10,00C,kg,Hand knitting needles and hand knitting pins; crochet hooks,Free,Free
+7616.99.20,00J,kg,"Gauze, reinforcing fabric and similar materials, of aluminium wire",Free,Free
+7616.99.30,00D,kg,Expanded metal,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+7616.99.40,00K,kg,"Fittings for ships, boats and other vessels",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7616.99.50,00E,kg,"Nose rings for animals; clips, tags, rings and the like for the",,
+,,,"identification of animals, birds or fish",Free,Free
+,,,Other articles of aluminiumcontinued,,
+,,,Othercontinued,,
+,,,Othercontinued,,
+7616.99.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,kg," Bobbins, reels or cones, peculiar to holding yarn during storage",,
+,09L,kg," Other bobbins, spools, cops, cones, cores, reels and similar supports",,
+,11B,kg, Boxes specially designed to house electrical equipment,,
+,19H,kg, Discs,,
+,21K,., Venetian blinds,,
+,29E,No., Ladders,,
+,69D,kg, Other,,
+78.01,,,Unwrought lead:,,
+7801.10.00,00B,kg,Refined lead,Free,Free
+,,,Other:,,
+7801.91.00,00F,kg,Containing by weight antimony as the principal other element,Free,Free
+7801.99,,,Other:,,
+7801.99.01,00J,kg,Solder,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+7801.99.09,,,Other,Free,Free
+,01H,kg,Unrefined,,
+,09C,kg,Other,,
+78.02,,,,,
+7802.00.00,00G,tne,Lead waste and scrap,Free,Free
+78.04,,,"Lead plates, sheets, strip and foil; lead powders and flakes:",,
+,,,"Plates, sheets, strip and foil:",,
+7804.11,,,"Sheets, strip and foil of a thickness (excluding any backing) not",,
+,,,exceeding 0.2 mm:,,
+7804.11.01,00H,kg,Foil,Free,Free
+7804.11.09,00J,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+7804.19,,,Other:,,
+7804.19.01,00D,kg,Foil,Free,Free
+7804.19.09,00E,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+7804.20.00,00L,kg,Powders and flakes,Free,Free
+78.06,,,Other articles of lead:,,
+,,,"Lead bars, rods, profiles and wire:",,
+7806.00.01,00F,kg,Solder,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+7806.00.09,00G,kg,Other,Free,Free
+7806.00.19,00B,kg,"Lead tubes, pipes and tube or pipe fittings (for example, couplings,",,
+,,,"elbows, sleeves)",Free,Free
+7806.00.29,00H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+79.01,,,Unwrought zinc:,,
+,,,"Zinc, not alloyed:",,
+7901.11.00,,,Containing by weight 99.99 % or more of zinc,Free,Free
+,01A,kg,Bars and rods,,
+,09G,kg,Other,,
+7901.12.00,,,Containing by weight less than 99.99 % of zinc,Free,Free
+,01F,kg,Bars and rods,,
+,09A,kg,Other,,
+7901.20.00,,,Zinc alloys,Free,Free
+,01L,kg,  Bars and rods,,
+,09F,kg,  Other,,
+79.02,,,,,
+7902.00.00,00C,kg,Zinc waste and scrap,Free,Free
+79.03,,,"Zinc dust, powders and flakes:",,
+7903.10.00,00E,kg,Zinc dust,Free,Free
+7903.90.00,00D,kg,Other,Free,Free
+79.04,,,,,
+7904.00.00,00K,kg,"Zinc bars, rods, profiles and wire",Free,Free
+79.05,,,,,
+7905.00.00,00H,kg,"Zinc plates, sheets, strip and foil",Free,Free
+79.07,,,Other articles of zinc:,,
+7907.00.01,00L,kg,"Zinc tubes, pipes and tube or pipe fittings (for example, couplings,",,
+,,,"elbows, sleeves)",Free,Free
+7907.00.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10J,kg,"  Gutters, roof capping, skylight frames and other fabricated building",,
+,,,components,,
+,19B,.,  Other,,
+80.01,,,Unwrought tin:,,
+8001.10.00,00G,kg,"Tin, not alloyed",Free,Free
+8001.20.00,,,Tin alloys,Free,Free
+,01J,kg,  Solder,,
+,09D,kg,  Other,,
+80.02,,,,,
+8002.00.00,00A,tne,Tin waste and scrap,Free,Free
+80.03,,,,,
+8003.00.00,,,"Tin bars, rods, profiles and wire",Free,Free
+,01H,kg, Solder,,
+,09C,kg, Other,,
+80.07,,,Other articles of tin:,,
+8007.00.01,00J,kg,"Tin plates, sheets and strip, of a thickness exceeding 0.2 mm",Free,Free
+8007.00.09,,,"Tin foil (whether or not printed or backed with paper, paperboard,",,
+,,,"plastics or similar backing materials), of a thickness (excluding any",,
+,,,backing) not exceeding 0.2 mm; tin powders and flakes,Free,Free
+,10G,kg,  Foil,,
+,19L,kg,  Powders and flakes,,
+8007.00.19,00E,kg,"Tin tubes, pipes and tube or pipe fittings (for example, couplings,",,
+,,,"elbows, sleeves)",Free,Free
+8007.00.29,00L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC Free
+81.01,,,"Tungsten (wolfram) and articles thereof, including waste and scrap:",,
+8101.10.00,00C,.,Powders,Free,Free
+,,,Other:,,
+8101.94.00,00L,.,"Unwrought tungsten, including bars and rods obtained simply by",,
+,,,sintering,Free,Free
+8101.96.00,00K,.,Wire,Free,Free
+8101.97.00,00D,.,Waste and scrap,Free,Free
+8101.99.00,,,Other,Free,Free
+,10L,.,"Bars and rods, other than those obtained simply by sintering, profiles,",,
+,,,"plates, sheets, strip and foil",,
+,19D,.,Other,,
+81.02,,,"Molybdenum and articles thereof, including waste and scrap:",,
+8102.10.00,00A,.,Powders,Free,Free
+,,,Other:,,
+8102.94.00,00J,.,"Unwrought molybdenum, including bars and rods obtained simply by",,
+,,,sintering,Free,Free
+8102.95.00,00C,.,"Bars and rods, other than those obtained simply by sintering, profiles,",,
+,,,"plates, sheets, strip and foil",Free,Free
+8102.96.00,00H,.,Wire,Free,Free
+8102.97.00,00B,.,Waste and scrap,Free,Free
+8102.99.00,00A,.,Other,Free,Free
+81.03,,,"Tantalum and articles thereof, including waste and scrap:",,
+8103.20.00,00C,.," Unwrought tantalum, including bars and rods obtained simply by",,
+,,,sintering; powders,Free,Free
+8103.30.00,00G,.,Waste and scrap,Free,Free
+,,,Other:,,
+8103.91.00,00C,.,Crucibles,Free,Free
+8103.99.00,00K,.,Other,Free,Free
+81.04,,,"Magnesium and articles thereof, including waste and scrap:",,
+,,,Unwrought magnesium:,,
+8104.11.00,00B,kg,Containing at least 99.8 % by weight of magnesium,Free,Free
+8104.19.00,00J,kg,Other,Free,Free
+8104.20.00,00A,kg,Waste and scrap,Free,Free
+8104.30.00,00E,kg,"Raspings, turnings and granules, graded according to size; powders",Free,Free
+8104.90.00,00G,kg,Other,Free,Free
+81.05,,,Cobalt mattes and other intermediate products of cobalt metallurgy;,,
+,,,"cobalt and articles thereof, including waste and scrap:",,
+8105.20.00,00K,.,Cobalt mattes and other intermediate products of cobalt metallurgy;,,
+,,,unwrought cobalt; powders,Free,Free
+8105.30.00,00C,.,Waste and scrap,Free,Free
+8105.90.00,00E,.,Other,Free,Free
+81.06,,,"Bismuth and articles thereof, including waste and scrap",,
+8106.10.00,,,"Containing more than 99.99% of bismuth, by weight",Free,Free
+,01B,.,  Unwrought,,
+,03J,.,  Other,,
+8106.90.00,,,Other,Free,Free
+,01A,.,  Unwrought,,
+,03H,.,  Other,,
+81.08,,,"Titanium and articles thereof, including waste and scrap:",,
+8108.20.00,00D,.,Unwrought titanium; powders,Free,Free
+8108.30.00,00H,.,Waste and scrap,Free,Free
+8108.90.00,10G,.,Other,Free,Free
+81.09,,,"Zirconium and articles thereof, including waste and scrap:",,
+,,,Unwrought zirconium; powders:,,
+8109.21.00,00G,.,Containing less than 1 part hafnium to 500 parts zirconium by weight,Free,Free
+8109.29.00,10L,.,Other,Free,Free
+,,,Waste and scrap:,,
+8109.31.00,00L,.,Containing less than 1 part hafnium to 500 parts zirconium by weight,Free,Free
+8109.39.00,10D,.,Other,Free,Free
+,,,Other:,,
+8109.91.00,00B,.,Containing less than 1 part hafnium to 500 parts zirconium by weight,Free,Free
+8109.99.00,10F,.,Other,Free,Free
+81.1,,,"Antimony and articles thereof, including waste and scrap:",,
+8110.10.00,00B,.,Unwrought antimony; powders,Free,Free
+8110.20.00,00F,.,Waste and scrap,Free,Free
+8110.90.00,00A,.,Other,Free,Free
+81.11,,,,,
+8111.00.00,,,"Manganese and articles thereof, including waste and scrap",Free,Free
+,01E,., Unwrought,,
+,09L,., Other,,
+81.12,,,"Beryllium, chromium, hafnium, rhenium, thallium, cadmium,",,
+,,,"germanium, vanadium, gallium, indium and niobium (columbium)",,
+,,,"and articles of these metals, including waste and scrap:",,
+,,,Beryllium:,,
+8112.12.00,00H,.,Unwrought; powders,Free,Free
+8112.13.00,00B,.,Waste and scrap,Free,Free
+8112.19.00,00K,.,Other,Free,Free
+,,,Chromium:,,
+8112.21.00,00G,.,Unwrought; powders,Free,Free
+8112.22.00,00A,.,Waste and scrap,Free,Free
+8112.29.00,00C,.,Other,Free,Free
+,,,Hafnium:,,
+8112.31.00,00L,.,Unwrought; waste and scrap; powders,Free,Free
+8112.39.00,00G,.,Other,Free,Free
+,,,Rhenium:,,
+8112.41.00,00D,.,Unwrought; waste and scrap; powders,Free,Free
+8112.49.00,00L,.,Other,Free,Free
+,,,Thallium:,,
+8112.51.00,00H,.,Unwrought; powders,Free,Free
+8112.52.00,00B,.,Waste and scrap,Free,Free
+8112.59.00,00D,.,Other,Free,Free
+,,,Cadmium:,,
+8112.61.00,00A,.,Waste and scrap,Free,Free
+8112.69.00,00H,.,Other,Free,Free
+,,,Other:,,
+8112.92.00,,,Unwrought; waste and scrap; powders,Free,Free
+,10D,.,Germanium,,
+,15E,.,Vanadium,,
+,20A,.,Other,,
+8112.99.10,,,Other,Free,Free
+,10A,.,Germanium,,
+,15B,.,Vanadium,,
+,20J,.,Other,,
+81.13,,,,,
+8113.00.00,,,"Cermets and articles thereof, including waste and scrap",Free,Free
+,01A,., Unwrought,,
+,09G,., Other,,
+82.01,,,"Hand tools, the following: spades, shovels, mattocks, picks, hoes, forks",,
+,,,"and rakes; axes, bill hooks and similar hewing tools; secateurs and",,
+,,,"pruners of any kind; scythes, sickles, hay knives, hedge shears, timber",,
+,,,"wedges and other tools of a kind used in agriculture, horticulture or",,
+,,,forestry:,,
+8201.1,,,Spades and shovels:,,
+8201.10.01,00F,No.,Forged steel spades,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+8201.10.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01E,No.,Spades,,
+,09L,No.,Shovels,,
+8201.3,,,"Mattocks, picks, hoes and rakes:",,
+8201.30.01,00C,No.,Hoes and rakes,5,Free
+,,,,,*See Below
+,,,,,CA Free
+8201.30.09,00D,No.,Other,Free,Free
+8201.40.00,,,"Axes, bill hooks and similar hewing tools",Free,Free
+,01J,No.,  Slashers,,
+,09D,No.,  Other,,
+8201.50.00,00D,No.,Secateurs and similar one-handed pruners and shears (including poultry,,
+,,,shears),Free,Free
+8201.60.00,00H,No.,"Hedge shears, two-handed pruning shears and similar two-handed shears",Free,Free
+8201.9,,,"Other hand tools of a kind used in agriculture, horticulture or forestry:",,
+8201.90.01,00E,No.,Cultivators,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+8201.90.09,,,Other,Free,Free
+,01D,No.,Garden trowels,,
+,10C,No.,Forks,,
+,19G,No.,Other,,
+82.02,,,"Hand saws; blades for saws of all kinds (including slitting, slotting or",,
+,,,toothless saw blades).,,
+8202.1,,,Hand saws:,,
+8202.10.01,00D,No.,Tubular frame firewood or pulpwood saws,5,Free
+,,,,,*See Below
+,,,,,CA Free
+8202.10.09,00E,No.,Other,Free,Free
+8202.20.00,00A,No.,Band saw blades,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Circular saw blades (including slitting or slotting saw blades):,,
+8202.31.00,,,With working part of steel,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01H,.,Not exceeding 305 mm in diameter,,
+,09C,.,Other,,
+8202.39.00,,,"Other, including parts",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01D,.,Not exceeding 305 mm in diameter,,
+,09K,.,Other,,
+8202.40.00,00J,.,Chain saw blades,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Hand saws; blades for saws of all kinds (including, etc.continued",,
+,,,Other saw blades:,,
+8202.91.00,,,"Straight saw blades, for working metal",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01K,kg,Hacksaw,,
+,09E,kg,Other,,
+8202.99.00,00H,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+82.03,,,"Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal",,
+,,,"cutting shears, pipe-cutters, bolt croppers, perforating punches and",,
+,,,similar hand tools:,,
+8203.10.00,00F,No.,"Files, rasps and similar tools",Free,Free
+8203.20.00,,,"Pliers (including cutting pliers), pincers, tweezers and similar tools",Free,Free
+,01H,No.,"Pincers, pliers",,
+,09C,No.,  Tweezers,,
+,19L,No.,  Other,,
+8203.30.00,,,Metal cutting shears and similar tools,Free,Free
+,01A,No.,  Tinmen’s snips,,
+,09G,No.,  Other,,
+8203.40.00,,,"Pipe-cutters, bolt croppers, perforating punches and similar tools",Free,Free
+,01E,No.,  Pipe-cutters,,
+,09L,No.,  Bolt croppers and the like,,
+,11B,No.,  Perforating punches,,
+,19H,No.,Other,,
+82.04,,,Hand-operated spanners and wrenches (including torque meter,,
+,,,wrenches but not including tap wrenches); interchangeable spanner,,
+,,,"sockets, with or without handles:",,
+,,,Hand-operated spanners and wrenches:,,
+8204.11.00,00J,No.,Non-adjustable,Free,Free
+8204.12.00,00C,No.,Adjustable,Free,Free
+8204.20.00,00H,No.,"Interchangeable spanner sockets, with or without handles",Free,Free
+82.05,,,"Hand tools (including glaziers’ diamonds), not elsewhere specified or",,
+,,,"included; blow lamps; vices, clamps and the like, other than accessories",,
+,,,"for and parts of, machine-tools or water-jet cutting machines; anvils;",,
+,,,portable forges; hand or pedal-operated grinding wheels,,
+,,,with frameworks:,,
+8205.10.00,00B,No.,"Drilling, threading or tapping tools",Free,Free
+8205.20.00,,,Hammers and sledge hammers,Free,Free
+,01D,No.,Having only iron or steel striking face or faces,,
+,09K,No.,  Other,,
+8205.30.00,,,"Planes, chisels, gouges and similar cutting tools for working wood",Free,Free
+,01H,No.,Planes,,
+,09C,No.,  Chisels,,
+,19L,No.,  Other,,
+8205.40.00,00C,No.,Screwdrivers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,Other hand tools (including glaziers’ diamonds):,,
+8205.51.00,,,Household tools,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01K,.,Knife sharpening steels,,
+,09E,.,Other,,
+8205.59,,,Other:,,
+8205.59.01,00D,No.,Oil cans,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Hand tools (including glaziers’ diamonds), etc.continued",,
+,,,Other hand tools (including glaziers’ diamonds)continued,,
+,,,Othercontinued,,
+8205.59.09,00E,.,Wire strainers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+8205.59.11,00K,.,Grease guns,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8205.59.19,,,Other,Free,Free
+,01J,No., Chisels,,
+,11F,No., Lock picking guns and similar devices,,
+,19A,No., Other,,
+8205.60.00,00L,.,Blow lamps,Free,Free
+8205.7,,,"Vices, clamps and the like:",,
+8205.70.01,00L,No.,G-clamps,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+8205.70.09,,,Other,Free,Free
+,01K,No.,"Vices, joiners’ clamps",,
+,09E,.,"Clamps, other than G-clamps and joiners’ clamps",,
+,19B,.,Other,,
+8205.9,,,"Other, including sets of articles of two or more subheadings of this",,
+,,,heading:,,
+8205.90.01,00H,.,Containing goods of subheading 8205.40,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+8205.90.09,00J,.,Containing goods of subheading 8205.51,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+8205.90.19,,,Other,Free,Free
+,10A,No.,  .Anvils; portable forges; hand- or pedal-operated grinding wheels with,,
+,,,frameworks,,
+,19E,.,Other,,
+82.06,,,,,
+8206.00.00,00G,.,"Tools of two or more of the headings 82.02 to 82.05, put up in sets for",,
+,,,retail sale,Free,Free
+82.07,,,"Interchangeable tools for hand tools, whether or not power-operated,",,
+,,,"or for machine-tools (for example, for pressing, stamping, punching,",,
+,,,"tapping, threading, drilling, boring, broaching, milling, turning or",,
+,,,"screw driving), including dies for drawing or extruding metal, and",,
+,,,rock drilling or earth boring tools:,,
+,,,Rock drilling or earth boring tools:,,
+8207.13.00,00B,.,With working part of cermets,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8207.19.00,,,"Other, including parts",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01H,.,With working part of sintered metal carbide,,
+,09C,.,"Other, including parts",,
+8207.20.00,00B,.,Dies for drawing or extruding metal,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Interchangeable tools for hand tools, whether or not, etc.continued",,
+8207.30.00,00F,.,"Tools for pressing, stamping or punching",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8207.40.00,00K,.,Tools for tapping or threading,5,Free
+,,,,,*See Below
+,,,,,CA Free
+8207.50.00,,,"Tools for drilling, other than for rock drilling",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01A,.,"  Tungsten carbide tipped, for drilling masonry",,
+,,,  Other:,,
+,,,High speed steel:,,
+,,, Straight shank:,,
+,11J,.,  Sets,,
+,19D,.,  Other,,
+,21F,., Reduced shank,,
+,29A,., Taper shank,,
+,39J,.,Other,,
+8207.60.00,00G,.,Tools for boring or broaching,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8207.70.00,00L,.,Tools for milling,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8207.80.00,00D,.,Tools for turning,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+8207.90.00,00H,.,Other interchangeable tools,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+82.08,,,"Knives and cutting blades, for machines or for mechanical appliances:",,
+8208.10.00,00G,.,For metal working,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+8208.20.00,00L,.,For wood working,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8208.30.00,00D,.,For kitchen appliances or for machines used by the food industry,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+8208.40.00,00H,.,"For agricultural, horticultural or forestry machines",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8208.90.00,00F,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+82.09,,,,,
+8209.00.00,00A,.,"Plates, sticks, tips and the like for tools, unmounted, of cermets",Free,Free
+82.1,,,,,
+8210.00.00,00E,.,"Hand-operated mechanical appliances, weighing 10 kg or less, used in",,
+,,,"the preparation, conditioning or serving of food or drink",Free,Free
+82.11,,,"Knives with cutting blades, serrated or not (including pruning knives),",,
+,,,"other than knives of heading 82.08, and blades therefor:",,
+8211.10.00,00G,No.,Sets of assorted articles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+8211.91,,,Table knives having fixed blades:,,
+8211.91.01,00G,No.,Knives,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Parts:,,
+8211.91.11,00B,.,Handles,Free,Free
+8211.91.19,00C,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+8211.92,,,Other knives having fixed blades:,,
+8211.92.01,00A,No.,Bee-keepers’ uncapping and honey knives; gardeners’ pruning or,,
+,,,budding knives; flax-cutting knives,Free,Free
+8211.92.09,,,Butchers’ and slaughtermen’s knives; kitchen knives,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01L,No., Butchers’ and slaughtermen’s knives,,
+,,, Kitchen knives:,,
+,11H,No.,Blade size 127 mm to 305 mm in length,,
+,19C,No.,  Other sizes,,
+8211.92.19,,,Other,Free,Free
+,01F,No., Tradesmen’s knives,,
+,09A,No., Other,,
+,,,Parts:,,
+8211.92.21,00B,.,Handles,Free,Free
+,,,Other:,,
+8211.92.31,00H,.,Of the knives of item 8211.92.01,Free,Free
+8211.92.39,00J,.,Of the knives of item 8211.92.09,5,Free
+,,,,,*See Below
+,,,,,CA Free
+8211.92.49,00D,.,Other,Free,Free
+8211.93.00,10G,No.,Knives having other than fixed blades,Free,Free
+8211.94,,,Blades:,,
+8211.94.01,00L,No.,For butchers’ and slaughtermen’s knives; for kitchen and table knives,5,Free
+,,,,,*See Below
+,,,,,CA Free
+8211.94.09,00A,No.,Other,Free,Free
+8211.95.00,,,Handles of base metal,Free,Free
+,01G,.,Of table knives having fixed blades,,
+,05K,.,Of other knives having fixed blades,,
+,09B,No.,Other,,
+82.12,,,Razors and razor blades (including razor blade blanks in strips):,,
+8212.10.00,,,Razors,Free,Free
+,01C,No.,  Safety razors,,
+,09J,.,  Other,,
+8212.20.00,,,"Safety razor blades, including razor blade blanks in strips",Free,Free
+,01G,Hd,Safety razor blades,,
+,09B,.,  Razor blade blanks,,
+8212.90.00,00D,.,Other parts,Free,Free
+82.13,,,,,
+8213.00.00,00K,.,"Scissors, tailors’ shears and similar shears, and blades therefor",Free,Free
+82.14,,,"Other articles of cutlery (for example, hair clippers, butchers’ or",,
+,,,"kitchen cleavers, choppers and mincing knives, paper knives);",,
+,,,manicure or pedicure sets and instruments (including nail files):,,
+8214.10.00,00A,.,"Paper knives, letter openers, erasing knives, pencil sharpeners and blades",,
+,,,therefor,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8214.20.00,00E,.,Manicure or pedicure sets and instruments (including nail files),Free,Free
+8214.9,,,Other:,,
+8214.90.01,00G,No.,Butchers’ cleavers and choppers,Free,Free
+8214.90.09,00H,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+82.15,,,"Spoons, forks, ladles, skimmers, cake-servers, fish-knives,",,
+,,,"butter-knives, sugar tongs and similar kitchen or tableware:",,
+8215.10.00,00K,No.,Sets of assorted articles containing at least one article plated with,,
+,,,precious metal,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+8215.20.00,00C,No.,Other sets of assorted articles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+8215.91,,,Plated with precious metal:,,
+8215.91.01,,,Articles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01H,No.,Spoons and forks,,
+,09C,No., Other,,
+,,,Parts:,,
+8215.91.11,00E,.,Handles,Free,Free
+8215.91.19,00F,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+8215.99,,,Other:,,
+8215.99.01,,,Articles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01D,No., Spoons and forks,,
+,09K,No., Other,,
+,,,Parts:,,
+8215.99.11,,,"Handles; blanks for making spoons, forks and butter-knives",Free,Free
+,01K,.,Handles,,
+,09E,.,  Other,,
+8215.99.19,00B,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+83.01,,,"Padlocks and locks (key, combination or electrically operated), of base",,
+,,,"metal; clasps and frames with clasps, incorporating locks, of base",,
+,,,"metal; keys for any of the foregoing articles, of base metal:",,
+8301.10.00,00F,.,Padlocks,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8301.20.00,00K,.,Locks of a kind used for motor vehicles,Free,Free
+8301.30.00,00C,.,Locks of a kind used for furniture,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8301.40.00,,,Other locks,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,02C,No.,"Sliding door locks, latches and latch sets",,
+,08B,No.,Window locks incorporated into handles and fasteners,,
+,18K,.,Other,,
+8301.50.00,00L,.,"Clasps and frames with clasps, incorporating locks",Free,Free
+8301.6,,,Parts:,,
+8301.60.01,00L,.,Of the goods of subheading 8301.50,Free,Free
+8301.60.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,02H,.,"Of sliding door locks, latches and latch sets",,
+,08G,.,Of window locks incorporated into handles and fasteners,,
+,18D,.,Other,,
+8301.70.00,00H,.,Keys presented separately,Free,Free
+83.02,,,"Base metal mountings, fittings and similar articles suitable for",,
+,,,"furniture, doors, staircases, windows, blinds, coachwork, saddlery,",,
+,,,"trunks, chests, caskets or the like; base metal hat-racks, hat-pegs,",,
+,,,brackets and similar fixtures; castors with mountings of base metal;,,
+,,,automatic door closers of base metal:,,
+8302.10.00,,,Hinges,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,kg,For suitcases and other travel goods,,
+,09H,kg,Other,,
+8302.20.00,00H,kg,Castors,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8302.3,,,"Other mountings, fittings and similar articles suitable for motor vehicles:",,
+8302.30.01,00H,kg,Seat recliner mechanisms,5,Free
+,,,,,*See Below
+,,,,,CA Free
+8302.30.09,00J,.,Other,Free,Free
+,,,"Other mountings, fittings and similar articles:",,
+8302.41.00,,,Suitable for buildings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Fittings for sliding doors:,,
+,02F,No.,Latches and latch sets,,
+,08E,No.,Other,,
+,,,Fittings for other doors:,,
+,11E,kg,"Handles, pulls, bolts, knockers, and letter plates",,
+,18B,kg,Other,,
+,,,Fittings for windows:,,
+,22L,pr,Friction stays,,
+,25E,No.,Handles and fasteners,,
+,28K,kg,Other,,
+,,,Other:,,
+,32H,kg,Latches and latch sets,,
+,42E,kg,Lock and latch furniture,,
+,48D,kg,Other,,
+,,,"Base metal mountings, fittings and similar articles, etc.continued",,
+,,,"Other mountings, fittings and similar articlescontinued",,
+8302.42.00,,,"Other, suitable for furniture",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,02L,pr,Drawer slides,,
+,05E,kg,"Handles, pulls, catches, clips and similar articles, suited for use on",,
+,,,drawers or cabinets,,
+,09H,kg,Lock and latch furniture,,
+,21G,kg,Latches and latch sets,,
+,29B,kg,Other,,
+8302.49,,,Other:,,
+8302.49.01,00B,.,Fittings for spring blind rollers and saddlery,Free,Free
+8302.49.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01A,kg,Fittings for trunks and the like,,
+,09G,kg,Other,,
+8302.50.00,00J,kg,"Hat-racks, hat-pegs, brackets and similar fixtures",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8302.60.00,,,Automatic door closers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01L,kg,Hydraulic types,,
+,09F,kg,Other,,
+83.03,,,,,
+8303.00.00,00J,kg,"Armoured or reinforced safes, strong-boxes and doors and safe",,
+,,,"deposit lockers for strong-rooms, cash or deed boxes and the like, of",,
+,,,base metal,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+83.04,,,,,
+8304.00.00,00G,.,"Filing cabinets, card-index cabinets, paper trays, paper rests, pen",,
+,,,"trays, office-stamp stands and similar office or desk equipment, of",,
+,,,"base metal, other than office furniture of heading 94.03",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+83.05,,,"Fittings for loose-leaf binders or files, letter clips, letter corners, paper",,
+,,,"clips, indexing tags and similar office articles, of base metal; staples in",,
+,,,"strips (for example, for offices, upholstery, packaging), of base metal:",,
+8305.10.00,00J,kg,Fittings for loose-leaf binders or files,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8305.20.00,00B,kg,Staples in strips,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8305.90.00,,,"Other, including parts",5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01F,Th,Paper clips,,
+,09A,kg,Other,,
+83.06,,,"Bells, gongs and the like, non-electric, of base metal; statuettes and",,
+,,,"other ornaments, of base metal; photograph, picture or similar",,
+,,,"frames, of base metal; mirrors of base metal:",,
+8306.1,,,"Bells, gongs and the like:",,
+8306.10.01,00C,.,For cycles,Free,Free
+8306.10.09,00D,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,Statuettes and other ornaments:,,
+8306.21.00,00E,.,Plated with precious metal,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 5
+,,,,,1/2025 5
+8306.29.00,00A,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+8306.30.00,00D,.,"Photograph, picture or similar frames; mirrors",5,Free
+,,,,,*See Below
+,,,,,CA 1
+83.07,,,"Flexible tubing of base metal, with or without fittings:",,
+8307.10.00,00E,.,Of iron or steel,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+8307.90.00,00D,.,Of other base metal,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+83.08,,,"Clasps, frames with clasps, buckles, buckle-clasps, hooks, eyes, eyelets",,
+,,,"and the like, of base metal, of a kind used for clothing or clothing",,
+,,,"accessories, footwear, jewellery, wrist-watches, books, awnings, leather",,
+,,,"goods, travel goods or saddlery or for other made up articles; tubular",,
+,,,"or bifurcated rivets, of base metal; beads and spangles, of base metal.",,
+8308.10.00,,,"Hooks, eyes and eyelets",Free,Free
+,01A,.,Hooks and eyes,,
+,09G,.,Eyelets,,
+8308.2,,,Tubular or bifurcated rivets:,,
+8308.20.01,00C,Th,"Tubular rivets, blind",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8308.20.09,00D,Th,Other,Free,Free
+8308.9,,,"Other, including parts:",,
+8308.90.01,,,Frames with clasps for handbags and the like,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01G,No.,Frames measuring not more than 204 mm in width between the,,
+,,,hinges,,
+,09B,No.,Other,,
+8308.90.09,,,"Buckles, buckle-clasps and the like",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01H,No.,Car safety seat belt buckles,,
+,09C,.,Other,,
+8308.90.19,00E,.,Other,Free,Free
+83.09,,,"Stoppers, caps and lids (including crown corks, screw caps and",,
+,,,"pouring stoppers), capsules for bottles, threaded bungs, bung covers,",,
+,,,"seals and other packing accessories, of base metal:",,
+8309.10.00,00A,Hd,Crown corks,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+8309.9,,,Other:,,
+8309.90.01,00G,.,Bungs for drums,Free,Free
+8309.90.09,00H,.,Other stoppers and bottle caps,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8309.90.11,00B,.,Muselets; seals and bands of a kind used domestically for preserving,,
+,,,produce,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+8309.90.19,,,Other,Free,Free
+,01A,.,Capsules for bottles,,
+,09G,.,Other,,
+83.1,,,,,
+8310,,,"Sign-plates, name-plates, address-plates and similar plates, numbers,",,
+,,,"letters and other symbols, of base metal, excluding those of heading",,
+,,,94.05:,,
+8310.00.01,00H,.,"Sign-plates, name-plates and badges for motor vehicles, other than",,
+,,,number plates for motor vehicles,Free,Free
+8310.00.09,00J,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 5
+,,,,,1/2025 5
+83.11,,,"Wire, rods, tubes, plates, electrodes and similar products, of base",,
+,,,"metal or of metal carbides, coated or cored with flux material, of a",,
+,,,"kind used for soldering, brazing, welding or deposition of metal or of",,
+,,,"metal carbides; wire and rods, of agglomerated base metal powder,",,
+,,,used for metal spraying:,,
+8311.10.00,00C,kg,"Coated electrodes of base metal, for electric arc-welding",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8311.20.00,00G,kg,"Cored wire of base metal, for electric arc-welding",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+8311.30.00,00L,kg,"Coated rods and cored wire, of base metal, for soldering, brazing or",,
+,,,welding by flame,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+8311.9,,,Other:,,
+8311.90.01,00J,kg,"Wire and rods, of agglomerated base metal powder, used for metal",,
+,,,spraying,Free,Free
+8311.90.09,00K,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3

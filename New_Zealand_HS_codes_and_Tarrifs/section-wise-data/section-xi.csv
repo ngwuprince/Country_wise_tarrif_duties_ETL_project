@@ -1,0 +1,5783 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+50.01,,,,,
+5001.00.00,00G,kg,Silk-worm cocoons suitable for reeling,Free,Free
+50.02,,,,,
+5002.00.00,00E,kg,Raw silk (not thrown),Free,Free
+50.03,,,,,
+5003.00.00,,,"Silk waste (including cocoons unsuitable for reeling, yarn waste and",,
+,,,garnetted stock),Free,Free
+,10L,kg,Not carded or combed,,
+,19D,kg,Other,,
+50.04,,,,,
+5004.00.00,00A,kg,Silk yarn (other than yarn spun from silk waste) not put up for retail,,
+,,,sale,Free,Free
+50.05,,,,,
+5005.00.00,00K,kg,"Yarn spun from silk waste, not put up for retail sale",Free,Free
+50.06,,,,,
+5006.00.00,00H,kg,"Silk yarn and yarn spun from silk waste, put up for retail sale;",,
+,,,silk-worm gut,Free,Free
+50.07,,,Woven fabrics of silk or of silk waste:,,
+5007.10.00,00K,m2,Fabrics of noil silk,Free,Free
+5007.20.00,00C,m2,"Other fabrics, containing 85 % or more by weight of silk or of silk waste",,
+,,,other than noil silk,Free,Free
+5007.90.00,00J,m2,Other fabrics,Free,Free
+51.01,,,"Wool, not carded or combed:",,
+,,,"Greasy, including fleece-washed wool:",,
+5101.11.00,,,Shorn wool,Free,Free
+,02H,kg,less than 24.5 microns in fibre diameter,,
+,04D,kg,24.5 to 31.4 microns in fibre diameter,,
+,06L,kg,"exceeding 31.4, but not exceeding 35.4 microns in fibre diameter",,
+,08G,kg,exceeding 35.4 microns in fibre diameter,,
+5101.19.00,,,Other,Free,Free
+,01F,kg,"Pie, Class I",,
+,09A,kg,"Pie, Class II",,
+,11C,kg,Slipe master,,
+,19J,kg,"Slipe, first quality",,
+,29F,kg,"Slipe, second quality",,
+,,,"Degreased, not carbonised:",,
+5101.21.00,,,Shorn wool,Free,Free
+,02A,kg,less than 24.5 microns in fibre diameter,,
+,04H,kg,24.5 to 31.4 microns in fibre diameter,,
+,06D,kg,"exceeding 31.4, but not exceeding 35.4 microns in fibre diameter",,
+,08L,kg,exceeding 35.4 microns in fibre diameter,,
+5101.29.00,,,Other,Free,Free
+,02H,kg,less than 24.5 microns in fibre diameter,,
+,04D,kg,24.5 to 31.4 microns in fibre diameter,,
+,06L,kg,"exceeding 31.4, but not exceeding 35.4 microns in fibre diameter",,
+,08G,kg,exceeding 35.4 microns in fibre diameter,,
+5101.30.00,,,Carbonised,Free,Free
+,02L,kg,less than 24.5 microns in fibre diameter,,
+,04G,kg,24.5 to 31.4 microns in fibre diameter,,
+,06C,kg,exceeding 31.4 but not exceeding 35.4 microns in fibre diameter,,
+,08K,kg,exceeding 35.4 microns in fibre diameter,,
+51.02,,,"Fine or coarse animal hair, not carded or combed:",,
+,,,Fine animal hair:,,
+5102.11.00,00K,kg,Of Kashmir (cashmere) goats,Free,Free
+5102.19.00,,,Other,Free,Free
+,11A,kg,Cashgora,,
+,15D,kg,Mohair,,
+,,,Angora:,,
+,21J,kg,Goat,,
+,25A,kg,Rabbit,,
+,39A,kg,Other,,
+5102.20.00,00J,kg,Coarse animal hair,Free,Free
+51.03,,,"Waste of wool or of fine or coarse animal hair, including yarn waste",,
+,,,but excluding garnetted stock:,,
+5103.10.00,00C,kg,Noils of wool or of fine animal hair,Free,Free
+5103.20.00,00G,kg,Other waste of wool or of fine animal hair,Free,Free
+5103.30.00,00L,kg,Waste of coarse animal hair,Free,Free
+51.04,,,,,
+5104.00.00,,,Garnetted stock of wool or of fine or coarse animal hair,Free,Free
+,01F,kg,Wool (not including wool rags),,
+,09A,kg,Other,,
+51.05,,,"Wool and fine or coarse animal hair, carded or combed (including",,
+,,,combed wool in fragments):,,
+5105.10.00,00K,kg,Carded wool,Free,Free
+,,,Wool tops and other combed wool:,,
+5105.21.00,00H,kg,Combed wool in fragments,Free,Free
+5105.29.00,00D,kg,Other,Free,Free
+,,,"Fine animal hair, carded or combed:",,
+5105.31.00,00A,kg,Of Kashmir (cashmere) goats,Free,Free
+5105.39.00,00H,kg,Other,Free,Free
+5105.40.00,00L,kg,"Coarse animal hair, carded or combed",Free,Free
+51.06,,,"Yarn of carded wool, not put up for retail sale:",,
+5106.1,,,Containing 85% or more by weight of wool:,,
+5106.10.01,,,For use in the manufacture of carpets,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,kg,Dyed,,
+,09H,kg,Other,,
+5106.10.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01C,kg,Dyed,,
+,09J,kg,Other,,
+5106.2,,,Containing less than 85% by weight of wool:,,
+5106.20.01,,,For use in the manufacture of carpets containing not less than 70%,,
+,,,by weight of wool,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01F,kg,Dyed,,
+,09A,kg,Other,,
+5106.20.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01G,kg,Dyed,,
+,09B,kg,Other,,
+51.07,,,"Yarn of combed wool, not put up for retail sale:",,
+5107.10.00,,,Containing 85% or more by weight of wool,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01D,kg,Dyed,,
+,09K,kg,Other,,
+5107.20.00,,,Containing less than 85% by weight of wool,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01H,kg,Dyed,,
+,09C,kg,Other,,
+51.08,,,"Yarn of fine animal hair (carded or combed), not put up for retail sale:",,
+5108.10.00,,,Carded,Free,Free
+,01B,kg,Dyed,,
+,09H,kg,Other,,
+5108.20.00,,,Combed,Free,Free
+,01F,kg,Dyed,,
+,09A,kg,Other,,
+51.09,,,"Yarn of wool or of fine animal hair, put up for retail sale:",,
+5109.10.00,,,Containing 85% or more by weight of wool or of fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Dyed:,,
+,01L,kg,Hand knitting yarn,,
+,09F,kg,Other,,
+,,,Other:,,
+,11H,kg,Hand knitting yarn,,
+,19C,kg,Other,,
+,,,"Yarn of wool or of fine animal hair, put up for retail sale‚continued",,
+5109.90.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Dyed:,,
+,01K,kg,Hand knitting yarn,,
+,09E,kg,Other,,
+,,,Other:,,
+,11G,kg,Hand knitting yarn,,
+,19B,kg,Other,,
+51.1,,,,,
+5110,,,Yarn of coarse animal hair or of horsehair (including gimped,,
+,,,"horsehair yarn), whether or not put up for retail sale:",,
+5110.00.01,00J,kg,Horsehair or coarse animal hair put up for retail sale,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5110.00.09,00K,kg,Other,Free,Free
+51.11,,,Woven fabrics of carded wool or of carded fine animal hair:,,
+,,,Containing 85% or more by weight of wool or of fine animal hair:,,
+5111.11,,,Of a weight not exceeding 300 g/m2:,,
+5111.11.02,,,Of a weight not exceeding 150 g/m2,Free,Free
+,01K,m2,Felted,,
+,09E,m2,Other,,
+5111.11.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01H,m2,Felted,,
+,09C,m2,Other,,
+5111.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,m2,Felted,,
+,09J,m2, Other,,
+5111.2,,,"Other, mixed mainly or solely with man-made filaments:",,
+5111.20.02,,,Containing less than 33% by weight of wool or of fine animal hair,,
+,,,or of a weight not exceeding 150 g/m2,Free,Free
+,01J,m2,Felted,,
+,09D,m2, Other,,
+5111.20.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01G,m2,Felted,,
+,09B,m2, Other,,
+5111.3,,,"Other, mixed mainly or solely with man-made staple fibres:",,
+5111.30.02,,,Containing less than 33% by weight of wool or of fine animal hair or,,
+,,,of a weight not exceeding 150 g/m2,Free,Free
+,01B,m2,Felted,,
+,09H,m2, Other,,
+5111.30.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01L,m2,Felted,,
+,09F,m2, Other,,
+,,,"Woven fabrics of carded wool or of carded fine animal, etc. continued",,
+5111.9,,,Other:,,
+5111.90.02,,,Containing less than 33% by weight of wool or of fine animal hair or,,
+,,,of a weight not exceeding 150 g/m2,Free,Free
+,01D,m2,Felted,,
+,09K,m2, Other,,
+5111.90.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,m2,Felted,,
+,09H,m2, Other,,
+51.12,,,Woven fabrics of combed wool or of combed fine animal hair:,,
+,,,Containing 85% or more by weight of wool or of fine animal hair:,,
+5112.11,,,Of a weight not exceeding 200 g/m2:,,
+5112.11.02,,,Of a weight not exceeding 150 g/m2,Free,Free
+,01H,m2,Felted,,
+,09C,m2,Other,,
+5112.11.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01F,m2,Felted,,
+,09A,m2,Other,,
+5112.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01A,m2,Felted,,
+,09G,m2, Other,,
+5112.2,,,"Other, mixed mainly or solely with man-made filaments:",,
+5112.20.02,,,Containing less than 33% by weight of wool or of fine animal hair or,,
+,,,of a weight not exceeding 150 g/m2,Free,Free
+,01G,m2,Felted,,
+,09B,m2, Other,,
+5112.20.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01E,m2,Felted,,
+,09L,m2, Other,,
+5112.3,,,"Other, mixed mainly or solely with man-made staple fibres:",,
+5112.30.02,,,Containing less than 33% by weight of wool or of fine animal hair or,,
+,,,of a weight not exceeding 150 g/m2,Free,Free
+,01L,m2,Felted,,
+,09F,m2, Other,,
+5112.30.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01J,m2,Felted,,
+,09D,m2, Other,,
+,,,"Woven fabrics of combed wool or of combed fine animal, etc.‚continued",,
+5112.9,,,Other:,,
+5112.90.02,,,Containing less than 33% by weight of wool or of fine animal hair,,
+,,,or of a weight not exceeding 150 g/m2,Free,Free
+,01B,m2,Felted,,
+,09H,m2, Other,,
+5112.90.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01L,m2,Felted,,
+,09F,m2, Other,,
+51.13,,,,,
+5113.00.00,,,Woven fabrics of coarse animal hair or of horsehair,Free,Free
+,01E,m2,Combed,,
+,09L,m2, Other,,
+52.01,,,,,
+5201.00.00,00K,kg,"Cotton, not carded or combed",Free,Free
+52.02,,,Cotton waste (including yarn waste and garnetted stock):,,
+5202.10.00,00A,kg,Yarn waste (including thread waste),Free,Free
+,,,Other:,,
+5202.91.00,00E,kg,Garnetted stock,Free,Free
+5202.99.00,00A,kg,Other,Free,Free
+52.03,,,,,
+5203.00.00,00F,kg,"Cotton, carded or combed",Free,Free
+52.04,,,"Cotton sewing thread, whether or not put up for retail sale:",,
+,,,Not put up for retail sale:,,
+5204.11.00,,,Containing 85% or more by weight of cotton,Free,Free
+,,, Measuring per single yarn:,,
+,01L,kg,Not more than 714.29 decitex (14 metric number),,
+,09F,kg,More than 714.29 decitex (14 metric number) but not more than,,
+,,,250 decitex (40 metric number),,
+,11H,kg,More than 250 decitex (40 metric number) but less than 125 decitex,,
+,,,(80 metric number),,
+,19C,kg,125 decitex (80 metric number) or more,,
+5204.19.00,,,Other,Free,Free
+,,, Measuring per single yarn:,,
+,01G,kg,Not more than 714.29 decitex (14 metric number),,
+,09B,kg,More than 714.29 decitex (14 metric number) but not more than,,
+,,,250 decitex (40 metric number),,
+,11D,kg,More than 250 decitex (40 metric number) but less than 125 decitex,,
+,,,(80 metric number),,
+,19K,kg,125 decitex (80 metric number) or more,,
+5204.20.00,00A,kg,Put up for retail sale,Free,Free
+52.05,,,"Cotton yarn (other than sewing thread), containing 85% or more by",,
+,,,"weight of cotton, not put up for retail sale:",,
+,,,"Single yarn, of uncombed fibres:",,
+5205.11.00,00L,kg,Measuring 714.29 decitex or more (not exceeding 14 metric number),Free,Free
+5205.12.00,00E,kg,Measuring less than 714.29 decitex but not less than 232.56 decitex,,
+,,,(exceeding 14 metric number but not exceeding 43 metric number),Free,Free
+5205.13.00,00K,kg,Measuring less than 232.56 decitex but not less than 192.31 decitex,,
+,,,(exceeding 43 metric number but not exceeding 52 metric number),Free,Free
+5205.14.00,00D,kg,Measuring less than 192.31 decitex but not less than 125 decitex,,
+,,,(exceeding 52 metric number but not exceeding 80 metric number),Free,Free
+5205.15.00,00J,kg,Measuring less than 125 decitex (exceeding 80 metric number),Free,Free
+,,,"Single yarn, of combed fibres:",,
+5205.21.00,00D,kg,Measuring 714.29 decitex or more (not exceeding 14 metric number),Free,Free
+5205.22.00,00J,kg,Measuring less than 714.29 decitex but not less than 232.56 decitex,,
+,,,(exceeding 14 metric number but not exceeding 43 metric number),Free,Free
+5205.23.00,00C,kg,Measuring less than 232.56 decitex but not less than 192.31 decitex,,
+,,,(exceeding 43 metric number but not exceeding 52 metric number),Free,Free
+5205.24.00,00H,kg,Measuring less than 192.31 decitex but not less than 125 decitex,,
+,,,(exceeding 52 metric number but not exceeding 80 metric number),Free,Free
+5205.26.00,00G,kg,Measuring less than 125 decitex but not less than 106.38 decitex,,
+,,,(exceeding 80 metric number but not exceeding 94 metric number),Free,Free
+5205.27.00,00A,kg,Measuring less than 106.38 decitex but not less than 83.33 decitex,,
+,,,(exceeding 94 metric number but not exceeding 120 metric number),Free,Free
+5205.28.00,00F,kg,Measuring less than 83.33 decitex (exceeding 120 metric number),Free,Free
+,,,"Multiple (folded) or cabled yarn, of uncombed fibres:",,
+5205.31.00,00H,kg,Measuring per single yarn 714.29 decitex or more (not exceeding 14,,
+,,,metric number per single yarn),Free,Free
+5205.32.00,00B,kg,Measuring per single yarn less than 714.29 decitex but not less than,,
+,,,232.56 decitex (exceeding 14 metric number but not exceeding 43,,
+,,,metric number per single yarn),Free,Free
+5205.33.00,00G,kg,Measuring per single yarn less than 232.56 decitex but not less than,,
+,,,192.31 decitex (exceeding 43 metric number but not exceeding 52,,
+,,,metric number per single yarn),Free,Free
+,,,"Cotton yarn (other than sewing thread), etc.‚continued",,
+,,,"Multiple (folded) or cabled yarn, of uncombed, etc.‚continued",,
+5205.34.00,00A,kg,Measuring per single yarn less than 192.31 decitex but not less than,,
+,,,125 decitex (exceeding 52 metric number but not exceeding 80 metric,,
+,,,number per single yarn),Free,Free
+5205.35.00,00F,kg,Measuring per single yarn less than 125 decitex (exceeding 80 metric,,
+,,,number per single yarn),Free,Free
+,,,"Multiple (folded) or cabled yarn, of combed fibres:",,
+5205.41.00,00A,kg,Measuring per single yarn 714.29 decitex or more (not exceeding 14,,
+,,,metric number per single yarn),Free,Free
+5205.42.00,00F,kg,Measuring per single yarn less than 714.29 decitex but not less than,,
+,,,232.56 decitex (exceeding 14 metric number but not exceeding 43,,
+,,,metric number per single yarn),Free,Free
+5205.43.00,00L,kg,Measuring per single yarn less than 232.56 decitex but not less than,,
+,,,192.31 decitex (exceeding 43 metric number but not exceeding 52,,
+,,,metric number per single yarn),Free,Free
+5205.44.00,00E,kg,Measuring per single yarn less than 192.31 decitex but not less than,,
+,,,125 decitex (exceeding 52 metric number but not exceeding 80 metric,,
+,,,number per single yarn),Free,Free
+5205.46.00,00D,kg,Measuring per single yarn less than 125 decitex but not less than,,
+,,,106.38 decitex (exceeding 80 metric number but not exceeding 94,,
+,,,metric number per single yarn),Free,Free
+5205.47.00,00J,kg,Measuring per single yarn less than 106.38 decitex but not less than,,
+,,,83.33 decitex (exceeding 94 metric number but not exceeding 120,,
+,,,metric number per single yarn),Free,Free
+5205.48.00,00C,kg,Measuring per single yarn less than 83.33 decitex (exceeding 120,,
+,,,metric number per single yarn),Free,Free
+52.06,,,"Cotton yarn (other than sewing thread), containing less than 85% by",,
+,,,"weight of cotton, not put up for retail sale:",,
+,,,"Single yarn, of uncombed fibres:",,
+5206.11.00,00J,kg,Measuring 714.29 decitex or more (not exceeding 14 metric number),Free,Free
+5206.12.00,00C,kg,Measuring less than 714.29 decitex but not less than 232.56 decitex,,
+,,,(exceeding 14 metric number but not exceeding 43 metric number),Free,Free
+5206.13.00,00H,kg,Measuring less than 232.56 decitex but not less than 192.31 decitex,,
+,,,(exceeding 43 metric number but not exceeding 52 metric number),Free,Free
+5206.14.00,00B,kg,Measuring less than 192.31 decitex but not less than 125 decitex,,
+,,,(exceeding 52 metric number but not exceeding 80 metric number),Free,Free
+5206.15.00,00G,kg,Measuring less than 125 decitex (exceeding 80 metric number),Free,Free
+,,,"Single yarn, of combed fibres:",,
+5206.21.00,00B,kg,Measuring 714.29 decitex or more (not exceeding 14 metric number),Free,Free
+5206.22.00,00G,kg,Measuring less than 714.29 decitex but not less than 232.56 decitex,,
+,,,(exceeding 14 metric number but not exceeding 43 metric number),Free,Free
+5206.23.00,00A,kg,Measuring less than 232.56 decitex but not less than 192.31 decitex,,
+,,,(exceeding 43 metric number but not exceeding 52 metric number),Free,Free
+5206.24.00,00F,kg,Measuring less than 192.31 decitex but not less than 125 decitex,,
+,,,(exceeding 52 metric number but not exceeding 80 metric number),Free,Free
+5206.25.00,00L,kg,Measuring less than 125 decitex (exceeding 80 metric number),Free,Free
+,,,"Multiple (folded) or cabled yarn, of uncombed fibres:",,
+5206.31.00,00F,kg,Measuring per single yarn 714.29 decitex or more (not exceeding 14,,
+,,,metric number per single yarn),Free,Free
+5206.32.00,00L,kg,Measuring per single yarn less than 714.29 decitex but not less than,,
+,,,232.56 decitex (exceeding 14 metric number but not exceeding 43,,
+,,,metric number per single yarn),Free,Free
+5206.33.00,00E,kg,Measuring per single yarn less than 232.56 decitex but not less than,,
+,,,192.31 decitex (exceeding 43 metric number but not exceeding 52,,
+,,,metric number per single yarn),Free,Free
+5206.34.00,00K,kg,Measuring per single yarn less than 192.31 decitex but not less than,,
+,,,125 decitex (exceeding 52 metric number but not exceeding 80 metric,,
+,,,number per single yarn),Free,Free
+5206.35.00,00D,kg,Measuring per single yarn less than 125 decitex (exceeding 80 metric,,
+,,,number per single yarn),Free,Free
+,,,"Cotton yarn (other than sewing thread), etc.‚continued",,
+,,,"Multiple (folded) or cabled yarn, of combed fibres:",,
+5206.41.00,00K,kg,Measuring per single yarn 714.29 decitex or more (not exceeding 14,,
+,,,metric number per single yarn),Free,Free
+5206.42.00,00D,kg,Measuring per single yarn less than 714.29 decitex but not less than,,
+,,,232.56 decitex (exceeding 14 metric number but not exceeding 43,,
+,,,metric number per single yarn),Free,Free
+5206.43.00,00J,kg,Measuring per single yarn less than 232.56 decitex but not less than,,
+,,,192.31 decitex (exceeding 43 metric number but not exceeding 52,,
+,,,metric number per single yarn),Free,Free
+5206.44.00,00C,kg,Measuring per single yarn less than 192.31 decitex but not less than,,
+,,,125 decitex (exceeding 52 metric number but not exceeding 80 metric,,
+,,,number per single yarn),Free,Free
+5206.45.00,00H,kg,Measuring per single yarn less than 125 decitex (exceeding 80 metric,,
+,,,number per single yarn),Free,Free
+52.07,,,Cotton yarn (other than sewing thread) put up for retail sale:,,
+5207.10.00,00B,kg,Containing 85% or more by weight of cotton,Free,Free
+5207.90.00,00A,kg,Other,Free,Free
+52.08,,,"Woven fabrics of cotton, containing 85% or more by weight of cotton,",,
+,,,weighing not more than 200 g/m2:,,
+,,,Unbleached:,,
+5208.11.00,00E,m2,"Plain weave, weighing not more than 100 g/m2",Free,Free
+5208.12.00,00K,m2,"Plain weave, weighing more than 100 g/m2",Free,Free
+5208.13.00,00D,m2,"3-thread or 4-thread twill, including cross twill",Free,Free
+5208.19.00,00A,m2,Other fabrics,Free,Free
+,,,Bleached:,,
+5208.21.00,,,"Plain weave, weighing not more than 100 g/m2",Free,Free
+,01G,m2, Handkerchief fabric in the piece,,
+,09B,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19K,m2, Other fabrics for apparel,,
+,21A,m2, Furnishing fabrics and fabrics for household use,,
+,29G,m2, Other,,
+5208.22.00,,,"Plain weave, weighing more than 100 g/m2",Free,Free
+,01A,m2, Handkerchief fabric in the piece,,
+,09G,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19D,m2, Other fabrics for apparel,,
+,21F,m2, Furnishing fabrics and fabrics for household use,,
+,29A,m2, Other,,
+5208.23.00,,,"3-thread or 4-thread twill, including cross twill",Free,Free
+,01F,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09A,m2, Other fabrics for apparel,,
+,11C,m2, Furnishing fabrics and fabrics for household use,,
+,19J,m2, Other,,
+5208.29.00,,,Other fabrics,Free,Free
+,01C,m2, Handkerchief fabric in the piece,,
+,09J,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19F,m2, Other fabrics for apparel,,
+,21H,m2, Furnishing fabrics and fabrics for household use,,
+,29C,m2, Other,,
+,,,Dyed:,,
+5208.31.00,,,"Plain weave, weighing not more than 100 g/m2",Free,Free
+,01L,m2, Handkerchief fabric in the piece,,
+,09F,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19C,m2, Other fabrics for apparel,,
+,21E,m2, Furnishing fabrics and fabrics for household use,,
+,29L,m2, Other,,
+5208.32.00,,,"Plain weave, weighing more than 100 g/m2",Free,Free
+,01E,m2, Handkerchief fabric in the piece,,
+,09L,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19H,m2, Other fabrics for apparel,,
+,21K,m2, Furnishing fabrics and fabrics for household use,,
+,29E,m2, Other,,
+,,,"Woven fabrics of cotton, containing 85% or, etc.‚continued",,
+,,,Dyed‚continued,,
+5208.33.00,,,"3-thread or 4-thread twill, including cross twill",Free,Free
+,01K,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09E,m2, Other fabrics for apparel,,
+,11G,m2, Furnishing fabrics and fabrics for household use,,
+,19B,m2, Other,,
+5208.39.00,,,Other fabrics,Free,Free
+,01G,m2, Handkerchief fabric in the piece,,
+,09B,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19K,m2, Other fabrics for apparel,,
+,21A,m2, Furnishing fabrics and fabrics for household use,,
+,29G,m2, Other,,
+,,,Of yarns of different colours:,,
+5208.41.00,,,"Plain weave, weighing not more than 100 g/m2",Free,Free
+,01D,m2, Handkerchief fabric in the piece,,
+,09K,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19G,m2, Other fabrics for apparel,,
+,21J,m2, Furnishing fabrics and fabrics for household use,,
+,29D,m2, Other,,
+5208.42.00,,,"Plain weave, weighing more than 100 g/m2",Free,Free
+,01J,m2, Handkerchief fabric in the piece,,
+,09D,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19A,m2, Other fabrics for apparel,,
+,21C,m2, Furnishing fabrics and fabrics for household use,,
+,29J,m2, Other,,
+5208.43.00,,,"3-thread or 4-thread twill, including cross twill",Free,Free
+,01C,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09J,m2, Other fabrics for apparel,,
+,11L,m2, Furnishing fabrics and fabrics for household use,,
+,19F,m2, Other,,
+5208.49.00,,,Other fabrics,Free,Free
+,01L,m2, Handkerchief fabric in the piece,,
+,09F,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19C,m2, Other fabrics for apparel,,
+,21E,m2, Furnishing fabrics and fabrics for household use,,
+,29L,m2, Other,,
+,,,Printed:,,
+5208.51.00,,,"Plain weave, weighing not more than 100 g/m2",Free,Free
+,01H,m2, Handkerchief fabric in the piece,,
+,09C,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19L,m2, Other fabrics for apparel,,
+,21B,m2, Furnishing fabrics and fabrics for household use,,
+,29H,m2, Other,,
+5208.52.00,,,"Plain weave, weighing more than 100 g/m2",Free,Free
+,01B,m2, Handkerchief fabric in the piece,,
+,09H,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19E,m2, Other fabrics for apparel,,
+,21G,m2, Furnishing fabrics and fabrics for household use,,
+,29B,m2, Other,,
+5208.59.00,,,Other fabrics,Free,Free
+,,," 3-thread or 4-thread twill, including cross twill:",,
+,10C,m2,"Flannelette, winceyette, diaper cloth for apparel",,
+,17L,m2,Other fabrics for apparel,,
+,23E,m2,Furnishing fabrics and fabrics for household use,,
+,31F,m2,Other,,
+,,, Other:,,
+,33B,m2,Handkerchief fabric in the piece,,
+,39A,m2,". Flannelette, winceyette, diaper cloth for apparel",,
+,43K,m2,Other fabrics for apparel,,
+,49J,m2,Furnishing fabrics and fabrics for household use,,
+,53G,m2,Other,,
+52.09,,,"Woven fabrics of cotton, containing 85% or more by weight of cotton,",,
+,,,weighing more than 200 g/m2:,,
+,,,Unbleached:,,
+5209.11.00,00C,m2,Plain weave,Free,Free
+5209.12.00,00H,m2,"3-thread or 4-thread twill, including cross twill",Free,Free
+5209.19.00,00K,m2,Other fabrics,Free,Free
+,,,"Woven fabrics of cotton, containing 85% or, etc.‚continued",,
+,,,Bleached:,,
+5209.21.00,,,Plain weave,Free,Free
+,01E,m2, Canvas and duck,,
+,09L,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19H,m2, Other fabrics for apparel,,
+,21K,m2, Furnishing fabrics and fabrics for household use,,
+,29E,m2, Other,,
+5209.22.00,,,"3-thread or 4-thread twill, including cross twill",Free,Free
+,01K,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09E,m2, Other fabrics for apparel,,
+,11G,m2, Furnishing fabrics and fabrics for household use,,
+,19B,m2, Other,,
+5209.29.00,,,Other fabrics,Free,Free
+,01A,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09G,m2, Other fabrics for apparel,,
+,11J,m2, Furnishing fabrics and fabrics for household use,,
+,19D,m2, Other,,
+,,,Dyed:,,
+5209.31.00,,,Plain weave,Free,Free
+,01J,m2, Canvas and duck,,
+,09D,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19A,m2, Other fabrics for apparel,,
+,21C,m2, Furnishing fabrics and fabrics for household use,,
+,29J,m2, Other,,
+5209.32.00,,,"3-thread or 4-thread twill, including cross twill",Free,Free
+,01C,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09J,m2, Other fabrics for apparel,,
+,11L,m2, Furnishing fabrics and fabrics for household use,,
+,19F,m2, Other,,
+5209.39.00,,,Other fabrics,Free,Free
+,01E,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09L,m2, Other fabrics for apparel,,
+,11B,m2, Furnishing fabrics and fabrics for household use,,
+,19H,m2, Other,,
+,,,Of yarns of different colours:,,
+5209.41.00,,,Plain weave,Free,Free
+,01B,m2, Canvas and duck,,
+,09H,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19E,m2, Other fabrics for apparel,,
+,21G,m2, Furnishing fabrics and fabrics for household use,,
+,29B,m2, Other,,
+5209.42.00,00J,m2,Denim,Free,Free
+5209.43.00,,,"Other fabrics of 3-thread or 4-thread twill, including cross twill",Free,Free
+,01A,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09G,m2, Other fabrics for apparel,,
+,11J,m2, Furnishing fabrics and fabrics for household use,,
+,19D,m2, Other,,
+5209.49.00,,,Other fabrics,Free,Free
+,01J,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09D,m2, Other fabrics for apparel,,
+,11F,m2, Furnishing fabrics and fabrics for household use,,
+,19A,m2, Other,,
+,,,Printed:,,
+5209.51.00,,,Plain weave,Free,Free
+,01F,m2, Canvas and duck,,
+,09A,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19J,m2, Other fabrics for apparel,,
+,21L,m2, Furnishing fabrics and fabrics for household use,,
+,29F,m2, Other,,
+5209.52.00,,,"3-thread or 4-thread twill, including cross twill",Free,Free
+,01L,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09F,m2, Other fabrics for apparel,,
+,11H,m2, Furnishing fabrics and fabrics for household use,,
+,19C,m2, Other,,
+,,,"Woven fabrics of cotton, containing 85% or, etc.‚continued",,
+,,,Printed‚continued,,
+5209.59.00,,,Other fabrics,Free,Free
+,01B,m2, Canvas and duck,,
+,09H,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19E,m2, Other fabrics for apparel,,
+,21G,m2, Furnishing fabrics and fabrics for household use,,
+,29B,m2, Other,,
+52.1,,,"Woven fabrics of cotton, containing less than 85% by weight of cotton,",,
+,,,"mixed mainly or solely with man-made fibres, weighing not more than",,
+,,,200 g/m2:,,
+,,,Unbleached:,,
+5210.11.00,00G,m2,Plain weave,Free,Free
+5210.19.00,,,Other fabrics,Free,Free
+,10L,m2," 3-thread or 4-thread twill, including cross twill",,
+,19D,m2, Other,,
+,,,Bleached:,,
+5210.21.00,,,Plain weave,Free,Free
+,01J,m2, Handkerchief fabric in the piece,,
+,09D,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19A,m2, Other fabrics for apparel,,
+,21C,m2, Furnishing fabrics and fabrics for household use,,
+,29J,m2, Other,,
+5210.29.00,,,Other fabrics,Free,Free
+,,," 3-thread or 4-thread twill, including cross twill:",,
+,10D,m2,"Flannelette, winceyette, diaper cloth for apparel",,
+,15E,m2,Other fabrics for apparel,,
+,21K,m2,Furnishing fabrics and fabrics for household use,,
+,23F,m2,Other,,
+,,, Other:,,
+,27J,m2,"Flannelette, winceyette, diaper cloth for apparel",,
+,29E,m2,Other fabrics for apparel,,
+,33C,m2,Furnishing fabrics and fabrics for household use,,
+,39B,m2,Other,,
+,,,Dyed:,,
+5210.31.00,,,Plain weave,Free,Free
+,01B,m2, Handkerchief fabric in the piece,,
+,09H,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19E,m2, Other fabrics for apparel,,
+,21G,m2, Furnishing fabrics and fabrics for household use,,
+,29B,m2, Other,,
+5210.32.00,,,"3-thread or 4-thread twill, including cross twill",Free,Free
+,01G,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09B,m2, Other fabrics for apparel,,
+,11D,m2, Furnishing fabrics and fabrics for household use,,
+,19K,m2, Other,,
+5210.39.00,,,Other fabrics,Free,Free
+,01J,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09D,m2, Other fabrics for apparel,,
+,11F,m2, Furnishing fabrics and fabrics for household use,,
+,19A,m2, Other,,
+,,,Of yarns of different colours:,,
+5210.41.00,,,Plain weave,Free,Free
+,01F,m2, Handkerchief fabric in the piece,,
+,09A,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19J,m2, Other fabrics for apparel,,
+,21L,m2, Furnishing fabrics and fabrics for household use,,
+,29F,m2, Other,,
+5210.49.00,,,Other fabrics,Free,Free
+,,," 3-thread or 4-thread twill, including cross twill:",,
+,10A,m2,"Flannelette, winceyette, diaper cloth for apparel",,
+,15B,m2,Other fabrics for apparel,,
+,21G,m2,Furnishing fabrics and fabrics for household use,,
+,23C,m2,Other,,
+,,, Other:,,
+,27F,m2,"Flannelette, winceyette, diaper cloth for apparel",,
+,29B,m2,Other fabrics for apparel,,
+,33L,m2,Furnishing fabrics and fabrics for household use,,
+,39K,m2,Other,,
+,,,"Woven fabrics of cotton, containing less than, etc.‚continued",,
+,,,Printed:,,
+5210.51.00,,,Plain weave,Free,Free
+,01K,m2, Handkerchief fabric in the piece,,
+,09E,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19B,m2, Other fabrics for apparel,,
+,21D,m2, Furnishing fabrics and fabrics for household use,,
+,29K,m2, Other,,
+5210.59.00,,,Other fabrics,Free,Free
+,,," 3-thread or 4-thread twill, including cross twill:",,
+,10E,m2,"Flannelette, winceyette, diaper cloth for apparel",,
+,15F,m2,Other fabrics for apparel,,
+,21L,m2,Furnishing fabrics and fabrics for household use,,
+,23G,m2,Other,,
+,,, Other:,,
+,27K,m2,"Flannelette, winceyette, diaper cloth for apparel",,
+,29F,m2,Other fabrics for apparel,,
+,33D,m2,Furnishing fabrics and fabrics for household use,,
+,39C,m2,Other,,
+52.11,,,"Woven fabrics of cotton, containing less than 85% by weight of cotton,",,
+,,,"mixed mainly or solely with man-made fibres, weighing more than",,
+,,,200 g/m2:,,
+,,,Unbleached:,,
+5211.11.00,00E,m2,Plain weave,Free,Free
+5211.12.00,00K,m2,"3-thread or 4-thread twill, including cross twill",Free,Free
+5211.19.00,00A,m2,Other fabrics,Free,Free
+5211.20.00,,,Bleached,Free,Free
+,,,Plain weave:,,
+,10A,m2, Canvas and duck,,
+,15B,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19E,m2, Other fabrics for apparel,,
+,25K,m2, Furnishing fabrics and fabrics for household use,,
+,29B,m2, Other,,
+,,,"3-thread or 4-thread twill, including cross twill:",,
+,35G,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,39K,m2, Other fabrics for apparel,,
+,45D,m2, Furnishing fabrics and fabrics for household use,,
+,49G,m2, Other,,
+,,,Other fabrics:,,
+,55A,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,59D,m2, Other fabrics for apparel,,
+,65J,m2, Furnishing fabrics and fabrics for household use,,
+,69A,m2, Other,,
+,,,Dyed:,,
+5211.31.00,,,Plain weave,Free,Free
+,01L,m2, Canvas and duck,,
+,09F,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19C,m2, Other fabrics for apparel,,
+,21E,m2, Furnishing fabrics and fabrics for household use,,
+,29L,m2, Other,,
+5211.32.00,,,"3-thread or 4-thread twill, including cross twill",Free,Free
+,01E,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09L,m2, Other fabrics for apparel,,
+,11B,m2, Furnishing fabrics and fabrics for household use,,
+,19H,m2, Other,,
+5211.39.00,,,Other fabrics,Free,Free
+,01G,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09B,m2, Other fabrics for apparel,,
+,11D,m2, Furnishing fabrics and fabrics for household use,,
+,19K,m2, Other,,
+,,,Of yarns of different colours:,,
+5211.41.00,,,Plain weave,Free,Free
+,01D,m2, Canvas and duck,,
+,09K,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19G,m2, Other fabrics for apparel,,
+,21J,m2, Furnishing fabrics and fabrics for household use,,
+,29D,m2, Other,,
+,,,"Woven fabrics of cotton, containing less than 85%, etc.‚continued",,
+,,,Of yarns of different colours‚continued,,
+5211.42.00,00L,m2,Denim,Free,Free
+5211.43.00,,,"Other fabrics of 3-thread or 4-thread twill, including cross twill",Free,Free
+,01C,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09J,m2, Other fabrics for apparel,,
+,11L,m2, Furnishing fabrics and fabrics for household use,,
+,19F,m2, Other,,
+5211.49.00,,,Other fabrics,Free,Free
+,01L,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09F,m2, Other fabrics for apparel,,
+,11H,m2, Furnishing fabrics and fabrics for household use,,
+,19C,m2, Other,,
+,,,Printed:,,
+5211.51.00,,,Plain weave,Free,Free
+,01H,m2, Canvas and duck,,
+,09C,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19L,m2, Other fabrics for apparel,,
+,21B,m2, Furnishing fabrics and fabrics for household use,,
+,29H,m2, Other,,
+5211.52.00,,,"3-thread or 4-thread twill, including cross twill",Free,Free
+,01B,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09H,m2, Other fabrics for apparel,,
+,11K,m2, Furnishing fabrics and fabrics for household use,,
+,19E,m2, Other,,
+5211.59.00,,,Other fabrics,Free,Free
+,01D,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,09K,m2, Other fabrics for apparel,,
+,11A,m2, Furnishing fabrics and fabrics for household use,,
+,19G,m2, Other,,
+52.12,,,Other woven fabrics of cotton:,,
+,,,Weighing not more than 200 g/m2:,,
+5212.11.00,00C,m2,Unbleached,Free,Free
+5212.12.00,,,Bleached,Free,Free
+,01F,m2, Handkerchief fabric in the piece,,
+,09A,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19J,m2, Other fabrics for apparel,,
+,21L,m2, Furnishing fabrics and fabrics for household use,,
+,29F,m2, Other,,
+5212.13.00,,,Dyed,Free,Free
+,01L,m2, Handkerchief fabric in the piece,,
+,09F,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19C,m2, Other fabrics for apparel,,
+,21E,m2, Furnishing fabrics and fabrics for household use,,
+,29L,m2, Other,,
+5212.14.00,,,Of yarns of different colours,Free,Free
+,01E,m2, Handkerchief fabric in the piece,,
+,09L,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19H,m2, Other fabrics for apparel,,
+,21K,m2, Furnishing fabrics and fabrics for household use,,
+,29E,m2, Other,,
+5212.15.00,,,Printed,Free,Free
+,01K,m2, Handkerchief fabric in the piece,,
+,09E,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19B,m2, Other fabrics for apparel,,
+,21D,m2, Furnishing fabrics and fabrics for household use,,
+,29K,m2, Other,,
+,,,Weighing more than 200 g/m2:,,
+5212.21.00,00G,m2,Unbleached,Free,Free
+5212.22.00,,,Bleached,Free,Free
+,01K,m2, Canvas and duck,,
+,09E,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19B,m2, Other fabrics for apparel,,
+,21D,m2, Furnishing fabrics and fabrics for household use,,
+,29K,m2, Other,,
+,,,"Other woven fabrics of, etc.‚continued",,
+,,,Weighing more than 200 g/m2‚continued,,
+5212.23.00,,,Dyed,Free,Free
+,01D,m2, Canvas and duck,,
+,09K,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19G,m2, Other fabrics for apparel,,
+,21J,m2, Furnishing fabrics and fabrics for household use,,
+,29D,m2, Other,,
+5212.24.00,,,Of yarns of different colours,Free,Free
+,01J,m2, Canvas and duck,,
+,09D,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19A,m2, Other fabrics for apparel,,
+,21C,m2, Furnishing fabrics and fabrics for household use,,
+,29J,m2, Other,,
+5212.25.00,,,Printed,Free,Free
+,01C,m2, Canvas and duck,,
+,09J,m2," Flannelette, winceyette, diaper cloth for apparel",,
+,19F,m2, Other fabrics for apparel,,
+,21H,m2, Furnishing fabrics and fabrics for household use,,
+,29C,m2, Other,,
+53.01,,,"Flax, raw or processed but not spun; flax tow and waste (including",,
+,,,yarn waste and garnetted stock):,,
+5301.10.00,00K,kg,"Flax, raw or retted",Free,Free
+,,,"Flax, broken, scutched, hackled or otherwise processed, but not spun:",,
+5301.21.00,00H,kg,Broken or scutched,Free,Free
+5301.29.00,00D,kg,Other,Free,Free
+5301.30.00,00G,kg,Flax tow and waste,Free,Free
+53.02,,,"True hemp (Cannabis sativa L.), raw or processed but not spun; tow",,
+,,,and waste of true hemp (including yarn waste and garnetted stock):,,
+5302.10.00,00H,kg,"True hemp, raw or retted",Free,Free
+5302.90.00,00G,kg,Other,Free,Free
+53.03,,,"Jute and other textile bast fibres (excluding flax, true hemp and",,
+,,,"ramie), raw or processed but not spun; tow and waste of these fibres",,
+,,,(including yarn waste and garnetted stock):,,
+5303.10.00,00F,kg,"Jute and other textile bast fibres, raw or retted",Free,Free
+5303.90.00,00E,kg,Other,Free,Free
+53.05,,,,,
+5305.00.00,,,"Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other",,
+,,,"vegetable textile fibres, not elsewhere specified or included, raw or",,
+,,,"processed but not spun; tow, noils and waste of these fibres (including",,
+,,,yarn waste and garnetted stock):,Free,Free
+,,,"Sisal and other textile fibres of the genus Agave, raw or processed but",,
+,,,not spun; tow and waste of these fibres (including yarn waste and,,
+,,,garnetted stock):,,
+,10F,kg,"Sisal and other textile fibres of the genus Agave, raw",,
+,15G,kg, Other,,
+,,,Of coconut (coir):,,
+,19K,kg, Raw,,
+,23H,kg, Other,,
+,,,Of abaca:,,
+,25D,kg, Raw,,
+,27L,kg, Other,,
+,,,Other:,,
+,29G,kg, Raw,,
+,39D,kg, Other,,
+53.06,,,Flax yarn:,,
+5306.10.00,00L,kg,Single,Free,Free
+5306.20.00,00D,kg,Multiple (folded) or cabled,Free,Free
+53.07,,,Yarn of jute or of other textile bast fibres of heading 53.03:,,
+5307.10.00,,,Single,Free,Free
+,01G,kg,Jute,,
+,09B,kg,Other,,
+5307.20.00,,,Multiple (folded) or cabled,Free,Free
+,01L,kg,Jute,,
+,09F,kg,Other,,
+53.08,,,Yarn of other vegetable textile fibres; paper yarn:,,
+5308.10.00,00G,kg,Coir yarn,Free,Free
+5308.20.00,00L,kg,True hemp yarn,Free,Free
+5308.90.00,,,Other,Free,Free
+,11A,kg,Paper yarn,,
+,14F,kg,Ramie,,
+,19G,kg,Other,,
+53.09,,,Woven fabrics of flax:,,
+,,,Containing 85% or more by weight of flax:,,
+5309.11.00,,,Unbleached or bleached,Free,Free
+,01H,m2, Canvas and duck,,
+,09C,m2, Other,,
+5309.19.00,,,Other,Free,Free
+,01D,m2, Canvas and duck,,
+,09K,m2, Other,,
+,,,Woven fabrics of flax‚continued,,
+,,,Containing less than 85% by weight of flax:,,
+5309.21.00,,,Unbleached or bleached,Free,Free
+,01A,m2, Canvas and duck,,
+,09G,m2, Other,,
+5309.29.00,,,Other,Free,Free
+,01H,m2, Canvas and duck,,
+,09C,m2, Other,,
+53.1,,,Woven fabrics of jute or of other textile bast fibres of heading 53.03:,,
+5310.10.00,,,Unbleached,Free,Free
+,,,Jute:,,
+,01G,m2, Canvas,,
+,09B,m2, Hessian,,
+,19K,m2, Other,,
+,29G,m2,Other,,
+5310.90.00,,,Other,Free,Free
+,,,Jute:,,
+,01F,m2, Canvas,,
+,09A,m2, Hessian,,
+,19J,m2, Other,,
+,29F,m2,Other,,
+53.11,,,,,
+5311.00.00,00C,m2,Woven fabrics of other vegetable textile fibres; woven fabrics of paper,,
+,,,yarn,Free,Free
+54.01,,,"Sewing thread of man-made filaments, whether or not put up for",,
+,,,retail sale:,,
+5401.10.00,,,Of synthetic filaments,Free,Free
+,,,Polyamide:,,
+,01D,kg, Textured,,
+,09K,kg, Other,,
+,,,Polyester:,,
+,11A,kg, Textured,,
+,19G,kg, Other,,
+,29D,kg,Other,,
+5401.20.00,00K,kg,Of artificial filaments,Free,Free
+54.02,,,"Synthetic filament yarn (other than sewing thread), not put up for",,
+,,,"retail sale, including synthetic monofilament of less than 67 decitex:",,
+,,,"High tenacity yarn of nylon or other polyamides, whether or not textured:",,
+5402.11.00,,,Of aramids,Free,Free
+,,, Not exceeding 15 decitex:,,
+,10F,kg,Untwisted or with a twist of not more than 50 turns per metre,,
+,13L,kg,Other,,
+,,, Exceeding 15 decitex but not exceeding 230 decitex:,,
+,15G,kg,Untwisted or with a twist of not more than 50 turns per metre,,
+,17C,kg,Other,,
+,,, Exceeding 230 decitex:,,
+,19K,kg,Untwisted or with a twist of not more than 50 turns per metre,,
+,23H,kg,Other,,
+5402.19.00,,,Other,Free,Free
+,,, Not exceeding 15 decitex:,,
+,10B,kg,Untwisted or with a twist of not more than 50 turns per metre,,
+,13G,kg,Other,,
+,,, Exceeding 15 decitex but not exceeding 230 decitex:,,
+,15C,kg,Untwisted or with a twist of not more than 50 turns per metre,,
+,17K,kg,Other,,
+,,, Exceeding 230 decitex:,,
+,19F,kg,Untwisted or with a twist of not more than 50 turns per metre,,
+,23D,kg,Other,,
+5402.20.00,,,"High tenacity yarn of polyesters, whether or not textured",Free,Free
+,,,Not exceeding 40 decitex:,,
+,01F,kg, Untwisted or with a twist of not more than 50 turns per metre,,
+,09A,kg, Other,,
+,,,Exceeding 40 decitex but not exceeding 170 decitex:,,
+,11C,kg, Untwisted or with a twist of not more than 50 turns per metre,,
+,19J,kg, Other,,
+,,,Exceeding 170 decitex:,,
+,21L,kg, Untwisted or with a twist of not more than 50 turns per metre,,
+,29F,kg, Other,,
+,,,Textured yarn:,,
+5402.31.00,00F,kg,"Of nylon or other polyamides, measuring per single yarn not more than",,
+,,,50 tex,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+5402.32.00,00L,kg,"Of nylon or other polyamides, measuring per single yarn more than",,
+,,,50 tex,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5402.33.00,00E,kg,Of polyesters,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5402.34.00,00K,kg,Of polypropylene,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Synthetic filament yarn (other than sewing thread), etc.‚continued",,
+,,,Textured yarn‚continued,,
+5402.39.00,10K,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Other yarn, single, untwisted or with a twist not exceeding 50 turns per",,
+,,,metre:,,
+5402.44.00,00C,kg,Elastomeric,Free,Free
+5402.45.00,,,"Other, of nylon or other polyamides",Free,Free
+,10E,kg, Not exceeding 15 decitex,,
+,15F,kg, Exceeding 15 decitex but not exceeding 230 decitex,,
+,19J,kg, Exceeding 230 decitex,,
+5402.46.00,,,"Other, of polyesters, partially oriented",Free,Free
+,10K,kg, Not exceeding 40 decitex,,
+,13D,kg, Exceeding 40 decitex but not exceeding 170 decitex,,
+,19C,kg, Exceeding 170 decitex,,
+5402.47.00,,,"Other, of polyesters",Free,Free
+,10D,kg, Not exceeding 40 decitex,,
+,13J,kg, Exceeding 40 decitex but not exceeding 170 decitex,,
+,19H,kg, Exceeding 170 decitex,,
+5402.48.00,00A,kg,"Other, of polypropylene",Free,Free
+5402.49.00,10C,kg,Other,Free,Free
+,,,"Other yarn, single, with a twist exceeding 50 turns per metre:",,
+5402.51.00,,,Of nylon or other polyamides,Free,Free
+,01A,kg, Not exceeding 15 decitex,,
+,09G,kg, Exceeding 15 decitex but not exceeding 230 decitex,,
+,19D,kg, Exceeding 230 decitex,,
+5402.52.00,,,Of polyesters,Free,Free
+,01F,kg, Not exceeding 40 decitex,,
+,09A,kg, Exceeding 40 decitex but not exceeding 170 decitex,,
+,19J,kg, Exceeding 170 decitex,,
+5402.53.00,00B,kg,Of polypropylene,Free,Free
+5402.59.00,10G,kg,Other,Free,Free
+,,,"Other yarn, multiple (folded) or cabled:",,
+5402.61.00,,,Of nylon or other polyamides,Free,Free
+,01E,kg, Not exceeding 230 decitex,,
+,09L,kg, Other,,
+5402.62.00,,,Of polyesters,Free,Free
+,01K,kg, Not exceeding 40 decitex,,
+,09E,kg, Exceeding 40 decitex but not exceeding 67 decitex,,
+,11G,kg, Exceeding 67 decitex but not exceeding 170 decitex,,
+,19B,kg, Exceeding 170 decitex,,
+5402.63.00,00F,kg,Of polypropylene,Free,Free
+5402.69.00,10L,kg,Other,Free,Free
+54.03,,,"Artificial filament yarn (other than sewing thread), not put up for",,
+,,,"retail sale, including artificial monofilament of less than 67 decitex:",,
+5403.10.00,00B,kg,High tenacity yarn of viscose rayon,Free,Free
+,,,"Other yarn, single:",,
+5403.31,,,"Of viscose rayon, untwisted or with a twist not exceeding 120 turns per",,
+,,,metre:,,
+5403.31.01,00L,kg,Textured yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+5403.31.09,00A,kg,Other,Free,Free
+5403.32,,,"Of viscose rayon, with a twist exceeding 120 turns per metre:",,
+5403.32.01,00E,kg,Textured yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Artificial filament yarn (other than sewing thread), etc.‚continued",,
+,,,High tenacity yarn of viscose rayon‚continued,,
+,,,"Of viscose rayon, with a twist exceeding 120 turns, etc.‚continued",,
+5403.32.09,00F,kg,Other,Free,Free
+5403.33,,,Of cellulose acetate:,,
+5403.33.01,00K,kg,Textured yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5403.33.09,00L,kg,Other,Free,Free
+5403.39,,,Other:,,
+5403.39.01,00G,kg,Textured yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5403.39.09,00H,kg,Other,Free,Free
+,,,"Other yarn, multiple (folded) or cabled:",,
+5403.41,,,Of viscose rayon:,,
+5403.41.01,00D,kg,Textured yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5403.41.09,00E,kg,Other,Free,Free
+5403.42,,,Of cellulose acetate:,,
+5403.42.01,00J,kg,Textured yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5403.42.09,00K,kg,Other,Free,Free
+5403.49,,,Other:,,
+5403.49.01,00L,kg,Textured yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+5403.49.09,00A,kg,Other,Free,Free
+54.04,,,Synthetic monofilament of 67 decitex or more and of which no,,
+,,,cross-sectional dimension exceeds 1 mm; strip and the like (for,,
+,,,"example, artificial straw) of synthetic textile materials of an apparent",,
+,,,width not exceeding 5 mm:,,
+,,,Monofilament:,,
+5404.11.00,,,Elastomeric,Free,Free
+,10B,kg, Polyolefins,,
+,19F,kg, Other,,
+5404.12.00,,,"Other, of polypropylene",Free,Free
+,10G,kg, Bristles for brushmaking,,
+,19L,kg, Other,,
+5404.19.00,,,Other,Free,Free
+,,, Polyolefins:,,
+,10J,kg,Bristles for brushmaking,,
+,19B,kg,Other,,
+,,, Other:,,
+,23L,kg,Bristles for brushmaking,,
+,29K,kg,Other,,
+5404.90.00,,,Other,Free,Free
+,01H,kg,Polyolefins,,
+,09C,kg,Other,,
+54.05,,,,,
+5405.00.00,,,Artificial monofilament of 67 decitex or more and of which no,,
+,,,cross-sectional dimension exceeds 1 mm; strip and the like (for,,
+,,,"example, artificial straw) of artificial textile materials of an",,
+,,,apparent width not exceeding 5 mm,Free,Free
+,01C,kg, Bristles for brushmaking,,
+,09J,kg, Other,,
+54.06,,,,,
+5406.00.00,,,"Man-made filament yarn (other than sewing thread), put up for retail",,
+,,,sale,Free,Free
+,10L,kg,Synthetic filament yarn,,
+,19D,kg,Artificial filament yarn,,
+54.07,,,"Woven fabrics of synthetic filament yarn, including woven fabrics",,
+,,,obtained from materials of heading 54.04:,,
+5407.10.00,,,Woven fabrics obtained from high tenacity yarn of nylon or other,,
+,,,polyamides or of polyesters,Free,Free
+,,,Containing wool or fine animal hair:,,
+,01C,m2, Containing 85% or more by weight of synthetic fibres,,
+,09J,m2, Containing less than 85% by weight of synthetic fibres,,
+,,,Other:,,
+,11L,m2, Containing 85% or more by weight of synthetic fibres,,
+,19F,m2, Containing less than 85% by weight of synthetic fibres,,
+5407.2,,,Woven fabrics obtained from strip or the like:,,
+5407.20.01,,,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,1/2020 Free
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,, Containing wool or fine animal hair:,,
+,01C,m2,Containing 85% or more by weight of synthetic fibres,,
+,09J,m2,Containing less than 85% by weight of synthetic fibres,,
+,,, Other:,,
+,11L,m2,Containing 85% or more by weight of synthetic fibres,,
+,19F,m2,Containing less than 85% by weight of synthetic fibres,,
+5407.20.09,,,Other,Free,Free
+,,, Containing wool or fine animal hair:,,
+,01D,m2,Containing 85% or more by weight of synthetic fibres,,
+,09K,m2,Containing less than 85% by weight of synthetic fibres,,
+,,, Other:,,
+,11A,m2,Containing 85% or more by weight of synthetic fibres,,
+,19G,m2,Containing less than 85% by weight of synthetic fibres,,
+5407.3,,,Fabrics specified in Note 9 to Section XI:,,
+5407.30.01,,,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01G,m2, Containing 85% or more by weight of synthetic fibres,,
+,09B,m2, Containing less than 85% by weight of synthetic fibres,,
+5407.30.09,,,Other,Free,Free
+,01H,m2, Containing 85% or more by weight of synthetic fibres,,
+,09C,m2, Containing less than 85% by weight of synthetic fibres,,
+,,,"Other woven fabrics, containing 85% or more by weight of filaments of",,
+,,,nylon or other polyamides:,,
+5407.41.00,,,Unbleached or bleached,Free,Free
+,01J,m2, Containing wool or fine animal hair,,
+,09D,m2, Other,,
+5407.42.00,,,Dyed,Free,Free
+,01C,m2, Containing wool or fine animal hair,,
+,09J,m2, Other,,
+5407.43.00,,,Of yarns of different colours,Free,Free
+,01H,m2, Containing wool or fine animal hair,,
+,09C,m2, Other,,
+5407.44.00,,,Printed,Free,Free
+,01B,m2, Containing wool or fine animal hair,,
+,09H,m2, Other,,
+,,,"Woven fabrics of synthetic filament yarn, including, etc.‚continued",,
+,,,"Other woven fabrics, containing 85% or more by weight of textured",,
+,,,polyester filaments:,,
+5407.51.00,,,Unbleached or bleached,Free,Free
+,01B,m2, Containing wool or fine animal hair,,
+,09H,m2, Other,,
+5407.52.00,,,Dyed,Free,Free
+,01G,m2, Containing wool or fine animal hair,,
+,09B,m2, Other,,
+5407.53.00,,,Of yarns of different colours,Free,Free
+,01A,m2, Containing wool or fine animal hair,,
+,09G,m2, Other,,
+5407.54.00,,,Printed,Free,Free
+,01F,m2, Containing wool or fine animal hair,,
+,09A,m2, Other,,
+,,,"Other woven fabrics, containing 85% or more by weight of polyester",,
+,,,filaments:,,
+5407.61.00,,,Containing 85% or more by weight of non-textured polyester filaments,Free,Free
+,01F,m2, Containing wool or fine animal hair,,
+,09A,m2, Other,,
+5407.69,,,Other:,,
+5407.69.10,,,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01H,m2,Unbleached or bleached,,
+,09C,m2,Dyed,,
+,11E,m2,Of yarns of different colours,,
+,19L,m2,Printed,,
+5407.69.90,,,Other,Free,Free
+,,,Unbleached or bleached:,,
+,01A,m2, Containing wool or fine animal hair,,
+,09G,m2, Other,,
+,,,Dyed:,,
+,11J,m2, Containing wool or fine animal hair,,
+,19D,m2, Other,,
+,,,Of yarns of different colours:,,
+,21F,m2, Containing wool or fine animal hair,,
+,29A,m2, Other,,
+,,,Printed:,,
+,31C,m2, Containing wool or fine animal hair,,
+,39J,m2, Other,,
+,,,"Other woven fabrics, containing 85% or more by weight of synthetic",,
+,,,filaments:,,
+5407.71,,,Unbleached or bleached:,,
+5407.71.01,00H,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.71.09,,,Other,Free,Free
+,01G,m2,Containing wool or fine animal hair,,
+,09B,m2,Other,,
+5407.72,,,Dyed:,,
+5407.72.01,00B,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5407.72.09,,,Other,Free,Free
+,01A,m2,Containing wool or fine animal hair,,
+,09G,m2,Other,,
+,,,"Woven fabrics of synthetic filament yarn, including, etc.‚continued",,
+,,,"Other woven fabrics, containing 85% or more, etc.‚continued",,
+5407.73,,,Of yarns of different colours:,,
+5407.73.01,00G,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.73.09,,,Other,Free,Free
+,01F,m2,Containing wool or fine animal hair,,
+,09A,m2,Other,,
+5407.74,,,Printed:,,
+5407.74.01,00A,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.74.09,,,Other,Free,Free
+,01L,m2,Containing wool or fine animal hair,,
+,09F,m2,Other,,
+,,,"Other woven fabrics, containing less than 85% by weight of synthetic",,
+,,,"filaments, mixed mainly or solely with cotton:",,
+5407.81,,,Unbleached or bleached:,,
+5407.81.01,00A,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.81.09,00B,m2,Other,Free,Free
+5407.82,,,Dyed:,,
+5407.82.01,00F,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.82.09,00G,m2,Other,Free,Free
+5407.83,,,Of yarns of different colours:,,
+5407.83.01,00L,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.83.09,00A,m2,Other,Free,Free
+5407.84,,,Printed:,,
+5407.84.01,00E,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.84.09,00F,m2,Other,Free,Free
+,,,"Woven fabrics of synthetic filament yarn, including, etc.‚continued",,
+,,,Other woven fabrics:,,
+5407.91,,,Unbleached or bleached:,,
+5407.91.01,00E,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.91.09,,,Other,Free,Free
+,01D,m2,Containing wool or fine animal hair,,
+,09K,m2,Other,,
+5407.92,,,Dyed:,,
+5407.92.01,00K,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.92.09,,,Other,Free,Free
+,01J,m2,Containing wool or fine animal hair,,
+,09D,m2,Other,,
+5407.93,,,Of yarns of different colours:,,
+5407.93.01,00D,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.93.09,,,Other,Free,Free
+,01C,m2,Containing wool or fine animal hair,,
+,09J,m2,Other,,
+5407.94,,,Printed:,,
+5407.94.01,00J,m2,Of polypropylene or polyethylene fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5407.94.09,,,Other,Free,Free
+,01H,m2,Containing wool or fine animal hair,,
+,09C,m2,Other,,
+54.08,,,"Woven fabrics of artificial filament yarn, including woven fabrics",,
+,,,obtained from materials of heading 54.05:,,
+5408.10.00,,,Woven fabrics obtained from high tenacity yarn of viscose rayon,Free,Free
+,01A,m2,Containing 85% or more by weight of artificial fibres,,
+,09G,m2,Containing less than 85% by weight of artificial fibres,,
+,,,"Other woven fabrics, containing 85% or more by weight of artificial",,
+,,,filament or strip or the like:,,
+5408.21.00,,,Unbleached or bleached,Free,Free
+,01K,m2, Linings,,
+,,, Other:,,
+,11G,m2,Containing wool or fine animal hair,,
+,19B,m2,Other,,
+5408.22.00,,,Dyed,Free,Free
+,01D,m2, Linings,,
+,,, Other:,,
+,11A,m2,Containing wool or fine animal hair,,
+,19G,m2,Other,,
+5408.23.00,,,Of yarns of different colours,Free,Free
+,01J,m2, Linings,,
+,,, Other:,,
+,11F,m2,Containing wool or fine animal hair,,
+,19A,m2,Other,,
+,,,"Woven fabrics of artificial filament yarn, including, etc.‚continued",,
+,,,Other woven fabrics‚continued,,
+5408.24.00,,,Printed,Free,Free
+,01C,m2, Linings,,
+,,, Other:,,
+,11L,m2,Containing wool or fine animal hair,,
+,19F,m2,Other,,
+,,,Other woven fabrics:,,
+5408.31.00,,,Unbleached or bleached,Free,Free
+,01C,m2, Linings,,
+,,, Other:,,
+,11L,m2,Containing wool or fine animal hair,,
+,19F,m2,Other,,
+5408.32.00,,,Dyed,Free,Free
+,01H,m2, Linings,,
+,,, Other:,,
+,11E,m2,Containing wool or fine animal hair,,
+,19L,m2,Other,,
+5408.33.00,,,Of yarns of different colours,Free,Free
+,01B,m2, Linings,,
+,,, Other:,,
+,11K,m2,Containing wool or fine animal hair,,
+,19E,m2,Other,,
+5408.34.00,,,Printed,Free,Free
+,01G,m2, Linings,,
+,,, Other:,,
+,11D,m2,Containing wool or fine animal hair,,
+,19K,m2,Other,,
+55.01,,,Synthetic filament tow:,,
+,,,Of nylon or other polyamides:,,
+5501.11.00,00G,kg,Of aramids,Free,Free
+5501.19.00,00C,kg,Other,Free,Free
+5501.20.00,00F,kg,Of polyesters,Free,Free
+5501.30.00,00K,kg,‚ÄìAcrylic or modacrylic,Free,Free
+5501.40.00,00C,kg,Of polypropylene,Free,Free
+5501.90.00,10J,kg,Other,Free,Free
+55.02,,,Artificial filament tow,,
+5502.10.00,00L,kg,Of cellulose acetate,Free,Free
+5502.90.00,00K,kg,Other,Free,Free
+55.03,,,"Synthetic staple fibres, not carded, combed or otherwise processed for",,
+,,,spinning:,,
+,,,Of nylon or other polyamides:,,
+5503.11.00,00C,kg,Of aramids,Free,Free
+5503.19.00,00K,kg,Other,Free,Free
+5503.20.00,00B,kg,Of polyesters,Free,Free
+5503.30.00,00F,kg,‚ÄìAcrylic or modacrylic,Free,Free
+5503.40.00,00K,kg,Of polypropylene,Free,Free
+5503.90.00,00H,kg,Other,Free,Free
+55.04,,,"Artificial staple fibres, not carded, combed or otherwise processed for",,
+,,,spinning:,,
+5504.10.00,00G,kg,Of viscose rayon,Free,Free
+5504.90.00,00F,kg,Other,Free,Free
+55.05,,,"Waste (including noils, yarn waste and garnetted stock) of man-made",,
+,,,fibres:,,
+5505.10.00,00E,kg,Of synthetic fibres,Free,Free
+5505.20.00,00J,kg,Of artificial fibres,Free,Free
+55.06,,,"Synthetic staple fibres, carded, combed or otherwise processed for",,
+,,,spinning:,,
+5506.10.00,00C,kg,Of nylon or other polyamides,Free,Free
+5506.20.00,00G,kg,Of polyesters,Free,Free
+5506.30.00,00L,kg,‚ÄìAcrylic or modacrylic,Free,Free
+5506.40.00,00D,kg,Of polypropylene,Free,Free
+5506.90.00,10K,kg,Other,Free,Free
+55.07,,,,,
+5507.00.00,00H,kg,"Artificial staple fibres, carded, combed or otherwise processed for",,
+,,,spinning,Free,Free
+55.08,,,"Sewing thread of man-made staple fibres, whether or not put up for",,
+,,,retail sale:,,
+5508.10.00,,,Of synthetic staple fibres,Free,Free
+,01H,kg,Containing 85% or more by weight of staple synthetic fibres,,
+,,,Containing less than 85% by weight of staple synthetic fibres:,,
+,11E,kg,Mixed mainly or solely with cotton,,
+,19L,kg,Mixed mainly or solely with wool or fine animal hair,,
+,29H,kg,Mixed mainly or solely with fibres other than,,
+,,,"cotton, wool or fine animal hair",,
+5508.20.00,,,Of artificial staple fibres,Free,Free
+,01A,kg,Containing 85% or more by weight of staple artificial fibres,,
+,,,Containing less than 85% by weight of staple artificial fibres:,,
+,11J,kg,Mixed mainly or solely with cotton,,
+,19D,kg,Mixed mainly or solely with wool or fine animal hair,,
+,29A,kg,Mixed mainly or solely with fibres other than,,
+,,,"cotton, wool or fine animal hair",,
+55.09,,,"Yarn (other than sewing thread) of synthetic staple fibres, not put up",,
+,,,for retail sale:,,
+,,,Containing 85% or more by weight of staple fibres of nylon or other,,
+,,,polyamides:,,
+5509.11.00,00B,kg,Single yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5509.12.00,00G,kg,Multiple (folded) or cabled yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Containing 85% or more by weight of polyester staple fibres:,,
+5509.21.00,00F,kg,Single yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5509.22.00,00L,kg,Multiple (folded) or cabled yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Containing 85% or more by weight of acrylic or modacrylic staple fibres:,,
+5509.31.00,00K,kg,Single yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5509.32.00,,,Multiple (folded) or cabled yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01B,kg,Mixed mainly or solely with wool,,
+,09H,kg,Other,,
+,,,"Other yarn, containing 85% or more by weight of synthetic staple fibres:",,
+5509.41.00,00C,kg,Single yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5509.42.00,00H,kg,Multiple (folded) or cabled yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Other yarn, of polyester staple fibres:",,
+5509.51.00,00G,kg,Mixed mainly or solely with artificial staple fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5509.52.00,00A,kg,Mixed mainly or solely with wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5509.53.00,00F,kg,Mixed mainly or solely with cotton,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5509.59.00,00C,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Yarn (other than sewing thread) of synthetic staple, etc.‚continued",,
+,,,"Other yarn, of acrylic or modacrylic staple fibres:",,
+5509.61.00,00L,kg,Mixed mainly or solely with wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5509.62.00,00E,kg,Mixed mainly or solely with cotton,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5509.69.00,00G,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other yarn:,,
+5509.91.00,00A,kg,Mixed mainly or solely with wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5509.92.00,00F,kg,Mixed mainly or solely with cotton,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5509.99.00,00H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+55.1,,,"Yarn (other than sewing thread) of artificial staple fibres, not put up",,
+,,,for retail sale:,,
+,,,Containing 85% or more by weight of artificial staple fibres:,,
+5510.11.00,00F,kg,Single yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5510.12.00,00L,kg,Multiple (folded) or cabled yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5510.20.00,00E,kg,"Other yarn, mixed mainly or solely with wool or fine animal hair",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5510.30.00,00J,kg,"Other yarn, mixed mainly or solely with cotton",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5510.90.00,00L,kg,Other yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+55.11,,,"Yarn (other than sewing thread) of man-made staple fibres, put up for",,
+,,,retail sale:,,
+5511.10.00,00K,kg,"Of synthetic staple fibres, containing 85% or more by weight of such",,
+,,,fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5511.20.00,00C,kg,"Of synthetic staple fibres, containing less than 85% by weight of such",,
+,,,fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5511.30.00,00G,kg,Of artificial staple fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+55.12,,,"Woven fabrics of synthetic staple fibres, containing 85% or more by",,
+,,,weight of synthetic staple fibres:,,
+,,,Containing 85% or more by weight of polyester staple fibres:,,
+5512.11.00,,,Unbleached or bleached,Free,Free
+,01L,kg,Tyrecord fabrics,,
+,11H,m2,Tickings,,
+,19C,m2,Other,,
+5512.19.00,,,Other,Free,Free
+,01G,kg,Tyrecord fabrics,,
+,11D,m2,Tickings,,
+,19K,m2,Other,,
+,,,Containing 85% or more by weight of acrylic or,,
+,,,modacrylic staple fibres:,,
+5512.21.00,,,Unbleached or bleached,Free,Free
+,01D,kg,Tyrecord fabrics,,
+,11A,m2,Tickings,,
+,19G,m2,Other,,
+5512.29.00,,,Other,Free,Free
+,01L,kg,Tyrecord fabrics,,
+,11H,m2,Tickings,,
+,19C,m2,Other,,
+,,,Other:,,
+5512.91.00,,,Unbleached or bleached,Free,Free
+,01K,kg,Tyrecord fabrics,,
+,11G,m2,Tickings,,
+,19B,m2,Other,,
+5512.99.00,,,Other,Free,Free
+,01F,kg,Tyrecord fabrics,,
+,11C,m2,Tickings,,
+,19J,m2,Other,,
+55.13,,,"Woven fabrics of synthetic staple fibres, containing less than 85% by",,
+,,,"weight of such fibres, mixed mainly or solely with cotton, of a weight",,
+,,,not exceeding 170 g/m2:,,
+,,,Unbleached or bleached:,,
+5513.11.00,00L,m2,"Of polyester staple fibres, plain weave",Free,Free
+5513.12.00,,,"3-thread or 4-thread twill, including cross twill, of polyester staple",,
+,,,fibres,Free,Free
+,01C,m2,Tickings,,
+,09J,m2,Other,,
+5513.13.00,,,Other woven fabrics of polyester staple fibres,Free,Free
+,01H,kg,Tyrecord fabrics,,
+,11E,m2,Tickings,,
+,19L,m2,Other,,
+5513.19.00,,,Other woven fabrics,Free,Free
+,01E,kg,Tyrecord fabrics,,
+,11B,m2,Tickings,,
+,19H,m2,Other,,
+,,,"Woven fabrics of synthetic staple fibres, containing, etc.‚continued",,
+,,,Dyed:,,
+5513.21.00,00D,m2,"Of polyester staple fibres, plain weave",Free,Free
+5513.23.00,,,Other woven fabrics of polyester staple fibres,Free,Free
+,,,"3-thread or 4-thread twill, including cross twill:",,
+,10L,m2,Tickings,,
+,17H,m2,Other,,
+,,,Other:,,
+,23B,kg,Tyrecord fabrics,,
+,27E,m2,Tickings,,
+,29A,m2,Other,,
+5513.29.00,,,Other woven fabrics,Free,Free
+,01J,kg,Tyrecord fabrics,,
+,11F,m2,Tickings,,
+,19A,m2,Other,,
+,,,Of yarns of different colours:,,
+5513.31.00,00H,m2,"Of polyester staple fibres, plain weave",Free,Free
+5513.39.00,,,Other woven fabrics,Free,Free
+,,,"3-thread or 4-thread twill, including cross twill, of polyester staple fibres:",,
+,10A,m2,Tickings,,
+,17J,m2,Other,,
+,,,Other woven fabrics of polyester staple fibres:,,
+,23C,kg,Tyrecord fabrics,,
+,27F,m2,Tickings,,
+,29B,m2,Other,,
+,,,Other:,,
+,31D,kg,Tyrecord fabrics,,
+,33L,m2,Tickings,,
+,39K,m2,Other,,
+,,,Printed:,,
+5513.41.00,00A,m2,"Of polyester staple fibres, plain weave",Free,Free
+5513.49.00,,,Other woven fabrics,Free,Free
+,,,"3-thread or 4-thread twill, including cross twill, of polyester staple fibres:",,
+,10E,m2,Tickings,,
+,17B,m2,Other,,
+,,,Other woven fabrics of polyester staple fibres:,,
+,23G,kg,Tyrecord fabrics,,
+,27K,m2,Tickings,,
+,29F,m2,Other,,
+,,,Other:,,
+,31H,kg,Tyrecord fabrics,,
+,33D,m2,Tickings,,
+,39C,m2,Other,,
+55.14,,,"Woven fabrics of synthetic staple fibres, containing less than 85% by",,
+,,,"weight of such fibres, mixed mainly or solely with cotton, of a weight",,
+,,,exceeding 170 g/m2:,,
+,,,Unbleached or bleached:,,
+5514.11.00,00J,m2,"Of polyester staple fibres, plain weave",Free,Free
+5514.12.00,,,"3-thread or 4-thread twill, including cross twill, of polyester staple",,
+,,,fibres,Free,Free
+,01A,m2,Tickings,,
+,09G,m2,Other,,
+5514.19.00,,,Other woven fabrics,Free,Free
+,,,Of polyester staple fibres:,,
+,10B,kg,Tyrecord fabrics,,
+,15C,m2,Tickings,,
+,21H,m2,Other,,
+,,,Other:,,
+,23D,kg,Tyrecord fabrics,,
+,27G,m2,Tickings,,
+,29C,m2,Other,,
+,,,Dyed:,,
+5514.21.00,00B,m2,"Of polyester staple fibres, plain weave",Free,Free
+5514.22.00,,,"3-thread or 4-thread twill, including cross twill, of polyester staple",,
+,,,fibres,Free,Free
+,01E,m2,Tickings,,
+,09L,m2,Other,,
+,,,"Woven fabrics of synthetic staple fibres, containing, etc.‚continued",,
+,,,Dyed‚continued,,
+5514.23.00,,,Other woven fabrics of polyester staple fibres,Free,Free
+,01K,kg,Tyrecord fabrics,,
+,11G,m2,Tickings,,
+,19B,m2,Other,,
+5514.29.00,,,Other woven fabrics,Free,Free
+,01G,kg,Tyrecord fabrics,,
+,11D,m2,Tickings,,
+,19K,m2,Other,,
+5514.30.00,,,Of yarns of different colours,Free,Free
+,10J,m2,"Of polyester staple fibres, plain weave",,
+,,,"3-thread or 4-thread twill, including cross twill, of polyester staple fibres:",,
+,15K,m2,Tickings,,
+,19B,m2,Other,,
+,,,Other woven fabrics of polyester staple fibres:,,
+,23L,kg,Tyrecord fabrics,,
+,27C,m2,Tickings,,
+,29K,m2,Other,,
+,,,Other woven fabrics:,,
+,33H,kg,Tyrecord fabrics,,
+,37L,m2,Tickings,,
+,39G,m2,Other,,
+,,,Printed:,,
+5514.41.00,00K,m2,"Of polyester staple fibres, plain weave",Free,Free
+5514.42.00,,,"3-thread or 4-thread twill, including cross twill, of polyester staple",,
+,,,fibres,Free,Free
+,01B,m2,Tickings,,
+,09H,m2,Other,,
+5514.43.00,,,Other woven fabrics of polyester staple fibres,Free,Free
+,01G,kg,Tyrecord fabrics,,
+,11D,m2,Tickings,,
+,19K,m2,Other,,
+5514.49.00,,,Other woven fabrics,Free,Free
+,01D,kg,Tyrecord fabrics,,
+,11A,m2,Tickings,,
+,19G,m2,Other,,
+55.15,,,Other woven fabrics of synthetic staple fibres:,,
+,,,Of polyester staple fibres:,,
+5515.11.00,,,Mixed mainly or solely with viscose rayon staple fibres,Free,Free
+,01E,kg,Tyrecord fabrics,,
+,11B,m2,Tickings,,
+,19H,m2,Other,,
+5515.12.00,,,Mixed mainly or solely with man-made filaments,Free,Free
+,01K,kg,Tyrecord fabrics,,
+,11G,m2,Tickings,,
+,19B,m2,Other,,
+5515.13,,,Mixed mainly or solely with wool or fine animal hair:,,
+5515.13.11,,,"Tyrecord fabrics, tickings and fabrics containing less than 33% by",,
+,,,weight of wool or fine animal hair or of a weight not exceeding,,
+,,,150 g/m2,Free,Free
+,01F,kg,Tyrecord fabrics,,
+,11C,m2,Tickings,,
+,19J,m2,Other,,
+5515.13.29,00D,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5515.19.00,,,Other,Free,Free
+,01A,kg,Tyrecord fabrics,,
+,11J,m2,Tickings,,
+,19D,m2,Other,,
+,,,Of acrylic or modacrylic staple fibres:,,
+5515.21.00,,,Mixed mainly or solely with man-made filaments,Free,Free
+,01J,kg,Tyrecord fabrics,,
+,11F,m2,Tickings,,
+,19A,m2,Other,,
+,,,Other woven fabrics of synthetic staple fibres‚continued,,
+,,,Of acrylic or modacrylic staple fibres‚continued,,
+5515.22,,,Mixed mainly or solely with wool or fine animal hair:,,
+5515.22.11,,,"Tyrecord fabrics, tickings and fabrics containing less than 33% by",,
+,,,weight of wool or fine animal hair or of a weight not exceeding,,
+,,,150 g/m2,Free,Free
+,01E,kg,Tyrecord fabrics,,
+,11B,m2,Tickings,,
+,19H,m2,Other,,
+5515.22.29,00C,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5515.29.00,,,Other,Free,Free
+,01E,kg,Tyrecord fabrics,,
+,11B,m2,Tickings,,
+,19H,m2,Other,,
+,,,Other woven fabrics:,,
+5515.91.00,,,Mixed mainly or solely with man-made filaments,Free,Free
+,01D,kg,Tyrecord fabrics,,
+,11A,m2,Tickings,,
+,19G,m2,Other,,
+5515.99,,,Other:,,
+,,,Mixed mainly or solely with wool or fine animal hair:,,
+5515.99.01,,,"Tyrecord fabrics, tickings and fabrics containing less than 33% by",,
+,,,weight of wool or fine animal hair or of a weight not exceeding,,
+,,,150 g/m2,Free,Free
+,10F,kg,Tyrecord fabrics,,
+,15G,m2,Tickings,,
+,19K,m2,Other,,
+5515.99.09,10G,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5515.99.19,,,Other,Free,Free
+,10B,kg,Tyrecord fabrics,,
+,15C,m2,Tickings,,
+,19F,m2,Other,,
+55.16,,,Woven fabrics of artificial staple fibres:,,
+,,,Containing 85% or more by weight of artificial staple fibres:,,
+5516.11.00,,,Unbleached or bleached,Free,Free
+,01C,kg,Tyrecord fabrics,,
+,09J,m2,Tickings,,
+,,,Other:,,
+,11L,m2,Linings,,
+,19F,m2,Other,,
+5516.12.00,,,Dyed,Free,Free
+,01H,kg,Tyrecord fabrics,,
+,09C,m2,Tickings,,
+,,,Other:,,
+,11E,m2,Linings,,
+,19L,m2,Other,,
+5516.13.00,,,Of yarns of different colours,Free,Free
+,01B,kg,Tyrecord fabrics,,
+,09H,m2,Tickings,,
+,,,Other:,,
+,11K,m2,Linings,,
+,19E,m2,Other,,
+5516.14.00,,,Printed,Free,Free
+,01G,kg,Tyrecord fabrics,,
+,09B,m2,Tickings,,
+,,,Other:,,
+,11D,m2,Linings,,
+,19K,m2,Other,,
+,,,"Containing less than 85% by weight of artificial staple fibres, mixed",,
+,,,mainly or solely with man-made filaments:,,
+,,,Woven fabrics of artificial staple fibres‚continued,,
+,,,"Containing less than 85% by weight of artificial staple, etc.‚continued",,
+5516.21.00,,,Unbleached or bleached,Free,Free
+,01G,kg,Tyrecord fabrics,,
+,09B,m2,Tickings,,
+,,,Other:,,
+,11D,m2,Linings,,
+,19K,m2,Other,,
+5516.22.00,,,Dyed,Free,Free
+,01A,kg,Tyrecord fabrics,,
+,09G,m2,Tickings,,
+,,,Other:,,
+,11J,m2,Linings,,
+,19D,m2,Other,,
+5516.23.00,,,Of yarns of different colours,Free,Free
+,01F,kg,Tyrecord fabrics,,
+,09A,m2,Tickings,,
+,,,Other:,,
+,11C,m2,Linings,,
+,19J,m2,Other,,
+5516.24.00,,,Printed,Free,Free
+,01L,kg,Tyrecord fabrics,,
+,09F,m2,Tickings,,
+,,,Other:,,
+,11H,m2,Linings,,
+,19C,m2,Other,,
+,,,"Containing less than 85% by weight of artificial staple fibres, mixed",,
+,,,mainly or solely with wool or fine animal hair:,,
+5516.31.00,,,Unbleached or bleached,Free,Free
+,01L,kg,Tyrecord fabrics,,
+,09F,m2,Tickings,,
+,,,Other:,,
+,11H,m2,Linings,,
+,19C,m2,Other,,
+5516.32.00,,,Dyed,Free,Free
+,01E,kg,Tyrecord fabrics,,
+,09L,m2,Tickings,,
+,,,Other:,,
+,11B,m2,Linings,,
+,19H,m2,Other,,
+5516.33.00,,,Of yarns of different colours,Free,Free
+,01K,kg,Tyrecord fabrics,,
+,09E,m2,Tickings,,
+,,,Other:,,
+,11G,m2,Linings,,
+,19B,m2,Other,,
+5516.34.00,,,Printed,Free,Free
+,01D,kg,Tyrecord fabrics,,
+,09K,m2,Tickings,,
+,,,Other:,,
+,11A,m2,Linings,,
+,19G,m2,Other,,
+,,,"Containing less than 85% by weight of artificial staple fibres, mixed",,
+,,,mainly or solely with cotton:,,
+5516.41.00,,,Unbleached or bleached,Free,Free
+,01D,kg,Tyrecord fabrics,,
+,09K,m2,Tickings,,
+,,,Other:,,
+,11A,m2,Linings,,
+,19G,m2,Other,,
+5516.42.00,,,Dyed,Free,Free
+,01J,kg,Tyrecord fabrics,,
+,09D,m2,Tickings,,
+,,,Other:,,
+,11F,m2,Linings,,
+,19A,m2,Other,,
+5516.43.00,,,Of yarns of different colours,Free,Free
+,01C,kg,Tyrecord fabrics,,
+,09J,m2,Tickings,,
+,,,Other:,,
+,11L,m2,Linings,,
+,19F,m2,Other,,
+,,,Woven fabrics of artificial staple fibres‚continued,,
+,,,"Containing less than 85% by weight of artificial staple, etc.‚continued",,
+5516.44.00,,,Printed,Free,Free
+,01H,kg,Tyrecord fabrics,,
+,09C,m2,Tickings,,
+,,,Other:,,
+,11E,m2,Linings,,
+,19L,m2,Other,,
+,,,Other:,,
+5516.91.00,,,Unbleached or bleached,Free,Free
+,01B,kg,Tyrecord fabrics,,
+,09H,m2,Tickings,,
+,,,Other:,,
+,11K,m2,Linings,,
+,19E,m2,Other,,
+5516.92.00,,,Dyed,Free,Free
+,01G,kg,Tyrecord fabrics,,
+,09B,m2,Tickings,,
+,,,Other:,,
+,11D,m2,Linings,,
+,19K,m2,Other,,
+5516.93.00,,,Of yarns of different colours,Free,Free
+,01A,kg,Tyrecord fabrics,,
+,09G,m2,Tickings,,
+,,,Other:,,
+,11J,m2,Linings,,
+,19D,m2,Other,,
+5516.94.00,,,Printed,Free,Free
+,01F,kg,Tyrecord fabrics,,
+,09A,m2,Tickings,,
+,,,Other:,,
+,11C,m2,Linings,,
+,19J,m2,Other,,
+56.01,,,"Wadding of textile materials and articles thereof; textile fibres, not",,
+,,,"exceeding 5 mm in length (flock), textile dust and mill neps:",,
+,,,Wadding of textile materials and articles thereof:,,
+5601.21.00,00G,.,Of cotton,Free,Free
+5601.22.00,00A,.,Of man-made fibres,Free,Free
+5601.29.00,00C,.,Other,Free,Free
+5601.30.00,00F,.,Textile flock and dust and mill neps,Free,Free
+56.02,,,"Felt, whether or not impregnated, coated, covered or laminated:",,
+5602.10.00,,,Needleloom felt and stitch-bonded fibre fabrics,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,.,Needleloom,,
+,09L,.,Other,,
+,,,"Other felt, not impregnated, coated, covered or laminated:",,
+5602.21.00,00E,.,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5602.29.00,,,Of other textile materials,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01K,., Floor-covering underlay,,
+,09E,., Other,,
+5602.90.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01D,.,Floor-covering underlay,,
+,09K,.,Other,,
+56.03,,,"Nonwovens, whether or not impregnated, coated, covered or",,
+,,,laminated:,,
+,,,Of man-made filaments:,,
+5603.11.00,,,Weighing not more than 25 g/m2,5,Free
+,,,,,*See Below
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01H,m2, Linings,,
+,09C,m2, Other,,
+5603.12.00,,,Weighing more than 25 g/m2 but not more than 70 g/m2,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,m2, Linings,,
+,09H,m2, Other,,
+5603.13.00,,,Weighing more than 70 g/m2 but not more than 150 g/m2,5,Free
+,,,,,*See Below
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01G,m2, Linings,,
+,09B,m2, Other,,
+5603.14.00,,,Weighing more than 150 g/m2,5,Free
+,,,,,*See Below
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01A,m2, Linings,,
+,09G,m2, Other,,
+,,,"Nonwovens, whether or not impregnated, coated, etc.‚continued",,
+,,,Other:,,
+5603.91.00,,,Weighing not more than 25 g/m2,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01G,m2, Linings,,
+,09B,m2, Other,,
+5603.92.00,,,Weighing more than 25 g/m2 but not more than 70 g/m2,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01A,m2, Linings,,
+,09G,m2, Other,,
+5603.93.00,,,Weighing more than 70 g/m2 but not more than 150 g/m2,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01F,m2, Linings,,
+,09A,m2, Other,,
+5603.94.00,,,Weighing more than 150 g/m2,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01L,m2, Linings,,
+,09F,m2, Other,,
+56.04,,,"Rubber thread and cord, textile covered; textile yarn, and strip and",,
+,,,"the like of heading 54.04 or 54.05, impregnated, coated, covered or",,
+,,,sheathed with rubber or plastics:,,
+5604.10.00,00C,.,"Rubber thread and cord, textile covered",5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5604.9,,,Other:,,
+,,,"High tenacity yarn of polyesters, of nylon or other polyamides or of",,
+,,,"viscose rayon, impregnated or coated:",,
+5604.90.01,00J,kg,Imitation catgut,Free,Free
+,,,Other:,,
+5604.90.09,00K,kg,Unvulcanised high tenacity yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5604.90.19,00E,.,Other,5,Free
+,,,,,*See Below
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5604.90.29,00L,kg,Other,Free,Free
+56.05,,,,,
+5605.00.00,,,"Metallised yarn, whether or not gimped, being textile yarn, or strip or",,
+,,,"the like of heading 54.04 or 54.05, combined with metal in the form of",,
+,,,"thread, strip or powder or covered with metal",Free,Free
+,01F,kg,Electric fencing yarn,,
+,09A,kg,Other,,
+56.06,,,,,
+5606,,,"Gimped yarn, and strip and the like of heading 54.04 or 54.05, gimped",,
+,,,(other than those of heading 56.05 and gimped horsehair yarn);,,
+,,,chenille yarn (including flock chenille yarn); loop wale-yarn:,,
+5606.00.01,,,Loop wale-yarn,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01L,.,Of wool or fine animal hair,,
+,09F,.,Cotton,,
+,11H,.,Synthetic fibres,,
+,19C,.,Artificial fibres,,
+,29L,.,Other,,
+5606.00.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01A,.,Gimped yarn of or containing elastomeric polyurethane fibres,,
+,09G,.,Other,,
+56.07,,,"Twine, cordage, ropes and cables, whether or not plaited or braided",,
+,,,"and whether or not impregnated, coated, covered or sheathed with",,
+,,,rubber or plastics:,,
+,,,Of sisal or other textile fibres of the genus Agave:,,
+5607.21.01,00B,kg,Binder or baler twine,Free,Free
+5607.29.01,00J,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Of polyethylene or polypropylene:,,
+5607.41.01,00K,kg,Binder or baler twine,Free,Free
+5607.49.01,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01D,kg,Of polyethylene,,
+,09K,kg,Of polypropylene,,
+5607.5,,,Of other synthetic fibres:,,
+5607.50.01,00J,kg,Binder or baler twine,Free,Free
+5607.50.11,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01B,kg,Nylon,,
+,09H,kg,Polyester,,
+,19E,kg,Other,,
+5607.9,,,Other:,,
+5607.90.01,,,Binder or baler twine,Free,Free
+,11J,kg,Of abaca (Manilla hemp or Musa textilis Nee) or other hard (leaf),,
+,,,fibres,,
+,15A,kg,Of jute or other textile bast fibres of heading 53.03,,
+,19D,kg,Other,,
+5607.90.11,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,11D,kg,Of abaca (Manilla hemp or Musa textilis Nee) or other hard (leaf),,
+,,,fibres,,
+,15G,kg,Of jute or other textile bast fibres of heading 53.03,,
+,19K,kg,Other,,
+56.08,,,"Knotted netting of twine, cordage or rope; made up fishing nets and",,
+,,,"other made up nets, of textile materials:",,
+,,,Of man-made textile materials:,,
+5608.11.00,00L,.,Made up fishing nets,Free,Free
+5608.19.00,00G,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5608.9,,,Other:,,
+5608.90.01,00A,.,Fishing nets,Free,Free
+5608.90.09,00B,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+56.09,,,,,
+5609.00.00,00L,.,"Articles of yarn, strip or the like of heading 54.04 or 54.05, twine,",,
+,,,"cordage, rope or cables, not elsewhere specified or included",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+57.01,,,"Carpets and other textile floor coverings, knotted, whether or not",,
+,,,made up:,,
+5701.1,,,Of wool or fine animal hair:,,
+5701.10.01,,,Of pile construction containing 80 % or more by weight of wool in the,,
+,,,pile,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,02H,m2, Handmade,,
+,,,Other:,,
+,11G,m2,Exceeding 4 m2,,
+,19B,m2,Other,,
+5701.10.09,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,02J,m2, Handmade,,
+,,,Other:,,
+,11H,m2,Exceeding 4 m2,,
+,19C,m2,Other,,
+5701.90.00,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,02L,m2,Handmade,,
+,,,Other:,,
+,11K,m2,Exceeding 4 m2,,
+,19E,m2, Other,,
+57.02,,,"Carpets and other textile floor coverings, woven, not tufted or flocked,",,
+,,,"whether or not made up, including ‚ÄúKelem‚Äù, ‚ÄúSchumacks‚Äù,",,
+,,,‚ÄúKaramanie‚Äù and similar hand-woven rugs:,,
+5702.10.00,,,"‚ÄúKelem‚Äù, ‚ÄúSchumacks‚Äù, ‚ÄúKaramanie‚Äù and similar hand-woven rugs",10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01A,No.,Containing 80 % or more by weight of wool in the pile,,
+,09G,No.,Other,,
+5702.2,,,Floor coverings of coconut fibres (coir):,,
+5702.20.01,00C,m2,Mats and matting,Free,Free
+5702.20.09,00D,m2,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Other, of pile construction, not made up:",,
+5702.31,,,Of wool or fine animal hair:,,
+5702.31.01,,,Containing 80 % or more by weight of wool in the pile,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01K,m2,Exceeding 4 m2,,
+,09E,m2,Other,,
+5702.31.09,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01L,m2,Exceeding 4 m2,,
+,09F,m2,Other,,
+5702.32.00,,,Of man-made textile materials,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01H,m2,Exceeding 4 m2,,
+,09C,m2, Other,,
+5702.39.00,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,02H,m2,Exceeding 4 m2,,
+,19B,m2, Other,,
+,,,"Carpets and other textile floor coverings, woven, etc.‚continued",,
+,,,"Other, of pile construction, made up:",,
+5702.41,,,Of wool or fine animal hair:,,
+,,,"Carpets, cut, fabricated or moulded to shape, for use in the",,
+,,,assembly of motor vehicles as may be determined by,,
+,,,the Minister in accordance with Section 14 of this Act:,,
+5702.41.01,00E,.,Containing 80 % or more by weight of wool in the pile,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+5702.41.09,00F,.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other:,,
+5702.41.11,,,Containing 80 % or more by weight of wool in the pile,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01J,m2,Exceeding 4 m2,,
+,09D,m2, Other,,
+5702.41.19,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01K,m2,Exceeding 4 m2,,
+,09E,m2, Other,,
+5702.42,,,Of man-made textile materials:,,
+5702.42.01,00K,.,"Carpets, cut, fabricated or moulded to shape, for use in the assembly",,
+,,,of motor vehicles as may be determined by the Minister in,,
+,,,accordance with Section 14 of this Act,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+5702.42.09,00L,m2,Bath mats of terry towelling and the like,Free,Free
+5702.42.19,,,Other,10,Free
+,,,,,*See Below
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01D,m2,Exceeding 4 m2,,
+,09K,m2,Other,,
+5702.49,,,Of other textile materials:,,
+5702.49.01,00A,.,"Carpets, cut, fabricated or moulded to shape, for use in the assembly",,
+,,,of motor vehicles as may be determined by the Minister in,,
+,,,accordance with Section 14 of this Act,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+5702.49.09,00B,m2,Bath mats of terry towelling and the like,Free,Free
+5702.49.19,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01F,m2,Exceeding 4 m2,,
+,09A,m2,Other,,
+5702.5,,,"Other, not of pile construction, not made up:",,
+,,,Of wool or fine animal hair:,,
+5702.50.01,,,Containing 80% or more by weight of wool,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10A,m2,Exceeding 4 m2,,
+,19E,m2,Other,,
+,,,"Carpets and other textile floor coverings, woven, etc.‚continued",,
+,,,"Other, not of pile construction, not made up‚continued",,
+,,,Of wool or fine animal hair‚continued,,
+5702.50.09,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10B,m2,Exceeding 4 m2,,
+,19F,m2,Other,,
+5702.50.19,,,Of man-made textile materials,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10H,m2,Exceeding 4 m2,,
+,19A,m2, Other,,
+5702.50.29,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,10C,m2,Exceeding 4 m2,,
+,19G,m2, Other,,
+,,,"Other, not of pile construction, made up:",,
+5702.91,,,Of wool or fine animal hair:,,
+,,,"Carpets, cut, fabricated or moulded to shape, for use in the assembly",,
+,,,of motor vehicles as may be determined by the Minister in,,
+,,,accordance with Section 14 of this Act:,,
+5702.91.01,00C,.,Containing 80 % or more by weight of wool,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+5702.91.09,00D,.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,Other:,,
+5702.91.11,,,Containing 80 % or more by weight of wool,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01G,m2,Exceeding 4 m2,,
+,09B,m2, Other,,
+5702.91.19,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01H,m2,Exceeding 4 m2,,
+,09C,m2, Other,,
+5702.92,,,Of man-made textile materials:,,
+5702.92.01,00H,.,"Carpets, cut, fabricated or moulded to shape, for use in the assembly",,
+,,,of motor vehicles as may be determined by the Minister in,,
+,,,accordance with Section 14 of this Act,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 10
+,,,,,1/2025 10
+5702.92.09,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01G,m2,Exceeding 4 m2,,
+,09B,m2,Other,,
+5702.99,,,Of other textile materials:,,
+5702.99.01,00K,.,"Carpets, cut, fabricated or moulded to shape, for use in the assembly",,
+,,,of motor vehicles as may be determined by the Minister in,,
+,,,accordance with Section 14 of this Act,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Carpets and other textile floor coverings, woven, etc.‚continued",,
+,,,"Other, not of pile construction, made up‚continued",,
+,,,Of other textile materials‚continued,,
+5702.99.09,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01J,m2,Exceeding 4 m2,,
+,09D,m2,Other,,
+57.03,,,"Carpet and other textile floor coverings (including turf), tufted,",,
+,,,whether or not made up:,,
+5703.1,,,Of wool or fine animal hair:,,
+,,,"Carpets cut, fabricated or moulded to shape, for use in the assembly of",,
+,,,motor vehicles as may be determined by the Minister in accordance,,
+,,,with Section 14 of this Act:,,
+5703.10.01,00H,.,Containing 80 % or more by weight of wool in the pile,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 10
+,,,,,1/2025 10
+5703.10.09,00J,m2,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other:,,
+5703.10.11,,,"Of pile construction, containing 80 % or more by weight of wool in",,
+,,,the pile,10,Free
+,,,,,*See Below
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01A,m2,Exceeding 4 m2,,
+,09G,m2,Other,,
+5703.10.19,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01B,m2,Exceeding 4 m2,,
+,09H,m2,Other,,
+,,,Of nylon or other polyamides:,,
+5703.21.00,00K,m2,Turf,10,Free
+,,,,,*See Below
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+5703.29,,,Other:,,
+5703.29.01,00B,.,"Carpets, cut, fabricated or moulded to shape, for use in the assembly",,
+,,,of motor vehicles as may be determined by the Minister in accordance,,
+,,,with Section 14 of this Act,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+5703.29.09,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,10L,m2,Exceeding 4 m2,,
+,,,Other:,,
+,20H,m2, Carpet tiles,,
+,30E,m2, Other,,
+,,,Of other man-made textile materials:,,
+5703.31.00,00C,m2,Turf,10,Free
+,,,,,*See Below
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,"Carpet and other textile floor coverings (including, etc.‚continued",,
+,,,Of other man-made textile materials‚continued,,
+5703.39,,,Other:,,
+5703.39.01,00F,.,"Carpets, cut, fabricated or moulded to shape, for use in the assembly",,
+,,,of motor vehicles as may be determined by the Minister in accordance,,
+,,,with Section 14 of this Act,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+5703.39.09,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 7
+,,,,,1/2025 6
+,10D,m2,Exceeding 4 m2,,
+,20A,m2,Other:,,
+5703.9,,,Of other textile materials:,,
+5703.90.01,00G,.,"Carpets, cut, fabricated or moulded to shape, for use in the assembly of",,
+,,,motor vehicles as may be determined by the Minister in accordance,,
+,,,with Section 14 of this Act,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+5703.90.09,,,Other,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01F,m2,Exceeding 4 m2,,
+,09A,m2, Other,,
+57.04,,,"Carpets and other textile floor coverings, of felt, not tufted or flocked,",,
+,,,whether or not made up:,,
+5704.10.00,00K,.,"Tiles, having a maximum surface area of 0.3 m2",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5704.20.00,,.,"Tiles, having a maximum surface area exceeding 0.3 m2 but not",,
+,,,exceeding 1 m2,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10L,.,In the piece,,
+,19D,.,Other,,
+5704.9,,,Other:,,
+5704.90.01,,,In the piece,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01C,.,Numdah rugs,,
+,19F,., Other,,
+5704.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,.,Handmade:,,
+,02B,.,Numdah rugs,,
+,08A,.,Other,,
+,29D,., Other,,
+57.05,,,,,
+5705.00.00,00D,m2,"Other carpets and other textile floor coverings, whether or not",,
+,,,made up,10,Free
+,,,,,*See Below
+,,,,,RCEP 10
+,,,,,1/2025 10
+58.01,,,"Woven pile fabrics and chenille fabrics, other than fabrics of heading",,
+,,,58.02 or 58.06:,,
+5801.10.00,00A,m2,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Of cotton:,,
+5801.21.00,00K,m2,Uncut weft pile fabrics,Free,Free
+5801.22.00,,,Cut corduroy,Free,Free
+,01B,m2,Containing man-made staple fibres and weighing more than 186 g/m2,,
+,09H,m2, Other,,
+5801.23.00,,,Other weft pile fabrics,Free,Free
+,01G,m2,Containing man-made staple fibres and weighing more than 186 g/m2,,
+,09B,m2, Other,,
+5801.26.00,,, Chenille fabrics,Free,Free
+,01L,m2,Containing man-made staple fibres and weighing more than 186 g/m2,,
+,09F,m2, Other,,
+5801.27.00,,,Warp pile fabrics,Free,Free
+,,, √âpingl√© (uncut):,,
+,10D,m2,Containing man-made staple fibres and weighing more than 186 g/m2,,
+,15E,m2,Other,,
+,,, Cut:,,
+,19H,m2,Containing man-made staple fibres and weighing more than 186 g/m2,,
+,29E,m2,Other,,
+,,,Of man-made fibres:,,
+5801.31.00,,,Uncut weft pile fabrics,Free,Free
+,01A,m2,Synthetic fibres,,
+,09G,m2, Other,,
+5801.32.00,,,Cut corduroy,Free,Free
+,01F,m2,Synthetic fibres,,
+,09A,m2, Other,,
+5801.33.00,,,Other weft pile fabrics,Free,Free
+,01L,m2,Synthetic fibres,,
+,09F,m2, Other,,
+5801.36.00,,,Chenille fabrics,Free,Free
+,01D,m2,Synthetic fibres,,
+,09K,m2, Other,,
+5801.37.00,,,Warp pile fabrics,Free,Free
+,,, √âpingl√© (uncut):,,
+,10H,m2,Synthetic fibres,,
+,15J,m2,Other,,
+,,, Cut:,,
+,19A,m2,Synthetic fibres,,
+,29J,m2,Other,,
+5801.90.00,00L,m2,Of other textile materials,Free,Free
+58.02,,,"Terry towelling and similar woven terry fabrics, other than narrow",,
+,,,"fabrics of heading 58.06; tufted textile fabrics, other than products of",,
+,,,heading 57.03:,,
+5802.10.00,,,"Terry towelling and similar woven terry fabrics, of cotton",Free,Free
+,10G,m2,Unbleached,,
+,20D,m2,Other,,
+5802.20.00,00C,m2,"Terry towelling and similar woven terry fabrics, of other textile materials",Free,Free
+5802.3,,,Tufted textile fabrics:,,
+5802.30.01,00C,m2,With a base of woven fabrics or nonwovens,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5802.30.15,,,With a base of knitted or crocheted fabric,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,m2,Wool or fine animal hair,,
+,11K,m2, Cotton,,
+,21G,m2,Synthetic fibres,,
+,31D,m2,Artificial fibres,,
+,39K,m2,.Other,,
+,,,"Terry towelling and similar woven terry fabrics, etc.‚continued",,
+,,,Tufted textile fabrics‚continued,,
+,,,Other:,,
+5802.30.31,00K,m2,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5802.30.39,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01J,m2,Felt,,
+,,,Other:,,
+,11F,m2, Of cotton,,
+,19A,m2, Other,,
+58.03,,,,,
+5803.00.00,,,"Gauze, other than narrow fabrics of heading 58.06",Free,Free
+,10A,m2, Of cotton,,
+,19E,m2, Of other textile materials,,
+58.04,,,"Tulles and other net fabrics, not including woven, knitted or crocheted",,
+,,,"fabrics; lace in the piece, in strips or in motifs, other than fabrics of",,
+,,,headings 60.02 to 60.06:,,
+5804.10.00,00F,.,Tulles and other net fabrics,Free,Free
+,,,Mechanically made lace:,,
+5804.21.00,00D,.,Of man-made fibres,Free,Free
+5804.29.00,00L,.,Of other textile materials,Free,Free
+5804.30.00,00C,.,Hand-made lace,Free,Free
+58.05,,,,,
+5805.00.00,00L,.,"Hand-woven tapestries of the type Gobelins, Flanders, Aubusson,",,
+,,,"Beauvais and the like, and needle-worked tapestries (for example,",,
+,,,"petit point, cross stitch), whether or not made up",Free,Free
+58.06,,,"Narrow woven fabrics, other than goods of heading 58.07; narrow",,
+,,,fabrics consisting of warp without weft assembled by means of an,,
+,,,adhesive (bolducs):,,
+5806.1,,,Woven pile fabrics (including terry towelling and similar terry fabrics),,
+,,,and chenille fabrics:,,
+5806.10.02,,,Towelling and terry fabrics,Free,Free
+,01C,., Blended polyester/cotton woven huckaback roller towelling,,
+,09J,., Other,,
+5806.10.19,00E,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5806.2,,,"Other woven fabrics, containing by weight 5 % or more of elastomeric",,
+,,,yarn or rubber thread:,,
+5806.20.01,00B,.,Fabrics containing elastomeric fibres,Free,Free
+5806.20.09,00C,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other woven fabrics:,,
+5806.31.00,00D,.,Of cotton,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5806.32.00,00J,.,Of man-made fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Narrow woven fabrics, other than goods of heading, etc.‚continued",,
+,,,Other woven fabrics‚continued,,
+5806.39.00,00L,.,Of other textile materials,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5806.40.00,00C,.,Fabrics consisting of warp without weft assembled by means of an,,
+,,,adhesive (bolducs),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+58.07,,,"Labels, badges and similar articles of textile materials, in the piece, in",,
+,,,"strips or cut to shape or size, not embroidered:",,
+5807.10.00,00L,.,Woven,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5807.90.00,00K,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+58.08,,,"Braids in the piece; ornamental trimmings in the piece, without",,
+,,,"embroidery, other than knitted or crocheted; tassels, pompons and",,
+,,,similar articles:,,
+5808.1,,,Braids in the piece:,,
+5808.10.01,00E,.,Braided surgical suture non-absorbable thread; sterile umbilical tape,Free,Free
+5808.10.09,00F,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+5808.90.00,00H,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+58.09,,,,,
+5809.00.00,00C,m2,Woven fabrics of metal thread and woven fabrics of metallised yarn of,,
+,,,"heading 56.05, of a kind used in apparel, as furnishing fabrics or for",,
+,,,"similar purposes, not elsewhere specified or included",Free,Free
+58.1,,,"Embroidery in the piece, in strips or in motifs:",,
+5810.10.00,00L,.,Embroidery without visible ground,Free,Free
+,,,Other embroidery:,,
+5810.91.00,00D,.,Of cotton,Free,Free
+5810.92.00,00J,.,Of man-made fibres,Free,Free
+5810.99.00,00L,.,Of other textile materials,Free,Free
+58.11,,,,,
+5811,,,"Quilted textile products in the piece, composed of one or more layers",,
+,,,"of textile materials assembled with padding by stitching or otherwise,",,
+,,,other than embroidery of heading 58.10:,,
+5811.00.01,10J,m2,Of silk,Free,Free
+5811.00.09,00B,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+59.01,,,"Textile fabrics coated with gum or amylaceous substances, of a kind",,
+,,,used for the outer covers of books or the like; tracing cloth; prepared,,
+,,,painting canvas; buckram and similar stiffened textile fabrics of a,,
+,,,kind used for hat foundations:,,
+5901.10.00,00H,m2,"Textile fabrics coated with gum or amylaceous substances, of a kind",,
+,,,used for the outer covers of books or the like,Free,Free
+5901.90.00,00G,m2,Other,Free,Free
+59.02,,,"Tyre cord fabric of high tenacity yarn of nylon or other polyamides,",,
+,,,polyesters or viscose rayon:,,
+5902.10.00,00F,m2,Of nylon or other polyamides,Free,Free
+5902.20.00,00K,m2,Of polyesters,Free,Free
+5902.90.00,00E,m2,Other,Free,Free
+59.03,,,"Textile fabrics impregnated, coated, covered or laminated with",,
+,,,"plastics, other than those of heading 59.02:",,
+5903.10.00,,,With poly(vinyl chloride),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Printed, embossed or otherwise surface-worked:",,
+,01B,m2, Impregnated or coated,,
+,09H,m2, Covered or laminated,,
+,,,Other:,,
+,11K,m2, Impregnated or coated,,
+,19E,m2, Covered or laminated,,
+5903.20.00,,,With polyurethane,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Printed, embossed or otherwise surface-worked:",,
+,01F,m2, Impregnated or coated,,
+,09A,m2, Covered or laminated,,
+,,,Other:,,
+,11C,m2, Impregnated or coated,,
+,19J,m2, Covered or laminated,,
+5903.9,,,Other:,,
+5903.90.01,00K,m2,Tailors‚Äô fusible interlinings,Free,Free
+5903.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,," Printed, embossed or otherwise surface-worked:",,
+,01J,m2,Coated with foam or cellular plastics,,
+,,,Other:,,
+,11F,m2, Impregnated or coated,,
+,19A,m2, Covered or laminated,,
+,29J,m2, Other,,
+59.04,,,"Linoleum, whether or not cut to shape; floor coverings consisting of a",,
+,,,"coating or covering applied on a textile backing, whether or not cut to",,
+,,,shape:,,
+5904.10.00,00B,m2,Linoleum,5,Free
+,,,,,*See Below
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5904.90.00,,,Other,5,Free
+,,,,,*See Below
+,11G,m2,With a base consisting of needleloom felt or nonwovens,,
+,19B,m2,With other textile base,,
+59.05,,,,,
+5905.00.00,00G,kg,Textile wall coverings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+59.06,,,"Rubberised textile fabrics, other than those of heading 59.02:",,
+5906.10.00,00J,m2,Adhesive tape of a width not exceeding 20 cm,Free,Free
+,,,Other:,,
+5906.91,,,Knitted or crocheted:,,
+5906.91.01,00J,m2,Elastic,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+5906.91.18,,,Other,Free,Free
+,01G,m2,Rubberised waterproof,,
+,09B,m2,Other,,
+5906.99.00,,,Other,Free,Free
+,01G,m2, Of wool or fine animal hair,,
+,11D,m2, Narrow woven fabrics as defined in Note 5 to Chapter 58 and narrow,,
+,,,fabrics (bolduc) consisting of warp without weft assembled by means,,
+,,,of an adhesive,,
+,19K,m2, Other,,
+59.07,,,,,
+5907,,,"Textile fabrics otherwise impregnated, coated or covered; painted",,
+,,,"canvas being theatrical scenery, studio back-cloths or the like:",,
+5907.00.01,00K,m2,Textile fabrics coated or impregnated with oil or preparations with a,,
+,,,basis of drying oil,Free,Free
+,,,"Textile fabrics otherwise impregnated, coated or covered:",,
+5907.00.11,00E,.,Electrical insulation tape,Free,Free
+5907.00.19,00F,.,Typewriter and similar ribbon,Free,Free
+5907.00.29,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,01K,., 100 % nylon electrostatically flocked velour with woven backing,,
+,09E,., Other,,
+5907.00.39,00G,.,"Painted canvas being theatrical scenery, studio back-cloths or the like",Free,Free
+59.08,,,,,
+5908.00.00,00A,.,"Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters,",,
+,,,candles or the like; incandescent gas mantles and tubular knitted gas,,
+,,,"mantle fabric therefor, whether or not impregnated",Free,Free
+59.09,,,,,
+5909,,,"Textile hosepiping and similar textile tubing, with or without lining,",,
+,,,armour or accessories of other materials:,,
+5909.00.01,00F,.,With couplings or other fittings attached,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5909.00.09,00G,.,Other,Free,Free
+59.1,,,,,
+5910.00.00,10L,.,"Transmission or conveyor belts or belting, of textile material,",,
+,,,"whether or not impregnated, coated, covered or laminated with",,
+,,,"plastics, or reinforced with metal or other material",Free,Free
+59.11,,,"Textile products and articles, for technical uses, specified in Note 8 to",,
+,,,this Chapter:,,
+5911.10.00,,,"Textile fabrics, felt and felt-lined woven fabrics, coated, covered or",,
+,,,"laminated with rubber, leather or other material, of a kind used for card",,
+,,,"clothing, and similar fabrics of a kind used for other technical purposes,",,
+,,,"including narrow fabrics made of velvet impregnated with rubber, for",,
+,,,covering weaving spindles (weaving beams),Free,Free
+,01C,.,Velvet impregnated with rubber,,
+,09J,.,Other,,
+5911.20.00,00J,m2,"Bolting cloth, whether or not made up",Free,Free
+,,,"Textile products and articles, for technical uses, etc.‚continued",,
+,,,"Textile fabrics and felts, endless or fitted with linking devices, of a kind",,
+,,,"used in paper-making or similar machines (for example, for pulp or",,
+,,,asbestos-cement):,,
+5911.31.00,,,Weighing less than 650 g/m2,Free,Free
+,01E,., Woven textile felts of a kind commonly used in paper-making,,
+,09L,., Felts of a kind commonly used in asbestos-cement making machines,,
+,19H,., Other,,
+5911.32.00,,,Weighing 650 g/m2 or more,Free,Free
+,01K,., Woven textile felts of a kind commonly used in paper-making,,
+,09E,., Felts of a kind commonly used in asbestos-cement making machines,,
+,19B,., Other,,
+5911.40.00,00F,.,"Filtering or straining cloth of a kind used in oil presses or the like,",,
+,,,including that of human hair,Free,Free
+5911.9,,,Other:,,
+5911.90.01,00L,.,Industrial textile filters,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+5911.90.09,00A,.,Other,Free,Free
+60.01,,,"Pile fabrics, including ‚Äúlong pile‚Äù fabrics and terry fabrics, knitted",,
+,,,or crocheted:,,
+6001.1,,,‚ÄúLong pile‚Äù fabrics:,,
+6001.10.01,00B,m2,"Impregnated, coated, covered or laminated",Free,Free
+,,,Other:,,
+6001.10.11,,,Stitch-bonded,Free,Free
+,01F,m2,Wool or fine animal hair,,
+,09A,m2,Cotton,,
+,11C,m2,Synthetic fibres,,
+,19J,m2,Artificial fibres,,
+,29F,m2,Other,,
+,,,Other:,,
+6001.10.25,00J,m2,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6001.10.35,,,Of man-made fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01B,m2, Synthetic fibres,,
+,09H,m2, Artificial fibres,,
+6001.10.45,00K,m2,Of cotton,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6001.10.59,00L,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Looped pile fabrics:,,
+6001.21,,,Of cotton:,,
+6001.21.01,00L,m2,Stitch-bonded,Free,Free
+6001.21.09,00A,m2,"Impregnated, coated, covered or laminated",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6001.21.29,00B,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6001.22,,,Of man-made fibres:,,
+6001.22.01,00E,m2,Stitch-bonded,Free,Free
+6001.22.09,00F,m2,"Impregnated, coated, covered or laminated",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+ÔÉò 6001.22.29,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,m2,Synthetic fibres,,
+,09L,m2,Artificial fibres,,
+6001.29,,,Of other textile materials:,,
+6001.29.01,,,Stitch-bonded,Free,Free
+,01E,m2,Wool or fine animal hair,,
+,09L,m2,Other,,
+,,,"Pile fabrics, including ‚Äúlong pile‚Äù fabrics and terry, etc.‚continued",,
+,,,Looped pile fabrics‚continued,,
+6001.91,,,Of other textile materials‚continued,,
+6001.29.09,00H,m2,"Impregnated, coated, covered or laminated",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+6001.29.21,00H,m2,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6001.29.29,00J,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+6001.91,,,Of cotton:,,
+6001.91.01,00F,m2,Stitch-bonded,Free,Free
+6001.91.09,00G,m2,"Impregnated, coated, covered or laminated",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6001.91.29,00H,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6001.92,,,Of man-made fibres:,,
+6001.92.01,,,Stitch-bonded,Free,Free
+,01J,m2,Synthetic fibres,,
+,09D,m2,Artificial fibres,,
+6001.92.09,00A,m2,"Impregnated, coated, covered or laminated",5,Free
+,,,,,*See Below
+,,,,,CA Free
+6001.92.29,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01L,m2,Synthetic fibres,,
+,09F,m2,Artificial fibres,,
+6001.99,,,Of other textile materials:,,
+6001.99.01,,,Stitch-bonded,Free,Free
+,01L,m2,Wool or fine animal hair,,
+,09F,m2,Other,,
+6001.99.09,00C,m2,"Impregnated, coated, covered or laminated",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+6001.99.21,00C,m2,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6001.99.29,00D,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+60.02,,,"Knitted or crocheted fabrics of a width not exceeding 30 cm,",,
+,,,containing by weight 5 % or more of elastomeric yarn or rubber,,
+,,,"thread, other than those of heading 60.01:",,
+6002.4,,,Containing by weight 5 % or more of elastomeric yarn but not,,
+,,,containing rubber thread:,,
+6002.40.11,,,Stitch-bonded,Free,Free
+,10D,m2, Wool or fine animal hair,,
+,21K,m2, Cotton,,
+,23F,m2, Synthetic fibres,,
+,25B,m2, Artificial fibres,,
+,29E,m2, Other,,
+6002.40.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10E,m2, Wool or fine animal hair,,
+,21L,m2, Cotton,,
+,23G,m2, Synthetic fibres,,
+,25C,m2, Artificial fibres,,
+,29F,m2, Other,,
+6002.9,,,Other:,,
+6002.90.11,,,Stitch-bonded,Free,Free
+,10B,m2, Wool or fine animal hair,,
+,21H,m2, Cotton,,
+,23D,m2, Synthetic fibres,,
+,25L,m2, Artificial fibres,,
+,29C,m2, Other,,
+,,,Other:,,
+6002.90.21,10H,m2,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6002.90.23,,,Of man-made fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10L,m2,Synthetic fibres,,
+,29A,m2,Artificial fibres,,
+6002.90.25,10C,m2,Of cotton,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6002.90.29,10J,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+60.03,,,"Knitted or crocheted fabrics of a width not exceeding 30 cm, other",,
+,,,than those of heading 60.01 or 60.02:,,
+6003.1,,,Of wool or fine animal hair:,,
+6003.10.11,10A,m2,Stitch-bonded,Free,Free
+6003.10.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10B,m2, Felted,,
+,29C,m2, Other,,
+6003.2,,,Of cotton:,,
+6003.20.11,10E,m2,Stitch-bonded,Free,Free
+,,,"Knitted or crocheted fabrics of a width not exceeding, etc.‚continued",,
+,,,Of cotton‚continued,,
+6003.20.19,10F,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6003.3,,,Of synthetic fibres:,,
+6003.30.11,10J,m2,Stitch-bonded,Free,Free
+6003.30.19,10K,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6003.4,,,Of artificial fibres:,,
+6003.40.11,10B,m2,Stitch-bonded,Free,Free
+6003.40.19,10C,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6003.9,,,Other:,,
+6003.90.11,10L,m2,Stitch-bonded,Free,Free
+6003.90.19,10A,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+60.04,,,"Knitted or crocheted fabrics of a width exceeding 30 cm, containing",,
+,,,"by weight 5 % or more of elastomeric yarn or rubber thread, other",,
+,,,than those of heading 60.01:,,
+6004.1,,,Containing by weight 5 % or more of elastomeric yarn but not,,
+,,,containing rubber thread:,,
+6004.10.11,,,Stitch-bonded,Free,Free
+,11H,m2, Wool or fine animal hair,,
+,13D,m2, Cotton,,
+,15L,m2, Synthetic fibres,,
+,17G,m2, Artificial fibres,,
+,19C,m2, Other,,
+6004.10.17,,,Of wool or fine animal hair; of cotton; of man-made fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,11F,m2, Wool or fine animal hair,,
+,13B,m2, Cotton,,
+,15J,m2, Synthetic fibres,,
+,19A,m2, Artificial fibres,,
+6004.10.19,00C,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6004.9,,,Other:,,
+6004.90.11,,,Stitch-bonded,Free,Free
+,11G,m2, Wool or fine animal hair,,
+,13C,m2, Cotton,,
+,15K,m2, Synthetic fibres,,
+,17F,m2, Artificial fibres,,
+,19B,m2, Other,,
+,,,Other:,,
+6004.90.13,00D,m2,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Knitted or crocheted fabrics of a width exceeding, etc.‚continued",,
+,,,Other‚continued,,
+,,,Other‚continued,,
+6004.90.15,,,Of man-made fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,11B,m2,Synthetic fibres,,
+,19H,m2,Artificial fibres,,
+6004.90.17,00K,m2,Of cotton,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6004.90.19,00B,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+60.05,,,Warp knit fabrics (including those made on galloon knitting,,
+,,,"machines), other than those of headings 60.01 to 60.04:",,
+,,,Of cotton:,,
+6005.21,,,Unbleached or bleached:,,
+6005.21.11,00J,m2,Stitch-bonded,Free,Free
+6005.21.19,00K,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6005.22,,,Dyed:,,
+6005.22.11,00C,m2,Stitch-bonded,Free,Free
+6005.22.19,00D,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6005.23,,,Of yarns of different colours:,,
+6005.23.11,00H,m2,Stitch-bonded,Free,Free
+6005.23.19,00J,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6005.24,,,Printed:,,
+6005.24.11,00B,m2,Stitch-bonded,Free,Free
+6005.24.19,00C,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of synthetic fibres:,,
+6005.35,,,Fabrics specified in Subheading Note 1 to this Chapter:,,
+6005.35.10,00D,m2,Stitch-bonded,Free,Free
+6005.35.19,00A,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6005.36,,,"Other, unbleached or bleached:",,
+6005.36.10,00J,m2,Stitch-bonded,Free,Free
+6005.36.19,00F,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6005.37,,,"Other, dyed:",,
+6005.37.10,00C,m2,Stitch-bonded,Free,Free
+,,,"Warp knit fabrics (including those made on galloon, etc.‚continued",,
+,,,Of synthetic fibres‚continued,,
+,,,"Other, dyed‚continued",,
+6005.37.19,00L,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6005.38,,,"Other, of yarns of different colours:",,
+6005.38.10,00H,m2,Stitch-bonded,Free,Free
+6005.38.19,00E,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6005.39,,,"Other, printed:",,
+6005.39.10,00B,m2,Stitch-bonded,Free,Free
+6005.39.19,00K,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of artificial fibres:,,
+6005.41,,,Unbleached or bleached:,,
+6005.41.11,00F,m2,Stitch-bonded,Free,Free
+6005.41.19,00G,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6005.42,,,Dyed:,,
+6005.42.11,00L,m2,Stitch-bonded,Free,Free
+6005.42.19,00A,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6005.43,,,Of yarns of different colours:,,
+6005.43.11,00E,m2,Stitch-bonded,Free,Free
+6005.43.19,00F,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6005.44,,,Printed:,,
+6005.44.11,00K,m2,Stitch-bonded,Free,Free
+6005.44.19,00L,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6005.9,,,Other:,,
+6005.90.15,,,Stitch-bonded,Free,Free
+,10B,m2, Of wool or fine animal hair,,
+,19F,m2, Other,,
+,,,Other:,,
+6005.90.21,,,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10B,m2,Felted,,
+,19F,m2,Other,,
+6005.90.29,00F,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+60.06,,,Other knitted or crocheted fabrics:,,
+6006.1,,,Of wool or fine animal hair:,,
+6006.10.11,00J,m2,Stitch-bonded,Free,Free
+6006.10.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,11E,m2, Felted,,
+,19L,m2, Other,,
+,,,Of cotton:,,
+6006.21,,,Unbleached or bleached:,,
+6006.21.11,00G,m2,For meat wrapping,Free,Free
+6006.21.15,00B,m2,Stitch-bonded,Free,Free
+6006.21.19,00H,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6006.22,,,Dyed:,,
+6006.22.11,00A,m2,For meat wrapping,Free,Free
+6006.22.15,00G,m2,Stitch-bonded,Free,Free
+6006.22.19,00B,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6006.23,,,Of yarns of different colours:,,
+6006.23.11,00F,m2,For meat wrapping,Free,Free
+6006.23.15,00A,m2,Stitch-bonded,Free,Free
+6006.23.19,00G,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6006.24,,,Printed:,,
+6006.24.11,00L,m2,For meat wrapping,Free,Free
+6006.24.15,00F,m2,Stitch-bonded,Free,Free
+6006.24.19,00A,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Of synthetic fibres:,,
+6006.31,,,Unbleached or bleached:,,
+6006.31.11,00L,m2,Stitch-bonded,Free,Free
+6006.31.19,00A,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6006.32,,,Dyed:,,
+6006.32.11,00E,m2,Stitch-bonded,Free,Free
+6006.32.19,00F,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6006.33,,,Of yarns of different colours:,,
+6006.33.11,00K,m2,Stitch-bonded,Free,Free
+6006.33.19,00L,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other knitted or crocheted fabrics‚continued,,
+,,,Of synthetic fibres‚continued,,
+6006.34,,,Printed:,,
+6006.34.11,00D,m2,Stitch-bonded,Free,Free
+6006.34.19,00E,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of artificial fibres:,,
+6006.41,,,Unbleached or bleached:,,
+6006.41.11,00D,m2,Stitch-bonded,Free,Free
+6006.41.19,00E,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6006.42,,,Dyed:,,
+6006.42.11,00J,m2,Stitch-bonded,Free,Free
+6006.42.19,00K,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6006.43,,,Of yarns of different colours:,,
+6006.43.11,00C,m2,Stitch-bonded,Free,Free
+6006.43.19,00D,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6006.44,,,Printed:,,
+6006.44.11,00H,m2,Stitch-bonded,Free,Free
+6006.44.19,00J,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6006.9,,,Other:,,
+6006.90.11,00H,m2,Stitch-bonded,Free,Free
+6006.90.19,00J,m2,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+61.01,,,"Men‚Äôs or boys‚Äô overcoats, car-coats, capes, cloaks, anoraks (including",,
+,,,"ski-jackets), wind-cheaters, wind-jackets and similar articles, knitted",,
+,,,"or crocheted, other than those of heading 61.03:",,
+6101.2,,,Of cotton:,,
+6101.20.02,00J,No.,Overcoats,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6101.20.22,00K,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6101.3,,,Of man-made fibres:,,
+6101.30.02,00B,No.,Overcoats,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6101.30.22,00C,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6101.90.00,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,Of wool or fine animal hair:,,
+,10J,No., Overcoats,,
+,15K,No., Other,,
+,,,Other:,,
+,19B,No., Overcoats,,
+,29K,No., Other,,
+61.02,,,"Women‚Äôs or girls‚Äô overcoats, car-coats, capes, cloaks, anoraks",,
+,,,"(including ski-jackets), wind-cheaters, wind-jackets and similar",,
+,,,"articles, knitted or crocheted, other than those of heading 61.04:",,
+6102.1,,,Of wool or fine animal hair:,,
+6102.10.02,00C,No.,Overcoats,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6102.10.22,00D,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6102.2,,,Of cotton:,,
+6102.20.02,00G,No.,Overcoats,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6102.20.22,00H,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6102.3,,,Of man-made fibres:,,
+6102.30.02,00L,No.,Overcoats,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,"Women‚Äôs or girls‚Äô overcoats, car-coats, capes, etc.‚continued",,
+,,,Of man-made fibres‚continued,,
+6102.30.22,00A,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6102.90.00,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,01H,No.,Overcoats,,
+,09C,No.,Other,,
+61.03,,,"Men‚Äôs or boys‚Äô suits, ensembles, jackets, blazers, trousers, bib and",,
+,,,"brace overalls, breeches and shorts (other than swimwear), knitted or",,
+,,,crocheted:,,
+6103.10.00,,,Suits,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10F,No.,Of wool or fine animal hair,,
+,19K,No.,Of synthetic fibres,,
+,29G,No.,Of other textile materials,,
+,,,Ensembles:,,
+6103.22.00,00A,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6103.23.00,00F,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6103.29.00,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10L,No.,Of wool or fine animal hair,,
+,19D,No., Other,,
+,,,Jackets and blazers:,,
+6103.31.00,00L,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6103.32.02,00H,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6103.33.02,00B,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6103.39.02,00K,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,"Men‚Äôs or boys‚Äô suits, ensembles, jackets, blazers, etc.‚continued",,
+,,,"Trousers, bib and brace overalls, breeches and shorts:",,
+6103.41.00,,,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,11K,No., Trousers and breeches,,
+,14D,No., Shorts,,
+,19E,No., Other,,
+6103.42,,,Of cotton:,,
+6103.42.02,,,"Trousers, breeches and shorts",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01K,No.,Trousers and breeches,,
+,08G,No.,Shorts,,
+6103.42.12,00G,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6103.43,,,Of synthetic fibres:,,
+6103.43.02,,,"Trousers, breeches and shorts",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,01D,No.,Trousers and breeches,,
+,07C,No.,Shorts,,
+6103.43.18,00K,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6103.49,,,Of other textile materials:,,
+6103.49.02,,,"Trousers, breeches and shorts",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,01A,No.,Trousers and breeches,,
+,03H,No.,Shorts,,
+6103.49.12,00J,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+61.04,,,"Women‚Äôs or girls‚Äô suits, ensembles, jackets, blazers, dresses, skirts,",,
+,,,"divided skirts, trousers, bib and brace overalls, breeches and shorts",,
+,,,"(other than swimwear), knitted or crocheted:",,
+,,,Suits:,,
+6104.13.02,00C,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6104.19.02,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10H,No.,Of wool or fine animal hair,,
+,19A,No., Of cotton,,
+,29J,No., Other,,
+,,,"Women‚Äôs or girls‚Äô suits, ensembles, jackets, blazers, etc.‚continued",,
+,,,Ensembles:,,
+6104.22.02,00B,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6104.23.02,00G,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6104.29.02,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10A,No.,Of wool or fine animal hair,,
+,19E,No., Other,,
+,,,Jackets and blazers:,,
+6104.31.02,00A,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6104.32.02,00F,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6104.33.02,00L,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6104.39.02,00H,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,Dresses:,,
+6104.41.02,00E,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6104.42.02,00K,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6104.43.02,00D,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6104.44.02,00J,No.,Of artificial fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6104.49.02,00A,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Women‚Äôs or girls‚Äô suits, ensembles, jackets, blazers, etc.‚continued",,
+,,,Skirts and divided skirts:,,
+6104.51.02,00J,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6104.52.02,00C,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6104.53.02,00H,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6104.59.02,00E,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Trousers, bib and brace overalls, breeches and shorts:",,
+6104.61.02,,,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,12F,No., Trousers and breeches,,
+,14B,No., Shorts,,
+,19C,No., Other,,
+6104.62.02,,,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10D,No., Trousers and breeches,,
+,15E,No., Shorts,,
+,19H,No., Other,,
+6104.63.02,,,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,11G,No., Trousers and breeches,,
+,17F,No., Shorts,,
+,19B,No., Other,,
+6104.69.02,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,11D,No., Trousers and breeches,,
+,15G,No., Shorts,,
+,19K,No., Other,,
+61.05,,,"Men‚Äôs or boys‚Äô shirts, knitted or crocheted:",,
+6105.1,,,Of cotton:,,
+6105.10.02,00H,No.,Of sizes not exceeding 81 cm chest measurement,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6105.10.12,00C,No.,Other sizes,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Men‚Äôs or boys‚Äô shirts, knitted or crocheted‚continued",,
+6105.2,,,Of man-made fibres:,,
+6105.20.02,00A,No.,Of sizes not exceeding 81 cm chest measurement,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6105.20.12,00G,No.,Other sizes,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6105.9,,,Of other textile materials:,,
+6105.90.02,00G,No.,Of sizes not exceeding 81 cm chest measurement,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6105.90.12,00B,No.,Other sizes,10,Free
+,,,,,*See Below
+,,,,,CA Free
+61.06,,,"Women‚Äôs or girls‚Äô blouses, shirts and shirt-blouses, knitted or",,
+,,,crocheted:,,
+6106.1,,,Of cotton:,,
+6106.10.02,00F,No.,Blouses,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6106.10.12,00A,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6106.2,,,Of man-made fibres:,,
+6106.20.02,00K,No.,Blouses,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6106.20.12,00E,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+6106.9,,,Of other textile materials:,,
+6106.90.02,00E,No.,Blouses,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6106.90.12,00L,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+61.07,,,"Men‚Äôs or boys‚Äô underpants, briefs, nightshirts, pyjamas, bathrobes,",,
+,,,"dressing gowns and similar articles, knitted or crocheted:",,
+,,,Underpants and briefs:,,
+6107.11.02,00J,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6107.12.02,00C,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,"Men‚Äôs or boys‚Äô underpants, briefs, nightshirts, etc‚continued",,
+,,,Underpants and briefs‚continued,,
+6107.19.00,00B,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,Nightshirts and pyjamas:,,
+6107.21.02,00B,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6107.22.00,00D,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6107.29.00,00F,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other:,,
+6107.91.02,00H,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6107.99.02,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,10A,No.,Of man-made fibres,,
+,19E,No., Other,,
+61.08,,,"Women‚Äôs or girls‚Äô slips, petticoats, briefs, panties, nightdresses,",,
+,,,"pyjamas, negligees, bathrobes,  dressing gowns and similar articles,",,
+,,,knitted or crocheted:,,
+,,,Slips and petticoats:,,
+6108.11.02,00G,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6108.19.00,00L,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,Briefs and panties:,,
+6108.21.02,10H,No., Of cotton,10,Free
+,,,,,*CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6108.22.02,10B,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6108.29.02,10D,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Nightdresses and pyjamas:,,
+6108.31.02,00D,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,"Women‚Äôs or girls‚Äô slips, petticoats, briefs, panties, etc.‚continued",,
+,,,Nightdresses and pyjamas‚continued,,
+6108.32.02,00J,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6108.39.00,00H,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other:,,
+6108.91.02,00F,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6108.92.02,00L,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6108.99.02,00B,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+61.09,,,"T-shirts, singlets and other vests, knitted or crocheted:",,
+6109.1,,,Of cotton:,,
+,,,T-shirts:,,
+6109.10.02,00L,No.,Of sizes not exceeding 81 cm chest measurement,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6109.10.12,00F,No.,Other sizes,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6109.10.22,00A,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6109.9,,,Of other textile materials:,,
+,,,T-shirts:,,
+6109.90.02,00K,No.,Of sizes not exceeding 81 cm chest measurement,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6109.90.12,00E,No.,Other sizes,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+6109.90.22,00L,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+61.1,,,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted",,
+,,,or crocheted:,,
+,,,Of wool or fine animal hair:,,
+6110.11.02,,,Of wool,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,11D,No., Sweatshirts,,
+,19K,No., Other,,
+6110.12.02,,,Of Kashmir (cashmere) goats,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,11J,No., Sweatshirts,,
+,19D,No., Other,,
+6110.19.02,,,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,11L,No., Sweatshirts,,
+,19F,No., Other,,
+6110.20.02,,,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,01F,No.,Sweatshirts,,
+,09A,No.,Other,,
+6110.30.02,,,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,01K,No.,Sweatshirts,,
+,09E,No.,Other,,
+6110.90.02,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,01A,No.,Sweatshirts,,
+,09G,No.,Other,,
+61.11,,,"Babies‚Äô garments and clothing accessories, knitted or crocheted:",,
+6111.2,,,Of cotton:,,
+6111.20.01,00K,pr,"Socks, ankle-socks and the like",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6111.20.22,,,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,01E,No., Cardigans,,
+,05H,No., Dresses or gowns,,
+,11B,No., Nightgowns or pyjamas,,
+,15E,No., Overalls,,
+,21K,No., Shawls,,
+,25B,No., Shirts,,
+,31G,No., Swimwear,,
+,35K,No., Trousers or shorts,,
+,41D,No., Bibs and feeders,,
+,51A,No., Pilches,,
+,69D,No., Other,,
+,,,"Babies‚Äô garments and clothing accessories, knitted, etc.‚continued",,
+6111.3,,,Of synthetic fibres:,,
+6111.30.01,00C,pr,"Socks, ankle-socks and the like",10,Free
+,,,,,*See Below
+,,,,,CA Free
+6111.30.22,,,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,01J,No., Cardigans,,
+,05A,No., Dresses or gowns,,
+,11F,No., Nightgowns or pyjamas,,
+,15J,No., Overalls,,
+,21C,No., Shawls,,
+,25F,No., Shirts,,
+,31L,No., Swimwear,,
+,35C,No., Trousers or shorts,,
+,41H,No., Bibs and feeders,,
+,51E,No., Pilches,,
+,69H,No., Other,,
+6111.9,,,Of other textile materials:,,
+6111.90.01,,,"Socks, ankle-socks and the like",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10B,pr,Of wool or fine animal hair,,
+,19F,pr, Other,,
+6111.90.22,,,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,Of wool or fine animal hair:,,
+,10K,No.,Cardigans,,
+,13D,No.,Dresses or gowns,,
+,17G,No.,Nightgowns or pyjamas,,
+,19C,No.,Overalls,,
+,23A,No.,Shawls,,
+,27D,No.,Shirts,,
+,29L,No.,Swimwear,,
+,33J,No.,Trousers or shorts,,
+,37A,No.,Bibs and feeders,,
+,39H,No.,Pilches,,
+,44D,No.,Other,,
+,,, Other:,,
+,45B,No.,Cardigans,,
+,47J,No.,Dresses or gowns,,
+,53C,No.,Nightgowns or pyjamas,,
+,55K,No.,Overalls,,
+,57F,No.,Shawls,,
+,61D,No.,Shirts,,
+,63L,No.,Swimwear,,
+,65G,No.,Trousers or shorts,,
+,67C,No.,Bibs and feeders,,
+,69K,No.,Pilches,,
+,89D,No.,Other,,
+61.12,,,"Track suits, ski suits and swimwear, knitted or crocheted:",,
+,,,Track suits:,,
+6112.11.02,,,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,01C,No., Men‚Äôs and boys‚Äô,,
+,09J,No., Women‚Äôs and girls‚Äô,,
+6112.12.02,,,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01H,No., Men‚Äôs and boys‚Äô,,
+,09C,No., Women‚Äôs and girls‚Äô,,
+,,,"Track suits, ski suits and swimwear, knitted, etc.‚continued",,
+,,,Track suits‚continued,,
+6112.19.02,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,01K,No., Men‚Äôs and boys‚Äô,,
+,09E,No., Women‚Äôs and girls‚Äô,,
+6112.20.00,00A,No.,Ski suits,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Men‚Äôs or boys‚Äô swimwear:,,
+6112.31.02,00B,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6112.39.02,00J,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,Women‚Äôs or girls‚Äô swimwear:,,
+6112.41.02,00F,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6112.49.02,00B,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+61.13,,,,,
+6113.00.00,,,"Garments, made up of knitted or crocheted fabrics of heading 59.03,",,
+,,,59.06 or 59.07,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,," Garments, made up of knitted or crocheted rubberised fabric:",,
+,01L,No.,Pilches,,
+,10K,.,Other,,
+,29L,No., Other,,
+61.14,,,"Other garments, knitted or crocheted:",,
+6114.20.02,00L,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6114.30.02,00D,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6114.90.02,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,10C,No.,Of wool or fine animal hair,,
+,19G,No.,Other,,
+61.15,,,"Panty hose, tights, stockings, socks and other hosiery, including",,
+,,,"graduated compression hosiery (for example, stockings for varicose",,
+,,,"veins) and footwear without applied soles, knitted or crocheted:",,
+6115.1,,,"Graduated compression hosiery (for example, stockings for varicose",,
+,,,veins):,,
+6115.10.01,00J,No.,Panty hose and tights:,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,"Women‚Äôs full-length or knee-length hosiery, measuring per single yarn",,
+,,,less than 67 decitex:,,
+6115.10.05,00D,.,Elastic stockings,Free,Free
+,,,Other:,,
+,,,Full-length stockings:,,
+6115.10.09,00K,pr,‚ÄìWholly or principally of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6115.10.15,00K,pr,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6115.10.19,00E,pr,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other:,,
+6115.10.59,,,Women‚Äôs and girls‚Äô,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,10D,pr,Of wool or fine animal hair,,
+,15E,pr,Of cotton,,
+,19H,pr,Of synthetic fibres,,
+,29E,pr,Of other textile materials,,
+,,,Men‚Äôs and boys‚Äô:,,
+6115.10.69,,,Half and three-quarter socks,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,10K,pr,Of wool or fine animal hair,,
+,15L,pr, Of cotton,,
+,19C,pr,Of synthetic fibres,,
+,29L,pr, Of other textile materials,,
+6115.10.79,,,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,10E,pr,Of wool or fine animal hair,,
+,15F,pr, Of cotton,,
+,19J,pr,Of synthetic fibres,,
+,29F,pr, Of other textile materials,,
+,,,Other panty hose and tights:,,
+6115.21.00,00L,No.,"Of synthetic fibres, measuring per single yarn less than 67 decitex",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6115.22.00,00E,No.,"Of synthetic fibres, measuring per single yarn 67 decitex or more",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,"Panty hose, tights, stockings, socks and other, etc.‚continued",,
+,,,Other panty hose and tights‚continued,,
+6115.29.00,00G,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6115.3,,,"Other women‚Äôs full-length or knee-length hosiery, measuring per single",,
+,,,yarn less than 67 decitex:,,
+6115.30.01,00F,.,Elastic stockings,Free,Free
+,,,Other:,,
+,,,Full-length stockings:,,
+6115.30.09,00G,pr,Wholly or principally of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6115.30.19,00B,pr,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6115.30.29,00H,pr,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other:,,
+6115.94,,,Of wool or fine animal hair:,,
+6115.94.01,00F,pr,Footwear without applied soles,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other:,,
+6115.94.09,00G,pr,Women‚Äôs and girls‚Äô,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Men‚Äôs and boys‚Äô:,,
+6115.94.19,00B,pr,Half and three-quarter socks,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6115.94.29,00H,pr,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6115.95,,,Of cotton:,,
+6115.95.01,00L,pr,Footwear without applied soles,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other:,,
+6115.95.09,00A,pr,Women‚Äôs and girls‚Äô,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,Men‚Äôs and boys‚Äô:,,
+6115.95.19,00G,pr,Half and three-quarter socks,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,"Panty hose, tights, stockings, socks and other, etc.‚continued",,
+,,,Other‚continued,,
+,,,Of cotton‚continued,,
+,,,Other‚continued,,
+,,,Men‚Äôs and boys‚Äô‚continued,,
+6115.95.29,00B,pr,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6115.96,,,Of synthetic fibres:,,
+6115.96.01,00E,pr,Footwear without applied soles,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,Other:,,
+6115.96.09,00F,pr,Women‚Äôs and girls‚Äô,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,Men‚Äôs and boys‚Äô:,,
+6115.96.19,00A,pr,Half and three-quarter socks,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6115.96.29,00G,pr,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6115.99,,,Of other textile materials:,,
+6115.99.02,10B,pr,Footwear without applied soles,10,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other:,,
+6115.99.12,10H,pr,Women‚Äôs and girls‚Äô,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Men‚Äôs and boys‚Äô:,,
+6115.99.21,10G,pr,Half and three-quarter socks,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6115.99.29,10H,pr,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+61.16,,,"Gloves, mittens and mitts, knitted or crocheted:",,
+6116.1,,,"Impregnated, coated, covered or laminated with plastics or rubber:",,
+6116.10.05,,,Laminated with plastic or rubber,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Of wool or fine animal hair:,,
+,10K,pr,Work gloves,,
+,12F,pr,Other,,
+,,, Of cotton:,,
+,20G,pr,Work gloves,,
+,22C,pr,Other,,
+,,,Of synthetic fibres:,,
+,30D,pr,Work gloves,,
+,32L,pr,Other,,
+,,, Of other textile materials:,,
+,40A,pr,Work gloves,,
+,42H,pr,Other,,
+,,,Other:,,
+6116.10.10,,,Gloves,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10C,pr,Work gloves,,
+,12K,pr,Other,,
+,,,Other:,,
+6116.10.20,,,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10J,pr, Work mitts and mittens,,
+,12E,pr, Other,,
+6116.10.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of cotton:,,
+,10G,pr, Work mitts and mittens,,
+,12C,pr, Other,,
+,,,Of synthetic fibres:,,
+,20D,pr, Work mitts and mittens,,
+,22L,pr, Other,,
+,,,Of other textile materials:,,
+,30A,pr, Work mitts and mittens,,
+,32H,pr, Other,,
+,,,Other,,
+6116.91.00,,,Of wool or fine animal hair,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10A,pr, Work gloves,,
+,12H,pr, Other,,
+,,,"Gloves, mittens and mitts, knitted or crocheted‚continued",,
+,,,Other‚continued,,
+6116.92.00,,,Of cotton,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,CPT Free,
+,,,,RCEP 4,
+,,,,1/2025 3.7,
+,10F,pr, Work gloves,,
+,12B,pr, Other,,
+6116.93.00,,,Of synthetic fibres,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,CPT Free,
+,,,,RCEP 3.5,
+,,,,1/2025 3,
+,10L,pr, Work gloves,,
+,12G,pr, Other,,
+6116.99.00,,,Of other textile materials,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,CPT Free,
+,,,,RCEP 4,
+,,,,1/2025 3.7,
+,10H,pr, Work gloves,,
+,12D,pr, Other,,
+61.17,,,"Other made up clothing accessories, knitted or crocheted; knitted or",,
+,,,crocheted parts of garments or of clothing accessories:,,
+6117.10.00,00J,.,"Shawls, scarves, mufflers, mantillas, veils and the like",10 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,CPT Free,
+,,,,RCEP 7,
+,,,,1/2025 6,
+6117.8,,,Other accessories:,,
+6117.80.02,00G,.,"Ties, bow ties and cravats",10 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,RCEP 7,
+,,,,1/2025 6,
+,,,Other:,,
+6117.80.05,00F,.,Rubberised,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,RCEP 3.5,
+,,,,1/2025 3,
+6117.80.15,00A,.,Elastic,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,RCEP 4,
+,,,,1/2025 3.7,
+6117.80.19,,,Other,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,RCEP 5,
+,,,,1/2025 5,
+,10D,pr,Shoulder pads,,
+,19H,.,Other,,
+6117.90.00,00H,.,Parts,The rate applicable,
+,,,,to the finished article,
+,,,,for which the part has,
+,,,,been designed,
+,,,,AAN Free,
+,,,,TW Free,
+62.01,,,"Men‚Äôs or boys‚Äô overcoats, car-coats, capes, cloaks, anoraks (including",,
+,,,"ski-jackets), wind-cheaters, wind-jackets and similar articles, other",,
+,,,than those of heading 62.03:,,
+6201.2,,,Of wool or fine animal hair:,,
+6201.20.10,00H,No.,"Overcoats, rain-coats, car-coats, capes, cloaks and similar articles:",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6201.20.20,00C,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6201.3,,,Of cotton:,,
+6201.30.10,00A,No.,"Overcoats, rain-coats, car-coats, capes, cloaks and similar articles:",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6201.30.20,00G,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6201.4,,,Of man-made fibres:,,
+6201.40.10,00E,No.,"Overcoats, rain-coats, car-coats, capes, cloaks and similar articles:",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6201.40.20,00L,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6201.9,,No.,Of other textile materials:,,
+6201.90.10,00C,No.,"Overcoats, rain-coats, car-coats, capes, cloaks and similar articles:",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6201.90.20,00J,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+62.02,,,"Women‚Äôs or girls‚Äô overcoats, car-coats, capes, cloaks, anoraks",,
+,,,"(including ski-jackets), wind-cheaters, wind-jackets and similar",,
+,,,"articles, other than those of heading 62.04:",,
+6202.2,,,Of wool or fine animal hair:,,
+6202.20.10,00F,No.,"Overcoats, rain-coats, car-coats, capes, cloaks and similar articles:",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6202.20.20,00A,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,"Women‚Äôs or girls‚Äô overcoats, car-coats, capes, etc.‚continued",,
+6202.3,,,Of cotton:,,
+6202.30.10,00K,No.,"Overcoats, rain-coats, car-coats, capes, cloaks and similar articles:",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6202.30.20,00E,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6202.4,,No.,Of man-made fibres:,,
+6202.40.10,00C,No.,"Overcoats, rain-coats, car-coats, capes, cloaks and similar articles:",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6202.40.20,00J,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6202.9,,No.,Of other textile materials:,,
+6202.90.10,00A,No.,"Overcoats, rain-coats, car-coats, capes, cloaks and similar articles:",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6202.90.20,00G,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+62.03,,,"Men‚Äôs or boys‚Äô suits, ensembles, jackets, blazers, trousers, bib and",,
+,,,"brace overalls, breeches and shorts (other than swimwear):",,
+,,,Suits:,,
+6203.11.02,00B,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6203.12.02,00G,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6203.19.02,00J,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,Ensembles:,,
+6203.22.02,00L,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6203.23.02,00E,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Men‚Äôs or boys‚Äô suits, ensembles, jackets, blazers, etc.‚continued",,
+,,,Ensembles‚continued,,
+6203.29.02,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10K,No.,Of wool or fine animal hair,,
+,19C,No., Other,,
+,,,Jackets and blazers:,,
+6203.31.02,00K,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6203.32.02,00D,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6203.33.02,00J,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6203.39.02,00F,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Trousers, bib and brace overalls, breeches and shorts:",,
+6203.41.02,,,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,01A,No., Trousers and breeches,,
+,07L,No., Shorts,,
+,09G,No., Other,,
+6203.42.02,,,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,01F,No., Jeans,,
+,03B,No., Trousers and breeches,,
+,06G,No., Shorts,,
+,09A,No., Other,,
+6203.43.02,,,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,01L,No., Trousers and breeches,,
+,05C,No., Shorts,,
+,09F,No., Other,,
+6203.49.02,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,01H,No., Trousers and breeches,,
+,05L,No., Shorts,,
+,09C,No., Other,,
+62.04,,,"Women‚Äôs or girls‚Äô suits, ensembles, jackets, blazers, dresses, skirts,",,
+,,,"divided skirts, trousers, bib and brace overalls, breeches and shorts",,
+,,,(other than swimwear):,,
+,,,Suits:,,
+6204.11.00,00H,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6204.12.00,00B,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6204.13.00,00G,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6204.19.00,00D,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,Ensembles:,,
+6204.21.00,00A,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6204.22.00,00F,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6204.23.00,00L,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6204.29.00,00H,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,Jackets and blazers:,,
+6204.31.00,00E,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6204.32.02,00B,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6204.33.02,00G,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,"Women‚Äôs or girls‚Äô suits, ensembles, jackets, blazers, etc.‚continued",,
+,,,Jackets and blazers‚continued,,
+6204.39.00,00A,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,,,Dresses:,,
+6204.41.00,00J,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6204.42.00,00C,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6204.43.00,00H,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6204.44.00,00B,No.,Of artificial fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6204.49.00,00E,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,Skirts and divided skirts:,,
+6204.51.00,00B,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6204.52.02,00K,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6204.53.02,00D,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6204.59.02,00A,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Women‚Äôs or girls‚Äô suits, ensembles, jackets, blazers, etc.‚continued",,
+,,,"Trousers, bib and brace overalls, breeches and shorts:",,
+6204.61,,,Of wool or fine animal hair:,,
+6204.61.02,,,"Trousers, breeches, shorts and jeans",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,11D,No.,Trousers and breeches,,
+,14J,No.,Shorts,,
+,19K,No.,Other,,
+6204.61.19,00J,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6204.62,,,Of cotton:,,
+6204.62.02,,,"Trousers, breeches, shorts and jeans",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,01A,No.,Jeans,,
+,05D,No.,Trousers and breeches,,
+,07L,No.,Shorts,,
+,09G,No.,Other,,
+6204.62.19,00C,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6204.63,,,Of synthetic fibres:,,
+6204.63.02,,,"Trousers, breeches, shorts and jeans",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,01F,No.,Trousers and breeches,,
+,03B,No.,Shorts,,
+,09A,No.,Other,,
+6204.63.19,00H,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6204.69,,,Of other textile materials:,,
+6204.69.02,,,"Trousers, breeches, shorts and jeans",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,01C,No.,Trousers and breeches,,
+,03K,No.,Shorts,,
+,09J,No.,Other,,
+6204.69.19,00E,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+62.05,,,Men‚Äôs or boys‚Äô shirts:,,
+6205.2,,,Of cotton:,,
+6205.20.02,00H,No.,Of sizes not exceeding 81 cm chest measurement,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6205.20.12,00C,No.,Other sizes,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6205.3,,,Of man-made fibres:,,
+6205.30.02,00A,No.,Of sizes not exceeding 81 cm chest measurement,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6205.30.12,00G,No.,Other sizes,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6205.9,,,Of other textile materials:,,
+6205.90.02,,,Of sizes not exceeding 81 cm chest measurement,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,10L,No.,Of wool or fine animal hair,,
+,19D,No., Other,,
+6205.90.12,,,Other sizes,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10F,No.,Of wool or fine animal hair,,
+,19K,No., Other,,
+62.06,,,"Women‚Äôs or girls‚Äô blouses, shirts and shirt-blouses:",,
+6206.1,,,Of silk or silk waste:,,
+6206.10.02,00B,No.,Blouses,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6206.10.12,00H,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6206.2,,,Of wool or fine animal hair:,,
+6206.20.02,00F,No.,Blouses,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6206.20.08,00D,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Women‚Äôs or girls‚Äô blouses, shirts and shirt-blouses‚continued",,
+6206.3,,,Of cotton:,,
+6206.30.02,00K,No.,Blouses,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6206.30.12,00E,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6206.4,,,Of man-made fibres:,,
+6206.40.02,00C,No.,Blouses,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6206.40.12,00J,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6206.9,,,Of other textile materials:,,
+6206.90.02,00A,No.,Blouses,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6206.90.12,00G,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+62.07,,,"Men‚Äôs or boys‚Äô singlets and other vests, underpants, briefs, nightshirts,",,
+,,,"pyjamas, bathrobes, dressing gowns and similar articles:",,
+,,,Underpants and briefs:,,
+6207.11.02,00E,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6207.19.02,00A,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Nightshirts and pyjamas:,,
+6207.21.02,00J,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6207.22.02,00C,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6207.29.00,00B,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Men‚Äôs or boys‚Äô singlets and other vests, underpants, etc.‚continued",,
+,,,Other:,,
+6207.91,,,Of cotton:,,
+6207.91.02,00D,No.,"Bathrobes, dressing gowns and similar articles",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6207.91.12,00K,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6207.99,,,Of other textile materials:,,
+6207.99.02,,,"Bathrobes, dressing gowns and similar articles",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,10H,No.,Of man-made fibres,,
+,19A,No.,Other,,
+6207.99.18,,,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10A,No.,Of man-made fibres,,
+,19E,No.,Other,,
+62.08,,,"Women‚Äôs or girls‚Äô singlets and other vests, slips, petticoats, briefs,",,
+,,,"panties, nightdresses, pyjamas, n√©glig√©s, bathrobes, dressing gowns",,
+,,,and similar articles:,,
+,,,Slips and petticoats:,,
+6208.11.02,00C,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6208.19.02,00K,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,Nightdresses and pyjamas:,,
+6208.21.02,00G,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6208.22.02,00A,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6208.29.02,00C,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Other,,
+6208.91,,,Of cotton:,,
+6208.91.01,00F,No.,"Bathrobes, dressing gowns and similar articles",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6208.91.12,10E,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Women‚Äôs or girls‚Äô singlets and other vests, slips, etc‚continued",,
+,,,Other‚continued,,
+6208.92,,,Of man-made fibres:,,
+6208.92.01,00L,No.,"Bathrobes, dressing gowns and similar articles",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6208.92.12,10K,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6208.99,,,Of other textile materials:,,
+6208.99.01,00B,No.,"Bathrobes, dressing gowns and similar articles",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6208.99.12,10A,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+62.09,,,Babies‚Äô garments and clothing accessories:,,
+6209.20.00,,,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10E,No.,Coats or jackets,,
+,15F,No.,Dresses or gowns,,
+,19J,No.,Overalls,,
+,21L,No.,Shawls,,
+,23G,No.,Bibs and feeders,,
+,25C,No.,Pilches,,
+,29F,No.,Other,,
+6209.30.00,,,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,10J,No.,Coats or jackets,,
+,15K,No.,Dresses or gowns,,
+,19B,No.,Overalls,,
+,21D,No.,Shawls,,
+,23L,No.,Bibs and feeders,,
+,25G,No.,Pilches,,
+,29K,No.,Other,,
+6209.90.00,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,Of wool or fine animal hair:,,
+,10L,No., Coats and jackets,,
+,15A,No., Dresses or gowns,,
+,19D,No., Overalls,,
+,21F,No., Shawls,,
+,23B,No., Bibs and feeders,,
+,25J,No., Pilches,,
+,29A,No., Other,,
+,,,Other:,,
+,31C,No., Coats and jackets,,
+,35F,No., Dresses or gowns,,
+,37B,No., Overalls,,
+,39J,No., Shawls,,
+,41L,No., Bibs and feeders,,
+,45C,No., Pilches,,
+,49F,No., Other,,
+62.1,,,"Garments, made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or",,
+,,,59.07:,,
+6210.10.02,00L,No.,Of fabrics of heading 56.02 or 56.03,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6210.2,,No.,"Other garments, of the type described in headings 62.01:",,
+6210.20.01,10E,No.,"Overcoats, raincoats, car-coats, capes, cloaks and similar articles",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6210.20.05,10L,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6210.30.00,10B,No.,"Other garments, of the type described in heading 62.02",10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6210.40.00,10F,No.,Other men‚Äôs or boys‚Äô garments,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6210.50.02,20K,No.,Other women‚Äôs or girls‚Äô garments,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+62.11,,,"Track suits, ski suits and swimwear; other garments:",,
+,,,Swimwear:,,
+6211.11.02,,,Men‚Äôs or boys‚Äô,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,01A,No.,Of man-made fibres,,
+,09G,No., Other,,
+6211.12.00,,,Women‚Äôs or girls‚Äô,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,01C,No.,Of man-made fibres,,
+,09J,No., Other,,
+6211.20.00,,,Ski suits,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,01H,No.,Of man-made fibres,,
+,09C,No.,Other,,
+,,,"Other garments, men‚Äôs or boys‚Äô:",,
+6211.32.02,00E,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,,,"Track suits, ski suits and swimwear; other garments‚continued",,
+,,,"Other garments, men‚Äôs or boys‚Äô‚continued",,
+6211.33.02,00K,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6211.39.00,,,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+,10A,No.,Of wool or fine animal hair,,
+,19E,No., Other,,
+,,,"Other garments, women‚Äôs or girls‚Äô:",,
+6211.42.00,00F,No.,Of cotton,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6211.43.00,00L,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6211.49,,,Of other textile materials:,,
+6211.49.10,00C,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6211.49.90,00G,No.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+62.12,,,"Brassieres, girdles, corsets, braces, suspenders, garters and similar",,
+,,,"articles and parts thereof, whether or not knitted or crocheted:",,
+6212.10.02,00G,No.,Brassieres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+6212.20.02,00L,No.,Girdles and panty-girdles,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6212.30.02,00D,No.,Corselettes,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+6212.9,,,Other:,,
+6212.90.02,00F,No.,Other articles,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+,,,Parts of the articles of the heading:,,
+6212.90.11,00E,.,"Shoulder straps, made up",Free,Free
+6212.90.18,00K,.,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+62.13,,,Handkerchiefs:,,
+6213.20.00,00F,No.,Of cotton,Free,Free
+6213.90.00,,,Of other textile materials,Free,Free
+,10J,No.,Of silk or silk waste,,
+,19B,No.,Other,,
+62.14,,,"Shawls, scarves, mufflers, mantillas, veils and the like:",,
+6214.10.00,00L,No.,Of silk or silk waste,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6214.20.00,00D,No.,Of wool or fine animal hair,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6214.30.00,00H,No.,Of synthetic fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6214.40.00,00A,No.,Of artificial fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+6214.90.00,00K,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 10
+,,,,,1/2025 10
+62.15,,,"Ties, bow ties and cravats:",,
+6215.10.02,00A,No.,Of silk or silk waste,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6215.20.02,00E,No.,Of man-made fibres,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+6215.90.02,00L,No.,Of other textile materials,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+62.16,,,,,
+6216.00.00,,,"Gloves, mittens and mitts",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,02K,pr, Ski,,
+,04F,pr, Motorcycle,,
+,09G,pr, Work,,
+,19D,pr, Other,,
+62.17,,,Other made up clothing accessories; parts of garments or of clothing,,
+,,,"accessories, other than those of heading 62.12:",,
+6217.10.00,,,Accessories,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,RCEP 3.5,
+,,,,1/2025 3,
+,01C,pr,Shoulder pads,,
+,09J,.,Other,,
+6217.90.00,00D,.,Parts,The rate applicable,
+,,,,to the finished article,
+,,,,for which the part has,
+,,,,been designed,
+,,,,AAN Free,
+,,,,TW Free,
+,,,I.- OTHER MADE UP TEXTILE ARTICLES,,
+63.01,,,Blankets and travelling rugs:,,
+6301.10.00,00E,No.,Electric blankets,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6301.2,,,"Blankets (other than electric blankets) and travelling rugs, of wool or",,
+,,,of fine animal hair:,,
+6301.20.02,,,Knitted or crocheted,Free,Free
+,01K,No., Of an area not exceeding 1 m2,,
+,09E,No., Other,,
+,,,Other:,,
+6301.20.05,00L,No.,Of an area not exceeding 1 m2,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6301.20.08,00K,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6301.3,,,"Blankets (other than electric blankets) and travelling rugs, of cotton:",,
+6301.30.02,,,Knitted or crocheted,Free,Free
+,01C,No., Of an area not exceeding 1 m2,,
+,09J,No., Other,,
+,,,Other:,,
+6301.30.05,00D,No.,Of an area not exceeding 1 m2,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6301.30.08,00C,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6301.4,,,"Blankets (other than electric blankets) and travelling rugs, of synthetic",,
+,,,fibres:,,
+6301.40.02,,,Knitted or crocheted,Free,Free
+,01G,No., Of an area not exceeding 1 m2,,
+,09B,No., Other,,
+,,,Other,,
+6301.40.05,00H,No.,Of an area not exceeding 1 m2,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6301.40.08,00G,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6301.9,,,Other blankets and travelling rugs:,,
+6301.90.02,,,Knitted or crocheted,Free,Free
+,01E,No., Of an area not exceeding 1 m2,,
+,09L,No., Other,,
+,,,Blankets and travelling rugs‚continued,,
+,,,Other blankets and travelling rugs‚continued,,
+,,,Other:,,
+6301.90.05,00F,No.,Of an area not exceeding 1 m2,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6301.90.08,00E,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+63.02,,,"Bed linen, table linen, toilet linen and kitchen linen:",,
+6302.10.00,00C,No.,"Bed linen, knitted or crocheted",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Other bed linen, printed:",,
+6302.21,,,Of cotton:,,
+6302.21.01,00H,No.,"Fitted sheets, frilled pillow-cases, cot covers, duvet covers, mattress",,
+,,,"covers, eiderdown cases, and quilt cases",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6302.21.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01G,No.,Sheets,,
+,09B,No.,Pillowcases,,
+,19K,No.,Other,,
+6302.22,,,Of man-made fibres:,,
+6302.22.01,00B,No.,"Fitted sheets, frilled pillow-cases, cot covers, duvet covers, mattress",,
+,,,"covers, eiderdown cases, and quilt cases",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6302.22.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01A,No.,Sheets,,
+,09G,No.,Pillowcases,,
+,19D,No.,Other,,
+6302.29,,,Of other textile materials:,,
+6302.29.01,00D,No.,"Fitted sheets, frilled pillow-cases, cot covers, duvet covers, mattress",,
+,,,"covers, eiderdown cases, and quilt cases",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6302.29.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01C,No.,Sheets,,
+,09J,No.,Pillowcases,,
+,19F,No.,Other,,
+,,,"Bed linen, table linen, toilet linen and kitchen linen‚continued",,
+,,,Other bed linen:,,
+6302.31,,,Of cotton:,,
+6302.31.01,00A,No.,"Fitted sheets, frilled pillow-cases, cot covers, duvet covers, mattress",,
+,,,"covers, eiderdown cases, and quilt cases",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6302.31.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01L,No., .Sheets,,
+,09F,No., .Pillowcases,,
+,19C,No., .Other,,
+6302.32,,,Of man-made fibres:,,
+6302.32.01,00F,No.,"Fitted sheets, frilled pillow-cases, cot covers, duvet covers, mattress",,
+,,,"covers, eiderdown cases, and quilt cases",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6302.32.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,No.,Sheets,,
+,09L,No.,Pillowcases,,
+,19H,No.,Other,,
+6302.39,,,Of other textile materials:,,
+6302.39.01,00H,No.,"Fitted sheets, frilled pillow-cases, cot covers, duvet covers, mattress",,
+,,,"covers, eiderdown cases, and quilt cases",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6302.39.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01G,No.,Sheets,,
+,09B,No.,Pillowcases,,
+,19K,No.,Other,,
+6302.40.00,00D,No.,"Table linen, knitted or crocheted",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other table linen:,,
+6302.51.00,,,Of cotton,5,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01L,No., Tablecloths,,
+,09F,No., Table napkins,,
+,19C,No., Other,,
+6302.53.00,,,Of man-made fibres,5,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01K,No., Tablecloths,,
+,09E,No., Table napkins,,
+,19B,No., Other,,
+,,,"Bed linen, table linen, toilet linen and kitchen linen‚continued",,
+,,,Other table linen‚continued,,
+6302.59.00,,,Of other textile materials,5,Free
+,,,,,*See Below
+,,,,,CA 2.5
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Of flax:,,
+,10F,No.,Tablecloths,,
+,13L,No.,Table napkins,,
+,17C,No.,Other,,
+,,, Other:,,
+,21A,No.,Tablecloths,,
+,23H,No.,Table napkins,,
+,29G,No.,Other,,
+6302.60.00,,,"Toilet linen and kitchen linen, of terry towelling or similar terry fabrics,",,
+,,,of cotton,Free,Free
+,,, Toilet linen:,,
+,01K,No., Roller towels,,
+,09E,No., Other,,
+,,,Kitchen linen:,,
+,11G,No., Tea-towels,,
+,19B,No., Other,,
+,,,Other,,
+6302.91.00,,,Of cotton,Free,Free
+,,,.Toilet linen:,,
+,01E,No.,Roller towels,,
+,09L,No.,Other,,
+,,, Kitchen linen:,,
+,11B,No.,Tea-towels,,
+,19H,No.,Other,,
+6302.93.00,,,Of man-made fibres,Free,Free
+,,, Toilet linen:,,
+,01D,No.,Roller towels,,
+,09K,No.,Other,,
+,,, Kitchen linen:,,
+,11A,No.,Tea-towels,,
+,19G,No.,Other,,
+6302.99.00,,,Of other textile materials,Free,Free
+,,,Of flax:,,
+,,,Toilet linen:,,
+,10L,No., Roller towels,,
+,13E,No., Other,,
+,,,Kitchen-linen:,,
+,17H,No., Tea-towels,,
+,21F,No., Other,,
+,,, Other:,,
+,,,Toilet linen:,,
+,23B,No., Roller towels,,
+,27E,No., Other,,
+,,,Kitchen-linen:,,
+,29A,No., Tea-towels,,
+,39J,No., Other,,
+63.03,,,Curtains (including drapes) and interior blinds; curtain or bed,,
+,,,valances:,,
+,,,Knitted or crocheted:,,
+6303.12.00,00L,No.,Of synthetic fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6303.19.00,,,Of other textile materials,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10K,No., Of cotton,,
+,19C,No., Other,,
+,,,Other:,,
+6303.91,,,Of cotton:,,
+6303.91.01,00A,No.,Curtains,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6303.91.09,00B,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+6303.92,,,Of synthetic fibres:,,
+6303.92.01,00F,No.,Curtains,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6303.92.09,00G,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6303.99,,,Of other textile materials:,,
+6303.99.01,00H,No.,Curtains,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6303.99.09,00J,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+63.04,,,"Other furnishing articles, excluding those of heading 94.04:",,
+,,,Bedspreads:,,
+6304.11.00,00D,No.,Knitted or crocheted,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+6304.19.00,00L,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Other furnishing articles, excluding those of, etc.‚continued",,
+6304.20.00,00C,.,Bed nets specified in Subheading Note 1 to this Chapter,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+6304.91.00,19D,.,Knitted or crocheted,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6304.92.00,,,"Not knitted or crocheted, of cotton",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,02D,No., Bedding underlays,,
+,09A,No., Other,,
+6304.93.00,,,"Not knitted or crocheted, of synthetic fibres",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01L,No., Bedding underlays,,
+,09F,No., Other,,
+6304.99.00,,,"Not knitted or crocheted, of other textile materials",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,, Bedding underlays:,,
+,02F,No.,Wool,,
+,09C,No.,Other,,
+,19L,No., Other,,
+63.05,,,"Sacks and bags, of a kind used for the packing of goods:",,
+6305.1,,,Of jute or of other textile bast fibres of heading 53.03:,,
+6305.10.01,00D,No.,Wool packs,Free,Free
+6305.10.09,00E,No.,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+6305.2,,,Of cotton:,,
+6305.20.01,00H,No.,Wool packs,Free,Free
+6305.20.09,00J,No.,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,Of man-made textile materials:,,
+6305.32,,,Flexible intermediate bulk containers:,,
+6305.32.10,00K,No.,Wool packs,Free,Free
+6305.32.90,00C,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Sacks and bags, of a kind used for the packing of goods‚continued",,
+,,,Of man-made textile materials‚continued,,
+6305.33,,,"Other, of polyethylene or polypropylene strip or the like:",,
+6305.33.10,00D,No.,Wool packs,Free,Free
+6305.33.90,00H,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6305.39,,,Other:,,
+6305.39.10,00A,No.,Wool packs,Free,Free
+6305.39.90,00E,No.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+6305.9,,,Of other textile materials:,,
+6305.90.01,00C,No.,Wool packs,Free,Free
+6305.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,01B,No., Hemp or Phormium tenax,,
+,09H,No., Other,,
+63.06,,,"Tarpaulins, awnings and sunblinds; tents (including temporary",,
+,,,"canopies and similar articles); sails for boats, sailboards or landcraft;",,
+,,,camping goods:,,
+,,,"Tarpaulins, awnings and sunblinds:",,
+6306.12.00,00E,.,Of synthetic fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6306.19.00,,,Of other textile materials,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10D,., Of cotton,,
+,19H,., Other,,
+,,,Tents (including temporary canopies and similar articles):,,
+6306.22.00,00J,.,Of synthetic fibres,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6306.29.00,,,Of other textile materials,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10H,., Of cotton,,
+,19A,., Other,,
+6306.30.00,,,Sails,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10L,.,Of synthetic fibres,,
+,19D,.,Of other textile materials,,
+6306.40.00,,,Pneumatic mattresses,Free,Free
+,10D,.,Of cotton,,
+,19H,.,Of other textile materials,,
+6306.9,,,Other:,,
+6306.90.10,,,Pneumatic pillows and cushions,Free,Free
+,10H,., Of cotton,,
+,19A,., Of other textile materials,,
+,,,"Tarpaulins, awnings and sunblinds; tents (including, etc.‚continued",,
+,,,Other‚continued,,
+6306.90.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10A,., Of cotton,,
+,19E,., Of other textile materials,,
+63.07,,,"Other made up articles, including dress patterns:",,
+6307.10.00,00D,.,"Floor-cloths, dish-cloths, dusters and similar cleaning cloths",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6307.20.00,00H,.,Life-jackets and life-belts,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6307.9,,,Other:,,
+,,,"Flags, pennants and banners:",,
+6307.90.01,00K,.,National flags,Free,Free
+6307.90.09,00L,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+6307.90.19,00F,.,Cheese cloths and caps; wrist supporting straps; double combined or,,
+,,,joined embroideries in the piece; loops and bands for umbrellas;,,
+,,,weather seal,Free,Free
+6307.90.21,00L,.,Knee supports and ankle supports,Free,Free
+6307.90.28,10B,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,II.- SETS,,
+63.08,,,,,
+6308.00.00,00J,.,"Sets consisting of woven fabric and yarn, whether or not with",,
+,,,"accessories, for making up into rugs, tapestries, embroidered table",,
+,,,"cloths or serviettes, or similar textile articles, put up in packings for",,
+,,,retail sale,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,III.- WORN CLOTHING AND WORN TEXTILE ARTICLES; RAGS,,
+63.09,,,,,
+6309,,,Worn clothing and other worn articles:,,
+6309.00.01,00C,kg,Clothing per kg,$1.87 ,Free
+,,,,,*See Below
+,,,,,RCEP $1.5/kg
+,,,,,1/2025 $1.4/kg
+6309.00.11,00J,kg,Footwear per kg,$1.87 ,Free
+,,,,,*See Below
+,,,,,RCEP $1.3/kg
+,,,,,1/2025 $1.1/kg
+6309.00.19,00K,kg,Other,Free,Free
+63.1,,,"Used or new rags, scrap twine, cordage, rope and cables and worn out",,
+,,,"articles of twine, cordage, rope or cables, of textile materials:",,
+6310.10.00,00D,kg,Sorted,Free,Free
+6310.90.00,00C,kg,Other,Free,Free

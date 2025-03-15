@@ -1,0 +1,835 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+90.01,,,Optical fibres and optical fibre bundles; optical fibre cables other than,,
+,,,those of heading 85.44; sheets and plates of polarising material; lenses,,
+,,,"(including contact lenses), prisms, mirrors and other optical elements,",,
+,,,"of any material, unmounted, other than such elements of glass not",,
+,,,optically worked:,,
+9001.1,,,"Optical fibres, optical fibre bundles and cables:",,
+9001.10.01,00J,kg,Optical fibre cables,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9001.10.09,00K,kg,Other,Free,Free
+9001.20.00,00F,.,Sheets and plates of polarising material,Free,Free
+9001.30.00,00K,.,Contact lenses,Free,Free
+9001.40.00,00C,.,Spectacle lenses of glass,Free,Free
+9001.50.00,00G,.,Spectacle lenses of other materials,Free,Free
+9001.9,,,Other:,,
+9001.90.07,00F,.,Photographic colour filters,Free,Free
+9001.90.09,,,Other,Free,Free
+,01G,.,Lenses and prisms (other than ophthalmic contact lenses and,,
+,,,spectacle lenses),,
+,09B,.,Polarising elements for spectacles,,
+,19K,.,Other optical elements,,
+90.02,,,"Lenses, prisms, mirrors and other optical elements, of any material,",,
+,,,"mounted, being parts of or fittings for instruments or apparatus, other",,
+,,,than such elements of glass not optically worked:,,
+,,,Objective lenses:,,
+9002.11.00,,,"For cameras, projectors or photographic enlargers or reducers",Free,Free
+,01C,.,For photographic cameras for micro-filming or for photo-process,,
+,,,engraving; for 35 mm cinematographic cameras; photographic,,
+,,,enlargers and reducers,,
+,11L,.,For projectors,,
+,19F,.,Other,,
+ 9002.19.90,00L,.,Other,Free,Free
+ 9002.20.90,,,Filters,Free,Free
+,10L,.,Photographic colour filters,,
+,19D,.,Other,,
+9002.90.90,00J,.,Other,Free,Free
+90.03,,,"Frames and mountings for spectacles, goggles or the like, and parts",,
+,,,thereof:,,
+,,,Frames and mountings:,,
+9003.11.00,00C,No.,Of plastics,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9003.19.00,00K,No.,Of other materials,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9003.90.00,00H,No.,Parts,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+90.04,,,"Spectacles, goggles and the like, corrective, protective or other:",,
+9004.10.00,01E,No.,Sunglasses,Free,Free
+9004.9,,,Other:,,
+9004.90.01,,,Goggles and the like,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,03G,No.,Swim goggles,,
+,05C,No.,Ski goggles,,
+,09F,No.,Other,,
+,,,"Spectacles, goggles and the like, corrective, protective or other—continued",,
+,,,Other—continued,,
+9004.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01A,No.,Frames for opthalmic spectacles fitted temporarily with imitation,,
+,,,lenses,,
+,09G,No.,Other,,
+90.05,,,"Binoculars, monoculars, other optical telescopes, and mountings",,
+,,,"therefor; other astronomical instruments and mountings therefor, but",,
+,,,not including instruments for radio-astronomy:,,
+9005.10.00,00E,.,Binoculars,Free,Free
+9005.80.00,00L,.,Other instruments,Free,Free
+9005.90.00,10A,.,Parts and accessories (including mountings),Free,Free
+90.06,,,Photographic (other than cinematographic) cameras; photographic,,
+,,,flashlight apparatus and flashbulbs other than discharge lamps of,,
+,,,heading 85.39:,,
+9006.30.00,00L,No.,"Cameras specially designed for underwater use, for aerial survey or for",,
+,,,medical or surgical examination of internal organs; comparison cameras,,
+,,,for forensic or criminological purposes,Free,Free
+9006.40.00,00D,No.,Instant print cameras,Free,Free
+,,,Other cameras:,,
+9006.53.00,,,For roll film of a width of 35 mm,Free,Free
+,20F,No.,"Cameras of a kind used for recording documents on microfilm,",,
+,,,microfiches or other microforms,,
+,30C,No.,Other,,
+9006.59.00,,,Other,Free,Free
+,30L,No.,"Cameras of a kind used for recording documents on microfilm,",,
+,,,microfiches or other microforms,,
+,40H,No.,Other,,
+,,,Photographic flashlight apparatus and flashbulbs:,,
+9006.61.00,,,Discharge lamp (“electronic”) flashlight apparatus,Free,Free
+,01D,No.,Portable,,
+,09K,No.,Non-portable,,
+9006.69.00,,,Other,Free,Free
+,10K,No.,"Flashbulbs, flashcubes and the like",,
+,,,Other:,,
+,15L,No.,Portable,,
+,19C,No.,Non-portable,,
+,,,Parts and accessories:,,
+9006.91.00,,,For cameras,Free,Free
+,12L,.,Of Tariff items 9006.53.00 and 9006.59.00,,
+,19H,.,Other,,
+9006.99.00,00C,.,Other,Free,Free
+90.07,,,"Cinematographic cameras and projectors, whether or not",,
+,,,incorporating sound recording or reproducing apparatus:,,
+9007.10.00,,,Cameras,Free,Free
+,10J,No.,For film of less than 16 mm width or for double-8 mm film,,
+,,,Other:,,
+,15K,No.,35 mm,,
+,19B,No.,Other,,
+9007.20.00,,,Projectors,Free,Free
+,01C,No.,For film of less than 16 mm width,,
+,09J,No.,Other,,
+,,,Parts and accessories:,,
+9007.91.00,,,For cameras,Free,Free
+,10B,.,35 mm,,
+,19F,.,Other,,
+9007.92.00,00K,.,For projectors,Free,Free
+90.08,,,"Image projectors, other than cinematographic; photographic",,
+,,,(other than cinematographic) enlargers and reducers:,,
+9008.50.00,,,"Projectors, enlargers and reducers",Free,Free
+,10A,No.,Slide projectors,,
+,15B,No.,"Microfilm, microfiche or other microform readers, whether or not",,
+,,,capable of producing copies,,
+,19E,No.,Other image projectors,,
+,,,Photographic (other than cinematographic) enlargers and reducers:,,
+,25K,.,For negatives of 6 cm x 7 cm or larger,,
+,29B,.,Other,,
+9008.90.00,,,Parts and accessories,Free,Free
+,01G,No.,Of image projectors,,
+,,,Of photographic enlargers and reducers:,,
+,11D,.,For negatives of 6 cm x 7 cm or larger,,
+,19K,.,Other,,
+90.1,,,Apparatus and equipment for photographic (including,,
+,,,"cinematographic) laboratories, not specified or included elsewhere in",,
+,,,this Chapter; negatoscopes; projection screens:,,
+9010.10.00,00A,.,Apparatus and equipment for automatically developing photographic,,
+,,,(including cinematographic) film or paper in rolls or for automatically,,
+,,,exposing developed film to rolls of photographic paper,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+9010.5,,,Other apparatus and equipment for photographic (including,,
+,,,cinematographic) laboratories; negatoscopes:,,
+9010.50.10,10J,.,Film measuring apparatus and footage counters,Free,Free
+9010.50.80,00K,.,Other,Free,Free
+ 9010.60.90,00J,.,Projection screens,Free,Free
+9010.9,,,Parts and accessories:,,
+9010.90.01,10D,.,Of film measuring apparatus and footage counters,Free,Free
+ 9010.90.20,00A,.,Of projection screens,Free,Free
+,,,Other:,,
+9010.90.30,00G,.,Of the apparatus of subheading 9010.50,Free,Free
+9010.90.90,00K,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+90.11,,,"Compound optical microscopes, including those for",,
+,,,"photomicrography, cinephotomicrography or microprojection:",,
+9011.10.00,10G,.,Stereoscopic microscopes,Free,Free
+9011.20.00,10L,.,"Other microscopes, for photomicrography, cinephotomicrography or",,
+,,,microprojection,Free,Free
+9011.80.00,00E,.,Other microscopes,Free,Free
+9011.90.00,10F,.,Parts and accessories,Free,Free
+90.12,,,Microscopes other than optical microscopes; diffraction apparatus:,,
+9012.10.00,10E,.,Microscopes other than optical microscopes; diffraction apparatus,Free,Free
+9012.90.00,10D,.,Parts and accessories,Free,Free
+90.13,,,"Lasers, other than laser diodes; other optical appliances and",,
+,,,"instruments, not specified or included elsewhere in this Chapter:",,
+9013.10.00,00F,.,Telescopic sights for fitting to arms; periscopes; telescopes designed to,,
+,,,"form parts of machines, appliances, instruments or apparatus of this",,
+,,,Chapter or Section XVI,Free,Free
+9013.20.00,00K,.,"Lasers, other than laser diodes",Free,Free
+9013.80.00,20F,.,"Other devices, appliances and instruments",Free,Free
+9013.90.00,00E,.,Parts and accessories,Free,Free
+90.14,,,Direction finding compasses; other navigational instruments and,,
+,,,appliances:,,
+9014.10.00,00D,.,Direction finding compasses,Free,Free
+ 9014.20.90,00G,.,Instruments and appliances for aeronautical or space navigation (other,,
+,,,than compasses),Free,Free
+ 9014.80.90,00J,.,Other instruments and appliances,Free,Free
+9014.90.00,00C,.,Parts and accessories,Free,Free
+90.15,,,"Surveying (including photogrammetrical surveying), hydrographic,",,
+,,,"oceanographic, hydrological, meteorological or geophysical",,
+,,,"instruments and appliances, excluding compasses; rangefinders:",,
+9015.10.00,00B,.,Rangefinders,Free,Free
+9015.20.00,00F,.,Theodolites and tachymeters (tacheometers),Free,Free
+9015.30.00,00K,.,Levels,Free,Free
+9015.40.00,00C,.,Photogrammetrical surveying instruments and appliances,Free,Free
+ 9015.80.90,00G,.,Other instruments and appliances,Free,Free
+9015.90.00,10J,.,Parts and accessories,Free,Free
+90.16,,,,,
+9016.00.00,00G,.,"Balances of a sensitivity of 5 cg or better, with or without weights",Free,Free
+90.17,,,"Drawing, marking-out or mathematical calculating instruments",,
+,,,"(for example, drafting machines, pantographs, protractors, drawing",,
+,,,"sets, slide rules, disc calculators); instruments for measuring length,",,
+,,,"for use in the hand (for example, measuring rods and tapes,",,
+,,,"micrometers, callipers), not specified or included elsewhere in this",,
+,,,Chapter:,,
+9017.10.00,00J,.,"Drafting tables and machines, whether or not automatic",Free,Free
+9017.2,,,"Other drawing, marking-out or mathematical calculating instruments:",,
+9017.20.01,10F,.,"Mathematical calculating instruments, slide rules, disc calculators",,
+,,,and the like,Free,Free
+9017.20.19,,,Other,Free,Free
+,10B,.,Rules,,
+,19F,.,Other,,
+9017.30.00,00F,.,"Micrometers, callipers and gauges",Free,Free
+9017.8,,,Other instruments:,,
+9017.80.11,00F,.,Rulers,Free,Free
+9017.80.19,00G,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+9017.9,,,Parts and accessories:,,
+9017.90.01,10A,.,"Mathematical calculating instruments, slide rules, disc calculators",,
+,,,and the like,Free,Free
+9017.90.09,10B,.,Other,Free,Free
+90.18,,,"Instruments and appliances used in medical, surgical, dental or",,
+,,,"veterinary sciences, including scintigraphic apparatus, other",,
+,,,electro-medical apparatus and sight-testing instruments:,,
+,,,Electro-diagnostic apparatus (including apparatus for functional,,
+,,,exploratory examination or for checking physiological parameters):,,
+9018.11.00,00A,.,Electro-cardiographs,Free,Free
+9018.12.00,00F,.,Ultrasonic scanning apparatus,Free,Free
+9018.13.00,00L,.,Magnetic resonance imaging apparatus,Free,Free
+9018.14.00,00E,.,Scintigraphic apparatus,Free,Free
+9018.19.00,00H,.,Other,Free,Free
+9018.20.00,00L,.,Ultra-violet or infra-red ray apparatus,Free,Free
+,,,"Syringes, needles, catheters, cannulae and the like:",,
+9018.31,,,"Syringes, with or without needles:",,
+9018.31.01,00E,No.,"Syringes, drenching",Free,Free
+9018.31.09,00F,.,Other,Free,Free
+9018.32.00,00C,.,Tubular metal needles and needles for sutures,Free,Free
+9018.39.00,00E,.,Other,Free,Free
+,,,"Instruments and appliances used in medical, surgical, etc.—continued",,
+,,,"Other instruments and appliances, used in dental sciences:",,
+9018.41.00,00B,.,"Dental drill engines, whether or not combined on a single base with",,
+,,,other dental equipment,Free,Free
+9018.49.00,00J,.,Other,Free,Free
+9018.5,,,Other ophthalmic instruments and appliances:,,
+9018.50.01,00H,.,Electro-medical apparatus,Free,Free
+9018.50.09,00J,.,Other,Free,Free
+9018.9,,,Other instruments and appliances:,,
+9018.90.02,,,Electro-medical apparatus,Free,Free
+,01G,.,Incubators for babies,,
+,10F,.,Other,,
+9018.90.19,10F,.,Other,Free,Free
+90.19,,,Mechano-therapy appliances; massage apparatus; psychological,,
+,,,"aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol",,
+,,,"therapy, artificial respiration or other therapeutic respiration",,
+,,,apparatus:,,
+9019.1,,,Mechano-therapy appliances; massage apparatus; psychological,,
+,,,aptitude-testing apparatus:,,
+,,,Massage apparatus:,,
+9019.10.01,00A,No.,Vibratory massage machines,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+9019.10.09,00B,No.,Other,Free,Free
+9019.10.11,00G,No.,Psychological aptitude-testing apparatus,Free,Free
+9019.10.19,00H,No.,Other,Free,Free
+9019.20.00,00J,.,"Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or",,
+,,,other therapeutic respiration apparatus,Free,Free
+90.2,,,,,
+9020.00.00,00E,.,"Other breathing appliances and gas masks, excluding protective",,
+,,,masks having neither mechanical parts nor replaceable filters,Free,Free
+90.21,,,"Orthopaedic appliances, including crutches, surgical belts and trusses;",,
+,,,splints and other fracture appliances; artificial parts of the body;,,
+,,,"hearing aids and other appliances which are worn or carried, or",,
+,,,"implanted in the body, to compensate for a defect or disability:",,
+9021.1,,,Orthopaedic or fracture appliances:,,
+,,,"Threaded articles, of stainless steel:",,
+,,,Screws:,,
+9021.10.01,00C,kg,Self-tapping screws,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9021.10.03,00F,kg,Screw studs and studding,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9021.10.05,00J,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+9021.10.07,00A,kg,Nuts,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Orthopaedic appliances, including crutches, etc.—continued",,
+,,,Orthopaedic or fracture appliances—continued,,
+,,,"Threaded articles, of stainless steel—continued",,
+9021.10.09,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Washers, cotters and similar articles, of stainless steel:",,
+9021.10.11,00J,kg,Washers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9021.10.13,00A,kg,Cotters and cotter-pins,Free,Free
+9021.10.15,00D,kg,Other,Free,Free
+9021.10.20,,,Other,Free,Free
+,,,Veterinary orthopaedic appliances:,,
+,10E,.,Of stainless steel,,
+,12A,.,Of titanium or nickel-titanium alloy,,
+,18L,.,Other,,
+,,,Other:,,
+,20B,.,Of stainless steel,,
+,22J,.,Of titanium or nickel-titanium alloy,,
+,28H,.,Other,,
+,,,Artificial teeth and dental fittings:,,
+9021.21.00,00E,No.,Artificial teeth,Free,Free
+9021.29,,,Other:,,
+,,,"Threaded articles, of stainless steel:",,
+,,,Screws:,,
+9021.29.01,00H,kg,Self-tapping screws,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9021.29.03,00L,kg,Screw studs and studding,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9021.29.05,00C,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+9021.29.07,00F,kg,Nuts,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9021.29.09,00J,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Washers, cotters and similar articles, of stainless steel:",,
+9021.29.11,00C,kg,Washers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+9021.29.13,00F,kg,Cotters and cotter-pins,Free,Free
+9021.29.15,00J,kg,Other,Free,Free
+,,,"Orthopaedic appliances, including crutches, etc.—continued",,
+,,,Artificial teeth and dental fittings—continued,,
+,,,Other—continued,,
+9021.29.20,,,Other,Free,Free
+,,,Dentists' accessories for making crowns or dentures:,,
+,10K,.,Of stainless steel,,
+,12F,.,Of titanium or nickel-titanium alloy,,
+,18E,.,Other,,
+,,,Other:,,
+,20G,.,Of stainless steel,,
+,22C,.,Of titanium or nickel-titanium alloy,,
+,28B,.,Other,,
+,,,Other artificial parts of the body:,,
+9021.31.00,00J,.,Artificial joints,Free,Free
+9021.39.00,,,Other,Free,Free
+,11L,No.,Limbs and parts of limbs,,
+,15C,.,Eyes,,
+,19F,.,Other,,
+9021.40.00,00H,No.,"Hearing aids, excluding parts and accessories",Free,Free
+9021.50.00,00A,.,"Pacemakers for stimulating heart muscles, excluding parts and",,
+,,,accessories,Free,Free
+9021.90.00,,,Other,Free,Free
+,,,"Other appliances which are worn or carried, or implanted in the body,",,
+,,,to compensate for a defect or disability:,,
+,01D,.,Parts of hearing aids,,
+,09K,.,Other,,
+,19G,.,Other,,
+90.22,,,"Apparatus based on the use of X-rays or of alpha, beta, gamma or",,
+,,,"other ionising radiations, whether or not for medical, surgical, dental",,
+,,,"or veterinary uses, including radiography or radiotherapy apparatus,",,
+,,,"X-ray tubes and other X-ray generators, high tension generators,",,
+,,,"control panels and desks, screens, examination or treatment tables,",,
+,,,chairs and the like:,,
+,,,"Apparatus based on the use of X-rays, whether or not for medical,",,
+,,,"surgical, dental or veterinary uses, including radiography or radiotherapy",,
+,,,apparatus:,,
+9022.12.00,00D,.,Computed tomography apparatus,Free,Free
+9022.13.00,00J,.,"Other, for dental uses",Free,Free
+9022.14.00,00C,.,"Other, for medical, surgical or veterinary uses",Free,Free
+9022.19.00,00F,.,For other uses,Free,Free
+,,," Apparatus based on the use of alpha, beta, gamma or other ionising",,
+,,,"radiations, whether or not for medical, surgical, dental or veterinary uses,",,
+,,,including radiography or radiotherapy apparatus:,,
+9022.21.00,10L,.,"For medical, surgical, dental or veterinary uses",Free,Free
+9022.29.00,10G,.,For other uses,Free,Free
+9022.30.00,00B,No.,X-ray tubes,Free,Free
+9022.90.00,,,"Other, including parts and accessories",Free,Free
+,01B,No.,X-ray generators,,
+,,,Parts of X-ray generators and tubes:,,
+,11K,No.,Generators,,
+,19E,No.,Tubes,,
+,29B,.,Other,,
+90.23,,,,,
+9023.00.00,00K,.,"Instruments, apparatus and models, designed for demonstrational",,
+,,,"purposes (for example, in education or exhibitions), unsuitable for",,
+,,,other uses,Free,Free
+90.24,,,"Machines and appliances for testing the hardness, strength,",,
+,,,"compressibility, elasticity or other mechanical properties of materials",,
+,,,"(for example, metals, wood, textiles, paper, plastics):",,
+9024.10.00,00A,.,Machines and appliances for testing metals,Free,Free
+ 9024.80.90,00F,.,Other machines and appliances,Free,Free
+9024.90.00,00L,.,Parts and accessories,Free,Free
+90.25,,,"Hydrometers and similar floating instruments, thermometers,",,
+,,,"pyrometers, barometers, hygrometers and psychrometers, recording",,
+,,,"or not, and any combination of these instruments:",,
+,,,"Thermometers and pyrometers, not combined with other instruments:",,
+9025.11.00,00D,.,"Liquid-filled, for direct reading",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+ 9025.19.90,00K,.,Other,Free,Free
+9025.80.00,,,Other instruments,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,.,"Barometers, not combined with other instruments",,
+,09J,.,Other,,
+9025.90.00,00J,.,Parts and accessories,Free,Free
+90.26,,,"Instruments and apparatus for measuring or checking the flow, level,",,
+,,,"pressure or other variables of liquids or gases (for example, flow",,
+,,,"meters, level gauges, manometers, heat meters), excluding instruments",,
+,,,"and apparatus of heading 90.14, 90.15, 90.28 or 90.32:",,
+ 9026.10.90,00G,.,For measuring or checking the flow or level of liquids,Free,Free
+9026.2,,,For measuring or checking pressure:,,
+9026.20.01,00H,.,Automotive vacuum gauges,Free,Free
+9026.20.90,00L,.,Other,Free,Free
+ 9026.80.90,00B,.,Other instruments or apparatus,Free,Free
+9026.90.90,00F,.,Parts and accessories,Free,Free
+90.27,,,Instruments and apparatus for physical or chemical analysis (for,,
+,,,"example, polarimeters, refractometers, spectrometers, gas or smoke",,
+,,,analysis apparatus); instruments and apparatus for measuring or,,
+,,,"checking viscosity, porosity, expansion, surface tension or the like;",,
+,,,instruments and apparatus for measuring or checking quantities of,,
+,,,"heat, sound or light (including exposure meters); microtomes:",,
+9027.10.00,00F,.,Gas or smoke analysis apparatus,Free,Free
+9027.20.00,00K,.,Chromatographs and electrophoresis instruments,Free,Free
+9027.30.00,00C,.,"Spectrometers, spectrophotometers and spectrographs using optical",,
+,,,"radiations (UV, visible, IR)",Free,Free
+9027.50.00,00L,.,"Other instruments and apparatus using optical radiations (UV, visible, IR)",Free,Free
+,,,Other instruments and apparatus:,,
+9027.81.00,00F,.,Mass spectrometers,Free,Free
+9027.89.00,,,Other,Free,Free
+,10K,.,Exposure meters,,
+,20G,.,Other,,
+9027.90.00,,,Microtomes; parts and accessories,Free,Free
+,01C,No.,Microtomes,,
+,09J,.,Parts and accessories,,
+90.28,,,"Gas, liquid or electricity supply or production meters, including",,
+,,,calibrating meters therefor:,,
+9028.10.00,,,Gas meters,Free,Free
+,01B,No.,Domestic,,
+,09H,No.,Other,,
+9028.20.00,,,Liquid meters,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01F,No.,Water meters,,
+,09A,No.,Other,,
+9028.30.00,,,Electricity meters,Free,Free
+,01K,No.,House service,,
+,09E,No.,Other,,
+9028.90.90,00B,.,Parts and accessories,Free,Free
+90.29,,,"Revolution counters, production counters, taximeters, mileometers,",,
+,,,"pedometers and the like; speed indicators and tachometers, other",,
+,,,than those of heading 90.14 or 90.15; stroboscopes:,,
+9029.10.00,,,"Revolution counters, production counters, taximeters, mileometers,",,
+,,,pedometers and the like,Free,Free
+,01L,No.,Taximeters,,
+,09F,No.,Billiards meters,,
+,19C,.,Other,,
+9029.20.00,,,Speed indicators and tachometers; stroboscopes,Free,Free
+,01D,.,Stroboscopes,,
+,09K,.,Other,,
+9029.90.00,00A,.,Parts and accessories,Free,Free
+90.3,,,"Oscilloscopes, spectrum analysers and other instruments and",,
+,,,"apparatus for measuring or checking electrical quantities, excluding",,
+,,,meters of heading 90.28; instruments and apparatus for measuring or,,
+,,,"detecting alpha, beta, gamma, X-ray, cosmic or other ionising",,
+,,,radiations:,,
+9030.10.00,00F,.,Instruments and apparatus for measuring or detecting ionising radiations,Free,Free
+9030.2,,,Oscilloscopes and oscillographs:,,
+9030.20.01,00F,.,Cathode-ray oscilloscopes and cathode-ray oscillographs,Free,Free
+ 9030.20.20,00L,.,"Other, with a recording device",Free,Free
+ 9030.20.90,00J,.,Other,Free,Free
+,,," Other instruments and apparatus, for measuring or checking voltage,",,
+,,,"current, resistance or power (other than those for measuring or checking",,
+,,,semiconductor wafers or devices):,,
+ 9030.31.90,00G,.,Multimeters without a recording device,Free,Free
+ 9030.32.90,00A,.,Multimeters with a recording device,Free,Free
+9030.33,,,"Other, without a recording device:",,
+9030.33.10,00B,.,"Other, without a recording, excluding resistance measuring",,
+,,,instruments,Free,Free
+9030.33.90,00F,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+ 9030.39.90,00C,.,"Other, with a recording device",Free,Free
+9030.40.00,00G,.,"Other instruments and apparatus, specially designed for",,
+,,,"telecommunications (for example, cross-talk meters, gain measuring",,
+,,,"instruments, distortion factor meters, psophometers)",Free,Free
+,,,Other instruments and apparatus:,,
+9030.82.00,,,For measuring or checking semiconductor wafers or devices,,
+,,,(including integrated circuits),Free,Free
+,01J,.,With a recording device,,
+,09D,.,Other,,
+ 9030.84.90,00J,.,"Other, with a recording device",Free,Free
+ 9030.89.90,00A,.,Other,Free,Free
+9030.9,,,Parts and accessories:,,
+9030.90.10,00L,.,Of instruments and apparatus for measuring or checking,,
+,,,semiconductor wafers or devices,Free,Free
+9030.90.20,00F,.,Printed circuit assemblies,Free,Free
+9030.90.90,00D,.,Other,Free,Free
+90.31,,,"Measuring or checking instruments, appliances and machines, not",,
+,,,specified or included elsewhere in this Chapter; profile projectors:,,
+ 9031.10.90,00C,.,Machines for balancing mechanical parts,Free,Free
+9031.20.00,00H,.,Test benches,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other optical instruments and appliances:,,
+9031.41.00,00K,.,For inspecting semiconductor wafers or devices (including integrated,,
+,,,circuits) or for inspecting photomasks or reticles used in manufacturing,,
+,,,semiconductor devices (including integrated circuits),Free,Free
+,,,"Measuring or checking instruments, appliances and etc.—continued",,
+,,,Other optical instruments and appliances—continued,,
+9031.49.00,,,Other,Free Free,
+,10C,.,Profile projectors,,
+,19G,.,Other,,
+9031.8,,,"Other instruments, appliances and machines:",,
+9031.80.02,00B,.,Load cells with a capacity between 150 kilograms and 100 tonnes,Free Free,
+ 9031.80.90,00J,.,Other,Free Free,
+9031.9,,,Parts and accessories:,,
+9031.90.10,00J,.,Of optical instruments and appliances for inspecting semiconductor,,
+,,,"wafers or devices or for inspecting masks, photomasks or reticles",,
+,,,used in the manufacturing semiconductor devices,Free Free,
+9031.90.20,00D,.,Of optical instruments and appliances for measuring surface,,
+,,,particulate contamination on semiconductor wafers,Free Free,
+9031.90.30,00K,.,Of printed circuit assemblies,Free Free,
+9031.90.90,00B,.,Other,Free Free,
+90.32,,,Automatic regulating or controlling instruments and apparatus:,,
+9032.1,,,Thermostats:,,
+9032.10.01,00J,.,Designed solely for use with refrigerating apparatus,Free Free,
+9032.10.09,00K,.,Other,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+ 9032.20.90,00E,.,Manostats,Free Free,
+,,,Other instruments and apparatus:,,
+ 9032.81.90,00A,.,Hydraulic or pneumatic,Free Free,
+9032.89.00,00J,.,Other,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,RCEP 5,
+,,,,1/2025 5,
+9032.90.00,00A,.,Parts and accessories,The rate applicable to,
+,,,,the articles for which the parts or,
+,,,,accessories have been designed,
+,,,,AAN Free,
+,,,,TW Free,
+90.33,,,,,
+9033.00.00,10D,.,Parts and accessories (not included or specified elsewhere in this,,
+,,,"chapter) for machines, appliances, instruments or apparatus of",,
+,,,Chapter 90,The rate applicable to,
+,,,,the articles for which the parts or,
+,,,,accessories have been designed,
+,,,,AAN Free,
+,,,,TW Free,
+91.01,,,"Wrist-watches, pocket-watches and other watches, including",,
+,,,"stop-watches, with case of precious metal or of metal clad with",,
+,,,precious metal:,,
+,,,"Wrist-watches, electrically operated, whether or not incorporating a",,
+,,,stop-watch facility:,,
+9101.11.00,,,With mechanical display only,Free,Free
+,01A,No.,Operating by means of solar cells,,
+,09G,No.,Other,,
+9101.19.00,,,Other,Free,Free
+,,,With opto-electronic display only:,,
+,10G,No.,Operating by means of solar cells,,
+,13A,No.,Other,,
+,,,Other:,,
+,15H,No.,Operating by means of solar cells,,
+,19L,No.,Other,,
+,,,"Other wrist-watches, whether or not incorporating a stop-watch facility:",,
+9101.21.00,00G,No.,With automatic winding,Free,Free
+9101.29.00,00C,No.,Other,Free,Free
+,,,Other:,,
+9101.91.00,,,Electrically operated,Free,Free
+,01L,No.,Operating by means of solar cells,,
+,09F,No.,Other,,
+9101.99.00,10F,No.,Other,Free,Free
+91.02,,,"Wrist-watches, pocket-watches and other watches, including",,
+,,,"stop-watches, other than those of heading 91.01:",,
+,,,"Wrist-watches, electrically operated, whether or not incorporating a",,
+,,,stop-watch facility:,,
+9102.11.00,,,With mechanical display only,Free,Free
+,01K,No.,Operating by means of solar cells,,
+,09E,No.,Other,,
+9102.12.00,,,With opto-electronic display only,Free,Free
+,01D,No.,Operating by means of solar cells,,
+,09K,No.,Other,,
+9102.19.00,,,Other,Free,Free
+,01F,No.,Operating by means of solar cells,,
+,09A,No.,Other,,
+,,,"Other wrist-watches, whether or not incorporating a stop-watch facility:",,
+9102.21.00,00E,No.,With automatic winding,Free,Free
+9102.29.00,00A,No.,Other,Free,Free
+,,,Other:,,
+9102.91.00,,,Electrically operated,Free,Free
+,01J,No.,Operating by means of solar cells,,
+,09D,No.,Other,,
+9102.99.00,00G,No.,Other,Free,Free
+91.03,,,"Clocks with watch movements, excluding clocks of heading 91.04:",,
+9103.10.00,,,Electrically operated,Free,Free
+,,,Alarm clocks:,,
+,02A,No.,Operating by means of solar cells,,
+,08L,No.,Other,,
+,,,Other:,,
+,11L,No.,Operating by means of solar cells,,
+,19F,No.,Other,,
+9103.90.00,,,Other,Free,Free
+,01B,No.,Alarm clocks,,
+,09H,No.,Other,,
+91.04,,,,,
+9104.00.00,,,"Instrument panel clocks and clocks of a similar type for vehicles,",,
+,,,"aircraft, spacecraft or vessels",Free,Free
+,01H,No.,Vehicle chronographs,,
+,09C,.,Other,,
+91.05,,,Other clocks:,,
+,,,Alarm clocks:,,
+9105.11,,,Electrically operated:,,
+9105.11.10,00A,No.,Operating by means of solar cells,Free,Free
+9105.11.90,,,Other,Free,Free
+,01C,No.,Battery operated,,
+,09J,No.,Other,,
+9105.19.00,00B,No.,Other,Free,Free
+,,,Wall clocks:,,
+9105.21,,,Electrically operated:,,
+9105.21.10,00E,No.,Operating by means of solar cells,Free,Free
+9105.21.90,,,Other,Free,Free
+,01G,No.,Battery operated,,
+,09B,No.,Other,,
+9105.29.00,00F,No.,Other,Free,Free
+,,,Other:,,
+9105.91,,,Electrically operated:,,
+9105.91.10,00L,No.,Operating by means of solar cells,Free,Free
+9105.91.90,,,Other,Free,Free
+,01B,No.,Battery operated,,
+,09H,No.,Other,,
+9105.99.00,00A,No.,Other,Free,Free
+91.06,,,"Time of day recording apparatus and apparatus for measuring,",,
+,,,"recording or otherwise indicating intervals of time, with clock or",,
+,,,"watch movement or with synchronous motor (for example,",,
+,,,"time-registers, time-recorders):",,
+9106.10.00,00K,.,Time-registers; time-recorders,Free,Free
+9106.90.00,,,Other,Free,Free
+,01G,.,Watchmen’s tell-tales,,
+,10F,.,Parking meters,,
+,19K,No.,Other,,
+91.07,,,,,
+9107.00.00,00D,No.,Time switches with clock or watch movement or with synchronous,,
+,,,motor,Free,Free
+91.08,,,"Watch movements, complete and assembled:",,
+,,,Electrically operated:,,
+9108.11.00,,,With mechanical display only or with a device to which a mechanical,,
+,,,display can be incorporated,Free,Free
+,,,Operating by means of solar cells:,,
+,01J,No.,Measuring 33.8 mm or less,,
+,05A,No.,Other,,
+,09D,No.,Other,,
+9108.12.00,,,With opto-electronic display only,Free,Free
+,,,Operating by means of solar cells:,,
+,01C,No.,Measuring 33.8 mm or less,,
+,05F,No.,Other,,
+,09J,No.,Other,,
+9108.19.00,,,Other,Free,Free
+,,,Operating by means of solar cells:,,
+,01E,No.,Measuring 33.8 mm or less,,
+,05H,No.,Other,,
+,09L,No.,Other,,
+9108.20.00,00K,No.,With automatic winding,Free,Free
+9108.90.00,,,Other,Free,Free
+,11L,No.,Measuring 33.8 mm or less,,
+,19F,No.,Other,,
+91.09,,,"Clock movements, complete and assembled:",,
+9109.10.00,,,Electrically operated,Free Free,
+,,,Of alarm clocks:,,
+,10A,No.,Operating by means of solar cells,,
+,15B,No.,Other,,
+,,,Other:,,
+,19E,No.,Operating by means of solar cells,,
+,29B,No.,Other,,
+9109.90.00,00C,No.,Other,Free Free,
+91.1,,,"Complete watch or clock movements, unassembled or partly",,
+,,,"assembled (movement sets); incomplete watch or clock movements,",,
+,,,assembled; rough watch or clock movements:,,
+,,,Of watches:,,
+9110.11.00,00B,.,"Complete movements, unassembled or partly assembled (movement",,
+,,,sets),Free Free,
+9110.12.00,00G,.,"Incomplete movements, assembled",Free Free,
+9110.19.00,00J,.,Rough movements,Free Free,
+9110.90.00,00G,.,Other,Free Free,
+91.11,,,Watch cases and parts thereof:,,
+9111.10.00,00F,.,Cases of precious metal or of metal clad with precious metal,Free Free,
+9111.20.00,00K,.,"Cases of base metal, whether or not gold- or silver-plated",Free Free,
+9111.80.00,00A,.,Other cases,Free Free,
+9111.90.00,00E,.,Parts,Free Free,
+91.12,,,"Clock cases and cases of a similar type for other goods of this Chapter,",,
+,,,and parts thereof:,,
+9112.20.00,,,Cases,The rate applicable to,
+,,,,the goods for which the cases,
+,,,,have been designed,
+,11C,.,Of metal,,
+,19J,.,Other,,
+9112.90.00,00C,.,Parts,The rate applicable to,
+,,,,the goods for which the parts,
+,,,,have been designed,
+91.13,,,"Watch straps, watch bands and watch bracelets, and parts thereof:",,
+9113.10.00,00B,.,Of precious metal or of metal clad with precious metal,Free Free,
+9113.20.00,00F,.,"Of base metal, whether or not gold- or silver-plated",Free Free,
+9113.90.00,00A,.,Other,5 Free,
+,,,,*See Below,
+,,,,CA 1,
+,,,,RCEP 3.5,
+,,,,1/2025 3,
+91.14,,,Other clock or watch parts:,,
+9114.30.00,00H,.,Dials,Free Free,
+9114.40.00,00A,.,Plates and bridges,Free Free,
+9114.90.00,,,Other,Free Free,
+,20D,.,Springs,,
+,30A,.,Jewels,,
+,40J,.,Other,,
+92.01,,,"Pianos, including automatic pianos; harpsichords and other keyboard",,
+,,,stringed instruments:,,
+9201.10.00,00E,No.,Upright pianos,Free,Free
+9201.20.00,00J,No.,Grand pianos,Free,Free
+9201.90.00,00D,No.,Other,Free,Free
+92.02,,,"Other string musical instruments (for example, guitars, violins, harps):",,
+9202.10.00,00C,No.,Played with a bow,Free,Free
+9202.90.00,,,Other,Free,Free
+,01L,No.,Played by plucking,,
+,09F,.,Other,,
+92.05,,,"Wind musical instruments (for example, keyboard pipe organs,",,
+,,,"accordions, clarinets, trumpets, bagpipes), other than fairground",,
+,,,organs and mechanical street organs:,,
+9205.10.00,00H,.,Brass-wind instruments,Free,Free
+9205.90.00,,,Other,Free,Free
+,,,Keyboard pipe organs; harmoniums and similar keyboard instruments,,
+,,,with free metal reeds:,,
+,10D,No.,Pipe organs,,
+,13J,.,Other,,
+,15E,.,Accordions and similar instruments,,
+,17A,No.,Mouth organs,,
+,19H,.,Other,,
+92.06,,,,,
+9206.00.00,00B,.,"Percussion musical instruments (for example, drums, xylophones,",,
+,,,"cymbals, castanets, maracas)",Free,Free
+92.07,,,"Musical instruments, the sound of which is produced, or must be",,
+,,,"amplified, electrically (for example, organs, guitars, accordions):",,
+9207.10.00,,,"Keyboard instruments, other than accordions",Free,Free
+,,,Console organs:,,
+,01B,No.,Electronic,,
+,09H,No.,Other,,
+,,,Other:,,
+,,,Organs:,,
+,11K,No.,Electronic,,
+,19E,No.,Other,,
+,21G,No.,Electronic keyboards,,
+,29B,.,Other,,
+9207.90.00,,,Other,Free,Free
+,01A,No.,Guitars,,
+,09G,.,Other,,
+92.08,,,"Musical boxes, fairground organs, mechanical street organs,",,
+,,,"mechanical singing birds, musical saws and other musical instruments",,
+,,,not falling within any other heading of this Chapter; decoy calls of all,,
+,,,"kinds; whistles, call horns and other mouth-blown sound signalling",,
+,,,instruments:,,
+9208.10.00,00B,No.,Musical boxes,Free,Free
+9208.90.00,,,Other,Free,Free
+,03F,No.,Decoy calls,,
+,05B,No.,Whistles,,
+,09E,No.,Other,,
+92.09,,,"Parts (for example, mechanisms for musical boxes) and accessories",,
+,,,"(for example, cards, discs and rolls for mechanical instruments) of",,
+,,,"musical instruments; metronomes, tuning forks and pitch pipes of all",,
+,,,kinds:,,
+9209.30.00,00H,.,Musical instrument strings,Free,Free
+,,,Other:,,
+9209.91.00,00D,.,Parts and accessories for pianos,Free,Free
+9209.92.00,00J,.,Parts and accessories for the musical instruments of heading 92.02,Free,Free
+9209.94.00,,,Parts and accessories for the musical instruments of heading 92.07,Free,Free
+,01F,.,Of console organs,,
+,11C,.,Of guitars,,
+,19J,.,Other,,
+,,,"Parts (for example, mechanisms for musical, etc.—continued",,
+,,,Other—continued,,
+9209.99.00,,,Other,Free,Free
+,10H,No.,"Metronomes, tuning forks and pitch pipes",,
+,13B,.,Mechanisms for musical boxes,,
+,,,"Parts and accessories for keyboard pipe organs, harmoniums and",,
+,,,similar keyboard instruments with free metal reeds:,,
+,15J,.,"Organ pipes and stop knobs; action work, player mechanism, and",,
+,,,keys in frames or otherwise,,
+,17E,.,Other,,
+,29J,.,Other,,

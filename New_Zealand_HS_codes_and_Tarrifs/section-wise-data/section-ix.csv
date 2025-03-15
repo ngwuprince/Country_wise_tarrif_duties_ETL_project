@@ -1,0 +1,1796 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+44.01,,,"Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms;",,
+,,,"wood in chips or particles; sawdust and wood waste and scrap,",,
+,,,"whether or not agglomerated in logs, briquettes, pellets or similar",,
+,,,forms:,,
+,,,"Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms:",,
+4401.11.00,00E,.,Coniferous,Free,Free
+4401.12.00,00K,.,Non-coniferous,Free,Free
+,,,Wood in chips or particles:,,
+4401.21.00,,,Coniferous,Free,Free
+,01G,,,,
+,,,,,
+,,,,,
+,09B,,,,
+,,,,,
+,,,,,
+4401.22.00,,,Non-coniferous,Free,Free
+,01A,,,,
+,,,,,
+,,,,,
+,09G,,,,
+,,,,,
+,,,,,
+,,,"Sawdust and wood waste and scrap, agglomerated in logs, briquettes,",,
+,,,pellets or similar forms:,,
+4401.31.00,00B,.,Wood pellets,Free,Free
+4401.32.00,00G,.,Wood briquettes,Free,Free
+4401.39.00,12B,.,Other,Free,Free
+,,,"Sawdust and wood waste and scrap, not agglomerated:",,
+4401.41.00,00F,.,Sawdust,Free,Free
+4401.49.00,00B,.,Other,Free,Free
+44.02,,,"Wood charcoal (including shell or nut charcoal), whether or not",,
+,,,agglomerated:,,
+4402.10.00,00J,kg,Of bamboo,Free,Free
+4402.20.00,00B,kg,Of shell or nut,Free,Free
+4402.90.00,10E,kg,Other,Free,Free
+44.03,,,"Wood in the rough, whether or not stripped of bark or sapwood, or",,
+,,,roughly squared:,,
+,,,"Treated with paint, stains, creosote or other preservatives:",,
+4403.11.00,,,Coniferous,Free,Free
+,,,Saw logs and veneer logs:,,
+,10J,m3,Pinus radiata,,
+,15K,m3,Other,,
+,,,Other:,,
+,17F,m3,Pinus radiata,,
+,19B,m3,Other,,
+4403.12.00,,,Non-coniferous,Free,Free
+,10C,m3,Saw logs and veneer logs,,
+,19G,m3,Other,,
+,,,"Other, coniferous:",,
+4403.21.00,,," Of pine (Pinus spp.), of which the smallest cross-sectional dimension",,
+,,,is 15 cm or more,Free,Free
+,,,Saw logs and veneer logs:,,
+,12J,m3,Pinus radiata,,
+,16A,m3,Other,,
+,,,Other:,,
+,20K,m3,Pulpwood,,
+,22F,m3,Other,,
+4403.22.00,,,"Of pine (Pinus spp.), other",Free,Free
+,,,Saw logs and veneer logs:,,
+,12C,m3,Pinus radiata,,
+,16F,m3,Other,,
+,,,Other:,,
+,20D,m3,Pulpwood,,
+,22L,m3,Other,,
+,,,"Wood in the rough, whether or not stripped of bark, etc.continued",,
+,,,"Other, coniferouscontinued",,
+4403.23.00,,,"Of fir (Abies spp.) and spruce (Picea spp.), of which the smallest",,
+,,,cross-sectional dimension is 15 cm or more,Free,Free
+,12H,m3,Saw logs and veneer logs,,
+,,,Other:,,
+,16L,m3,Pulpwood,,
+,20J,m3,Other,,
+4403.24.00,,,"Of fir (Abies spp.) and spruce (Picea spp.), other",Free,Free
+,12B,m3,Saw logs and veneer logs,,
+,,,Other:,,
+,16E,m3,Pulpwood,,
+,20C,m3,Other,,
+4403.25.00,,,"Other, of which the smallest cross-sectional dimension is 15 cm or more",Free,Free
+,12G,m3,Saw logs and veneer logs,,
+,,,Other:,,
+,16K,m3,Pulpwood,,
+,20H,m3,Other,,
+4403.26.00,,,Other,Free,Free
+,12A,m3,Saw logs and veneer logs,,
+,,,Other:,,
+,16D,m3,Pulpwood,,
+,20B,m3,Other,,
+,,,"Other, of tropical wood:",,
+4403.41.00,00B,m3,"Dark Red Meranti, Light Red Meranti and Meranti Bakau",Free,Free
+4403.42.00,00G,m3,Teak,Free,Free
+4403.49.00,,,Other,Free,Free
+,01G,m3,"White Lauan, White Meranti, White Seraya, Yellow Meranti and Alan",,
+,12B,m3,"Keruing, Kapur, Jongkong, Jelutong and Kempas",,
+,17C,m3,"Okoum, Obeche, Sapelli, Sipo, Acajou dAfrique, Makor and Iroko",,
+,25D,m3,"Tiama, Mansonia, Ilomba, Dibtou, Limba and Azob",,
+,33E,m3,Merbau (Kwila),,
+,41F,m3,Ramin,,
+,59J,m3,Other,,
+,,,Other:,,
+4403.91.00,00L,m3,Of oak (Quercus spp.),Free,Free
+4403.93.00,10G,m3,"Of beech (Fagus spp.), of which the smallest cross-sectional dimension",,
+,,,is 15 cm or more,Free,Free
+4403.94.00,10A,m3,"Of beech (Fagus spp.), other",Free,Free
+4403.95.00,10F,m3,"Of birch (Betula spp.), of which the smallest cross-sectional dimension",,
+,,,is 15 cm or more,Free,Free
+4403.96.00,10L,m3,"Of birch (Betula spp.), other",Free,Free
+4403.97.00,00H,m3,Of poplar and aspen (Populus spp.),Free,Free
+4403.98.00,00B,m3,Of eucalyptus (Eucalyptus spp.),Free,Free
+4403.99.00,10D,m3,Other,Free,Free
+44.04,,,"Hoopwood; split poles; piles, pickets and stakes of wood, pointed",,
+,,,"but not sawn lengthwise; wooden sticks, roughly trimmed but not",,
+,,,"turned, bent or otherwise worked, suitable for the manufacture of",,
+,,,"walking-sticks, umbrellas, tool handles or the like; chipwood and",,
+,,,the like:,,
+4404.10.00,00E,.,Coniferous,Free,Free
+4404.20.00,,.,Non-coniferous,Free,Free
+,10F,.,Merbau (Kwila),,
+,15G,.,Ramin,,
+,19K,.,Other,,
+44.05,,,,,
+4405.00.00,00K,.,Wood wool; wood flour,Free,Free
+44.06,,,Railway or tramway sleepers (cross-ties) of wood:,,
+,,,Not impregnated:,,
+4406.11.00,00F,m3,Coniferous,Free,Free
+4406.12.00,00L,m3,Non-coniferous,Free,Free
+,,,Other:,,
+4406.91.00,00E,m3,Coniferous,Free,Free
+4406.92.00,00K,m3,Non-coniferous,Free,Free
+44.07,,,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not",,
+,,,"planed, sanded or end-jointed, of a thickness exceeding 6 mm:",,
+,,,Coniferous:,,
+4407.11,,,Of pine (Pinus spp.):,,
+,,,"Pinus lambertiana, Pinus strobus, Pinus monticola:",,
+4407.11.10,,,Planed,Free,Free
+,10G,m3,"Square dressed, structural",,
+,19L,m3,Other,,
+4407.11.11,00F,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.11.13,00J,m3,Other,Free,Free
+,,,Pinus radiata:,,
+4407.11.15,,,Planed,Free,Free
+,,,"Square dressed, structural:",,
+,10J,m3,Not preservative treated,,
+,19B,m3,Preservative treated,,
+,,,Other:,,
+,21D,m3,Not preservative treated,,
+,29K,m3,Preservative treated,,
+4407.11.17,,,Sanded or finger-jointed:,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10A,m3,Not preservative treated,,
+,19E,m3,Preservative treated,,
+4407.11.19,,,Other,Free,Free
+,10D,m3,Not preservative treated,,
+,19H,m3,Preservative treated,,
+,,,Other kinds:,,
+4407.11.29,,,Planed,Free,Free
+,10K,m3,"Square dressed, structural:",,
+,19C,m3,Other,,
+4407.11.31,,,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10D,m3,Not preservative treated,,
+,19H,m3,Preservative treated,,
+4407.11.39,00H,m3,Other,Free,Free
+4407.12,,,Of fir (Abies spp.) and spruce (Picea spp.):,,
+4407.12.10,,,Planed,Free,Free
+,10A,m3,"Square dressed, structural",,
+,19E,m3,Other,,
+4407.12.19,,,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10J,m3,Not preservative treated,,
+,19B,m3,Preservative treated,,
+4407.12.30,00E,m3,Other,Free,Free
+4407.13,,,"Of S-P-F (spruce (Picea spp.), pine (Pinus spp.) and fir (Abies spp.)):",,
+4407.13.10,,,Planed,Free,Free
+,10F,m3,"Square dressed, structural",,
+,19K,m3,Other,,
+4407.13.19,,,Sanded or finger jointed,Free,Free
+,10C,m3,Not preservative treated,,
+,19G,m3,Preservative treated,,
+4407.13.30,00K,m3,Other,Free,Free
+,,,"Wood sawn or chipped lengthwise, sliced or peeled, etc.continued",,
+,,,Coniferouscontinued,,
+4407.14,,,Of Hem-fir (Western hemlock (Tsuga heterophylla) and fir (Abies spp.)):,,
+4407.14.10,,,Planed,Free,Free
+,10L,m3,"Square dressed, structural",,
+,19D,m3,Other,,
+4407.14.19,,,Sanded or finger jointed,Free,Free
+,10H,m3,Not preservative treated,,
+,19A,m3,Preservative treated,,
+4407.14.30,00D,m3,Other,Free,Free
+4407.19,,,Other:,,
+,,,Juniper virginiana (Äúeastern red cedarÄù):,,
+4407.19.10,,,Planed,Free,Free
+,10C,m3,"Square dressed, structural",,
+,19G,m3,Other,,
+4407.19.11,00B,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.19.13,00E,m3,Other,Free,Free
+,,,Sequoia sempervierens (ÄúredwoodÄù):,,
+4407.19.15,,,Planed,Free,Free
+,10E,m3,"Square dressed, structural",,
+,19J,m3,Other,,
+4407.19.17,00L,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.19.19,00C,m3,Other,Free,Free
+,,,"Pseudotsuga douglasii (""Douglas fir"", ""Oregon pine""):",,
+4407.19.21,,,Planed,Free,Free
+,10E,m3,"Square dressed, structural",,
+,19J,m3,Other,,
+4407.19.23,00L,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.19.25,00C,m3,Other,Free,Free
+,,,"Thuja plicata (""western red cedar""):",,
+4407.19.27,,,Planed,Free,Free
+,10C,m3,"Square dressed, structural",,
+,19G,m3,Other,,
+4407.19.29,00J,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.19.31,00C,m3,Other,Free,Free
+4407.19.39,,,Other,Free,Free
+,10A,m3,Larch,,
+,15B,m3,Rimu,,
+,20J,m3,Other,,
+,,,Of tropical wood:,,
+4407.21,,,Mahogany (Swietenia spp.):,,
+4407.21.12,,,Planed,Free,Free
+,10C,m3,"Square dressed, structural",,
+,15D,m3,Other,,
+4407.21.25,00L,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Wood sawn or chipped lengthwise, sliced or peeled, etc.continued",,
+,,,Of tropical woodcontinued,,
+,,,Mahogany (Swietenia spp.)continued,,
+4407.21.95,00J,m3,Other,Free,Free
+4407.22,,,"Virola, Imbuia and Balsa:",,
+4407.22.12,,,Planed,Free,Free
+,10H,m3,"Square dressed, structural",,
+,15J,m3,Other,,
+4407.22.25,00E,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4407.22.95,00C,m3,Other,Free,Free
+4407.23,,,Teak:,,
+4407.23.10,,,Planed,Free,Free
+,10K,m3,"Square dressed, structural",,
+,14B,m3,Other,,
+4407.23.19,18B,m3,Sanded or finger jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4407.23.30,22D,m3,Other,Free,Free
+4407.25,,,"Dark Red Meranti, Light Red Meranti and Meranti Bakau:",,
+4407.25.10,,,Planed,Free,Free
+,01K,m3,"Square dressed, structural",,
+,09E,m3,Other,,
+4407.25.20,00G,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.25.90,00E,m3,Other,Free,Free
+4407.26,,,"White Lauan, White Meranti, White Seraya, Yellow Meranti and Alan:",,
+4407.26.10,,,Planed,Free,Free
+,01D,m3,"Square dressed, structural",,
+,09K,m3,Other,,
+4407.26.20,00A,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.26.90,00K,m3,Other,Free,Free
+4407.27,,,Sapelli:,,
+4407.27.01,,,Planed,Free,Free
+,10J,m3,"Square dressed, structural",,
+,19B,m3,Other,,
+4407.27.09,00B,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4407.27.19,00H,m3,Other,Free,Free
+4407.28,,,Iroko:,,
+4407.28.01,,,Planed,Free,Free
+,10C,m3,"Square dressed, structural",,
+,19G,m3,Other,,
+4407.28.09,00G,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.28.19,00B,m3,Other,Free,Free
+4407.29,,,Other:,,
+,,,"Wood sawn or chipped lengthwise, sliced or peeled, etc.continued",,
+,,,Of tropical woodcontinued,,
+,,,Othercontinued,,
+,,,Planed:,,
+4407.29.10,,,"Keruing, Ramin, Kapur, Jongkong, Merbau, Jelutong and Kempas",Free,Free
+,,,"Square dressed, structural:",,
+,10G,m3,Merbau (Kwila),,
+,15H,m3,Ramin,,
+,20D,m3,Other,,
+,,,Other:,,
+,27A,m3,Merbau (Kwila),,
+,29H,m3,Ramin,,
+,40J,m3,Other,,
+4407.29.25,,,"Okoum, Obeche, Sipo, Acajou dAfrique, Makor, Tiama,",,
+,,,"Mansonia, Ilomba, Dibtou, Limba and Azob",Free,Free
+,10D,m3,"Square dressed, structural",,
+,19H,m3,Other,,
+4407.29.30,,,Other,Free,Free
+,10H,m3,"Square dressed, structural",,
+,19A,m3,Other,,
+4407.29.40,,,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,12K,m3,"Keruing, Kapur, Jongkong, Jelutong and Kempas",,
+,15D,m3,"Okoum, Obeche, Sipo, Acajou dAfrique, Makor, Tiama,",,
+,,,"Mansonia, Ilomba, Dibtou, Limba and Azob",,
+,19G,m3,Merbau (Kwila),,
+,27H,m3,Ramin,,
+,49J,m3,Other,,
+4407.29.90,,,Other,Free,Free
+,12G,m3,"Keruing, Kapur, Jongkong, Jelutong and Kempas",,
+,15A,m3,"Okoum, Obeche, Sipo, Acajou dAfrique, Makor, Tiama,",,
+,,,"Mansonia, Ilomba, Dibtou, Limba and Azob",,
+,19D,m3,Merbau (Kwila),,
+,27E,m3,Ramin,,
+,49F,m3,Other,,
+,,,Other:,,
+4407.91,,,Of oak (Quercus spp.):,,
+4407.91.01,,,Planed,Free,Free
+,01H,m3,"Square dressed, structural",,
+,09C,m3,Other,,
+4407.91.09,00L,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.91.19,00F,m3,Other,Free,Free
+4407.92,,,Of beech (Fagus spp.):,,
+4407.92.01,,,Planed,Free,Free
+,01B,m3,"Square dressed, structural",,
+,09H,m3,Other,,
+4407.92.09,00E,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.92.19,00L,m3,Other,Free,Free
+4407.93,,,Of maple (Acer spp.):,,
+4407.93.01,,,Planed,Free,Free
+,10F,m3,"Square dressed, structural",,
+,19K,m3,Other,,
+4407.93.09,00K,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.93.19,00E,m3,Other,Free,Free
+,,,"Wood sawn or chipped lengthwise, sliced or peeled, etc.continued",,
+,,,Othercontinued,,
+4407.94,,,Of cherry (Prunus spp.):,,
+4407.94.01,,,Planed,Free,Free
+,10L,m3,"Square dressed, structural",,
+,19D,m3,Other,,
+4407.94.09,00D,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.94.19,00K,m3,Other,Free,Free
+4407.95,,,Of Ash (Fraxinus spp.):,,
+4407.95.01,,,Planed,Free,Free
+,10E,m3,"Square dressed, structural",,
+,19J,m3,Other,,
+4407.95.09,00J,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.95.19,00D,m3,Other,Free,Free
+4407.96,,,Of birch (Betula spp.):,,
+4407.96.10,,,Planed,Free,Free
+,10J,m3,"Square dressed, structural",,
+,19B,m3,Other,,
+4407.96.15,00C,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4407.96.19,00J,m3,Other,Free,Free
+4407.97,,,Of poplar and aspen (Populus spp.):,,
+4407.97.10,,,Planed,Free,Free
+,10C,m3,"Square dressed, structural",,
+,19G,m3,Other,,
+4407.97.15,00H,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4407.97.19,00C,m3,Other,Free,Free
+4407.99,,,Other:,,
+,,,"Hickory, Juglans species:",,
+4407.99.01,,,Planed,Free,Free
+,10C,m3,"Square dressed, structural",,
+,19G,m3,Other,,
+4407.99.09,10D,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.99.19,10K,m3,Other,Free,Free
+,,,Eucalyptus species:,,
+4407.99.21,,,Planed,Free,Free
+,01E,m3,"Square dressed, structural",,
+,09L,m3,Other,,
+4407.99.29,00H,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4407.99.39,00C,m3,Other,Free,Free
+,,,Other:,,
+4407.99.41,,,Planed,Free,Free
+,11C,m3,"Square dressed, structural",,
+,29F,m3,Other,,
+,,,"Wood sawn or chipped lengthwise, sliced or peeled, etc.continued",,
+,,,Othercontinued,,
+,,,Othercontinued,,
+,,,Othercontinued,,
+4407.99.49,11D,m3,Sanded or finger-jointed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4407.99.59,,,Other,Free,Free
+,10A,m3,Tawa,,
+,29B,m3,Other,,
+44.08,,,Sheets for veneering (including those obtained by slicing laminated,,
+,,,"wood), for plywood or for similar laminated wood and other wood,",,
+,,,"sawn lengthwise, sliced or peeled, whether or not planed, sanded,",,
+,,,"spliced or end-jointed, of a thickness not exceeding 6 mm:",,
+4408.1,,,Coniferous:,,
+4408.10.01,,,Planed,Free,Free
+,01B,m3,Pinus radiata,,
+,09H,m3,"Pseudotsuga douglasii (ÄúDouglas firÄù, ÄúOregon pineÄù)",,
+,19E,m3,Other,,
+4408.10.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,Not exceeding 1 mm in thickness:,,
+,,,Rotary:,,
+,01C,m3,Sequoia sempervirens (redwood),,
+,09J,m3,"Pseudotsuga douglasii (ÄúDouglas firÄù, ÄúOregon pineÄù)",,
+,11L,m3,Pinus radiata,,
+,19F,m3,"Juniperus virginiana (Äúeastern red cedarÄù),",,
+,,,"Pinus lambertiana, Pinus strobus, Pinus monticola",,
+,21H,m3,Thuja plicata (Äúwestern red cedarÄù),,
+,25L,m3,Rimu,,
+,29C,m3,Other,,
+,,,Sliced:,,
+,31E,m3,Sequoia sempervirens (redwood),,
+,35H,m3,"Pseudotsuga douglasii (ÄúDouglas firÄù, ÄúOregon pineÄù)",,
+,39L,m3,Pinus radiata,,
+,41B,m3,"Juniperus virginiana (Äúeastern red cedarÄù),",,
+,,,"Pinus lambertiana, Pinus strobus, Pinus monticola",,
+,45E,m3,Thuja plicata (Äúwestern red cedarÄù),,
+,47A,m3,Rimu,,
+,49H,m3,Other,,
+,,,Exceeding 1 mm in thickness:,,
+,,,Rotary:,,
+,51K,m3,Sequoia sempervirens (redwood),,
+,59E,m3,"Pseudotsuga douglasii (ÄúDouglas firÄù, ÄúOregon pineÄù)",,
+,61G,m3,Pinus radiata,,
+,69B,m3,"Juniperus virginiana (Äúeastern red cedarÄù),",,
+,,,"Pinus lambertiana, Pinus strobus, Pinus monticola",,
+,71D,m3,Thuja plicata (Äúwestern red cedarÄù),,
+,75G,m3,Rimu,,
+,79K,m3,Other,,
+,,,Sliced:,,
+,81A,m3,Sequoia sempervirens (redwood),,
+,85D,m3,"Pseudotsuga douglasii (ÄúDouglas firÄù, ÄúOregon pineÄù)",,
+,89G,m3,Pinus radiata,,
+,91J,m3,"Juniperus virginiana (Äúeastern red cedarÄù),",,
+,,,"Pinus lambertiana, Pinus strobus, Pinus monticola",,
+,95A,m3,Thuja plicata (Äúwestern red cedarÄù),,
+,97H,m3,Rimu,,
+,99D,m3,Other,,
+,,,Of tropical wood:,,
+4408.31,,,"Dark Red Meranti, Light Red Meranti and Meranti Bakau:",,
+4408.31.10,,,Planed,Free,Free
+,01C,m3,Meranti Bakau,,
+,09J,m3,Other,,
+,,,"Sheets for veneering (including those obtained by, etc.continued",,
+,,,Of tropical woodcontinued,,
+,,,"Dark Red Meranti, Light Red Meranti and Meranti Bakaucontinued",,
+4408.31.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,Meranti Bakau,,
+,,,Not exceeding 1 mm in thickness:,,
+,01G,m3,Rotary,,
+,09B,m3,Sliced,,
+,,,Exceeding 1 mm in thickness:,,
+,11D,m3,Rotary,,
+,19K,m3,Sliced,,
+,,,Other:,,
+,,,Not exceeding 1 mm in thickness:,,
+,21A,m3,Rotary,,
+,29G,m3,Sliced,,
+,,,Exceeding 1 mm in thickness:,,
+,31J,m3,Rotary,,
+,39D,m3,Sliced,,
+4408.39,,,Other:,,
+4408.39.10,,,Planed,Free,Free
+,01K,m3,"White Lauan, Sipo, Limba, Okoum, Obeche, Acajou dAfrique",,
+,,,"and Sapelli, Mahogany (Swietenia spp.)",,
+,11G,m3,Merbau (Kwila),,
+,17F,m3,Ramin,,
+,29K,m3,Other,,
+4408.39.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"White Lauan, Sipo, Limba, Okoum, Obeche, Acajou dAfrique",,
+,,,"and Sapelli, Mahogany (Swietenia spp.):",,
+,,,Not exceeding 1mm in thickness:,,
+,01C,m3,Rotary,,
+,09J,m3,Sliced,,
+,,,Exceeding 1mm in thickness:,,
+,11L,m3,Rotary,,
+,29C,m3,Sliced,,
+,,,Merbau (Kwila):,,
+,,,Not exceeding 1mm in thickness:,,
+,33A,m3,Rotary,,
+,35H,m3,Sliced,,
+,,,Exceeding 1 mm in thickness:,,
+,37D,m3,Rotary,,
+,43J,m3,Sliced,,
+,,,Ramin:,,
+,,,Not exceeding 1mm in thickness:,,
+,45E,m3,Rotary,,
+,47A,m3,Sliced,,
+,,,Exceeding 1 mm in thickness:,,
+,53F,m3,Rotary,,
+,55B,m3,Sliced,,
+,,,Other,,
+,,,Not exceeding 1 mm in thickness:,,
+,65K,m3,Rotary,,
+,67F,m3,Sliced,,
+,,,Exceeding 1 mm in thickness:,,
+,71D,m3,Rotary,,
+,79K,m3,Sliced,,
+4408.9,,,Other:,,
+,,,Other tropical hardwoods:,,
+4408.90.02,,,Planed,Free,Free
+,01H,m3,"Baboen, Palissandre du Brsil and Bois de Rose femelle",,
+,09C,m3,Other,,
+,,,"Sheets for veneering (including those obtained by, etc.continued",,
+,,,Othercontinued,,
+,,,Other tropical hardwoodscontinued,,
+4408.90.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,"Baboen, Palissandre du Brsil and Bois de Rose femelle",,
+,,,Not exceeding 1 mm in thickness:,,
+,01F,m3,Rotary,,
+,09A,m3,Sliced,,
+,,,Exceeding 1 mm in thickness:,,
+,11C,m3,Rotary,,
+,29F,m3,Sliced,,
+,,,Other:,,
+,,,Not exceeding 1 mm in thickness:,,
+,31H,m3,Rotary,,
+,39C,m3,Sliced,,
+,,,Exceeding 1 mm in thickness:,,
+,41E,m3,Rotary,,
+,49L,m3,Sliced,,
+,,,"Ash, hickory, Juglans species; oak:",,
+4408.90.11,00J,m3, Planed,Free,Free
+4408.90.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Not exceeding 1 mm in thickness:,,
+,01H,m3,Rotary,,
+,09C,m3,Sliced,,
+,,,Exceeding 1 mm in thickness:,,
+,11E,m3,Rotary,,
+,19L,m3,Sliced,,
+,,,Other:,,
+4408.90.21,,,Planed,Free,Free
+,01B,m3,Beech,,
+,09H,m3,Other,,
+4408.90.29,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Not exceeding 1 mm in thickness:,,
+,10B,m3,Rotary,,
+,13G,m3,Sliced,,
+,,,Exceeding 1 mm in thickness:,,
+,17K,m3,Rotary,,
+,29C,m3,Sliced,,
+44.09,,,"Wood (including strips and friezes for parquet flooring, not assembled)",,
+,,,"continuously shaped (tongued, grooved, rebated, chamfered, v-jointed,",,
+,,,"beaded, moulded, rounded or the like) along any of its edges, ends or",,
+,,,"faces, whether or not planed, sanded or end-jointed:",,
+4409.1,,,Coniferous:,,
+4409.10.01,00B,.,Drawn wood,Free,Free
+4409.10.09,00C,.,Moulded wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4409.10.19,,,Other,Free,Free
+,,,"Square dressed, structural:",,
+,01G,m3,Pinus radiata,,
+,09B,m3,"Pseudotsuga douglasii (ÄúDouglas firÄù, ÄúOregon pineÄù)",,
+,19K,m3,Other,,
+,,,Other:,,
+,21A,m3,Pinus radiata,,
+,29G,m3,"Pseudotsuga douglasii (ÄúDouglas firÄù, ÄúOregon pineÄù)",,
+,39D,m3,Other,,
+,,,"Wood (including strips and friezes for parquet flooring, etc.continued",,
+,,,Non-coniferous:,,
+4409.21,,,Of bamboo:,,
+4409.21.01,00L,.,Drawn wood,Free,Free
+4409.21.09,00A,.,Moulded wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4409.21.19,,,Other,Free,Free
+,10D,m3,"Square dressed, structural",,
+,19H,m3,Other,,
+4409.22,,,Of tropical wood:,,
+4409.22.10,,,Drawn wood,Free,Free
+,10A,.,Merbau (Kwila),,
+,15B,.,Ramin,,
+,19E,.,Other,,
+4409.22.15,,,Moulded wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,,,
+,10C,.,Merbau (Kwila),,
+,15D,.,Ramin,,
+,19G,.,Other,,
+4409.22.19,,,Other,Free,Free
+,,,"Square dressed, structural:",,
+,10J,m3,Merbau (Kwila),,
+,11G,m3,Ramin,,
+,13C,m3,Other,,
+,,,Other:,,
+,15K,m3,Merbau (Kwila),,
+,17F,m3,Ramin,,
+,19B,m3,Other,,
+4409.29,,,Other:,,
+4409.29.10,00F,.,Drawn wood,Free,Free
+4409.29.19,00C,.,Moulded wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4409.29.29,,,Other,Free,Free
+,,,"Square dressed, structural:",,
+,11D,m3,Beech,,
+,15G,m3,Other,,
+,,,Other:,,
+,19K,m3,Beech,,
+,49A,m3,Other,,
+44.1,,,"Particle board, oriented strand board (OSB) and similar board (for",,
+,,,"example, waferboard) of wood or other ligneous materials, whether or",,
+,,,not agglomerated with resins or other organic binding substances:,,
+,,,Of wood:,,
+4410.11.00,,,Particle board,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10A,m3,Unworked or not further worked than sanded,,
+,15B,m3,Surface-covered with melamine-impreganted paper,,
+,19E,m3,Surface-covered with decorative laminates of plastics,,
+,29B,m3,Other,,
+4410.12.00,,,Oriented strand board (OSB),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10F,m3,Unworked or not further worked than sanded,,
+,19K,m3,Other,,
+4410.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,10H,m3,Unworked or not further worked than sanded,,
+,15J,m3,Surface-covered with melamine-impreganted paper,,
+,19A,m3,Surface-covered with decorative laminates of plastics,,
+,29J,m3,Other,,
+4410.90.20,00K,m3,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+44.11,,,"Fibreboard of wood or other ligneous materials, whether or not",,
+,,,bonded with resins or other organic substances:,,
+,,,Medium density fibreboard (MDF):,,
+4411.12,,,Of a thickness not exceeding 5 mm:,,
+4411.12.01,00C,m3,Not mechanically worked or surface covered,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4411.12.09,00D,m3,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+4411.13,,,Of a thickness exceeding 5 mm but not exceeding 9 mm:,,
+4411.13.01,00H,m3,Not mechanically worked or surface covered,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4411.13.09,00J,m3,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4411.14,,,Of a thickness exceeding 9 mm:,,
+4411.14.01,00B,m3,Not mechanically worked or surface covered,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Fibreboard of wood or other ligneous materials, etc.continued",,
+,,,Medium density fibreboard (MDF)continued,,
+,,,Of a thickness exceeding 9 mmcontinued,,
+4411.14.09,00C,m3,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+4411.92,,,Of a density exceeding 0.8 g/cm3:,,
+4411.92.01,00B,m3,Not mechanically worked or surface covered,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4411.92.09,00C,m3,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4411.93,,,Of a density exceeding 0.5 g/cm3 but not exceeding 0.8 g/cm3:,,
+4411.93.01,00G,m3,Not mechanically worked or surface covered,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4411.93.09,00H,m3,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4411.94,,,Of a density not exceeding 0.5 g/cm3:,,
+4411.94.01,,,Not mechanically worked or surface covered,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10J,m3,Of a density exceeding 0.35 g/cm3,,
+,19B,m3,Other,,
+4411.94.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10K,m3,Of a density exceeding 0.35 g/cm3,,
+,19C,m3,Other,,
+44.12,,,"Plywood, veneered panels and similar laminated wood:",,
+4412.1,,,Of bamboo:,,
+4412.10.01,00B,m3,"Plywood consisting solely of sheets of wood, each ply not exceeding",,
+,,,6 mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4412.10.29,00D,m3,"Other, each ply exceeding 6 mm in thickness",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Plywood, veneered panels and similar laminated woodcontinued",,
+,,,Of bamboocontinued,,
+4412.10.49,00E,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Other plywood, consisting solely of sheets of wood (other than bamboo),",,
+,,,each ply not exceeding 6 mm thickness:,,
+4412.31,,,With at least one outer ply of tropical wood:,,
+4412.31.01,,,With at least one outer ply of the following tropical woods: Dark Red,,
+,,,"Meranti, Light Red Meranti, White Lauan, Sipo, Limba, Okoum,",,
+,,,"Obeche, Acajou dAfrique, Sapelli or Mahogany (Swietenia spp.)",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10A,m3,"Overlaid, including veneered",,
+,19E,m3,Other,,
+4412.31.09,,,ÄìWith at least one outer ply of other tropical wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,With at least one outer ply of Merbau (Kwila):,,
+,11L,m3,"Overlaid, including veneered",,
+,15C,m3,Other,,
+,,,With at least one outer ply of Ramin:,,
+,21H,m3,"Overlaid, including veneered",,
+,25L,m3,Other,,
+,,,Other:,,
+,31E,m3,"Overlaid, including veneered",,
+,49H,m3,Other,,
+4412.33.00,,," Other, with at least one outer ply of non-coniferous wood of the",,
+,,,"species alder (Alnus spp.), ash (Fraxinus spp.), beech (Fagus spp.),",,
+,,,"birch (Betula spp.), cherry (Prunus spp.), chestnut (Castanea spp.),",,
+,,,"elm (Ulmus spp.), eucalyptus (Eucalyptus spp.), hickory (Carya spp.),",,
+,,,"horse chestnut (Aesculus spp.), lime (Tilia spp.), maple (Acer spp.),",,
+,,,"oak (Quercus spp.), plane tree (Platanus spp.), poplar and aspen",,
+,,,"(Populus spp.), robinia (Robinia spp.), tulipwood (Liriodendron spp.)",,
+,,,or walnut (Juglans spp.),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10D,m3,"Overlaid, including veneered",,
+,19H,m3,Other,,
+4412.34,,,"Other, with at least one outer ply of non-coniferous wood not specified",,
+,,,under Tariff item 4412.33.00:,,
+4412.34.10,,,"Of Baboen, Palissandre du Bresil or Bois de Rose femelle",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10D,m3,"Overlaid, including veneered",,
+,19H,m3,Other,,
+4412.34.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10A,m3,"Overlaid, including veneered",,
+,19E,m3,Other,,
+,,,"Plywood, veneered panels and similar laminated woodcontinued",,
+,,,"Other plywood, consisting solely of sheets of wood, etc.continued",,
+4412.39.10,,,"Other, with both outer plies of coniferous wood",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10G,m3,"Overlaid, including veneered",,
+,19L,m3,Other,,
+,,,Laminated veneered lumber (LVL):,,
+4412.41,,,With at least one outer ply of tropical wood:,,
+4412.41.10,,,Containing at least one layer of particle board,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10D,m3,With at least one ply of Merbau (Kwila),,
+,20A,m3,With at least one ply of Ramin,,
+,30J,m3,Other,,
+,,,Other:,,
+4412.41.20,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,With at least one ply of Merbau (Kwila):,,
+,10K,m3,"Overlaid, including veneered",,
+,20G,m3,Other,,
+,,,With at least one ply of Ramin:,,
+,30D,m3,"Overlaid, including veneered",,
+,40A,m3,Other,,
+,,,Other:,,
+,50J,m3,"Overlaid, including veneered",,
+,60F,m3,Other,,
+4412.41.30,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10E,m3,With at least one ply of Merbau (Kwila),,
+,20B,m3,With at least one ply of Ramin,,
+,30K,m3,Other,,
+4412.42,,,"Other, with at least one outer ply of non-coniferous wood:",,
+,,,With at least one ply of tropical wood:,,
+4412.42.10,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,With at least one ply of Merbau (Kwila):,,
+,10J,m3,"Overlaid, including veneered",,
+,20F,m3,Other,,
+,,,With at least one ply of Ramin:,,
+,30C,m3,"Overlaid, including veneered",,
+,40L,m3,Other,,
+,,,Other:,,
+,50H,m3,"Overlaid, including veneered",,
+,60E,m3,Other,,
+,,,"Plywood, veneered panels and similar laminated woodcontinued",,
+,,,Laminated veneered lumber (LVL)continued,,
+,,,"Other, with at least one outer ply of non-coniferous woodcontinued",,
+,,,With at least one ply of tropical woodcontinued,,
+4412.42.20,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10D,m3,With at least one ply of Merbau (Kwila),,
+,20A,m3,With at least one ply of Ramin,,
+,30J,m3,Other,,
+4412.42.30,00B,.,"Other, containing at least one layer of particle board",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+4412.42.40,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10E,m3,"Overlaid, including veneered",,
+,20B,m3,Other,,
+4412.42.50,00C,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4412.49,,,"Other, with both outer plies of coniferous wood:",,
+,,,With at least one ply of tropical wood:,,
+4412.49.10,,,Containing at least one layer of particle board,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10L,m3,With at least one ply of Merbau (Kwila),,
+,20H,m3,With at least one ply of Ramin,,
+,30E,m3,Other,,
+,,,Other:,,
+4412.49.20,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,With at least one ply of Merbau (Kwila):,,
+,10F,m3,"Overlaid, including veneered",,
+,20C,m3,Other,,
+,,,With at least one ply of Ramin:,,
+,30L,m3,"Overlaid, including veneered",,
+,40H,m3,Other,,
+,,,Other:,,
+,50E,m3,"Overlaid, including veneered",,
+,60B,m3,Other,,
+4412.49.30,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10A,m3,With at least one ply of Merbau (Kwila),,
+,20J,m3,With at least one ply of Ramin,,
+,30F,m3,Other,,
+,,,"Plywood, veneered panels and similar laminated woodcontinued",,
+,,,Laminated veneered lumber (LVL)continued,,
+,,,"Other, with both outer plies of coniferous woodcontinued",,
+4412.49.40,00K,.,"Other, containing at least one layer of particle board",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+4412.49.50,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10B,m3,"Overlaid, including veneered",,
+,20K,m3,Other,,
+4412.49.60,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10H,.,"Overlaid, including veneered",,
+,20E,.,Other,,
+,,,"Blockboard, laminboard and battenboard:",,
+4412.51,,,With at least one outer ply of tropical wood:,,
+4412.51.10,,,Containing at least one layer of particle board,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10H,m3,With at least one ply of Merbau (Kwila),,
+,20E,m3,With at least one ply of Ramin,,
+,30B,m3,Other,,
+,,,Other:,,
+4412.51.20,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,With at least one ply of Merbau (Kwila),,
+,10C,m3,"Overlaid, including veneereed",,
+,20L,m3,Other,,
+,,,With at least one ply of Ramin,,
+,30H,m3,"Overlaid, including veneered",,
+,40E,m3,Other,,
+,,,Other,,
+,50B,m3,"Overlaid, including veneered",,
+,60K,m3,Other,,
+4412.51.30,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10J,m3,With at least one ply of Merbau (Kwila),,
+,20F,m3,With at least one ply of Ramin,,
+,30C,m3,Other,,
+4412.52,,,"Other, with at least one outer ply of non-coniferous wood:",,
+,,,With at least one ply of tropical wood:,,
+,,,"Plywood, veneered panels and similar laminated woodcontinued",,
+,,,"Blockboard, laminboard and battenboardcontinued",,
+,,,"Other, with at least one outer ply of non-coniferous woodcontinued",,
+,,,With at least one ply of tropical woodcontinued,,
+4412.52.10,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,With at least one ply of Merbau (Kwila),,
+,10B,m3,"Overlaid, including veneered",,
+,20K,m3,Other,,
+,,,With at least one ply of Ramin,,
+,30G,m3,"Overlaid, including veneered",,
+,40D,m3,Other,,
+,,,Other,,
+,50A,m3,"Overlaid, including veneered",,
+,60J,m3,Other,,
+4412.52.20,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10H,m3,With at least one ply of Merbau (Kwila),,
+,20E,m3,With at least one ply of Ramin,,
+,30B,m3,Other,,
+,,,Other:,,
+4412.52.30,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10C,m3,"Overlaid, including veneered",,
+,20L,m3,Other,,
+4412.52.40,00A,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4412.59,,,"Other, with both outer plies of coniferous wood:",,
+,,,With at least one ply of tropical wood:,,
+4412.59.10,,,Containing at least one layer of particle board,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10D,m3,With at least one ply of Merbau (Kwila),,
+,20A,m3,With at least one ply of Ramin,,
+,30J,m3,Other,,
+,,,Other:,,
+4412.59.20,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,With at least one ply of Merbau (Kwila),,
+,10K,m3,"Overlaid, including veneered",,
+,20G,m3,Other,,
+,,,With at least one ply of Ramin,,
+,30D,m3,"Overlaid, including veneered",,
+,40A,m3,Other,,
+,,,Other,,
+,50J,m3,"Overlaid, including veneered",,
+,60F,m3,Other,,
+,,,"Plywood, veneered panels and similar laminated woodcontinued",,
+,,,"Blockboard, laminboard and battenboardcontinued",,
+,,,"Other, with both outer plies of coniferous woodcontinued",,
+,,,With at least one ply of tropical woodcontinued,,
+,,,Othercontinued,,
+4412.59.30,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10E,m3,With at least one ply of Merbau (Kwila),,
+,20B,m3,With at least one ply of Ramin,,
+,30K,m3,Other,,
+,,,Other:,,
+4412.59.40,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10L,m3,"Overlaid, including veneered",,
+,20H,m3,Other,,
+4412.59.50,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10F,.,"Overlaid, including veneered",,
+,20C,.,Other,,
+,,,Other:,,
+4412.91,,,With at least one outer ply of tropical wood:,,
+4412.91.10,,,Containing at least one layer of particle board,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10B,m3,With at least one ply of Merbau (Kwila),,
+,20K,m3,With at least one ply of Ramin,,
+,30G,m3,Other,,
+,,,Other:,,
+4412.91.20,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,With at least one ply of Merbau (Kwila),,
+,10H,m3,"Overlaid, including veneered",,
+,20E,m3,Other,,
+,,,With at least one ply of Ramin,,
+,30B,m3,"Overlaid, including veneered",,
+,40K,m3,Other,,
+,,,Other,,
+,50G,m3,"Overlaid, including veneered",,
+,60D,m3,Other,,
+4412.91.30,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10C,m3,With at least one ply of Merbau (Kwila),,
+,20L,m3,With at least one ply of Ramin,,
+,30H,m3,Other,,
+,,,"Plywood, veneered panels and similar laminated woodcontinued",,
+,,,Othercontinued,,
+4412.92,,,"Other, with at least one outer ply of non-coniferous wood:",,
+,,,With at least one ply of tropical wood:,,
+4412.92.10,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,With at least one ply of Merbau (Kwila):,,
+,10G,m3,"Overlaid, including veneered",,
+,20D,m3,Other,,
+,,,With at least one ply of Ramin:,,
+,30A,m3,"Overlaid, including veneered",,
+,40J,m3,Other,,
+,,,Other:,,
+,50F,m3,"Overlaid, including veneered",,
+,60C,m3,Other,,
+4412.92.20,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10B,m3,With at least one ply of Merbau (Kwila),,
+,20K,m3,With at least one ply of Ramin,,
+,30G,m3,Other,,
+4412.92.30,00L,.,"Other, containing at least one layer of particle board",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+4412.92.40,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10C,m3,"Overlaid, including veneered",,
+,20L,m3,Other,,
+4412.92.50,00A,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4412.99,,,"Other, with both outer plies of coniferous wood:",,
+,,,With at least one ply of tropical wood:,,
+4412.99.10,,,Containing at least one layer of particle board,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10J,m3,With at least one ply of Merbau (Kwila),,
+,20F,m3,With at least one ply of Ramin,,
+,30C,m3,Other,,
+,,,"Plywood, veneered panels and similar laminated woodcontinued",,
+,,,Othercontinued,,
+,,,"Other, with both outer plies of coniferous woodcontinued",,
+,,,With at least one ply of tropical woodcontinued,,
+,,,Other,,
+4412.99.20,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,With at least one ply of Merbau (Kwila):,,
+,10D,m3,"Overlaid, including veneered",,
+,20A,m3,Other,,
+,,,With at least one ply of Ramin:,,
+,30J,m3,"Overlaid, including veneered",,
+,40F,m3,Other,,
+,,,Other:,,
+,50C,m3,"Overlaid, including veneered",,
+,60L,m3,Other,,
+4412.99.30,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10K,m3,With at least one ply of Merbau (Kwila),,
+,20G,m3,With at least one ply of Ramin,,
+,30D,m3,Other,,
+4412.99.40,00H,.,"Other, containing at least one layer of particle board",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+4412.99.50,,,Each ply exceeding 6mm in thickness,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10L,m3,"Overlaid, including veneered",,
+,20H,m3,Other,,
+4412.99.60,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10F,.,"Overlaid, including veneered",,
+,20C,.,Other,,
+44.13,,,,,
+4413.00.00,00L,m3,"Densified wood, in blocks, plates, strips or profile shapes",Free,Free
+44.14,,,"Wooden frames for paintings, photographs, mirrors or similar objects",,
+4414.10.00,00B,.,Of tropical wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+4414.90.00,00A,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+44.15,,,"Packing cases, boxes, crates, drums and similar packings, of wood;",,
+,,,"cable-drums of wood; pallets, box pallets and other load boards, of",,
+,,,wood; pallet collars of wood:,,
+4415.1,,,"Cases, boxes, crates, drums and similar packings; cable-drums:",,
+4415.10.01,00G,.,Returned empty containers identifiable as such to the satisfaction of,,
+,,,Customs,Free,Free
+4415.10.09,,,Other,Free,Free
+,,,"Timber for cases, boxes, crates, drums and similar packings,",,
+,,,"unassembled, in shooks:",,
+,,,Rough sawn:,,
+,01F,m3,Pinus radiata,,
+,09A,m3,Other,,
+,,,Sawn dressed:,,
+,11C,m3,Pinus radiata,,
+,19J,m3,Other,,
+,29F,.,Other,,
+4415.2,,,"Pallets, box pallets and other load boards; pallet collars",,
+4415.20.10,00K,.,"Pallets, box pallets and other load boards",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4415.20.90,00C,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+44.16,,,,,
+4416.00.00,,,"Casks, barrels, vats, tubs and other coopers products and parts",,
+,,,"thereof, of wood, including staves",Free,Free
+,01C,.,Returned empty containers,,
+,,,Casks and barrels:,,
+,11L,.,"Unassembled, suited for packing meat products, whether",,
+,,,or not including hoops,,
+,19F,.,Other,,
+,21H,.,"Vats, tubs, buckets and other completed coopers products",,
+,29C,.,Bungs,,
+,31E,.,Staves,,
+,39L,.,Other,,
+44.17,,,,,
+4417,,,"Tools, tool bodies, tool handles, broom or brush bodies and handles, of",,
+,,,"wood; boot or shoe lasts and trees, of wood:",,
+4417.00.01,00K,.,Tools and tool bodies,Free,Free
+,,,Tool handles:,,
+4417.00.11,00E,No.,"Broom, mop, hoe, rake, and similar",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+4417.00.19,00F,No.,Other,Free,Free
+4417.00.21,00L,.,"Brush handles, brush and broom bodies",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4417.00.29,00A,.,Boot and shoe lasts and trees,Free,Free
+44.18,,,"Builders joinery and carpentry of wood, including cellular wood",,
+,,,"panels, assembled flooring panels, shingles and shakes:",,
+,,,"Windows, French-doors and their frames:",,
+4418.11.00,00K,.,Of tropical wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4418.19.00,00F,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Doors and their frames and thresholds:,,
+4418.21.00,,,Of tropical wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Exterior and entrance doors:,,
+,10L,No.,Exterior and entrance doors of a height of 1980 mm or more,,
+,12G,No.,Other,,
+,,,Internal doors of a height of 1980 mm or more:,,
+,20H,No.,Louvred doors,,
+,22D,No.,"Folding doors (for example bi-fold, tri-fold) other than louvred doors",,
+,24L,No.,Other,,
+,,,Other doors:,,
+,30E,No.,Cabinet and furniture doors,,
+,32A,No.,Other,,
+,40B,No.,Frames and thresholds only,,
+,,,Parts of doors:,,
+,50K,.,"Door facings, mouldings, skins",,
+,52F,.,Other,,
+4418.29.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Exterior and entrance doors:,,
+,10G,No.,Exterior and entrance doors of a height of 1980 mm or more,,
+,12C,No.,Other,,
+,,,Internal doors of a height of 1980 mm or more:,,
+,20D,No.,Louvred doors,,
+,22L,No.,"Folding doors (for example bi-fold, tri-fold) other than louvred doors",,
+,24G,No.,Other,,
+,,,Other doors:,,
+,30A,No.,Cabinet and furniture doors,,
+,32H,No.,Other,,
+,40J,No.,Frames and thresholds only,,
+,,,Parts of doors:,,
+,50F,.,"Door facings, mouldings, skins",,
+,52B,.,Other,,
+4418.30.10,00H,.,Posts and beams other than products of subheadings 4418.81 to 4418.89,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+4418.40.00,00F,.,Shuttering for concrete constructional work,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4418.50.00,00K,.,Shingles and shakes,Free,Free
+,,,Assembled flooring panels:,,
+4418.73,,,Of bamboo or with at least the top layer (wear layer) of bamboo,,
+,,,"Builders joinery and carpentry of wood, including, etc.continued",,
+,,,Assembled flooring panelscontinued,,
+,,,"Of bamboo or with at least the top layer (wear layer), etc.continued",,
+4418.73.10,00F,.,For mosaic floors,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,"Other, multilayer:",,
+4418.73.11,00B,.,Parquet panels,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4418.73.13,00E,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+4418.73.15,00H,.,Parquet panels,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4418.73.19,00C,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4418.74.00,00E,.,"Other, for mosaic floors",5,Free
+,,,,,*See Below
+,,,,,CA Free
+4418.75,,,"Other, multilayer:",,
+4418.75.10,00E,.,Parquet panels,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4418.75.19,00B,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4418.79,,,Other:,,
+,,,,,
+4418.79.10,00C,.,Parquet panels,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4418.79.19,00L,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Engineered structural timber products:,,
+4418.81.00,00E,.,Glue-laminated timber (glulam),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+4418.82.00,00K,.,Cross-laminated timber (CLT or X-lam),5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+4418.83.00,00D,.,I beams,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,"Builders joinery and carpentry of wood, including, etc.continued",,
+,,,Engineered structural timber productscontinued,,
+4418.89.00,00A,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,Other:,,
+4418.91.00,10F,.,Of bamboo,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+4418.92.00,00C,.,Cellular wood panels,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+4418.99.00,10B,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+44.19,,,"Tableware and kitchenware, of wood:",,
+,,,Of bamboo:,,
+4419.11.00,00H,.,"Bread boards, chopping boards and similar boards",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4419.12.00,00B,.,Chopsticks,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4419.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10A,.,"Spoons and forks, wooden trays of all kinds and fancy bowls",,
+,15B,.,Capacity measures,,
+,19E,.,Other,,
+4419.20.00,,,Of tropical wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10D,.,"Spoons and forks, wooden trays of all kinds and fancy bowls",,
+,20A,.,Capacity measures,,
+,30J,.,Chopsticks,,
+,40F,.,Other,,
+4419.90.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,12F,.,"Spoons and forks, wooden trays of all kinds and fancy bowls",,
+,16J,.,Capacity measures,,
+,18E,.,Chopsticks,,
+,20G,.,Other,,
+44.2,,,Wood marquetry and inlaid wood; caskets and cases for jewellery or,,
+,,,"cutlery, and similar articles, of wood; statuettes and other ornaments,",,
+,,,of wood; wooden articles of furniture not falling in Chapter 94:,,
+,,,Statuettes and other ornaments:,,
+4420.11,,,Of tropical wood:,,
+4420.11.10,00G,.,"Beads, not mounted, set or strung",Free,Free
+4420.11.20,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10K,.,Statuettes,,
+,90H,.,Other ornaments,,
+4420.19,,,Other:,,
+4420.19.10,00C,.,"Beads, not mounted, set or strung",Free,Free
+4420.19.20,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10F,.,Statuettes,,
+,90D,.,Other ornaments,,
+4420.9,,,Other:,,
+4420.90.01,00B,.,Wood marquetry and inlaid wood,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4420.90.09,00C,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+44.21,,,Other articles of wood:,,
+4421.10.00,00E,.,Clothes hangers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4421.20.00,,,Coffins,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10F,.,Of bamboo,,
+,20C,.,Other,,
+,,,Other:,,
+4421.91,,,Of bamboo:,,
+4421.91.10,00D,.,"Spools, cops, bobbins, sewing thread reels and the like, of turned",,
+,,,wood,Free,Free
+4421.91.15,,,Oars and paddles,Free,Free
+,10C,No.,Racing and surf-boat,,
+,19G,No.,Other,,
+4421.91.17,00J,.,"Fans and handscreens, non-mechanical; hand knitting needles; match",,
+,,,splints; pegs or pins for footwear,Free,Free
+4421.91.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10J,.,"Beehives and frames thereof, including unassembled components",,
+,,,for use in the assembly thereof,,
+,15K,.,"Planar forms of wood formed lengthwise along the edge, tongued",,
+,,,"and grooved, one face having been treated by sand blasting,",,
+,,,moulding or otherwise to produce a weathered or like decorative,,
+,,,effect; scaffold planks of laminated wood,,
+,17F,.,Wood paving blocks,,
+,20F,.,Other,,
+4421.99,,,Other:,,
+4421.99.10,00L,.,"Spools, cops, bobbins, sewing thread reels and the like, of turned wood",Free,Free
+4421.99.15,,,Oars and paddles,Free,Free
+,10K,No.,Racing and surf-boat,,
+,19C,No.,Other,,
+4421.99.17,00E,.,"Fans and handscreens, non-mechanical; hand knitting needles; match",,
+,,,splints; pegs or pins for footwear,Free,Free
+4421.99.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10E,.,".Beehives and frames thereof, including unassembled components",,
+,,,for use in the assembly thereof,,
+,15F,.,"Planar forms of wood formed lengthwise along the edge, tongued",,
+,,,"and grooved, one face having been treated by sand blasting,",,
+,,,moulding or otherwise to produce a weathered or like decorative,,
+,,,effect; scaffold planks of laminated wood,,
+,17B,.,Wood paving blocks,,
+,20B,.,Other,,
+45.01,,,"Natural cork, raw or simply prepared; waste cork; crushed,",,
+,,,granulated or ground cork:,,
+4501.10.00,00G,kg,"Natural cork, raw or simply prepared",Free,Free
+4501.90.00,00F,kg,Other,Free,Free
+45.02,,,,,
+4502.00.00,00A,kg,"Natural cork, debacked or roughly squared, or in rectangular",,
+,,,"(including square) blocks, plates, sheets or strip, (including",,
+,,,sharp-edged blanks for corks or stoppers),Free,Free
+45.03,,,Articles of natural cork:,,
+4503.10.00,00C,.,Corks and stoppers,Free,Free
+4503.90.00,00B,.,Other,Free,Free
+45.04,,,Agglomerated cork (with or without a binding substance) and articles,,
+,,,of agglomerated cork:,,
+4504.10.00,,,"Blocks, plates, sheets and strip; tiles of any shape;",,
+,,,"solid cylinders, including discs",Free,Free
+,,,"Blocks, plates, sheets and strip of agglomerated cork:",,
+,01K,m2,Sheets,,
+,09E,.,Other,,
+,,,Tiles:,,
+,11G,.,Floor tiles other than those merely cut into rectangles,,
+,,,from a larger sheet,,
+,19B,.,Other,,
+,29K,.,Other,,
+4504.9,,,Other:,,
+4504.90.01,00G,.,"Washers, gaskets, jointings, seals and similar packings",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4504.90.11,00B,.,Table mats,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4504.90.18,,,Other,Free,Free
+,01E,.,Floor mats,,
+,09L,.,Other,,
+46.01,,,"Plaits and similar products of plaiting materials, whether or not",,
+,,,"assembled into strips; plaiting materials, plaits and similar products",,
+,,,"of plaiting materials, bound together in parallel strands or woven, in",,
+,,,"sheet form, whether or not being finished articles (for example, mats,",,
+,,,"matting, screens):",,
+,,,"Mats, matting and screens of vegetable materials:",,
+4601.21.00,00A,.,Of bamboo,Free,Free
+4601.22.00,00F,.,Of rattan,Free,Free
+4601.29.00,00H,.,Other,Free,Free
+,,,Other:,,
+4601.92.00,,,Of bamboo,Free,Free
+,10J,.,"Plaits and similar products, whether or not assembled into strips",,
+,19B,.,Other,,
+4601.93.00,,,Of rattan,Free,Free
+,10C,.,"Plaits and similar products, whether or not assembled into strips",,
+,19G,.,Other,,
+4601.94.00,,,Of other vegetable materials,Free,Free
+,10H,.,"Plaits and similar products of plaiting materials, whether or not",,
+,,,assembled into strips,,
+,19A,.,Other,,
+4601.99.00,,,Other,Free,Free
+,11J,.,"Plaits and similar products of plaiting materials, whether or not",,
+,,,assembled into strips,,
+,19D,.,Other,,
+46.02,,,"Basketwork, wickerwork and other articles, made directly to shape",,
+,,,from plaiting materials or made up from goods of heading 46.01;,,
+,,,articles of loofah:,,
+,,,Of vegetable materials:,,
+4602.11,,,Of bamboo:,,
+4602.11.01,00B,.,Floor coverings,Free,Free
+4602.11.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10L,.,Picnic sets,,
+,19D,.,Other,,
+4602.12,,,Of rattan:,,
+4602.12.01,00G,.,Floor coverings,Free,Free
+4602.12.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10E,.,Picnic sets,,
+,19J,.,Other,,
+4602.19,,,Other:,,
+4602.19.01,,,Articles of loofah; floor coverings,Free,Free
+,10F,.,Articles of loofah,,
+,19K,.,Floor coverings,,
+4602.19.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10G,.,Picnic sets,,
+,19L,.,Other,,
+4602.9,,,Other:,,
+4602.90.01,00G,.,Floor coverings,Free,Free
+4602.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01F,.,Picnic sets,,
+,09A,.,Other,,

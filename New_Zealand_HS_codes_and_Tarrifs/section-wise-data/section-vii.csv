@@ -1,0 +1,2142 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+,,,I.- PRIMARY FORMS,,
+39.01,,,"Polymers of ethylene, in primary forms:",,
+3901.10.00,,,Polyethylene having a specific gravity of less than 0.94,Free,Free
+,01E,kg,"Ground polyethylene, rotational moulding grade",,
+,05H,kg,Other linear low density polyethylene (LLDPE),,
+,10D,kg,Other,,
+3901.20.00,,,Polyethylene having a specific gravity of 0.94 or more,Free,Free
+,01J,kg,"Ground polyethylene, rotational moulding grade",,
+,09D,kg,Other,,
+3901.3,,,Ethylene-vinyl acetate copolymers:,,
+3901.30.01,00L,kg,"Liquids and pastes, including dispersions (emulsions and suspensions)",,
+,,,and solutions,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+3901.30.09,00A,kg,Other,Free,Free
+3901.40.00,00H,kg," Ethylene-alpha-olefin copolymers, having a specific gravity of",,
+,,,less than 0.94,Free,Free
+3901.90.00,10C,kg,Other,Free,Free
+39.02,,,"Polymers of propylene or of other olefins, in primary forms:",,
+3902.10.00,00E,kg,Polypropylene,Free,Free
+3902.20.00,00J,kg,Polyisobutylene,Free,Free
+3902.30.00,00B,kg,Propylene copolymers,Free,Free
+3902.90.00,00D,kg,Other,Free,Free
+39.03,,,"Polymers of styrene, in primary forms:",,
+,,,Polystyrene:,,
+3903.11.00,00H,kg,Expansible,Free,Free
+3903.19.00,00D,kg,Other,Free,Free
+3903.20.00,00G,kg,Styrene-acrylonitrile (SAN) copolymers,Free,Free
+3903.30.00,,,Acrylonitrile-butadiene-styrene (ABS) copolymers,Free,Free
+,01J,kg,Acrylonitrile-butadiene-styrene (ABS) copolymers not mixed with any,,
+,,,other substance,,
+,09D,kg,Other,,
+3903.9,,,Other:,,
+3903.90.01,,,"Liquids and pastes, including dispersions (emulsions and suspensions)",,
+,,,and solutions,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01G,kg,Styrene copolymers,,
+,09B,kg,Other,,
+3903.90.09,,,Other,Free,Free
+,01H,kg,Styrene copolymers,,
+,09C,kg,Other,,
+39.04,,,"Polymers of vinyl chloride or of other halogenated olefins, in primary",,
+,,,forms:,,
+3904.10.00,00A,kg,"Poly(vinyl chloride), not mixed with any other substances",Free,Free
+,,,Other poly(vinyl chloride):,,
+3904.21.00,00K,kg,Non-plasticised,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+3904.22.00,00D,kg,Plasticised,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3904.30.00,,,Vinyl chloride-vinyl acetate copolymers,Free,Free
+,01G,kg,"Liquids and pastes, including dispersions (emulsions and suspensions)",,
+,,,and solutions,,
+,09B,kg,Other,,
+3904.40.00,,,Other vinyl chloride copolymers,Free,Free
+,01L,kg,"Liquids and pastes, including dispersions (emulsions and suspensions)",,
+,,,and solutions,,
+,09F,kg,Other,,
+,,,"Polymers of vinyl chloride or of other halogenated, etc.continued",,
+3904.50.00,,,Vinylidene chloride polymers,Free,Free
+,01D,kg,"Liquids and pastes, including dispersions (emulsions and suspensions)",,
+,,,and solutions,,
+,09K,kg,Other,,
+,,,Fluoro-polymers:,,
+3904.61.00,00D,kg,Polytetrafluoroethylene,Free,Free
+3904.69.00,00L,kg,Other,Free,Free
+3904.90.00,00L,kg,Other,Free,Free
+39.05,,,"Polymers of vinyl acetate or of other vinyl esters, in primary forms;",,
+,,,other vinyl polymers in primary forms:,,
+,,,Poly(vinyl acetate):,,
+3905.12.00,00J,kg,In aqueous dispersion,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+3905.19.00,01J,kg,Other,Free,Free
+,,,Vinyl acetate copolymers:,,
+3905.21.00,00H,kg,In aqueous dispersion,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+3905.29.00,00D,kg,Other,Free,Free
+3905.30.00,00G,kg,"Poly(vinyl alcohol), whether or not containing unhydrolysed acetate",,
+,,,groups,Free,Free
+,,,Other:,,
+3905.91.00,00C,kg,Copolymers,Free,Free
+3905.99.00,00K,kg,Other,Free,Free
+39.06,,,Acrylic polymers in primary forms:,,
+3906.1,,,Poly(methyl methacrylate):,,
+3906.10.01,00D,kg,"Liquids and pastes, including dispersions (emulsions and suspensions)",,
+,,,and solutions,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+3906.10.09,00E,kg,Other,Free,Free
+3906.9,,,Other:,,
+3906.90.01,,,"Liquids and pastes, including dispersions (emulsions and suspensions)",,
+,,,and solutions,5,Free
+,,,,,*See Below
+,,,,,CPT Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01A,kg,Acrylic copolymers,,
+,09G,kg,Other,,
+3906.90.09,,,Other,Free,Free
+,01B,kg,Acrylic copolymers,,
+,09H,kg,Other,,
+39.07,,,"Polyacetals, other polyethers and epoxide resins, in primary forms;",,
+,,,"polycarbonates, alkyd resins, polyallyl esters and other polyesters,",,
+,,,in primary forms:,,
+3907.1,,,Polyacetals:,,
+3907.10.01,00B,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3907.10.09,00C,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,Other polyethers:,,
+3907.21,,,Bis(polyoxyethylene) methylphosphonate:,,
+3907.21.01,00L,kg," Blocks of irregular shapes, lumps powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+,,,"Polyacetals, other polyethers and epoxide resins, etc.continued",,
+,,,Other polyetherscontinued,,
+,,,Bis(polyoxyethylene) methylphosphonatecontinued,,
+3907.21.09,00A,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CPT Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3907.29,,,Other:,,
+3907.29.01,00G,kg,"Blocks of irregular shapes, lumps powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3907.29.09,00H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CPT Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3907.3,,,Epoxide resins:,,
+3907.30.01,00K,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3907.30.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01J,kg,In aqueous dispersion,,
+,09D,kg,Other,,
+3907.4,,,Polycarbonates:,,
+3907.40.01,00C,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3907.40.09,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+3907.5,,,Alkyd resins:,,
+3907.50.01,00G,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3907.50.09,00H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Poly(ethylene terephthalate):,,
+3907.61,,,Having a viscosity number of 78 ml/g or higher:,,
+3907.61.10,10A,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3907.61.90,10E,kg,Other,5,Free
+,,,,,*See below
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3907.69,,,Other:,,
+3907.69.10,10H,kg," Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3907.69.90,10A,kg,Other,5,Free
+,,,,,*See below
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3907.7,,,Poly(lactic acid):,,
+3907.70.01,00D,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3907.70.09,00E,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Polyacetals, other polyethers and epoxide resins, etc.continued",,
+,,,Other polyesters:,,
+3907.91,,,Unsaturated:,,
+3907.91.01,00F,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3907.91.09,00G,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+3907.99,,,Other:,,
+3907.99.01,10K,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+,,,Other:,,
+3907.99.10,10J,kg,Thermoplastic liquid crystal aromatic polyester copolymers,Free,Free
+3907.99.90,10B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+39.08,,,Polyamides in primary forms:,,
+3908.1,,,"Polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12:",,
+3908.10.01,00L,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3908.10.09,00A,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+3908.9,,,Other:,,
+3908.90.01,00K,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3908.90.09,00L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+39.09,,,"Amino-resins, phenolic resins and polyurethanes, in primary forms:",,
+3909.1,,,Urea resins; thiourea resins:,,
+3909.10.01,00J,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3909.10.09,00K,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+3909.2,,,Melamine resins:,,
+3909.20.01,00B,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3909.20.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,01A,kg,In aqueous dispersion,,
+,09G,kg,Other,,
+,,,Other amino-resins :,,
+3909.31,,,"Poly(methylene phenyl isocyanate) (crude MDI, polymeric MDI):",,
+3909.31.10,10G,kg," Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3909.31.90,10L,kg,Other,5,Free
+,,,,,*See below
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3909.39,,,Other:,,
+3909.39.10,10C,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3909.39.90,10G,kg,Other,5,Free
+,,,,,*See below
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Amino-resins, phenolic resins and polyurethanes, etc.continued",,
+3909.4,,,Phenolic resins:,,
+3909.40.01,00K,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3909.40.09,00L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3909.5,,,Polyurethanes:,,
+3909.50.01,00C,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3909.50.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Containing hydrofluorocarbons:,,
+,10A,kg,"Containing 1,1,1,3,3-Pentafluoropropane (HFC-245fa)",,
+,20J,kg,Polyurethanes containing 49% HFC-245fa and 51% HFC-365mfc,,
+,40C,kg,Polyurethanes containing 13% HFC-227ea and 87% HFC-365mfc,,
+,50L,kg,Other,,
+,90K,kg,Other,,
+39.1,,,,,
+3910,,,Silicones in primary forms:,,
+3910.00.01,00J,kg,"Blocks of irregular shape, lumps, powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3910.00.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,In aerosol containers:,,
+,02F,No.,Containing chlorofluorocarbons,,
+,08E,No.,Other,,
+,19L,kg,Other,,
+39.11,,,"Petroleum resins, coumarone-indene resins, polyterpenes,",,
+,,,"polysulphides, polysulphones and other products specified in Note 3 to",,
+,,,"this Chapter, not elsewhere specified or included, in primary forms:",,
+3911.10.00,00D,kg,"Petroleum resins, coumarone, indene or coumarone-indene resins and",,
+,,,polyterpenes,Free,Free
+3911.2,,,"Poly(1,3-phenylene methylphosphonate):",,
+3911.20.01,00D,kg," Blocks of irregular shapes, lumps powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3911.20.09,00E,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3911.9,,,Other:,,
+3911.90.01,10G,kg," Blocks of irregular shapes, lumps powders (including moulding",,
+,,,"powders), granules, flakes and similar bulk forms",Free,Free
+3911.90.09,10H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+39.12,,,"Cellulose and its chemical derivatives, not elsewhere specified or",,
+,,,"included, in primary forms:",,
+,,,Cellulose acetates:,,
+3912.11.00,00G,kg,Non-plasticised,Free,Free
+3912.12.00,00A,kg,Plasticised,Free,Free
+3912.20.00,00F,kg,Cellulose nitrates (including collodions),Free,Free
+,,,Cellulose ethers:,,
+3912.31.00,00D,kg,Carboxymethylcellulose and its salts,Free,Free
+3912.39.00,,,Other,Free,Free
+,01J,kg,Non-plasticised,,
+,09D,kg,Plasticised,,
+,,,"Cellulose and its chemical derivatives, not elsewhere, etc.continued",,
+3912.90.00,,,Other,Free,Free
+,01K,kg,Regenerated cellulose,,
+,,,Other:,,
+,11G,kg,Non-plasticised,,
+,19B,kg,Plasticised,,
+39.13,,,"Natural polymers (for example, alginic acid) and modified natural",,
+,,,"polymers (for example, hardened proteins, chemical derivatives of",,
+,,,"natural rubber), not elsewhere specified or included, in primary",,
+,,,forms:,,
+3913.10.00,00L,kg,"Alginic acid, its salts and esters",Free,Free
+3913.90.00,,,Other,Free,Free
+,01H,kg,Chemical derivatives of natural rubber,,
+,09C,kg,Other,,
+39.14,,,,,
+3914.00.00,00E,kg,"Ion-exchangers based on polymers of headings 39.01 to 39.13, in",,
+,,,primary forms,Free,Free
+,,,"II.- WASTE, PARINGSAND SCRAP; SEMI-MANUFACTURES;",,
+,,,ARTICLES,,
+39.15,,,"Waste, parings and scrap, of plastics:",,
+3915.10.00,00G,kg,Of polymers of ethylene,Free,Free
+3915.20.00,00L,kg,Of polymers of styrene,Free,Free
+3915.30.00,00D,kg,Of polymers of vinyl chloride,Free,Free
+3915.90.00,00F,kg,Of other plastics,Free,Free
+39.16,,,"Monofilament of which any cross-sectional dimension exceeds 1 mm,",,
+,,,"rods, sticks and profile shapes, whether or not surface-worked but not",,
+,,,"otherwise worked, of plastics:",,
+3916.10.00,00E,kg,Of polymers of ethylene,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+ 3916.20.00,00J,kg,Of polymers of vinyl chloride,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3916.90.00,,,Of other plastics,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01B,kg,Of regenerated cellulose,,
+,09H,kg,Of other plastics,,
+39.17,,,"Tubes, pipes and hoses, and fittings therefor (for example, joints,",,
+,,,"elbows, flanges), of plastics:",,
+3917.1,,,Artificial guts (sausage casings) of hardened protein or of cellulosic,,
+,,,materials:,,
+3917.10.01,00K,kg,Of hardened proteins,Free,Free
+3917.10.09,,,Of cellulosic materials,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01J,kg,Of regenerated cellulose,,
+,09D,kg,Of other cellulosic materials,,
+,,,"Tubes, pipes and hoses, rigid:",,
+3917.21.00,00A,kg,Of polymers of ethylene,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+3917.22.00,00F,kg,Of polymers of propylene,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,"Tubes, pipes and hoses, and fittings therefor, etc.continued",,
+,,,"Tubes, pipes and hoses, rigidcontinued",,
+3917.23.00,00L,kg,Of polymers of vinyl chloride,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+3917.29,,,Of other plastics:,,
+3917.29.01,00D,kg,Of hardened proteins,Free,Free
+,,,Other:,,
+3917.29.11,00K,kg,Of polycarbonates,Free,Free
+3917.29.19,00L,kg,Of acrylic polymers,Free,Free
+3917.29.29,,,Of other plastics,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01D,kg,Of regenerated cellulose,,
+,09K,kg,Of other plastics,,
+,,,"Other tubes, pipes and hoses:",,
+3917.31.00,,,"Flexible tubes, pipes and hoses, having a minimum burst pressure of",,
+,,,27.6 MPa,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Of polymers of ethylene:,,
+,02A,kg,Convoluted or corrugated tubes,,
+,08L,kg,Other,,
+,,,Of polymers of vinyl chloride:,,
+,11L,kg,Convoluted or corrugated tubes,,
+,18H,kg,Other,,
+,,,Of polymers of propylene:,,
+,21H,kg,Convoluted or corrugated tubes,,
+,29C,kg,Other,,
+,,,Of polyamides:,,
+,31E,kg,Convoluted or corrugated tubes,,
+,39L,kg,Other,,
+,,,Of polymers of vinylidine fluorides:,,
+,41B,kg,Convoluted or corrugated tubes,,
+,49H,kg,Other,,
+,59E,kg,Of other plastics,,
+3917.32,,,"Other, not reinforced or otherwise combined with other materials,",,
+,,,without fittings:,,
+3917.32.02,00B,kg,"Sausage casings, unprinted",Free,Free
+,,,"Tubes, pipes and hoses, and fittings therefor, etc.continued",,
+,,,"Other tubes, pipes and hosescontinued",,
+,,,"Other, not reinforced or otherwise combined with, etc.continued",,
+3917.32.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Layflat:,,
+,,,Of polymers of ethylene:,,
+,02G,kg,Convoluted or corrugated tubes,,
+,05A,kg,Other,,
+,,,Of polymers of vinyl chloride:,,
+,12D,kg,Convoluted or corrugated tubes,,
+,15J,kg,Other,,
+,,,Of polymers of propylene:,,
+,22A,kg,Convoluted or corrugated tubes,,
+,25F,kg,Other,,
+,,,Of polyamides:,,
+,32J,kg,Convoluted or corrugated tubes,,
+,35C,kg,Other,,
+,,,Of polymers of vinylidine fluorides:,,
+,41H,kg,Convoluted or corrugated tubes,,
+,45L,kg,Other,,
+,49C,kg,Of other plastics,,
+,,,Other:,,
+,,,Of polymers of ethylene:,,
+,51E,kg,Convoluted or corrugated tubes,,
+,55H,kg,Other,,
+,,,Of polymers of vinyl chloride:,,
+,61B,kg,Convoluted or corrugated tubes,,
+,65E,kg,Other,,
+,,,Of polymers of propylene:,,
+,71K,kg,Convoluted or corrugated tubes,,
+,75B,kg,Other,,
+,,,Of polyamides:,,
+,81G,kg,Convoluted or corrugated tubes,,
+,85K,kg,Other,,
+,,,Of polymers of vinylidine fluorides:,,
+,91D,kg,Convoluted or corrugated tubes,,
+,95G,kg,Other,,
+,99K,kg,Of other plastics,,
+3917.33.00,00D,kg,"Other, not reinforced or otherwise combined with other materials,",,
+,,,with fittings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3917.39,,,Other:,,
+3917.39.02,00D,kg,"Sausage casings, unprinted",Free,Free
+3917.39.08,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Layflat:,,
+,01L,kg,Of polymers of ethylene,,
+,11H,kg,Of polymers of vinyl chloride,,
+,19C,kg,Of other plastics,,
+,,,Other:,,
+,21E,kg,Of polymers of ethylene,,
+,31B,kg,Of polymers of vinyl chloride,,
+,39H,kg,Of other plastics,,
+3917.40.00,,,Fittings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Tube and pipe fittings:,,
+,02L,kg,Of polymers of ethylene,,
+,08K,kg,Of polymers of propylene,,
+,11K,kg,Of polymers of vinyl chloride,,
+,19E,kg,Of other plastics,,
+,29B,kg,Other,,
+39.18,,,"Floor coverings of plastics, whether or not self-adhesive, in rolls or in",,
+,,,"the form of tiles; wall or ceiling coverings of plastics, as defined in",,
+,,,Note 9 to this Chapter:,,
+3918.1,,,Of polymers of vinyl chloride:,,
+,,,Floorcoverings:,,
+3918.10.01,00H,m2,Underlay of cellular plastics,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3918.10.09,,,Other,Free,Free
+,01G,m2,Tiles,,
+,09B,m2,Other,,
+3918.10.19,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+3918.9,,,Of other plastics:,,
+,,,Floorcoverings:,,
+3918.90.01,00G,m2,Underlay of cellular plastics,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3918.90.09,,,Other,Free,Free
+,01F,m2,Tiles,,
+,09A,m2,Other,,
+,,,Other:,,
+3918.90.11,00B,kg,Worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+3918.90.21,,,Self-adhesive,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01F,kg,Of alkyds,,
+,09A,kg,Of polyamides,,
+,19J,kg,Of other plastics,,
+,,,Other:,,
+3918.90.31,00C,kg,Of polycarbonates; of polyethylene terephthalate,Free,Free
+3918.90.39,,,Of other plastics,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of alkyds:,,
+,01B,kg,Monolayer,,
+,09H,kg,Multilayer,,
+,,,Of polyamides:,,
+,11K,kg,Monolayer,,
+,19E,kg,Multilayer,,
+,29B,kg,Of other plastics,,
+39.19,,,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes,",,
+,,,"of plastics, whether or not in rolls:",,
+3919.1,,,In rolls of a width not exceeding 20 cm:,,
+3919.10.01,,,Of a thickness not exceeding 0.5 mm,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01D,m2,Of polymers of ethylene,,
+,11A,m2,Of polymers of propylene,,
+,21J,m2,Of polymers and copolymers of styrene,,
+,31F,m2,Of polymers of vinyl chloride,,
+,41C,m2,Of polyesters,,
+,51L,m2,Of regenerated cellulose,,
+,61H,m2,Of chemical derivatives of cellulose,,
+,69C,m2,Of other plastics,,
+3919.10.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,m2,Of polymers of ethylene,,
+,11B,m2,Of polymers of propylene,,
+,21K,m2,Of polymers and copolymers of styrene,,
+,31G,m2,Of polymers of vinyl chloride,,
+,41D,m2,Of polyesters,,
+,51A,m2,Of regenerated cellulose,,
+,61J,m2,Of chemical derivatives of cellulose,,
+,69D,m2,Of other plastic,,
+3919.9,,,Other:,,
+3919.90.01,00E,m2,Laminated fibre reinforced sheets,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Self-adhesive plates, sheets, film, foil, tape, strip and, etc.continued",,
+,,,Othercontinued,,
+3919.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,In rolls of a width not exceeding 60 cm:,,
+,,,Of a thickness exceeding 0.02 mm but not exceeding 0.25 mm:,,
+,02B,m2,"Coverings for books, shelves and furniture",,
+,,,Other:,,
+,06E,m2,Of polymers of ethylene,,
+,08A,m2,Of polymers of propylene,,
+,12K,m2,Of polymers and copolymers of styrene,,
+,16B,m2,Of polymers of vinyl chloride,,
+,18J,m2,Of acrylic polymers and copolymers,,
+,22G,m2,Of polymers of vinyl acetate,,
+,24C,m2,Of polyurethanes,,
+,26K,m2,Of polyesters,,
+,28F,m2,Of regenerated cellulose,,
+,32D,m2,Of cellulose or its chemical derivatives,,
+,38C,m2,Of other plastics,,
+,,,Other:,,
+,42A,m2,Of polymers of ethylene,,
+,46D,m2,Of polymers of propylene,,
+,48L,m2,Of polymers and copolymers of styrene,,
+,53G,m2,Of polymers of vinyl chloride,,
+,55C,m2,Of acrylic polymers and copolymers,,
+,57K,m2,Of polymers of vinyl acetate,,
+,61H,m2,Of polyurethanes,,
+,63D,m2,Of polyesters,,
+,65L,m2,Of regenerated cellulose,,
+,67G,m2,Of cellulose or its chemical derivatives,,
+,69C,m2,Of other plastics,,
+,,,Other:,,
+,71E,m2,Of polymers of ethylene,,
+,73A,m2,Of polymers of propylene,,
+,75H,m2,Of polymers and copolymers of styrene,,
+,78B,m2,Of polymers of vinyl chloride,,
+,80D,m2,Of acrylic polymers and copolymers,,
+,83J,m2,Of polymers of vinyl acetate,,
+,85E,m2,Of polyurethanes,,
+,87A,m2,Of polyesters,,
+,91K,m2,Of regenerated cellulose,,
+,95B,m2,Of cellulose or its chemical derivatives,,
+,99E,m2,Of other plastics,,
+39.2,,,"Other plates, sheets, film, foil and strip, of plastics, non-cellular and",,
+,,,"not reinforced, laminated, supported or similarly combined with other",,
+,,,materials:,,
+3920.1,,,Of polymers of ethylene:,,
+3920.10.01,10G,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.10.09,10H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3920.2,,,Of polymers of propylene:,,
+,,,Biaxially oriented:,,
+3920.20.02,10G,kg,Printed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.20.05,10F,kg,Other,Free,Free
+3920.20.09,10A,m2,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3920.20.29,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm:,,
+,03K,kg,Strapping tape,,
+,10B,kg,Other,,
+,,,Other:,,
+,12J,kg,Strapping tape,,
+,29C,kg,Other,,
+3920.3,,,Of polymers of styrene:,,
+3920.30.01,10D,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+3920.30.09,10E,kg,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.30.29,10F,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Of polymers of vinyl chloride:,,
+3920.43.00,,,Containing by weight not less than 6% of plasticisers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10E,kg,Of a thickness not exceeding 1 mm and exceeding 20 cm in width,,
+,15F,kg,Of a thickness exceeding 1 mm,,
+,29F,kg,Other,,
+,,,"Other plates, sheets, film, foil and strip, of plastics, etc.continued",,
+,,,Of polymers of vinyl chloridecontinued,,
+3920.49,,,Other,,
+3920.49.11,10D,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.49.15,,,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,15L,kg,Printed,,
+,29L,kg,Other,,
+3920.49.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,15F,kg,Printed,,
+,29F,kg,Other,,
+,,,Of acrylic polymers:,,
+3920.51,,,Of poly(methyl methacrylate):,,
+3920.51.01,10F,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.51.09,10G,kg,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3920.51.29,10H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3920.59,,,Other:,,
+3920.59.01,10B,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.59.09,10C,kg,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.59.29,10D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Of polycarbonates, alkyd resins, polyallyl esters or other polyesters:",,
+3920.61,,,Of polycarbonates:,,
+3920.61.01,10K,kg,"Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,",,
+,,,printed,Free,Free
+3920.61.09,10L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,"Other plates, sheets, film, foil and strip, of plastics, etc.continued",,
+,,,"Of polycarbonates, alkyd resins, polyallyl esters, etc.continued",,
+3920.62,,,Of poly(ethylene terephthalate):,,
+3920.62.01,10D,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+3920.62.09,10E,kg,"Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,",,
+,,,printed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.62.19,10L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+3920.63,,,Of unsaturated polyesters:,,
+3920.63.01,10J,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.63.09,10K,kg,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3920.63.29,10L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+3920.69,,,Of other polyesters:,,
+3920.69.01,10F,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+3920.69.09,10G,kg,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.69.29,10H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of cellulose or its chemical derivatives:,,
+3920.71.00,,,Of regenerated cellulose,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10G,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,,
+,19L,kg,Other,,
+3920.73.00,,,Of cellulose acetate,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10F,kg,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,,
+,19K,kg,Other,,
+,,,"Other plates, sheets, film, foil and strip, of plastics, etc.continued",,
+,,,Of cellulose or its chemical derivativescontinued,,
+3920.79,,,Of other cellulose derivatives:,,
+3920.79.01,10K,kg,Of vulcanised fibre,Free,Free
+3920.79.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10L,kg,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,,
+,19D,kg,Other,,
+,,,Of other plastics:,,
+3920.91,,,Of poly(vinyl butyral):,,
+3920.91.01,10L,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.91.09,10A,kg,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.91.29,10B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3920.92,,,Of polyamides:,,
+3920.92.01,10E,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.92.09,10F,kg,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3920.92.29,10G,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3920.93,,,Of amino-resins:,,
+3920.93.01,10K,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.93.09,10L,kg,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.93.29,10A,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Other plates, sheets, film, foil and strip, of plastics, etc.continued",,
+,,,Of other plasticscontinued,,
+3920.94.00,,,Of phenolic resins,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10H,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,,
+,19A,kg,Other,,
+3920.99,,,Of other plastics:,,
+3920.99.01,10G,m2,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width:,,
+3920.99.11,10B,. .,Of fluoro-polymers,Free,Free
+3920.99.19,10C,kg,Of other plastics,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3920.99.39,10D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+39.21,,,"Other plates, sheets, film, foil and strip, of plastics:",,
+,,,Cellular:,,
+3921.11,,,Of polymers of styrene:,,
+3921.11.01,10K,kg,In blocks of regular geometric shape,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+3921.11.09,10L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3921.12.00,10H,kg,Of polymers of vinyl chloride,5,Free
+,,,,,*See Below
+,,,,,CA Free
+3921.13,,,Of polyurethanes:,,
+3921.13.01,10J,kg,In blocks of regular geometric shape,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3921.13.09,10K,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3921.14.00,10G,kg,Of regenerated cellulose,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+3921.19,,,Of other plastics:,,
+3921.19.01,10F,kg,In blocks of regular geometric shape,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC 4
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Other plates, sheets, film, foil and strip, of plasticscontinued",,
+,,,Cellularcontinued,,
+,,,Of other plasticscontinued,,
+3921.19.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,10G,kg,Of polymers of ethylene,,
+,15H,kg,Of polyesters,,
+,29H,kg,Of other plastics,,
+3921.9,,,Other:,,
+3921.90.01,,,Of a thickness not exceeding 0.25 mm and exceeding 20 cm in width,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01E,kg,Of chemical derivatives of cellulose,,
+,09L,kg,Of other plastics,,
+,,,Other:,,
+3921.90.11,00B,kg,Laminated fibre reinforced sheets,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3921.90.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Of a thickness not exceeding 0.5 mm and of a width not exceeding,,
+,,,20 cm:,,
+,01A,m2,Of chemical derivatives of cellulose,,
+,09G,m2,Of other plastics,,
+,,,Reinforced or supported with textile fabrics:,,
+,11J,kg,Of chemical derivatives of cellulose,,
+,19D,kg,Of other plastics,,
+,,,Of a thickness not exceeding 1 mm and exceeding 20 cm in width:,,
+,21F,m2,Of chemical derivatives of cellulose,,
+,29A,m2,Of other plastics,,
+,,,Other:,,
+,31C,kg,Of chemical derivatives of cellulose,,
+,39J,kg,Of other plastics,,
+39.22,,,"Baths, shower-baths, sinks, wash-basins, bidets, lavatory pans, seats",,
+,,,"and covers, flushing cisterns and similar sanitary ware, of plastics:",,
+3922.10.00,,,"Baths, shower-baths, sinks and wash-basins",5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,11E,No.,Baths (including shower-baths),,
+,14K,No.,Wash-basins,,
+,19L,No.,Sinks,,
+3922.20.00,00C,No.,Lavatory seats and covers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3922.9,,,Other:,,
+3922.90.01,00E,No.,Urinals,Free,Free
+3922.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01D,No.,Shower cabinets,,
+,05G,No.,Shower bases,,
+,08A,No.,Other,,
+39.23,,,"Articles for the conveyance or packing of goods, of plastics; stoppers,",,
+,,,"lids, caps and other closures, of plastics:",,
+3923.1,,,"Boxes, cases, crates and similar articles:",,
+,,,Not exceeding 5 litres capacity:,,
+3923.10.01,,,Nestable,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,Hd,250 ml and under,,
+,09H,Hd,Other,,
+,,,Non-nestable:,,
+ 3923.10.05,,,"Boxes, cases, crates and similar articles of plastic, specially shaped",,
+,,,"or fitted for the conveyance or packing of semiconductor wafers,",,
+,,,masks or reticles,Free,Free
+,10G,Hd,250 ml and under,,
+,19L,Hd,Other,,
+3923.10.07,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10K,Hd,250 ml and under,,
+,19C,Hd,Other,,
+,,,Exceeding 5 litres capacity:,,
+3923.10.11,00K,Hd,Nestable,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Non-nestable:,,
+ 3923.10.25,00L,Hd,"Boxes, cases, crates and similar articles of plastic, specially shaped",,
+,,,"or fitted for the conveyance or packing of semiconductor wafers,",,
+,,,masks or reticles,Free,Free
+3923.10.29,00F,Hd,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Sacks and bags (including cones):,,
+3923.21,,,Of polymers of ethylene:,,
+3923.21.01,00B,. .,"Bags made of sheeting of plastics, whether or not printed, with",,
+,,,"handles, not designed for prolonged use",5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+3923.21.15,00C,kg,Printed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3923.21.28,00H,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3923.29,,,Of other plastics:,,
+3923.29.01,00J,. .,"Bags made of sheeting of plastics, whether or not printed, with",,
+,,,"handles, not designed for prolonged use",5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Articles for the conveyance or packing of goods, etc.continued",,
+,,,Sacks and bags (including cones)continued,,
+,,,Of other plasticscontinued,,
+,,,Other:,,
+3923.29.15,00K,kg,Printed,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+3923.29.28,00D,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3923.30.00,,,"Carboys, bottles, flasks and similar articles",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,Not exceeding 5 litres capacity:,,
+,01C,Hd,250 ml and under,,
+,09J,Hd,Other,,
+,19F,Hd,Exceeding 5 litres capacity,,
+3923.40.00,,,"Spools, cops, bobbins and similar supports",5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Spools, reels and similar supports designed for use with the goods of",,
+,,,Chapters 85 and 90:,,
+,01G,. .,For photographic and cinematographic film,,
+,09B,. .,C Zero cassettes,,
+,19K,. .,Other,,
+,29G,kg,Other,,
+3923.50.00,00B,Hd,"Stoppers, lids, caps and other closures",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3923.9,,,Other:,,
+3923.90.01,00C,Hd,Collapsible tubes,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3923.90.05,00J,No.,Chilly bins,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+,,,Not exceeding 5 litres capacity:,,
+3923.90.12,,,Nestable,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01C,Hd,250 ml and under,,
+,09J,Hd,Other,,
+3923.90.18,,,Non-nestable,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01A,Hd,250 ml and under,,
+,09G,Hd,Other,,
+,,,Exceeding 5 litres capacity:,,
+3923.90.22,00L,Hd,Nestable,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Articles for the conveyance or packing of goods, etc.continued",,
+,,,Othercontinued,,
+,,,Othercontinued,,
+,,,Exceeding 5 litres capacitycontinued,,
+3923.90.28,00J,Hd,Non-nestable,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+39.24,,,"Tableware, kitchenware, other household articles and hygienic or toilet",,
+,,,"articles, of plastics:",,
+3924.1,,,Tableware and kitchenware:,,
+3924.10.01,,,Chopsticks; handles for cutlery,Free,Free
+,01L,kg,Chopsticks,,
+,09F,. .,Handles for cutlery,,
+3924.10.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01A,kg,"Breakfast, dinner, tea and coffee sets; cups, mugs, saucers, plates and",,
+,,,dishes,,
+,09G,kg,"Knives, forks, spoons and similar utensils",,
+,19D,kg,Other,,
+3924.9,,,Other:,,
+3924.90.01,00A,. .,Toilet articles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3924.90.09,,,Other household articles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10K,No.,Poly(vinyl chloride) hot-water bottles,,
+,19C,kg,Other,,
+39.25,,,"Builders’ ware of plastics, not elsewhere specified or included:",,
+3925.10.00,00D,. .,"Reservoirs, tanks, vats and similar containers, of a capacity exceeding",,
+,,,300 l,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3925.20.00,,,"Doors, windows and their frames and thresholds for doors",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,01F,No.,Doors,,
+,03B,No.,Door frames and their thresholds,,
+,05J,No.,Windows and their frames,,
+3925.3,,,"Shutters, blinds (including Venetian blinds) and similar articles and parts",,
+,,,thereof:,,
+3925.30.01,00H,. .,Sunblinds (other than Venetian blinds),5,Free
+,,,,,*See Below
+,,,,,CA 4.5
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3925.30.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01G,. .,Venetian blinds,,
+,09B,. .,Other,,
+3925.90.00,00C,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+39.26,,,Other articles of plastics and articles of other materials of headings,,
+,,,39.01 to 39.14:,,
+3926.1,,,Office or school supplies:,,
+3926.10.10,00H,. .,Electronic stencils; erasers,Free,Free
+3926.10.90,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Binders (loose-leaf type):,,
+,01K,kg,Ring,,
+,09E,kg,Other,,
+,19B,kg,Other,,
+3926.2,,,"Articles of apparel and clothing accessories (including gloves, mittens",,
+,,,and mitts):,,
+3926.20.01,00B,. .,"Braces, suspenders, garters, belts and the like",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3926.20.11,,,"Gloves, mittens and mitts",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Gloves:,,
+,03B,pr,Football goalkeepers,,
+,,,Cricket:,,
+,04L,pr,Batting,,
+,06G,pr,Wicket keeping,,
+,08C,pr,Other,,
+,19J,pr,.Mittens and mitts,,
+3926.20.23,00F,No.,Coats and jackets,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+3926.20.32,00E,No.,Trousers and leggings,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+3926.20.42,00L,No.,Combination garments of the one piece trouser/jacket type,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 8
+,,,,,1/2025 7.3
+3926.20.55,10B,pr.,Shoulder pads,10,Free
+,,,,,*See Below
+,,,,,CA Free
+3926.20.62,,,Other,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,02H,No.,Aprons,,
+,12E,No.,Pilches,,
+,29K,No.,Other,,
+3926.30.00,00K,. .,"Fittings for furniture, coachwork or the like",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3926.4,,,Statuettes and other ornamental articles:,,
+3926.40.01,00K,. .,Nylon figurines,Free,Free
+3926.40.09,00L,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Other articles of plastics and articles of other, etc.continued",,
+3926.9,,,Other:,,
+3926.90.01,00H,. .,"Tarpaulins, awnings and camping goods",5,Free
+,,,,,*See Below
+,,,,,CA 1
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3926.90.09,00J,kg,"Washers, gaskets, jointings, seals and similar packings",Free,Free
+3926.90.11,00C,kg,"Laboratory, hygienic and pharmaceutical ware, whether or not",,
+,,,graduated or calibrated,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3926.90.19,00D,kg,Tubes and rods suited for the manufacture of fishing rods,5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+3926.90.21,,,"Clips, tags, rings and the like for the identification of animals, birds or",,
+,,,fish,Free,Free
+,02E,Hd,Ear tags,,
+,19K,Hd,Other,,
+3926.90.29,00K,. .,"Artificial eyes, other than those for human use; beads, not mounted, set",,
+,,,or strung; sequins,Free,Free
+3926.90.31,00D,. .,Contraceptives,Free,Free
+3926.90.39,00E,. .,Crochet hooks; embroidery hoops; thimbles,Free,Free
+3926.90.41,00K,. .,Hammers; striking faces for soft-faced hammers,Free,Free
+3926.90.49,00L,. .,Lifesaving resuscitation tubes,Free,Free
+3926.90.51,00E,. .,Non-mechanical fans and hand screens,Free,Free
+3926.90.61,00L,. .,"Profile shapes and articles of rectangular shape, worked beyond the",,
+,,,stage of being merely surface-worked,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+3926.90.69,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,CPT Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,"Bags, disposable:",,
+,09E,Hd,"Blood, enema, saline and urine",,
+,19B,Hd,Other,,
+,22B,. .,"Pneumatic or water mattresses, pillows or cushions",,
+,29K,. .,Contact lens blanks,,
+,41J,No.,Ladders,,
+,79F,. .,Other,,
+40.01,,,"Natural rubber, balata, gutta-percha, guayule, chicle and similar",,
+,,,"natural gums, in primary forms or in plates, sheets or strip:",,
+4001.10.00,,,"Natural rubber latex, whether or not pre-vulcanised",Free,Free
+,01C,kg,Thermosensitive and electro-positive latex,,
+,09J,kg,Other,,
+,,,Natural rubber in other forms:,,
+4001.21.00,00C,kg,Smoked sheets,Free,Free
+4001.22.00,00H,kg,Technically specified natural rubber (TSNR),Free,Free
+4001.29,,,Other:,,
+4001.29.01,00F,kg,Creped,Free,Free
+,,,Other:,,
+4001.29.11,00A,kg,Uncompounded,Free,Free
+4001.29.19,00B,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4001.3,,,"Balata, gutta-percha, guayule, chicle and similar natural gums:",,
+4001.30.01,00J,kg,Uncompounded,Free,Free
+4001.30.09,00K,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+40.02,,,"Synthetic rubber and factice derived from oils, in primary forms or in",,
+,,,"plates, sheets or strip; mixtures of any product of heading 40.01 with",,
+,,,"any product of this heading, in primary forms or in plates, sheets or",,
+,,,strip:,,
+,,,Styrene-butadiene rubber (SBR); carboxylated styrene-butadiene rubber,,
+,,,(XSBR):,,
+4002.11.00,,,Latex,Free,Free
+,01F,kg,Styrene-butadiene (SBR),,
+,09A,kg,Carboxylated styrene-butadiene (XSBR),,
+4002.19,,,Other:,,
+4002.19.01,00L,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+4002.19.09,,,Other,Free,Free
+,01K,kg,Styrene-butadiene (SBR),,
+,09E,kg,Other,,
+4002.2,,,Butadiene rubber (BR):,,
+4002.20.01,00C,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4002.20.09,,,Other,Free,Free
+,01B,kg,Pre-vulcanised,,
+,09H,kg,Other,,
+,,,Isobutene-isoprene (butyl) rubber (IIR); halo-isobutene-isoprene rubber,,
+,,,(CIIR or BIIR):,,
+4002.31,,,Isobutene-isoprene (butyl) rubber (IIR):,,
+4002.31.01,00A,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CAFree
+,,,,,LDC Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4002.31.09,00B,kg,Other,Free,Free
+,,,"Synthetic rubber and factice derived from oils, etc.continued",,
+,,,"Isobutene-isoprene (butyl) rubber (IIR), etc.continued",,
+4002.39,,,Other:,,
+4002.39.01,00H,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+4002.39.09,00J,kg,Other,Free,Free
+,,,Chloroprene (chlorobutadiene) rubber (CR):,,
+4002.41.00,00J,kg,Latex,Free,Free
+4002.49,,,Other:,,
+4002.49.01,00A,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+4002.49.09,00B,kg,Other,Free,Free
+,,,Acrylonitrile-butadiene rubber (NBR):,,
+4002.51.00,00B,kg,Latex,Free,Free
+4002.59,,,Other:,,
+4002.59.01,00E,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4002.59.09,00F,kg,Other,Free,Free
+4002.6,,,Isoprene rubber (IR):,,
+4002.60.01,00H,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+4002.60.09,00J,kg,Other,Free,Free
+4002.7,,,Ethylene-propylene-non-conjugated diene rubber (EPDM):,,
+4002.70.01,00A,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4002.70.09,00B,kg,Other,Free,Free
+4002.8,,,Mixtures of any product of heading 40.01 with any product of this,,
+,,,heading:,,
+4002.80.01,00E,kg,Natural rubber latex with synthetic rubber latex,Free,Free
+4002.80.09,00F,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,Other:,,
+4002.91.00,00G,kg,Latex,Free,Free
+4002.99,,,Other:,,
+4002.99.01,00K,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4002.99.09,,,Other,Free,Free
+,01J,kg,Factice,,
+,09D,kg,Other,,
+40.03,,,,,
+4003.00.00,00H,kg,"Reclaimed rubber in primary forms or in plates, sheets or strip",Free,Free
+40.04,,,,,
+4004.00.00,00F,kg,"Waste, parings and scrap of rubber (other than hard rubber) and",,
+,,,powders and granules obtained therefrom,Free,Free
+40.05,,,"Compounded rubber, unvulcanised, in primary forms or in plates,",,
+,,,sheets or strip:,,
+4005.1,,,Compounded with carbon black or silica:,,
+4005.10.01,00D,. .,Solutions and dispersions,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4005.10.09,00E,kg,"Balata, gutta-percha and factice",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+4005.10.11,00K,kg,"Plates, sheets or strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4005.10.19,00L,kg,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4005.20.00,00A,. .,Solutions; dispersions other than those of subheading 4005.10,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Other:,,
+4005.91.00,00A,kg,"Plates, sheets and strip",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+4005.99,,,Other:,,
+4005.99.01,00D,kg,Natural rubber other than latex,5,Free
+,,,,,*See Below
+,,,,,CAFree
+,,,,,LDC Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4005.99.09,,,Other,Free,Free
+,01C,kg,Compounded synthetic rubber,,
+,19F,kg,Other,,
+40.06,,,"Other forms (for example, rods, tubes and profile shapes) and articles",,
+,,,"(for example, discs and rings), of unvulcanised rubber:",,
+4006.1,,,“Camel-back” strips for retreading rubber tyres:,,
+4006.10.01,00B,. .,Of natural gums,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4006.10.09,00C,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4006.9,,,Other:,,
+4006.90.01,00A,m,Tubes,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4006.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01L,. .,Rings and discs,,
+,09F,. .,Thread,,
+,19C,. .,Other,,
+40.07,,,,,
+4007.00.00,00L,. .,Vulcanised rubber thread and cord,Free,Free
+40.08,,,"Plates, sheets, strip, rods and profile shapes, of vulcanised rubber",,
+,,,other than hard rubber:,,
+,,,Of cellular rubber:,,
+4008.11,,,"Plates, sheets and strip:",,
+,,,Flooring:,,
+4008.11.01,00C,. .,"Mats, rectangular, made by cutting from the piece",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4008.11.09,00D,. .,Underlay of rubber,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4008.11.19,00K,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4008.11.29,00E,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4008.19.00,00C,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Of non-cellular rubber:,,
+4008.21,,,"Plates, sheets and strip:",,
+,,,Flooring:,,
+4008.21.01,00G,. .,"Mats, rectangular, made by cutting from the piece",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4008.21.09,00H,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4008.21.19,00C,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4008.29.00,00G,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+40.09,,,"Tubes, pipes and hoses, of vulcanised rubber other than hard rubber,",,
+,,,"with or without their fittings (for example, joints, elbows, flanges):",,
+,,,Not reinforced or otherwise combined with other materials:,,
+4009.11.00,00E,m,Without fittings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4009.12,,,With fittings:,,
+,,,Hydraulic brake hoses:,,
+4009.12.11,00A,No.,Automotive brake hoses,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4009.12.14,00L,m,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,"Tubes, pipes and hoses, of vulcanised rubber other, etc.continued",,
+,,,Not reinforced or otherwise combined with other materialscontinued,,
+,,,With fittingscontinued,,
+4009.12.19,00B,m,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Reinforced or otherwise combined only with metal:,,
+4009.21.00,00J,m,Without fittings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4009.22,,,With fittings:,,
+,,,Hydraulic brake hoses:,,
+4009.22.11,00E,No.,Automotive brake hoses,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4009.22.14,00D,m,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4009.22.19,00F,m,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Reinforced or otherwise combined only with textile materials:,,
+4009.31.00,00B,m,Without fittings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4009.32,,,With fittings:,,
+,,,Hydraulic brake hoses:,,
+4009.32.11,00J,No.,Automotive brake hoses,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4009.32.14,00H,m,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+4009.32.19,00K,m,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Reinforced or otherwise combined with other materials:,,
+4009.41.00,00F,m,Without fittings,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4009.42,,,With fittings:,,
+,,,Hydraulic brake hoses:,,
+4009.42.11,00B,No.,Automotive brake hoses,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4009.42.14,00A,m,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4009.42.19,00C,m,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+40.1,,,"Conveyor or transmission belts or belting, of vulcanised rubber:",,
+,,,Conveyor belts or belting:,,
+4010.11.00,,,Reinforced only with metal,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01G,kg,Of a width exceeding 20 cm,,
+,09B,kg,Other,,
+4010.12.00,,,Reinforced only with textile materials,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01A,kg,Of a width exceeding 20 cm,,
+,09G,kg,Other,,
+4010.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Reinforced only with plastics:,,
+,10B,kg,Of a width exceeding 20 cm,,
+,15C,kg,Other,,
+,,,Other:,,
+,19F,kg,Of a width exceeding 20 cm,,
+,25L,kg,Other,,
+,,,Transmission belts or belting:,,
+4010.31.00,00F,. .,"Endless transmission belts of trapezoidal cross-section (V-belts),",,
+,,,"V-ribbed, of an outside circumference exceeding 60 cm but not",,
+,,,exceeding 180 cm,Free,Free
+4010.32.00,00L,. .,"Endless transmission belts of trapezoidal cross-section (V-belts), other",,
+,,,"than V-ribbed, of an outside circumference exceeding 60 cm but not",,
+,,,exceeding 180 cm,Free,Free
+4010.33.00,00E,. .,"Endless transmission belts of trapezoidal cross-section (V-belts),",,
+,,,"V-ribbed, of an outside circumference exceeding 180 cm but not",,
+,,,exceeding 240 cm,Free,Free
+4010.34.00,00K,. .,"Endless transmission belts of trapezoidal cross-section (V-belts), other",,
+,,,"than V-ribbed, of an outside circumference exceeding 180 cm but not",,
+,,,exceeding 240 cm,Free,Free
+4010.35.00,,,"Endless synchronous belts, of an outside circumference exceeding",,
+,,,60 cm but not exceeding 150 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,11K,kg,Of a width exceeding 20 cm,,
+,19E,kg,Other,,
+4010.36.00,,,"Endless synchronous belts, of an outside circumference exceeding",,
+,,,150 cm but not exceeding 198 cm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,11D,kg,Of a width exceeding 20 cm,,
+,19K,kg,Other,,
+4010.39,,,Other:,,
+4010.39.11,00D,. .,"Belts and belting, cogged, toothed or otherwise adapted for the",,
+,,,timing of mechanical or electrical functions,Free,Free
+4010.39.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,11L,kg,Of a width exceeding 20 cm,,
+,19F,kg,Other,,
+40.11,,,"New pneumatic tyres, of rubber:",,
+4011.1,,,Of a kind used on motor cars (including station wagons and racing cars):,,
+4011.10.01,,,For use in the assembly of motor vehicles as may be determined by the,,
+,,,Minister in accordance with Section 14 of this Act,10,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 7
+,,,,,1/2025 6
+,01G,No.,Bias ply,,
+,,,Radial ply:,,
+,11D,No.,Steel belted,,
+,19K,No.,Other,,
+4011.10.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,01H,No.,Bias ply,,
+,,,Radial ply:,,
+,11E,No.,Steel belted,,
+,19L,No.,Other,,
+4011.2,,,Of a kind used on buses or lorries:,,
+,,,For use in the assembly of motor vehicles as may be determined by the,,
+,,,Minister in accordance with Section 14 of this Act:,,
+4011.20.03,,,Internal rim diameter less than 495 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Light truck (internal rim diameter not exceeding 360 mm,,
+,,,regardless of ply rating):,,
+,01C,No.,Bias ply,,
+,09J,No.,Radial ply,,
+,,,Other light truck:,,
+,11L,No.,Bias ply,,
+,19F,No.,Radial ply,,
+,,,Other:,,
+,21H,No.,Bias ply,,
+,29C,No.,Radial ply,,
+4011.20.07,,,Other,Free,Free
+,01J,No.,Bias ply,,
+,09D,No.,Radial ply,,
+,,,Other:,,
+4011.20.12,,,Internal rim diameter less than 495 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,,,Light truck (internal rim diameter not exceeding 360 mm,,
+,,,regardless of ply rating):,,
+,01B,No.,Bias ply,,
+,09H,No.,Radial ply,,
+,,,Other light truck:,,
+,11K,No.,Bias ply,,
+,19E,No.,Radial ply,,
+,,,Other:,,
+,21G,No.,Bias ply,,
+,29B,No.,Radial ply,,
+4011.20.18,,,Other,Free,Free
+,01L,No.,Bias ply,,
+,09F,No.,Radial ply,,
+4011.30.00,00K,No.,Of a kind used on aircraft,Free,Free
+4011.40.00,00C,No.,Of a kind used on motorcycles,Free,Free
+4011.50.00,00G,No.,Of a kind used on bicycles,Free,Free
+,,,"New pneumatic tyres, of rubbercontinued",,
+4011.70.00,,,Of a kind used on agricultural or forestry vehicles and machines,Free,Free
+,,,Having a “herring-bone” or similar tread:,,
+,,,Tractor:,,
+,10A,No.,Internal rim diameter exceeding 230 mm but not exceeding 508 mm,,
+,11K,No.,Internal rim diameter exceeding 508 mm,,
+,13F,No.,Grader,,
+,15B,No.,Earthmover,,
+,,,Other:,,
+,19E,No.,Industrial,,
+,21G,No.,Other,,
+,,,Other:,,
+,,,Tractor:,,
+,23C,No.,Internal rim diameter exceeding 230 mm but not exceeding 508 mm,,
+,25K,No.,Internal rim diameter exceeding 508 mm,,
+,29B,No.,Grader,,
+,31D,No.,Earthmover,,
+,,,Other:,,
+,35G,No.,Industrial,,
+,39K,No.,Other,,
+4011.80.00,,," Of a kind used on construction, mining or industrial handling",,
+,,,vehicles and machines:,Free,Free
+,,,Having a “herring-bone” or similar tread:,,
+,10E,No.,Having a rim size not exceeding 61 cm,,
+,13K,No.,Having a rim size exceeding 61 cm,,
+,,,Other:,,
+,15F,No.,Having a rim size not exceeding 61 cm,,
+,19J,No.,Having a rim size exceeding 61 cm,,
+4011.9,,,Other:,,
+,,,Having a “herring-bone” or similar tread:,,
+,,,Of a kind used on light commercial vehicles:,,
+4011.90.10,,,Internal rim diameter less than 508 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+,10D,No.,Bias ply,,
+,,,Radial ply:,,
+,15E,No.,Steel belted,,
+,17A,No.,Other,,
+,19H,No.,Other,,
+4011.90.20,,,Other,Free,Free
+,10K,No.,Bias ply,,
+,,,Radial ply:,,
+,13D,No.,Steel belted,,
+,15L,No.,Other,,
+,19C,No.,Other,,
+4011.90.30,00H,No.,Other,Free,Free
+,,,Other:,,
+,,,Of a kind used on light commercial vehicles:,,
+4011.90.40,,,Internal rim diameter less than 508 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,10L,No.,Bias ply,,
+,,,Radial ply:,,
+,13E,No.,Steel belted,,
+,15A,No.,Other,,
+,19D,No.,Other,,
+4011.90.50,,,Other,Free,Free
+,10F,No.,Bias ply,,
+,,,Radial ply:,,
+,13L,No.,Steel belted,,
+,15G,No.,Other,,
+,19K,No.,Other,,
+4011.90.90,00L,No.,Other,Free,Free
+40.12,,,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres,",,
+,,,"tyre treads and tyre flaps, of rubber:",,
+,,,Retreaded tyres:,,
+4012.11,,,Of a kind used on motor cars (including station wagons and racing cars):,,
+4012.11.11,00G,No.,Internal rim diameter less than 508 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4012.11.19,00H,No.,Other,Free,Free
+4012.12.00,00K,No.,Of a kind used on buses or lorries,Free,Free
+4012.13.00,00D,No.,Of a kind used on aircraft,Free,Free
+4012.19,,,Other:,,
+,,,Of a kind used on light commercial vehicles:,,
+4012.19.11,00C,No.,Internal rim diameter less than 508 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4012.19.19,00D,No.,Other,Free,Free
+4012.19.29,00K,No.,Other,Free,Free
+4012.2,,,Used pneumatic tyres:,,
+,,,Of a kind used on motor cars (including station wagons and racing,,
+,,,"cars), or on light commercial vehicles:",,
+4012.20.01,,,Internal rim diameter less than 508 mm,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01J,No,Of a kind used on motor cars (including stationwagons and racing,,
+,,,cars),,
+,09D,No,Of a kind used on light commercial vehicles,,
+4012.20.09,00A,No.,Other,Free,Free
+4012.20.19,00G,No.,Other,Free,Free
+4012.90.00,,,Other,Free,Free
+,,,Solid or cushion tyres:,,
+,,,Solid:,,
+,01H,No.,Industrial,,
+,09C,No.,Other,,
+,19L,No.,Other,,
+,,,Other:,,
+,29H,kg,Tyre flaps,,
+,,,Tyre treads:,,
+,31K,kg,Interchangeable tyre treads,,
+,35B,kg,Pre-cured tyre tread,,
+,39E,kg,Other,,
+40.13,,,"Inner tubes, of rubber:",,
+4013.10.00,00J,No.,"Of a kind used on motor cars (including station wagons and racing cars),",,
+,,,buses or lorries,Free,Free
+4013.20.00,10K,No.,Of a kind used on bicycles,Free,Free
+4013.90.00,00H,No.,Other,Free,Free
+40.14,,,"Hygienic or pharmaceutical articles (including teats), of vulcanised",,
+,,,"rubber other than hard rubber, with or without fittings of hard",,
+,,,rubber:,,
+4014.10.00,10D,Hd,Sheath contraceptives,Free,Free
+4014.9,,,Other:,,
+4014.90.01,00B,No.,Hot-water bottles,Free,Free
+4014.90.09,00C,No.,Teats,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+4014.90.11,00H,No.,Urinals designed for wear,Free,Free
+4014.90.19,00J,No.,Other,Free,Free
+40.15,,,"Articles of apparel and clothing accessories (including gloves, mittens",,
+,,,"and mitts), for all purposes, of vulcanised rubber other than hard",,
+,,,rubber:,,
+,,,"Gloves, mittens and mitts:",,
+4015.12.00,00D,pr,"Of a kind used for medical, surgical, dental or veterinary purposes",Free,Free
+4015.19,,,Other:,,
+4015.19.01,00B,pr,Household,Free,Free
+4015.19.09,,,Other,Free,Free
+,10L,pr,"Of types suited for industrial, scientific or similar purposes",,
+,90J,pr,Other,,
+4015.90.00,00D,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+40.16,,,Other articles of vulcanised rubber other than hard rubber:,,
+,,,Of cellular rubber:,,
+4016.10.01,00K,. .,Moulded rubber mats and mats of non-rectangular shape made by,,
+,,,cutting from the piece,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4016.10.09,00L,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,,,Other:,,
+4016.91,,,Floor coverings and mats:,,
+4016.91.01,00C,. .,Moulded rubber mats and mats of non-rectangular shape made by,,
+,,,cutting from the piece,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4016.91.09,00D,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4016.92.00,00A,. .,Erasers,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4016.93.00,00F,. .,"Gaskets, washers and other seals",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4016.94.00,00L,. .,"Boat or dock fenders, whether or not inflatable",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+4016.95.00,00E,. .,Other inflatable articles,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 4
+,,,,,1/2025 3.7
+4016.99,,,Other:,,
+4016.99.01,,,Rubber bands; date and other stamp type; paste applicators and other,,
+,,,articles of stationery,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01H,. .,Unmounted characters for use with goods falling,,
+,,,within heading 96.11,,
+,09C,. .,Rubber bands,,
+,19L,. .,Other,,
+,,,Other articles of vulcanised rubber other than hard rubbercontinued,,
+,,,Othercontinued,,
+,,,Othercontinued,,
+4016.99.09,00L,. .,Milking-machine parts,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4016.99.11,00E,. .,Parts and accessories of goods falling within heading 86.07,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4016.99.19,00F,. .,Parts and accessories of goods falling within heading 86.08,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Parts and accessories of motor vehicles of headings 87.01 to 87.05:,,
+,,,"Components for use in the assembly, completion or manufacture of",,
+,,,"motor vehicles in accordance with Section 14 of this Act, as may",,
+,,,be determined by the Minister:,,
+4016.99.22,00G,No.,"For the passenger motor vehicles of heading 87.03, and other",,
+,,,"vehicles of heading 87.04 of a g.v.w. not exceeding 3,500 kg",10,Free
+,,,,,*See Below
+,,,,,CA 3.33
+,,,,,RCEP 10
+,,,,,1/2025 10
+4016.99.25,00F,No.,"For the vehicles of headings 87.02 and 87.05, and road tractors",,
+,,,of heading 87.01 and vehicles of heading 87.04 of a g.v.w.,,
+,,,"exceeding 3,500 kg but not exceeding 10,500 kg",5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4016.99.29,00A,No.,"For other vehicles exceeding 10,500 kg",Free,Free
+,,,Other:,,
+4016.99.31,00F,No.,Suspension shock absorbers,Free,Free
+4016.99.39,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01E,No.,Bumpers and parts thereof,,
+,09L,No.,Steering wheels,,
+,11B,No.,Moulded rubber mudflaps,,
+,19H,No.,Other,,
+,,,Parts and accessories of goods falling within heading 87.09:,,
+4016.99.41,00A,. .,For tractors of the type used on railway station platforms,Free,Free
+4016.99.49,00B,. .,Other,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,LDC Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4016.99.51,00G,. .,Parts and accessories of goods falling within heading 87.10,Free,Free
+4016.99.59,00H,. .,Parts and accessories of goods falling within heading 87.11,Free,Free
+4016.99.61,00B,. .,Parts and accessories of goods falling within heading 87.12,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4016.99.69,00C,. .,Parts and accessories of goods falling within heading 87.13,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+4016.99.71,00H,. .,Parts and accessories of goods falling within heading 87.15,5,Free
+,,,,,*See Below
+,,,,,CA Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,,,Other articles of vulcanised rubber other than hard rubbercontinued,,
+,,,Othercontinued,,
+,,,Othercontinued,,
+4016.99.79,00J,. .,Parts and accessories of goods falling within heading 87.16,The rate applicable,
+,,,,to the vehicles for,
+,,,,which the parts have,
+,,,,been designed,
+4016.99.81,00C,. .,Parts and accessories of goods falling within headings 88.01 to 88.05,Free Free,
+4016.99.99,,,Other,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,,,,RCEP 3.5,
+,,,,1/2025 3,
+,01H,. .,"Stoppers, plain unornamental, for containers of a kind commonly",,
+,,,used for the conveyance or packing of goods,,
+,09C,. .,"Articles of a kind used on machinery, mechanical or electrical",,
+,,,appliances of Chapters 84 and 85 or goods of Chapter 90,,
+,29H,. .,Other,,
+40.17,,,,,
+4017,,,"Hard rubber (for example, ebonite) in all forms, including waste and",,
+,,,scrap; articles of hard rubber:,,
+4017.00.01,00D,. .,"Hard rubber (for example, ebonite) in all forms, including waste and scrap",Free Free,
+4017.00.09,,,Articles of hard rubber,5 Free,
+,,,,*See Below,
+,,,,CA Free,
+,01C,. .,"Stoppers, plain unornamental, for containers of a kind commonly used",,
+,,,for the conveyance or packing of goods,,
+,09J,. .,Urinals,,
+,19F,. .,Other,,

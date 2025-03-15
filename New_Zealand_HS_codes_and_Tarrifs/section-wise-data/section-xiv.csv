@@ -1,0 +1,295 @@
+Number,Code,Unit,Goods,Normal Tariff,Preferential Tarrif
+,,,I.- NATURAL OR CULTURED PEARLS AND PRECIOUS OR,,
+,,,SEMI-PRECIOUS STONES,,
+71.01,,,"Pearls, natural or cultured, whether or not worked or graded but not",,
+,,,"strung, mounted or set; pearls, natural or cultured, temporarily",,
+,,,strung for convenience of transport:,,
+7101.1,,,Natural pearls:,,
+7101.10.10,00C,.,Graded pearls temporarily strung for the convenience of transport,5,Free
+,,,,,*See Below
+,,,,,CA 2
+7101.10.90,00G,.,Other,Free,Free
+,,,Cultured pearls:,,
+7101.21.00,00F,.,Unworked,Free,Free
+7101.22,,,Worked:,,
+7101.22.10,00F,.,Graded pearls temporarily strung for the convenience of transport,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7101.22.90,00K,.,Other,Free,Free
+71.02,,,"Diamonds, whether or not worked, but not mounted or set:",,
+7102.10.00,00F,.,Unsorted,Free,Free
+,,,Industrial:,,
+7102.21.00,00D,.,"Unworked or simply sawn, cleaved or bruted",Free,Free
+7102.29.00,00L,.,Other,Free,Free
+,,,Non-industrial:,,
+7102.31.00,00H,.,"Unworked or simply sawn, cleaved or bruted",Free,Free
+7102.39.00,00D,.,Other,Free,Free
+71.03,,,"Precious stones (other than diamonds) and semi-precious stones,",,
+,,,"whether or not worked or graded but not strung, mounted or set;",,
+,,,ungraded precious stones (other than diamonds) and semi-precious,,
+,,,"stones, temporarily strung for convenience of transport:",,
+7103.10.00,,,Unworked or simply sawn or roughly shaped,Free,Free
+,01B,.,"Greenstone, amazonite, bowenite, chloromelanite, jade and nephrite",,
+,09H,.,Other,,
+,,,Otherwise worked:,,
+7103.91.00,00H,.,"Rubies, sapphires and emeralds",Free,Free
+7103.99,,,Other:,,
+7103.99.01,00L,.,"Greenstone, amazonite, bowenite, chloromelanite, jade and nephrite",5,Free
+,,,,,*See Below
+,,,,,RCEP 5
+,,,,,1/2025 5
+7103.99.09,00A,.,Other,Free,Free
+71.04,,,"Synthetic or reconstructed precious or semi-precious stones, whether",,
+,,,"or not worked or graded but not strung, mounted or set; ungraded",,
+,,,"synthetic or reconstructed precious or semi-precious stones,",,
+,,,temporarily strung for convenience of transport:,,
+7104.10.00,00B,.,Piezo-electric quartz,Free,Free
+,,,"Other, unworked or simply sawn or roughly shaped:",,
+7104.21.00,00L,.,Diamonds,Free,Free
+7104.29.00,00G,.,Other,Free,Free
+,,,Other:,,
+7104.91.00,00F,.,Diamonds,Free,Free
+7104.99.00,00B,.,Other,Free,Free
+71.05,,,Dust and powder of natural or synthetic precious or semi-precious,,
+,,,stones:,,
+7105.10.00,00L,.,Of diamonds,Free,Free
+7105.90.00,00K,.,Other,Free,Free
+,,,II.- PRECIOUS METALS AND METALS CLAD WITH PRECIOUS,,
+,,,METAL,,
+71.06,,,"Silver (including silver plated with gold or platinum), unwrought or in",,
+,,,"semi-manufactured forms, or in powder form:",,
+7106.10.00,00J,g,Powder,Free,Free
+,,,Other:,,
+7106.91.00,,,Unwrought,Free,Free
+,01L,g,Being silver of a fineness of not less than 99.9 %,,
+,09F,kg,Other,,
+7106.92.00,,,Semi-manufactured,Free,Free
+,,,Being silver of a fineness of not less than 99.9 %:,,
+,01E,g,"Bars and rods, foil, leaf, plate, sheet, strip and wire",,
+,09L,g,Other,,
+,,,Other:,,
+,,," Bars and rods, strip and wire:",,
+,11B,kg,Welding,,
+,19H,kg,Other,,
+,21K,kg,"Foil, leaf, plate and sheet",,
+,29E,g,Other,,
+71.07,,,,,
+7107.00.00,00C,g,"Base metals clad with silver, not further worked than",,
+,,,semi-manufactured,Free,Free
+71.08,,,Gold (including gold plated with platinum) unwrought or in,,
+,,,"semi-manufactured forms, or in powder form:",,
+,,,Non-monetary:,,
+7108.11.00,00K,g,Powder,Free,Free
+7108.12.00,,,Other unwrought forms,Free,Free
+,01B,g,Being gold of a fineness of not less than 99.5 %,,
+,09H,g,Other,,
+7108.13.00,,,Other semi-manufactured forms,Free,Free
+,,,Being gold of a fineness of not less than 99.5 %:,,
+,01G,g,"Tubes, pipes and hollow bars",,
+,09B,g,Leaf and foil,,
+,19K,g,Other,,
+,,,Other:,,
+,21A,g," Tubes, pipes and hollow bars",,
+,29G,g,Leaf and foil,,
+,39D,g,Other,,
+7108.20.00,,,Monetary,Free,Free
+,01G,g,Being gold of a fineness of not less than 99.5 %,,
+,09B,g,Other,,
+71.09,,,,,
+7109.00.00,00K,.,"Base metals or silver, clad with gold, not further worked than",,
+,,,semi-manufactured,Free,Free
+71.1,,,"Platinum, unwrought or in semi-manufactured forms, or in powder",,
+,,,form:,,
+,,,Platinum:,,
+7110.11.00,,,Unwrought or in powder form,Free,Free
+,01K,g,Being platinum of a fineness of not less than 99 %,,
+,09E,g,Other,,
+7110.19.00,,,Other,Free,Free
+,,,Being platinum of a fineness of not less than 99 %,,
+,01F,g,"Bars and rods, foil, leaf, plate, sheet, strip and wire",,
+,09A,g,Other,,
+,,,Other:,,
+,11C,g,"Bars and rods, foil, leaf, plate, sheet, strip and wire",,
+,19J,g,Other,,
+,,,Palladium:,,
+7110.21.00,00E,g,Unwrought or in powder form,Free,Free
+7110.29.00,,,Other,Free,Free
+,01K,g,"Bars and rods, foil, leaf, plate, sheet, strip and wire",,
+,09E,g,Other,,
+,,,"Platinum, unwrought or in semi-manufactured forms, etc.continued",,
+,,,Rhodium:,,
+7110.31.00,00J,g,Unwrought or in powder form,Free,Free
+7110.39.00,,,Other,Free,Free
+,01C,g,"Bars and rods, foil, leaf, plate, sheet, strip and wire",,
+,09J,g,Other,,
+,,,"Iridium, osmium and ruthenium:",,
+7110.41.00,00B,g,Unwrought or in powder form,Free,Free
+7110.49.00,,,Other,Free,Free
+,01G,g,"Bars and rods, foil, leaf, plate, sheet, strip and wire",,
+,09B,g,Other,,
+71.11,,,,,
+7111.00.00,00A,.,"Base metals, silver or gold, clad with platinum, not further worked",,
+,,,than semi-manufactured,Free,Free
+71.12,,,Waste and scrap of precious metal or metal clad with precious metal;,,
+,,,other waste and scrap containing precious metal or precious metal,,
+,,,"compounds, of a kind used principally for the recovery of precious",,
+,,,metal other than goods of heading 85.49:,,
+7112.30.00,00L,.,Ash containing precious metal or precious metal compounds,Free,Free
+,,,Other:,,
+7112.91.00,00G,.,"Of gold, including metal clad with gold but excluding sweepings",,
+,,,containing other precious metals,Free,Free
+7112.92.00,00A,.,"Of platinum, including metal clad with platinum but excluding",,
+,,,sweepings containing other precious metals,Free,Free
+7112.99.00,00C,.,Other,Free,Free
+,,,"III.- JEWELLERY, GOLDSMITHS AND SILVERSMITHS WARES",,
+,,,AND OTHER ARTICLES,,
+71.13,,,"Articles of jewellery and parts thereof, of precious metal or of metal",,
+,,,clad with precious metal:,,
+,,,Of precious metal whether or not plated or clad with precious metal:,,
+7113.11,,,"Of silver, whether or not plated or clad with other precious metal:",,
+7113.11.01,00B,.,"Cigarette, cigar, tobacco and tobacco pipe cases and parts thereof,",,
+,,,other than articles incorporating greenstone,Free,Free
+7113.11.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01A,.,Incorporating jade,,
+,09G,.,Other,,
+7113.19,,,"Of other precious metal, whether or not plated or clad with precious",,
+,,,metal:,,
+7113.19.01,00J,.,"Cigarette, cigar, tobacco and tobacco pipe cases and parts thereof,",,
+,,,other than articles incorporating greenstone,Free,Free
+7113.19.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01H,.,Incorporating jade,,
+,09C,.,Other,,
+7113.2,,,Of base metal clad with precious metal:,,
+7113.20.01,00A,.,"Cigarette, cigar, tobacco and tobacco pipe cases and parts thereof,",,
+,,,other than articles incorporating greenstone,Free,Free
+7113.20.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,01L,.,Incorporating jade,,
+,09F,.,Other,,
+71.14,,,"Articles of goldsmiths or silversmiths wares and parts thereof, of",,
+,,,precious metal or of metal clad with precious metal:,,
+,,,Of precious metal whether or not plated or clad with precious metal:,,
+7114.11,,,"Of silver, whether or not plated or clad with other precious metal:",,
+7114.11.01,,,"Jewellery, cigar and cigarette boxes, consisting of, or incorporating,",,
+,,,"pearls, precious or semi-precious, natural, synthetic or reconstructed",,
+,,,"stones, other than those articles incorporating greenstone; knives,",,
+,,,"forks, and spoons and parts thereof other than those incorporating",,
+,,,greenstone,Free,Free
+,01J,.,"Knives, forks and spoons and parts thereof, other than those",,
+,,,incorporating greenstone,,
+,09D,.,Other,,
+7114.11.09,00A,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7114.19,,,"Of other precious metal, whether or not plated or clad with precious",,
+,,,metal:,,
+7114.19.01,,,"Jewellery, cigar and cigarette boxes, consisting of, or incorporating,",,
+,,,"pearls, precious or semi-precious, natural, synthetic or reconstructed",,
+,,,"stones, other than those articles incorporating greenstone; knives,",,
+,,,"forks, and spoons and parts thereof other than those incorporating",,
+,,,greenstone,Free,Free
+,01E,.,"Knives, forks and spoons and parts thereof, other than those",,
+,,,incorporating greenstone,,
+,09L,.,Other,,
+7114.19.09,00H,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 5
+,,,,,1/2025 5
+7114.2,,,Of base metal clad with precious metal:,,
+7114.20.01,,,"Jewellery, cigar and cigarette boxes, consisting of, or incorporating,",,
+,,,"pearls, precious or semi-precious, natural, synthetic or reconstructed",,
+,,,"stones, other than those articles incorporating greenstone; knives,",,
+,,,"forks, and spoons and parts thereof other than those incorporating",,
+,,,greenstone,Free,Free
+,01H,.,"Knives, forks and spoons and parts thereof, other than those",,
+,,,incorporating greenstone,,
+,09C,.,Other,,
+7114.20.09,00L,.,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 5
+,,,,,1/2025 5
+71.15,,,Other articles of precious metal or of metal clad with precious metal:,,
+7115.10.00,00H,.,"Catalysts in the form of wire cloth or grill, of platinum",Free,Free
+7115.9,,,Other:,,
+7115.90.01,00C,.,"Retorts, dishes and other apparatus for technical or laboratory use",Free,Free
+7115.90.09,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01B,.,"Incorporating greenstone, amazonite, bowenite, chloromelanite, jade",,
+,,,or nephrite,,
+,09H,.,Other,,
+71.16,,,"Articles of natural or cultured pearls, precious or semi-precious stones",,
+,,,"(natural, synthetic or reconstructed):",,
+7116.10.00,00F,.,Of natural or cultured pearls,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7116.2,,,"Of precious or semi-precious stones (natural, synthetic or reconstructed):",,
+7116.20.01,00F,.,Graded and temporarily strung for convenience of transport,Free,Free
+,,,Other:,,
+7116.20.11,00A,.,"Cameos, unmounted",Free,Free
+7116.20.19,00B,.,Handles for cutlery,Free,Free
+7116.20.29,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01F,.,Incorporating jade,,
+,09A,.,Other,,
+71.17,,,Imitation jewellery:,,
+,,,"Of base metal, whether or not plated with precious metal:",,
+7117.11.00,00J,.,Cuff-links and studs,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+7117.19.00,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,CPT Free
+,,,,,RCEP 5
+,,,,,1/2025 5
+,01C,.,In a form suitable for sale without further processing,,
+,09J,.,Other,,
+7117.9,,,Other:,,
+7117.90.01,00K,.,Cuff-links and studs,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,Other:,,
+7117.90.11,00E,.,Ornaments for footwear,Free,Free
+7117.90.19,,,Other,5,Free
+,,,,,*See Below
+,,,,,CA 2
+,,,,,RCEP 3.5
+,,,,,1/2025 3
+,01D,.,In a form suitable for sale without further processing,,
+,09K,.,Other,,
+71.18,,,Coin:,,
+7118.10.00,00B,.,"Coin (other than gold coin), not being legal tender",Free,Free
+7118.90.00,,,Other,Free,Free
+,01K,.,Gold being fine metal of a fineness of not less than 99.5 %,,
+,09E,.,Other gold,,
+,,,  Other:,,
+,,,Being legal tender in New Zealand:,,
+,11G,.,Bronze,,
+,19B,.,Other,,
+,29K,.,Not being legal tender in New Zealand,,
