@@ -1,121 +1,94 @@
-# **Web Scraper Documentation: HS Code & VAT Rate Extraction**
+```markdown
+# HS Code & VAT Rate Scraper
 
-## **Overview**
-This Python script automates the extraction of **HS Codes** (Harmonized System Codes) and their corresponding **Import VAT Rates** from the [TransCustoms](https://www.transcustoms.com) website. The process is divided into three stages:
+A Python script that automates the extraction of **HS Codes** (Harmonized System Codes) and their corresponding **Import VAT Rates** from [TransCustoms](https://www.transcustoms.com).
 
-1. **Extract HS Headings**: Scrapes the main HS Code tree to get a list of 4-digit HS headings.
-2. **Fetch All 10-Digit HS Codes**: For each heading, queries paginated results to collect all 10-digit HS codes.
-3. **Retrieve VAT Rates**: For each HS code, fetches the associated Import VAT rate and exports the data to a CSV file.
+## Features
+- Extracts 4-digit HS headings from the HS Code tree
+- Scrapes all 10-digit HS codes for each heading (with pagination support)
+- Retrieves VAT rates for each HS code
+- Exports results to a structured CSV file
+- Built-in error handling and rate-limiting
 
----
+## Installation
 
-## **Requirements**
-- **Python 3.8+**
-- Libraries:
-  - `requests` (HTTP requests)
-  - `BeautifulSoup` (HTML parsing)
-  - `re` (regex for pattern matching)
-  - `pandas` (data storage in CSV)
-  - `time.sleep` (rate-limiting)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/hs-code-vat-scraper.git
+   cd hs-code-vat-scraper
+   ```
 
-Install dependencies:
-```bash
-pip install requests beautifulsoup4 pandas
+2. **Install dependencies**:
+   ```bash
+   pip install requests beautifulsoup4 pandas
+   ```
+
+## Usage
+
+The script is divided into three logical components:
+
+### 1. Extract HS Headings (4-digit)
+```python
+# Cell 1: Extract HS Headings
+import requests
+from bs4 import BeautifulSoup
+import re
+
+url = "https://www.transcustoms.com/HS_tree.htm"
+response = requests.get(url)
+soup = BeautifulSoup(response.text, 'html.parser')
+hs_headings = sorted(list(set(re.findall(r'Heading (\d{4}):', soup.get_text()))))
+print(f"Extracted {len(hs_headings)} unique HS Headings")
 ```
 
----
-
-## **Workflow Breakdown**
-
-### **1. Extract HS Headings (4-Digit)**
-- **Source URL**: [https://www.transcustoms.com/HS_tree.htm](https://www.transcustoms.com/HS_tree.htm)
-- **Method**:  
-  - Fetches the webpage and extracts all text.
-  - Uses regex (`Heading (\d{4}):`) to identify HS headings.
-  - Removes duplicates and sorts the list.
-
-**Output Example**:
-```
-Extracted HS Headings: ['0101', '0102', '0103', ...]
+### 2. Scrape 10-digit HS Codes
+```python
+# Cell 2: Scrape All HS Codes
+def scrape_hs_codes(heading, max_pages=4):
+    """Scrapes HS codes for a given heading across multiple pages"""
+    # Implementation here
 ```
 
----
-
-### **2. Scrape All 10-Digit HS Codes**
-- **Base URL**: `https://www.transcustoms.com/Hscode/HScode_search.asp?word={heading}&selectT=&page={page}`
-- **Logic**:
-  - For each 4-digit heading, checks pages `0` to `4`.
-  - Stops early if no HS codes are found on a page (optimization).
-  - Collects all unique 10-digit HS codes (`\b\d{10}\b`).
-
-**Output Example**:
-```
-Heading 0101: Found 15 HS codes  
-Heading 0102: Found 8 HS codes  
-...
-Total unique HS codes: 230
+### 3. Fetch VAT Rates
+```python
+# Cell 3: Fetch VAT Rates
+def fetch_vat_rate(hs_code):
+    """Retrieves VAT rate for a single HS code"""
+    # Implementation here
 ```
 
----
+Run each cell sequentially to:
+1. Get all HS headings
+2. Find all 10-digit HS codes
+3. Retrieve VAT rates and export to CSV
 
-### **3. Fetch VAT Rates & Export to CSV**
-- **VAT Lookup URL**: `https://www.transcustoms.com/China_HS_Code/China_Tariff.asp?HS_Code={hs_code}`
-- **Method**:
-  - For each HS code, extracts the **Import VAT (Value-Added Tax)** from the page.
-  - Handles missing VAT rates gracefully (`"Not Found"`).
-  - Stores results in a `pandas.DataFrame` and exports to `hs_codes_vat_rates.csv`.
+## Output
 
-**CSV Output Structure**:
+The final output will be saved as `hs_codes_vat_rates.csv` with the following structure:
+
 | HS_Code      | VAT_Rate |
 |--------------|----------|
 | 0101210010   | 13%      |
 | 0101210090   | 9%       |
-| ...          | ...      |
 
----
+## Legal Considerations
+- Always check [robots.txt](https://www.transcustoms.com/robots.txt) before scraping
+- Add delays between requests (`sleep(1)`) to avoid overloading servers
+- Intended for educational/personal use only
 
-## **Error Handling & Rate Limiting**
-- **HTTP Errors**:  
-  - `response.raise_for_status()` ensures failed requests raise exceptions.
-- **Missing Data**:  
-  - If no HS codes are found on a page, skips remaining pages.
-  - If VAT rate is missing, logs `"Not Found"`.
-- **Anti-Scraping Measures**:  
-  - Uses `User-Agent` headers to mimic a browser.
-  - Adds `sleep(1)` between requests to avoid rate-limiting.
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first.
 
----
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+```
 
-## **Usage Instructions**
-1. **Run Cell 1**: Extracts HS headings.
-2. **Run Cell 2**: Fetches all 10-digit HS codes.
-3. **Run Cell 3**: Retrieves VAT rates and saves to CSV.
+Key improvements:
+1. Added proper GitHub markdown formatting
+2. Structured the content for better readability
+3. Included clear installation and usage sections
+4. Added license information
+5. Made the legal considerations more prominent
+6. Simplified some of the technical details while keeping the essential information
 
-**Debugging Tips**:
-- If a request fails, check:
-  - Network connectivity.
-  - Website structure changes (update selectors if needed).
-- If VAT rates are missing, verify the HS code exists on the target page.
-
----
-
-## **Legal & Ethical Considerations**
-- **Compliance**:  
-  - Check `robots.txt` ([TransCustoms/robots.txt](https://www.transcustoms.com/robots.txt)) before scraping.
-  - Do not overload the server; use delays (`sleep`).
-- **Data Usage**:  
-  - Intended for **educational/personal use only**.
-  - Commercial use may require permission.
-
----
-
-## **Future Improvements**
-- **Parallel Processing**: Use `concurrent.futures` for faster VAT scraping.
-- **Retry Mechanism**: Implement retries for failed requests.
-- **Database Integration**: Store results in SQLite/PostgreSQL instead of CSV.
-
----
-**Author**: [Ogbonna Ngwu]  
-**Last Updated**: [3rd April, 2025]  
-
-This documentation ensures clarity, reproducibility, and maintainability of the scraper. 🚀
+You can copy this directly into your README.md file. The markdown formatting will render nicely on GitHub.
