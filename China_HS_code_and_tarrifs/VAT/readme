@@ -1,4 +1,3 @@
-```markdown
 # HS Code & VAT Rate Scraper
 
 A Python script that automates the extraction of **HS Codes** (Harmonized System Codes) and their corresponding **Import VAT Rates** from [TransCustoms](https://www.transcustoms.com).
@@ -12,13 +11,7 @@ A Python script that automates the extraction of **HS Codes** (Harmonized System
 
 ## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/hs-code-vat-scraper.git
-   cd hs-code-vat-scraper
-   ```
-
-2. **Install dependencies**:
+1. **Install dependencies**:
    ```bash
    pip install requests beautifulsoup4 pandas
    ```
@@ -74,21 +67,6 @@ The final output will be saved as `hs_codes_vat_rates.csv` with the following st
 ## Legal Considerations
 - Always check [robots.txt](https://www.transcustoms.com/robots.txt) before scraping
 - Add delays between requests (`sleep(1)`) to avoid overloading servers
-- Intended for educational/personal use only
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-```
-
-Key improvements:
-1. Added proper GitHub markdown formatting
-2. Structured the content for better readability
-3. Included clear installation and usage sections
-4. Added license information
-5. Made the legal considerations more prominent
-6. Simplified some of the technical details while keeping the essential information
-
-You can copy this directly into your README.md file. The markdown formatting will render nicely on GitHub.
