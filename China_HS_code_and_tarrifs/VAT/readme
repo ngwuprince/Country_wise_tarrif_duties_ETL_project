@@ -7,66 +7,54 @@ A Python script that automates the extraction of **HS Codes** (Harmonized System
 - Scrapes all 10-digit HS codes for each heading (with pagination support)
 - Retrieves VAT rates for each HS code
 - Exports results to a structured CSV file
-- Built-in error handling and rate-limiting
 
-## Installation
 
-1. **Install dependencies**:
-   ```bash
+- Install dependencies:
+   
    pip install requests beautifulsoup4 pandas
-   ```
 
-## Usage
+Below is a detailed explanation of the code design:
 
-The script is divided into three logical components:
+1. Imports and Setup:
+    - `requests`: Used for making HTTP requests to fetch web pages.
+    - `BeautifulSoup`: Used for parsing HTML content.
+    - `re`: Used for regular expressions to find specific patterns in text.
+    - `sleep`: Used to delay execution to avoid rate-limiting (commented out).
+    - `pandas`: Used for data manipulation and exporting data to CSV.
 
-### 1. Extract HS Headings (4-digit)
-```python
-# Cell 1: Extract HS Headings
-import requests
-from bs4 import BeautifulSoup
-import re
+2. Fetching and Parsing the Initial Web Page:
+    
+    - The code fetches the webpage containing HS headings and parses the HTML.
+    - It extracts all text from the page and uses a regular expression to find patterns like "Heading XXXX".
+    - The HS headings are deduplicated and sorted.
 
-url = "https://www.transcustoms.com/HS_tree.htm"
-response = requests.get(url)
-soup = BeautifulSoup(response.text, 'html.parser')
-hs_headings = sorted(list(set(re.findall(r'Heading (\d{4}):', soup.get_text()))))
-print(f"Extracted {len(hs_headings)} unique HS Headings")
-```
+3. Function to Scrape HS Codes for Each Heading:
 
-### 2. Scrape 10-digit HS Codes
-```python
-# Cell 2: Scrape All HS Codes
-def scrape_hs_codes(heading, max_pages=4):
-    """Scrapes HS codes for a given heading across multiple pages"""
-    # Implementation here
-```
+    - This function scrapes HS codes for a given heading across multiple pages (up to 4).
+    - It constructs the URL for each page, fetches it, and parses the HTML.
+    - It uses a regular expression to find 10-digit HS codes and adds them to a set to avoid duplicates.
 
-### 3. Fetch VAT Rates
-```python
-# Cell 3: Fetch VAT Rates
-def fetch_vat_rate(hs_code):
-    """Retrieves VAT rate for a single HS code"""
-    # Implementation here
-```
+4. Scraping All HS Codes for Each Heading:
+    - This loop iterates over each unique HS heading, scrapes HS codes, and prints the results.
+    - It accumulates all HS codes and deduplicates them.
 
-Run each cell sequentially to:
-1. Get all HS headings
-2. Find all 10-digit HS codes
-3. Retrieve VAT rates and export to CSV
+5. Function to Fetch VAT Rate for a Single HS Code:
+    - This function fetches the VAT rate for a single HS code.
+    - It constructs the URL for the HS code, fetches it, and parses the HTML.
+    - It searches for a specific label ("Import VAT (Value-Added Tax)") and retrieves the corresponding VAT rate.
 
-## Output
+6. Scraping VAT Rates for All HS Codes:
+    - This loop iterates over each unique HS code, fetches the VAT rate, and prints the results.
+    - It accumulates the results in a list of dictionaries.
 
-The final output will be saved as `hs_codes_vat_rates.csv` with the following structure:
+7. **Exporting Results to CSV**:
+    - The results are converted to a pandas DataFrame and exported to a CSV file.
 
-| HS_Code      | VAT_Rate |
-|--------------|----------|
-| 0101210010   | 13%      |
-| 0101210090   | 9%       |
+### Summary
+The code's design involves:
+- Fetching and parsing initial data to get HS headings.
+- Scraping detailed HS codes for each heading.
+- Fetching VAT rates for each HS code.
+- Collecting and exporting the results to a CSV file.
 
-## Legal Considerations
-- Always check [robots.txt](https://www.transcustoms.com/robots.txt) before scraping
-- Add delays between requests (`sleep(1)`) to avoid overloading servers
 
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first.
