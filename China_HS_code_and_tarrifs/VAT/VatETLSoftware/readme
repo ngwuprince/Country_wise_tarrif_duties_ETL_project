@@ -1,1 +1,100 @@
+# HS Code VAT Rate Scraper
 
+A robust Python solution for scraping VAT rates from the Chinese Customs website using Playwright, with automatic resumption capabilities and real-time progress tracking.
+
+## Features
+
+- **Automated VAT Rate Extraction**: Scrapes VAT rates from [Chinese Customs website](https://online.customs.gov.cn/ociswebserver/pages/jckspsl/)
+- **Resume Capability**: Saves progress in real-time and resumes from where it left off
+- **Error Handling**: Comprehensive error logging and screenshot capture for debugging
+- **Multi-Browser Support**: Works with both Chromium and Firefox
+- **CSV Input/Output**: Processes HS codes from CSV and outputs results in CSV format
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hs-code-vat-scraper.git
+   cd hs-code-vat-scraper
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install playwright pandas nest_asyncio
+   playwright install
+   ```
+
+## Usage
+
+1. Prepare your input CSV file (`clean_V7_1_Rate_without_footnotes.csv`) with HS codes in a column named "HS_CODE"
+
+2. Run the scraper:
+   ```bash
+   python hs_code_vat_scraper.py
+   ```
+
+3. Results will be saved to:
+   - `tax_id_VAT.json` (real-time updates)
+   - `clean_V7_1_1_with_vat.csv` (final output)
+   - `scrape_progress.log` (detailed execution log)
+
+## Configuration
+
+Modify these constants at the top of the script if needed:
+```python
+RESULTS_FILE = "tax_id_VAT.json"  # JSON file for real-time results
+LOG_FILE = "scrape_progress.log"  # Log file path
+INPUT_CSV = "clean_V7_1_Rate_without_footnotes.csv"  # Input file
+OUTPUT_CSV = "clean_V7_1_1_with_vat.csv"  # Output file
+```
+
+## How It Works
+
+1. **Input Processing**:
+   - Reads HS codes from CSV
+   - Extracts valid tax IDs using regex pattern matching
+
+2. **Scraping Process**:
+   - For each tax ID:
+     - Submits query to customs website
+     - Processes results table (handling multiple results per query)
+     - Navigates to detail pages for VAT rate extraction
+   - Saves results after each successful extraction
+
+3. **Resumption Logic**:
+   - On restart, checks existing results file
+   - Skips already processed tax IDs
+   - Continues from last successful extraction
+
+4. **Error Handling**:
+   - Captures screenshots of failed operations
+   - Logs detailed error information
+   - Preserves valid results even if some queries fail
+
+## Output Format
+
+The final output CSV contains two columns:
+- `Tax_ID`: The discovered tax ID (may differ from input HS code)
+- `VAT_Rate`: The extracted VAT rate or error message
+
+## Troubleshooting
+
+Common issues and solutions:
+
+1. **Browser Launch Failures**:
+   - Ensure Playwright browsers are installed: `playwright install`
+   - Try running in headful mode for debugging (modify `headless=True` to `False`)
+
+2. **Website Changes**:
+   - If selectors stop working, update the CSS selectors in the script
+   - Check screenshots in error cases for page structure changes
+
+3. **Rate Limiting**:
+   - Increase the delay between requests (modify `await asyncio.sleep(2)`)
+
+
+## Author
+
+**Ogbonna Prince**  
+Email: ngwuogbonnaprince@gmail.com  
+GitHub: https://github.com/ngwuprince 
