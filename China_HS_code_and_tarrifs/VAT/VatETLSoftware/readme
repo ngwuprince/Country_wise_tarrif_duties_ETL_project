@@ -4,11 +4,11 @@ A robust Python solution for scraping VAT rates from the Chinese Customs website
 
 ## Features
 
-- **Automated VAT Rate Extraction**: Scrapes VAT rates from [Chinese Customs website](https://online.customs.gov.cn/ociswebserver/pages/jckspsl/)
-- **Resume Capability**: Saves progress in real-time and resumes from where it left off
-- **Error Handling**: Comprehensive error logging and screenshot capture for debugging
-- **Multi-Browser Support**: Works with both Chromium and Firefox
-- **CSV Input/Output**: Processes HS codes from CSV and outputs results in CSV format
+- Automated VAT Rate Extraction: Scrapes VAT rates from [Chinese Customs website](https://online.customs.gov.cn/ociswebserver/pages/jckspsl/)
+- Resume Capability: Saves progress in real-time and resumes from where it left off
+- Error Handling: Comprehensive error logging and screenshot capture for debugging
+- Multi-Browser Support: Works with both Chromium and Firefox
+- CSV Input/Output: Processes HS codes from CSV and outputs results in CSV format
 
 ## Installation
 
@@ -50,23 +50,23 @@ OUTPUT_CSV = "clean_V7_1_1_with_vat.csv"  # Output file
 
 ## How It Works
 
-1. **Input Processing**:
+1. Input Processing:
    - Reads HS codes from CSV
    - Extracts valid tax IDs using regex pattern matching
 
-2. **Scraping Process**:
+2. Scraping Process:
    - For each tax ID:
      - Submits query to customs website
      - Processes results table (handling multiple results per query)
      - Navigates to detail pages for VAT rate extraction
    - Saves results after each successful extraction
 
-3. **Resumption Logic**:
+3. Resumption Logic:
    - On restart, checks existing results file
    - Skips already processed tax IDs
    - Continues from last successful extraction
 
-4. **Error Handling**:
+4. Error Handling:
    - Captures screenshots of failed operations
    - Logs detailed error information
    - Preserves valid results even if some queries fail
@@ -81,20 +81,20 @@ The final output CSV contains two columns:
 
 Common issues and solutions:
 
-1. **Browser Launch Failures**:
+1. Browser Launch Failures:
    - Ensure Playwright browsers are installed: `playwright install`
    - Try running in headful mode for debugging (modify `headless=True` to `False`)
 
-2. **Website Changes**:
+2. Website Changes:
    - If selectors stop working, update the CSS selectors in the script
    - Check screenshots in error cases for page structure changes
 
-3. **Rate Limiting**:
+3. Rate Limiting:
    - Increase the delay between requests (modify `await asyncio.sleep(2)`)
 
 
 ## Author
 
-**Ogbonna Prince**  
+Ogbonna Prince  
 Email: ngwuogbonnaprince@gmail.com  
 GitHub: https://github.com/ngwuprince 
